@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - career
-- cascadia-ship
+- ship
 - email
 - school
 contacts:

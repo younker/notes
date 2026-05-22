@@ -7,7 +7,7 @@ senders:
 - pkginfo@ups.com
 type: email-thread
 tags:
-- cascadia-ship
+- ship
 - email
 - motorhome
 - shopping-receipts

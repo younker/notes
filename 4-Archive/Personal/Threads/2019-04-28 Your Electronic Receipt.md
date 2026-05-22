@@ -8,7 +8,7 @@ senders:
 - HomeDepotReceipt@homedepot.com
 type: email-thread
 tags:
-- cascadia-ship
+- ship
 - email
 - finance
 - home-improvement

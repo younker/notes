@@ -1,15 +1,15 @@
 ---
 type: topic-hub
-tag: cascadia-ship
+tag: ship
 thread_count: 49
 contact_count: 5
 tags:
 - topic-hub
-- cascadia-ship
+- ship
 ---
-# Cascadia Ship
+# Ship
 
-Hub for `#cascadia-ship` — 49 threads, 5 contacts.
+Hub for `#ship` — 49 threads, 5 contacts.
 
 ## People
 - [[Cheri Thurston]]

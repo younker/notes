@@ -7,7 +7,7 @@ senders:
 - mike@cascadiaseniorliving.com
 type: email-thread
 tags:
-- cascadia-ship
+- ship
 - email
 - finance
 ---

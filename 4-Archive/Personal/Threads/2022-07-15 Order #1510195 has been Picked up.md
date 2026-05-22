@@ -7,7 +7,7 @@ senders:
 - notifications@ship.cars
 type: email-thread
 tags:
-- cascadia-ship
+- ship
 - email
 - vehicles
 ---

@@ -7,7 +7,7 @@ senders:
 - NoReply@AlliedElec.com
 type: email-thread
 tags:
-- cascadia-ship
+- ship
 - email
 - finance
 - insurance

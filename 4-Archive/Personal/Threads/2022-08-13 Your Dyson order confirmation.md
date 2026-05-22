@@ -7,7 +7,7 @@ senders:
 - questions@dyson.com
 type: email-thread
 tags:
-- cascadia-ship
+- ship
 - email
 - shopping-receipts
 ---

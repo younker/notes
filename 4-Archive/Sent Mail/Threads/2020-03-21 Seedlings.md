@@ -7,7 +7,7 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- cascadia-ship
+- ship
 - email
 - hunting-outdoors
 - shopping-receipts

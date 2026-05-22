@@ -7,7 +7,7 @@ senders:
 - bill.taylor@dnr.wa.gov
 type: email-thread
 tags:
-- cascadia-ship
+- ship
 - email
 - hunting-outdoors
 ---

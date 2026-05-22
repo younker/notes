@@ -8,7 +8,7 @@ senders:
 - truckbytruckinc@gmail.com
 type: email-thread
 tags:
-- cascadia-ship
+- ship
 - email
 - vehicles
 ---

@@ -7,7 +7,7 @@ senders:
 - liz.jones@tiffinmotorhomes.com
 type: email-thread
 tags:
-- cascadia-ship
+- ship
 - email
 - finance
 - motorhome
