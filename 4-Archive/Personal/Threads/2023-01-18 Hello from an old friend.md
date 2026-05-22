@@ -1,12 +1,15 @@
 ---
-subject: "Hello from an old friend"
+subject: Hello from an old friend
 message_count: 1
 first: 2023-01-18
 last: 2023-01-18
 senders:
-  - jroeth@gmail.com
+- jroeth@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jon Roeth]]'
 ---
 
 # Hello from an old friend

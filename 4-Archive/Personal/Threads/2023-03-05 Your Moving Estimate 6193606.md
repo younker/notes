@@ -1,13 +1,16 @@
 ---
-subject: "Your Moving Estimate 6193606"
+subject: Your Moving Estimate 6193606
 message_count: 3
 first: 2023-03-05
 last: 2023-03-28
 senders:
-  - dryccpcare@icloud.com
-  - richard@unitedregionsvanlines.com
+- dryccpcare@icloud.com
+- richard@unitedregionsvanlines.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Beth Younker]]'
 ---
 
 # Your Moving Estimate 6193606

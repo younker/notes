@@ -1,13 +1,16 @@
 ---
-subject: "Final 2020 K1 - Cascadia Holdings Yakima"
+subject: Final 2020 K1 - Cascadia Holdings Yakima
 message_count: 3
 first: 2021-07-27
 last: 2021-07-27
 senders:
-  - heathergoffinet@hotmail.com
-  - investor.relations@cascadiaseniorliving.com
+- heathergoffinet@hotmail.com
+- investor.relations@cascadiaseniorliving.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Final 2020 K1 - Cascadia Holdings Yakima

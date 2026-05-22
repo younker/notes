@@ -1,12 +1,15 @@
 ---
-subject: "The story behind It is Well with my Soul"
+subject: The story behind It is Well with my Soul
 message_count: 1
 first: 2024-09-25
 last: 2024-09-25
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # The story behind It is Well with my Soul

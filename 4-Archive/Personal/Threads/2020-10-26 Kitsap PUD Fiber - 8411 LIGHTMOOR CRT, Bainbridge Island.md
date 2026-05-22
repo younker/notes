@@ -1,12 +1,15 @@
 ---
-subject: "Kitsap PUD Fiber - 8411 LIGHTMOOR CRT, Bainbridge Island"
+subject: Kitsap PUD Fiber - 8411 LIGHTMOOR CRT, Bainbridge Island
 message_count: 1
 first: 2020-10-26
 last: 2020-10-26
 senders:
-  - vvalpaugh@aol.com
+- vvalpaugh@aol.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Vivian Alpaugh]]'
 ---
 
 # Kitsap PUD Fiber - 8411 LIGHTMOOR CRT, Bainbridge Island

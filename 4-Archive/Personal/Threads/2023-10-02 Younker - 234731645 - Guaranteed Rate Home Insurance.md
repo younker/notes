@@ -1,14 +1,17 @@
 ---
-subject: "Younker - 234731645 - Guaranteed Rate Home Insurance"
+subject: Younker - 234731645 - Guaranteed Rate Home Insurance
 message_count: 8
 first: 2023-10-02
 last: 2023-10-03
 senders:
-  - Thea.Valiga@rate.com
-  - heathergoffinet@hotmail.com
-  - rose.laxsalinas@rateins.com
+- Thea.Valiga@rate.com
+- heathergoffinet@hotmail.com
+- rose.laxsalinas@rateins.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Younker - 234731645 - Guaranteed Rate Home Insurance

@@ -1,12 +1,15 @@
 ---
-subject: "For Mortgage Documentation - Investment accounts (Securian Financial and Fidelity)"
+subject: For Mortgage Documentation - Investment accounts (Securian Financial and Fidelity)
 message_count: 1
 first: 2023-09-20
 last: 2023-09-20
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # For Mortgage Documentation - Investment accounts (Securian Financial and Fidelity)

@@ -1,13 +1,16 @@
 ---
-subject: "Conflict in class on Friday"
+subject: Conflict in class on Friday
 message_count: 4
 first: 2025-10-13
 last: 2025-10-17
 senders:
-  - heatheryounker@outlook.com
-  - kdutcher@harborlight.org
+- heatheryounker@outlook.com
+- kdutcher@harborlight.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Conflict in class on Friday

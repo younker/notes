@@ -1,13 +1,16 @@
 ---
-subject: "Market Analysis for 720 Jennings"
+subject: Market Analysis for 720 Jennings
 message_count: 2
 first: 2023-09-15
 last: 2023-09-15
 senders:
-  - heatheryounker@outlook.com
-  - mail-service@platform.moxiworks.com
+- heatheryounker@outlook.com
+- mail-service@platform.moxiworks.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Market Analysis for 720 Jennings

@@ -1,12 +1,15 @@
 ---
-subject: "Letter I sent to the Board supporting Brent"
+subject: Letter I sent to the Board supporting Brent
 message_count: 1
 first: 2024-03-12
 last: 2024-03-12
 senders:
-  - heatheryounker@outlook.com
+- heatheryounker@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Letter I sent to the Board supporting Brent

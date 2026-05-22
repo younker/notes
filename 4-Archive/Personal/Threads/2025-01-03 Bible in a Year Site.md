@@ -1,12 +1,15 @@
 ---
-subject: "Bible in a Year Site"
+subject: Bible in a Year Site
 message_count: 1
 first: 2025-01-03
 last: 2025-01-03
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Bible in a Year Site

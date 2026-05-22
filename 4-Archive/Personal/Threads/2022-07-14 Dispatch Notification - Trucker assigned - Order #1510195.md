@@ -1,12 +1,15 @@
 ---
-subject: "Dispatch Notification - Trucker assigned - Order #1510195"
+subject: 'Dispatch Notification - Trucker assigned - Order #1510195'
 message_count: 1
 first: 2022-07-14
 last: 2022-07-14
 senders:
-  - heatheryounker@outlook.com
+- heatheryounker@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Dispatch Notification - Trucker assigned - Order #1510195

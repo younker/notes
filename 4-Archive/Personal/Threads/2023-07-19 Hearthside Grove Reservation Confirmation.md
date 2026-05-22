@@ -1,12 +1,15 @@
 ---
-subject: "Hearthside Grove Reservation Confirmation"
+subject: Hearthside Grove Reservation Confirmation
 message_count: 1
 first: 2023-07-19
 last: 2023-07-19
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Hearthside Grove Reservation Confirmation

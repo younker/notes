@@ -1,13 +1,16 @@
 ---
-subject: "Follow up from Friday Night"
+subject: Follow up from Friday Night
 message_count: 2
 first: 2024-09-25
 last: 2025-10-17
 senders:
-  - heathergoffinet@hotmail.com
-  - heatheryounker@outlook.com
+- heathergoffinet@hotmail.com
+- heatheryounker@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Follow up from Friday Night

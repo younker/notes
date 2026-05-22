@@ -1,12 +1,15 @@
 ---
-subject: "Referee Incident - Dec. 16, 2022"
+subject: Referee Incident - Dec. 16, 2022
 message_count: 1
 first: 2022-12-19
 last: 2022-12-19
 senders:
-  - brentcbolin@gmail.com
+- brentcbolin@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brent Bolin]]'
 ---
 
 # Referee Incident - Dec. 16, 2022

@@ -1,12 +1,15 @@
 ---
-subject: "Holiwell App Frames"
+subject: Holiwell App Frames
 message_count: 1
 first: 2023-08-02
 last: 2023-08-02
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # Holiwell App Frames

@@ -1,14 +1,18 @@
 ---
-subject: "CVS Benefits Mess"
+subject: CVS Benefits Mess
 message_count: 7
 first: 2025-11-12
 last: 2025-12-11
 senders:
-  - jyounker@bera.ai
-  - kat.grolle@harrispoll.com
-  - kristyn.bradley@harrispoll.com
+- jyounker@bera.ai
+- kat.grolle@harrispoll.com
+- kristyn.bradley@harrispoll.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
+- '[[Kat Grolle]]'
 ---
 
 # CVS Benefits Mess

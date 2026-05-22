@@ -1,0 +1,18 @@
+---
+name: "Katie Connolly"
+first_name: "Katie"
+last_name: "Connolly"
+phones:
+  - "+1 (231) 838-1225"
+created: 2026-01-24
+modified: 2026-01-24
+tags: [contact, contact/person]
+---
+
+# Katie Connolly
+
+## Contact
+- **Phone:** +1 (231) 838-1225
+
+## Notes
+PAHA Helped get Jacob goalie gear

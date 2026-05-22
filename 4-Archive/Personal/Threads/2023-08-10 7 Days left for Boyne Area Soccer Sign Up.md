@@ -1,12 +1,15 @@
 ---
-subject: "7 Days left for Boyne Area Soccer Sign Up"
+subject: 7 Days left for Boyne Area Soccer Sign Up
 message_count: 1
 first: 2023-08-10
 last: 2023-08-10
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # 7 Days left for Boyne Area Soccer Sign Up

@@ -1,13 +1,16 @@
 ---
-subject: "Action Needed - Preliminary closing figures for your home loan #234731645"
+subject: 'Action Needed - Preliminary closing figures for your home loan #234731645'
 message_count: 2
 first: 2023-09-29
 last: 2023-09-29
 senders:
-  - Guy.McCarthy@rate.com
-  - heatheryounker@outlook.com
+- Guy.McCarthy@rate.com
+- heatheryounker@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Action Needed - Preliminary closing figures for your home loan #234731645

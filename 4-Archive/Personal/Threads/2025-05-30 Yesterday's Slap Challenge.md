@@ -1,12 +1,15 @@
 ---
-subject: "Yesterday's Slap Challenge"
+subject: Yesterday's Slap Challenge
 message_count: 1
 first: 2025-05-30
 last: 2025-05-30
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Yesterday's Slap Challenge

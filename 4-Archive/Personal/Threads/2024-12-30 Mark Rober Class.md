@@ -1,12 +1,15 @@
 ---
-subject: "Mark Rober Class"
+subject: Mark Rober Class
 message_count: 1
 first: 2024-12-30
 last: 2024-12-30
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Mark Rober Class

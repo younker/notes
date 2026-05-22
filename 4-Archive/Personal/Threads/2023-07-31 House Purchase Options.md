@@ -1,12 +1,15 @@
 ---
-subject: "House Purchase Options"
+subject: House Purchase Options
 message_count: 1
 first: 2023-07-31
 last: 2023-07-31
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # House Purchase Options

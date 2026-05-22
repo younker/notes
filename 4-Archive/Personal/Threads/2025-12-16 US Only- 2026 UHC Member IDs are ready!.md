@@ -1,12 +1,15 @@
 ---
-subject: "US Only: 2026 UHC Member IDs are ready!"
+subject: 'US Only: 2026 UHC Member IDs are ready!'
 message_count: 1
 first: 2025-12-16
 last: 2025-12-16
 senders:
-  - kat.grolle@harrispoll.com
+- kat.grolle@harrispoll.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Kat Grolle]]'
 ---
 
 # US Only: 2026 UHC Member IDs are ready!

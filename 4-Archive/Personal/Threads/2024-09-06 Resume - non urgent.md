@@ -1,12 +1,15 @@
 ---
-subject: "Resume - non urgent"
+subject: Resume - non urgent
 message_count: 1
 first: 2024-09-06
 last: 2024-09-06
 senders:
-  - heatheryounker@outlook.com
+- heatheryounker@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Resume - non urgent

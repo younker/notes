@@ -1,12 +1,15 @@
 ---
-subject: "Confirmation Letter - XMZGMB 07/03/21 - from Alaska Airlines"
+subject: Confirmation Letter - XMZGMB 07/03/21 - from Alaska Airlines
 message_count: 1
 first: 2021-06-15
 last: 2021-06-15
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Confirmation Letter - XMZGMB 07/03/21 - from Alaska Airlines

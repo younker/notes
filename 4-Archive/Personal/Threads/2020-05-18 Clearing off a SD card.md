@@ -1,12 +1,15 @@
 ---
-subject: "Clearing off a SD card..."
+subject: Clearing off a SD card...
 message_count: 1
 first: 2020-05-18
 last: 2020-05-18
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Clearing off a SD card...

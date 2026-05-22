@@ -1,13 +1,16 @@
 ---
-subject: "Incident today on Playground, Ongoing issues with Rohan"
+subject: Incident today on Playground, Ongoing issues with Rohan
 message_count: 3
 first: 2019-10-02
 last: 2019-10-03
 senders:
-  - heathergoffinet@hotmail.com
-  - tcorsetti@bisd303.org
+- heathergoffinet@hotmail.com
+- tcorsetti@bisd303.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Incident today on Playground, Ongoing issues with Rohan

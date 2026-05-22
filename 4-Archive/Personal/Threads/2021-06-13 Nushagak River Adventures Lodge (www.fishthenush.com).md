@@ -1,12 +1,15 @@
 ---
-subject: "Nushagak River Adventures Lodge (www.fishthenush.com)"
+subject: Nushagak River Adventures Lodge (www.fishthenush.com)
 message_count: 2
 first: 2021-06-13
 last: 2021-06-13
 senders:
-  - dryccpcare@icloud.com
+- dryccpcare@icloud.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Beth Younker]]'
 ---
 
 # Nushagak River Adventures Lodge (www.fishthenush.com)

@@ -1,12 +1,15 @@
 ---
-subject: "Thank you for becoming an FMCA Member!"
+subject: Thank you for becoming an FMCA Member!
 message_count: 1
 first: 2022-02-06
 last: 2022-02-06
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Thank you for becoming an FMCA Member!

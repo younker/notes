@@ -1,13 +1,16 @@
 ---
-subject: "Being on time for class"
+subject: Being on time for class
 message_count: 3
 first: 2025-10-27
 last: 2025-10-28
 senders:
-  - heatheryounker@outlook.com
-  - kdutcher@harborlight.org
+- heatheryounker@outlook.com
+- kdutcher@harborlight.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Being on time for class

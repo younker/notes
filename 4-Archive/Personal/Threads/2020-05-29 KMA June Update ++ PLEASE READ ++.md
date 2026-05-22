@@ -1,12 +1,15 @@
 ---
-subject: "KMA June Update ++ PLEASE READ ++"
+subject: KMA June Update ++ PLEASE READ ++
 message_count: 1
 first: 2020-05-29
 last: 2020-05-29
 senders:
-  - brian@kitsapmartialarts.com
+- brian@kitsapmartialarts.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brian Church]]'
 ---
 
 # KMA June Update ++ PLEASE READ ++

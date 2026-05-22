@@ -1,13 +1,16 @@
 ---
-subject: "The Awful Reality of 'Choice'"
+subject: The Awful Reality of 'Choice'
 message_count: 2
 first: 2024-08-24
 last: 2024-08-24
 senders:
-  - dan@sevenfootapologist.com
-  - jason@ynkr.org
+- dan@sevenfootapologist.com
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # The Awful Reality of "Choice"

@@ -1,12 +1,15 @@
 ---
-subject: "Your Vehicle(s) has been Picked-up - Order ID:1510195"
+subject: Your Vehicle(s) has been Picked-up - Order ID:1510195
 message_count: 1
 first: 2022-07-15
 last: 2022-07-15
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Your Vehicle(s) has been Picked-up - Order ID:1510195

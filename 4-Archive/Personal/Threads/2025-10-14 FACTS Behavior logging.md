@@ -1,12 +1,15 @@
 ---
-subject: "FACTS Behavior logging"
+subject: FACTS Behavior logging
 message_count: 3
 first: 2025-10-14
 last: 2025-10-15
 senders:
-  - heatheryounker@outlook.com
+- heatheryounker@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # FACTS Behavior logging

@@ -1,13 +1,16 @@
 ---
-subject: "10U Blue & White Teams"
+subject: 10U Blue & White Teams
 message_count: 2
 first: 2022-10-23
 last: 2022-11-07
 senders:
-  - jason@ynkr.org
-  - no-reply@mailer.sportsengine.com
+- jason@ynkr.org
+- no-reply@mailer.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # 10U Blue & White Teams

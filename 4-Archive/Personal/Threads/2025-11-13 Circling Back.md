@@ -1,13 +1,17 @@
 ---
-subject: "Circling Back"
+subject: Circling Back
 message_count: 4
 first: 2025-11-13
 last: 2025-11-14
 senders:
-  - jyounker@bera.ai
-  - kat.grolle@harrispoll.com
+- jyounker@bera.ai
+- kat.grolle@harrispoll.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
+- '[[Kat Grolle]]'
 ---
 
 # Circling Back

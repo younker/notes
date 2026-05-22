@@ -1,12 +1,15 @@
 ---
-subject: "Home insurance quote"
+subject: Home insurance quote
 message_count: 1
 first: 2023-09-20
 last: 2023-09-20
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Home insurance quote

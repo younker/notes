@@ -1,14 +1,18 @@
 ---
-subject: "Estimate 201971 from Kitsap Septic Design & Monitoring, Inc."
+subject: Estimate 201971 from Kitsap Septic Design & Monitoring, Inc.
 message_count: 6
 first: 2021-07-26
 last: 2021-08-04
 senders:
-  - heathergoffinet@hotmail.com
-  - kitsap.septic@comcast.net
-  - quickbooks@notification.intuit.com
+- heathergoffinet@hotmail.com
+- kitsap.septic@comcast.net
+- quickbooks@notification.intuit.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
+- '[[Paul Wandling]]'
 ---
 
 # Estimate 201971 from Kitsap Septic Design & Monitoring, Inc.

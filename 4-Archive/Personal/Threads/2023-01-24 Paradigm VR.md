@@ -1,12 +1,15 @@
 ---
-subject: "Paradigm VR"
+subject: Paradigm VR
 message_count: 2
 first: 2023-01-24
 last: 2023-02-01
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # Paradigm VR

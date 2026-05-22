@@ -1,13 +1,16 @@
 ---
-subject: "Jason’s 401K distribution"
+subject: Jason’s 401K distribution
 message_count: 2
 first: 2022-03-22
 last: 2022-03-22
 senders:
-  - Ali.Rizvi@northstarfinancial.com
-  - heathergoffinet@hotmail.com
+- Ali.Rizvi@northstarfinancial.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Jason’s 401K distribution

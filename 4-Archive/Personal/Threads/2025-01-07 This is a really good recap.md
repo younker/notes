@@ -1,12 +1,15 @@
 ---
-subject: "This is a really good recap"
+subject: This is a really good recap
 message_count: 1
 first: 2025-01-07
 last: 2025-01-07
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # This is a really good recap

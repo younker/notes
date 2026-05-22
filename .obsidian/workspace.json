@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e009b839321c0f8b",
+        "id": "1c6febe8c715cb56",
         "type": "tabs",
         "children": [
           {
-            "id": "bd92626534b45fe8",
+            "id": "54d9c652ce75809b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Archive/Personal/Threads/2023-09-18 Sell Order for 345.000000 ZD Settled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2023-09-18 Sell Order for 345.000000 ZD Settled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Personal/Threads/2023-09-18 Sell Order for 345.000000 ZD Settled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2023-09-18 Sell Order for 345.000000 ZD Settled"
+              "title": "Backlinks"
             }
           },
           {
@@ -183,34 +178,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd92626534b45fe8",
+  "active": "54d9c652ce75809b",
   "lastOpenFiles": [
-    "4-Archive/Personal/Threads/2019-09-11 Proof of Sold Boat.md",
-    "2-Areas/Lakers 2012 Soccer/Threads/2026-03-18 2025-26 Premier Season - 2026 Spring Premier Season Registration- Lakers 2008-2013.md",
-    "3-Resources/Reference/Email Archive Index.md",
+    "2-Areas/Contacts/Bremerton Ice Arena.md",
+    "2-Areas/Contacts/Stevan.md",
+    "2-Areas/Contacts/Kassie Kennaugh.md",
     "4-Archive/Personal/Emails — personal.md",
-    "4-Archive/Personal/Threads/2019-05-18 INVOICE.md",
-    "4-Archive/Personal/Threads/2019-05-25 Paid Paid to file for California trip.md",
-    "4-Archive/Personal/Threads/2019-09-20 Seedling Order - revised.md",
-    "4-Archive/Personal/Threads/2019-09-30 OnlineRME notification of Report Submittal.md",
-    "4-Archive/Personal/Threads/2019-10-03 Too much or not enough-.md",
-    "4-Archive/Personal/Threads/2019-10-03 observation in my class.md",
-    "4-Archive/Personal/Threads/2019-10-02 Incident today on Playground, Ongoing issues with Rohan.md",
-    "4-Archive/Personal/Threads/2019-10-14 Payment Question.md",
-    "4-Archive/Personal/Threads/2019-10-01 Seedling Payment Receipt.md",
-    "4-Archive/Personal/Threads/2019-10-21 Stephen - Issue to be aware of.md",
-    "4-Archive/Personal/Threads/2020-01-31 Remainder of order.md",
-    "4-Archive/Personal/Threads/2020-02-05 Judge Plumbing Co - JPC Waterworks estimate.md",
-    "4-Archive/Personal/Threads/2020-02-06 Follow up.md",
-    "4-Archive/Personal/Threads/2020-02-12 Electronic ticket receipt, May 18 for JASON YOUNKER.md",
-    "4-Archive/Personal/Threads/2020-02-12 Electronic ticket receipt, May 18 for HEATHER YOUNKER.md",
-    "4-Archive/Personal/Threads/2020-02-12 Sales Order Confirmation from AlliedElec.com - 2504770572.md",
-    "4-Archive/Personal/Threads/2020-02-25 Follow up regarding payment.md",
-    "4-Archive/Personal/Threads/2020-03-10 invoice.md",
-    "4-Archive/Personal/Threads/2020-03-21 Seedlings.md",
-    "4-Archive/Personal/Threads/2020-03-25 UPS Ship Notification, Tracking Number 1Z3A79E70391017539.md",
-    "4-Archive/Personal/Threads/2020-05-18 Clearing off a SD card.md",
-    "4-Archive/Personal/Threads/2020-05-18 HP Smart.md",
+    "4-Archive/Personal/Threads/2023-03-24 Order Receipt Confirmation Order - 100866518.md",
+    "2-Areas/Contacts/Rob Horstmann.md",
+    "2-Areas/Contacts/Terrell.md",
+    "2-Areas/Contacts/Lisa Veurink.md",
+    "2-Areas/Contacts/Koos Klevin.md",
+    "2-Areas/Contacts/Devin Ellis.md",
+    "2-Areas/Contacts/Patrick Clochesy.md",
+    "2-Areas/Contacts/Aaron Wheeler.md",
+    "2-Areas/Contacts/Dr. Susan Powell.md",
+    "2-Areas/Contacts/Dave Sellers.md",
+    "2-Areas/Contacts/Mark McEahern.md",
+    "2-Areas/Contacts/David Joslin.md",
+    "2-Areas/Contacts/Pancake House At The Summit.md",
+    "2-Areas/Contacts/Ben Simpson.md",
+    "2-Areas/Contacts/Carin Overturf.md",
+    "2-Areas/Contacts/Jamie Steven.md",
+    "2-Areas/Contacts/Adam McCrea.md",
+    "2-Areas/Contacts/Pedestrian Gate.md",
+    "2-Areas/Contacts/Jessica Stipe.md",
+    "2-Areas/Contacts/Marty Tithonium.md",
+    "2-Areas/Contacts/Miranda Rensch.md",
+    "2-Areas/Contacts/Amy Forsberg.md",
+    "2-Areas/Contacts",
     "4-Archive/Personal/Threads",
     "4-Archive/Sent Mail/Threads",
     "4-Archive/Career/Threads",
@@ -219,7 +215,6 @@
     "2-Areas/SHIP — Senior Housing/Threads",
     "1-Projects/PHS Soccer Fall 26/Threads",
     "4-Archive/Mission Trips/Threads",
-    "2-Areas/Lakers 2012 Soccer",
-    "2-Areas/SHIP — Senior Housing"
+    "2-Areas/Lakers 2012 Soccer"
   ]
 }

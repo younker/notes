@@ -1,12 +1,15 @@
 ---
-subject: "Too much or not enough?"
+subject: Too much or not enough?
 message_count: 2
 first: 2019-10-03
 last: 2019-10-03
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Too much or not enough?

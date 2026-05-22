@@ -1,12 +1,15 @@
 ---
-subject: "Stephen - Issue to be aware of"
+subject: Stephen - Issue to be aware of
 message_count: 1
 first: 2019-10-21
 last: 2019-10-21
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Stephen - Issue to be aware of

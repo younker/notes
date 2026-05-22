@@ -1,14 +1,17 @@
 ---
-subject: "INVOICE #1904: Driver seat power lost and CO sensor needs to be replaced."
+subject: 'INVOICE #1904: Driver seat power lost and CO sensor needs to be replaced.'
 message_count: 4
 first: 2022-09-02
 last: 2022-09-16
 senders:
-  - Service@tiffinmotorhomes.com
-  - jason@ynkr.org
-  - ricktherovingtech@gmail.com
+- Service@tiffinmotorhomes.com
+- jason@ynkr.org
+- ricktherovingtech@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # INVOICE #1904: Driver seat power lost and CO sensor needs to be replaced.

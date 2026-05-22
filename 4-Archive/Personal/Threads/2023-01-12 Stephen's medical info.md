@@ -1,12 +1,15 @@
 ---
-subject: "Stephen's medical info"
+subject: Stephen's medical info
 message_count: 1
 first: 2023-01-12
 last: 2023-01-12
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Stephen's medical info

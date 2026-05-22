@@ -1,12 +1,15 @@
 ---
-subject: "Our itinerary Mar-Oct"
+subject: Our itinerary Mar-Oct
 message_count: 1
 first: 2022-04-02
 last: 2022-04-02
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Our itinerary Mar-Oct

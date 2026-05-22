@@ -1,0 +1,20 @@
+---
+name: "Jenny King"
+first_name: "Jenny"
+last_name: "King"
+phones:
+  - "405-321-5730"
+emails:
+  - "boobybaby@hotmail.com"
+  - "jenniferlking@prodigy.net"
+created: 2026-01-24
+modified: 2026-01-24
+tags: [contact, contact/person]
+---
+
+# Jenny King
+
+## Contact
+- **Home:** 405-321-5730
+- **Email2:** boobybaby@hotmail.com
+- **Email:** jenniferlking@prodigy.net

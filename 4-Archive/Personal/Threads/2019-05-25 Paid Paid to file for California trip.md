@@ -1,12 +1,15 @@
 ---
-subject: "Paid Paid to file for California trip"
+subject: Paid Paid to file for California trip
 message_count: 2
 first: 2019-05-25
 last: 2019-05-30
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Paid Paid to file for California trip

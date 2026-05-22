@@ -1,12 +1,15 @@
 ---
-subject: "observation in my class"
+subject: observation in my class
 message_count: 1
 first: 2019-10-03
 last: 2019-10-03
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # observation in my class

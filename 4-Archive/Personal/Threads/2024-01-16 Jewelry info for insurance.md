@@ -1,12 +1,15 @@
 ---
-subject: "Jewelry info for insurance"
+subject: Jewelry info for insurance
 message_count: 1
 first: 2024-01-16
 last: 2024-01-16
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Jewelry info for insurance

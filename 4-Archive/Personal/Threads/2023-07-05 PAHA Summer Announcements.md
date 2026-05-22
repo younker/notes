@@ -1,13 +1,16 @@
 ---
-subject: "PAHA Summer Announcements"
+subject: PAHA Summer Announcements
 message_count: 2
 first: 2023-07-05
 last: 2023-07-16
 senders:
-  - heatheryounker@outlook.com
-  - no-reply@mailer.sportsengine.com
+- heatheryounker@outlook.com
+- no-reply@mailer.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # PAHA Summer Announcements

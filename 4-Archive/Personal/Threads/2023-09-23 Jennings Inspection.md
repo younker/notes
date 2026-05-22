@@ -1,12 +1,15 @@
 ---
-subject: "Jennings Inspection"
+subject: Jennings Inspection
 message_count: 1
 first: 2023-09-23
 last: 2023-09-23
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Jennings Inspection

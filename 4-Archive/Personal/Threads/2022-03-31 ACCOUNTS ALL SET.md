@@ -1,13 +1,16 @@
 ---
-subject: "ACCOUNTS ALL SET"
+subject: ACCOUNTS ALL SET
 message_count: 5
 first: 2022-03-31
 last: 2022-03-31
 senders:
-  - Ali.Rizvi@northstarfinancial.com
-  - heathergoffinet@hotmail.com
+- Ali.Rizvi@northstarfinancial.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # ACCOUNTS ALL SET

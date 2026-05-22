@@ -1,12 +1,15 @@
 ---
-subject: "Auto Quote"
+subject: Auto Quote
 message_count: 1
 first: 2023-07-18
 last: 2023-07-18
 senders:
-  - heatheryounker@outlook.com
+- heatheryounker@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Auto Quote
