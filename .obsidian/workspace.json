@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c6febe8c715cb56",
+        "id": "0e8c36d05a7071e7",
         "type": "tabs",
         "children": [
           {
-            "id": "54d9c652ce75809b",
+            "id": "8ff3d5364b765264",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -178,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54d9c652ce75809b",
+  "active": "8ff3d5364b765264",
   "lastOpenFiles": [
+    "4-Archive/Personal/Threads/2021-09-18 Water Invoices.md",
     "2-Areas/Contacts/Bremerton Ice Arena.md",
     "2-Areas/Contacts/Stevan.md",
     "2-Areas/Contacts/Kassie Kennaugh.md",
@@ -205,7 +206,6 @@
     "2-Areas/Contacts/Jessica Stipe.md",
     "2-Areas/Contacts/Marty Tithonium.md",
     "2-Areas/Contacts/Miranda Rensch.md",
-    "2-Areas/Contacts/Amy Forsberg.md",
     "2-Areas/Contacts",
     "4-Archive/Personal/Threads",
     "4-Archive/Sent Mail/Threads",
