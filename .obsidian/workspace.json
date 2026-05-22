@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4780cc6657dd4c8f",
+        "id": "e009b839321c0f8b",
         "type": "tabs",
         "children": [
           {
-            "id": "39bf01a25070864c",
+            "id": "bd92626534b45fe8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "4-Archive/Personal/Threads/2023-09-18 Sell Order for 345.000000 ZD Settled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "2023-09-18 Sell Order for 345.000000 ZD Settled"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "4-Archive/Personal/Threads/2023-09-18 Sell Order for 345.000000 ZD Settled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CLAUDE"
+              "title": "Backlinks for 2023-09-18 Sell Order for 345.000000 ZD Settled"
             }
           },
           {
@@ -169,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,42 +183,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ad989440ff3c42e",
+  "active": "bd92626534b45fe8",
   "lastOpenFiles": [
-    "Career/Q1 2021 Self-Assessment.md",
-    "Reading/Brian Conn.md",
-    "Reading/The Hive.md",
-    "Reading/Acts of Kindness.md",
-    "PHS Soccer/Boys Soccer Fall 26.md",
-    "Hockey/2026 Spring/downstate-tryouts.md",
-    "Reading/The Hive.pdf",
-    "Reference/vscode-keybindings.md",
-    "PHS Soccer/20260519-sign-up.md",
-    "Hockey/TC-predictions.md",
-    "Career",
-    "Reference",
-    "Reading",
-    "Hockey/2026 Spring",
-    "Hockey",
-    "TC Red AA 14U/Families/Zivkovich.md",
-    "TC Red AA 14U/Families/Younker.md",
-    "TC Red AA 14U/Families/Wheeler.md",
-    "TC Red AA 14U/Families/Wald.md",
-    "TC Red AA 14U/Families/Tucker.md",
-    "TC Red AA 14U/Families/Stumm.md",
-    "TC Red AA 14U/Families/Rowell.md",
-    "TC Red AA 14U/Families/Pawlanta.md",
-    "TC Red AA 14U/Families/Myers.md",
-    "TC Red AA 14U/Families/McDonald.md",
-    "TC Red AA 14U/Families/Leipprandt.md",
-    "TC Red AA 14U/Families/Jefferys.md",
-    "TC Red AA 14U/Families/Henning.md",
-    "TC Red AA 14U/Families/Denoyer.md",
-    "TC Red AA 14U/Families/Brudi.md",
-    "TC Red AA 14U/Families/Boss.md",
-    "TC Red AA 14U/Families/Blazok.md",
-    "TC Red AA 14U/Families",
-    "TC Red AA 14U",
-    "PHS Soccer"
+    "4-Archive/Personal/Threads/2019-09-11 Proof of Sold Boat.md",
+    "2-Areas/Lakers 2012 Soccer/Threads/2026-03-18 2025-26 Premier Season - 2026 Spring Premier Season Registration- Lakers 2008-2013.md",
+    "3-Resources/Reference/Email Archive Index.md",
+    "4-Archive/Personal/Emails — personal.md",
+    "4-Archive/Personal/Threads/2019-05-18 INVOICE.md",
+    "4-Archive/Personal/Threads/2019-05-25 Paid Paid to file for California trip.md",
+    "4-Archive/Personal/Threads/2019-09-20 Seedling Order - revised.md",
+    "4-Archive/Personal/Threads/2019-09-30 OnlineRME notification of Report Submittal.md",
+    "4-Archive/Personal/Threads/2019-10-03 Too much or not enough-.md",
+    "4-Archive/Personal/Threads/2019-10-03 observation in my class.md",
+    "4-Archive/Personal/Threads/2019-10-02 Incident today on Playground, Ongoing issues with Rohan.md",
+    "4-Archive/Personal/Threads/2019-10-14 Payment Question.md",
+    "4-Archive/Personal/Threads/2019-10-01 Seedling Payment Receipt.md",
+    "4-Archive/Personal/Threads/2019-10-21 Stephen - Issue to be aware of.md",
+    "4-Archive/Personal/Threads/2020-01-31 Remainder of order.md",
+    "4-Archive/Personal/Threads/2020-02-05 Judge Plumbing Co - JPC Waterworks estimate.md",
+    "4-Archive/Personal/Threads/2020-02-06 Follow up.md",
+    "4-Archive/Personal/Threads/2020-02-12 Electronic ticket receipt, May 18 for JASON YOUNKER.md",
+    "4-Archive/Personal/Threads/2020-02-12 Electronic ticket receipt, May 18 for HEATHER YOUNKER.md",
+    "4-Archive/Personal/Threads/2020-02-12 Sales Order Confirmation from AlliedElec.com - 2504770572.md",
+    "4-Archive/Personal/Threads/2020-02-25 Follow up regarding payment.md",
+    "4-Archive/Personal/Threads/2020-03-10 invoice.md",
+    "4-Archive/Personal/Threads/2020-03-21 Seedlings.md",
+    "4-Archive/Personal/Threads/2020-03-25 UPS Ship Notification, Tracking Number 1Z3A79E70391017539.md",
+    "4-Archive/Personal/Threads/2020-05-18 Clearing off a SD card.md",
+    "4-Archive/Personal/Threads/2020-05-18 HP Smart.md",
+    "4-Archive/Personal/Threads",
+    "4-Archive/Sent Mail/Threads",
+    "4-Archive/Career/Threads",
+    "2-Areas/Stephen Hockey/Threads",
+    "2-Areas/Lakers 2012 Soccer/Threads",
+    "2-Areas/SHIP — Senior Housing/Threads",
+    "1-Projects/PHS Soccer Fall 26/Threads",
+    "4-Archive/Mission Trips/Threads",
+    "2-Areas/Lakers 2012 Soccer",
+    "2-Areas/SHIP — Senior Housing"
   ]
 }

@@ -1,0 +1,65 @@
+---
+subject: "Pre-Arrival for Niagara Falls Marriott on the Falls | R-05063523 | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026"
+message_count: 1
+first: 2025-12-29
+last: 2025-12-29
+senders:
+  - mailer@eventpipe.com
+type: email-thread
+tags: [email]
+---
+
+# Pre-Arrival for Niagara Falls Marriott on the Falls | R-05063523 | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026
+
+**1 message** on 2025-12-29
+
+## 1. 2025-12-29 11:06 — mailer@eventpipe.com
+
+*Subject: Pre-Arrival for Niagara Falls Marriott on the Falls | R-05063523 |
+ 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026*
+
+2026 Pelham Silver Stick Finals
+ Thu, 01/08/2026 - Sun, 01/11/2026
+ Pelham, ON
+
+ Dear Tonya Reeb,
+
+ Below is a summary of your hotel reservation including your assigned hotel confirmation number. (Please DO NOT REPLY to this email as this email address is not monitored.)
+
+
+ Here is your Hotel Confirmation Number: 71010145
+ Need to change or cancel your reservation?
+
+ All changes, cancellations and general requests must now be made directly with the hotel. The hotel phone number is 1-905-374-1077
+
+
+ Reservation Overview:
+ Niagara Falls Marriott on the Falls
+ 6755 Fallsview Blvd, Niagara Falls, ON, L2G3W7
+ 1-905-374-1077
+ Check In: Thu, 01/08/2026
+ Check Out: Sun, 01/11/2026
+ Room Type: Two Queen Beds
+ Reservation Pipe ID: R-05063523
+
+ View Full Reservation Details:Click Here
+
+ 📭 bookings@sportsheadz.com
+ (888) 770-3838
+ 📞 (Toll Free) (888) 770-3838
+ ⏱ 9am-5pm EST
+
+
+
+
+
+
+
+
+
+
+
+
+ Copyright © 2025 EventPipe. All rights reserved.
+
+---

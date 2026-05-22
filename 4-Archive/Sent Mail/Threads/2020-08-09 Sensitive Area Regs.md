@@ -1,0 +1,33 @@
+---
+subject: "Sensitive Area Regs"
+message_count: 1
+first: 2020-08-09
+last: 2020-08-09
+senders:
+  - jason@ynkr.org
+type: email-thread
+tags: [email]
+---
+
+# Sensitive Area Regs
+
+**1 message** on 2020-08-09
+
+## 1. 2020-08-09 13:45 — jason@ynkr.org
+
+*Subject: Fwd: Sensitive Area Regs*
+
+Begin forwarded message:
+
+> From: Susan Stricker <smstricker59@gmail.com>
+> Date: August 9, 2020 at 11:48:43 AM PDT
+> To: Jason Yonker <jason@ynkr.org>, Jason Yonker <jason@moz.com>
+> Subject: Fwd:  Sensitive Area Regs
+>
+> ﻿
+> Here's the info we talked about this morning.
+>> On Aug 9, 2020, at 11:43 AM, Frank Gorman <fjgorman54@gmail.com> wrote:
+>> The regulation that applies to an expansion to the driveway and parking space into the sensitive area is Section 16.20.050, Article 3.
+>>
+
+---
