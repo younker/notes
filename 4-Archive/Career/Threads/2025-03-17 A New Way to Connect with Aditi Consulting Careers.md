@@ -1,12 +1,14 @@
 ---
-subject: "A New Way to Connect with Aditi Consulting Careers"
+subject: A New Way to Connect with Aditi Consulting Careers
 message_count: 1
 first: 2025-03-17
 last: 2025-03-17
 senders:
-  - noreply@aditiconsulting.com
+- noreply@aditiconsulting.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # A New Way to Connect with Aditi Consulting Careers

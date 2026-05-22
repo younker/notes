@@ -1,12 +1,15 @@
 ---
-subject: "hi daddy you know how i got all those pokemon cards... both of my charizar ex combinded are worth 1,400$!!!!!!!!!!!!!!!!!!!!!"
+subject: hi daddy you know how i got all those pokemon cards... both of my charizar ex combinded are worth 1,400$!!!!!!!!!!!!!!!!!!!!!
 message_count: 1
 first: 2021-10-21
 last: 2021-10-21
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # hi daddy you know how i got all those pokemon cards... both of my charizar ex combinded are worth 1,400$!!!!!!!!!!!!!!!!!!!!!

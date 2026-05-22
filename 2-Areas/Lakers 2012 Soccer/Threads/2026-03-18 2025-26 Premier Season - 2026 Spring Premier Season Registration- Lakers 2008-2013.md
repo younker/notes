@@ -1,13 +1,17 @@
 ---
-subject: "2025-26 Premier Season | 2026 Spring Premier Season Registration:
- Lakers 2008-2013"
+subject: '2025-26 Premier Season | 2026 Spring Premier Season Registration: Lakers 2008-2013'
 message_count: 1
 first: 2026-03-18
 last: 2026-03-18
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+- travel
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # 2025-26 Premier Season | 2026 Spring Premier Season Registration:

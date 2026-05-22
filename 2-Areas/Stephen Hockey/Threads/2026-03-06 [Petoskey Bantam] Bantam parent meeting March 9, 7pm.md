@@ -1,12 +1,14 @@
 ---
-subject: "[Petoskey Bantam] Bantam parent meeting March 9, 7pm"
+subject: '[Petoskey Bantam] Bantam parent meeting March 9, 7pm'
 message_count: 1
 first: 2026-03-06
 last: 2026-03-06
 senders:
-  - no-reply@mailer.sportsengine.com
+- no-reply@mailer.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # [Petoskey Bantam] Bantam parent meeting March 9, 7pm

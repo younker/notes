@@ -1,12 +1,15 @@
 ---
-subject: "BARN Account Balance"
+subject: BARN Account Balance
 message_count: 1
 first: 2024-04-09
 last: 2024-04-09
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # BARN Account Balance

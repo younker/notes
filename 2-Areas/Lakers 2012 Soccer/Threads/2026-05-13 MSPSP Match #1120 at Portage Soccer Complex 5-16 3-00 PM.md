@@ -1,12 +1,14 @@
 ---
-subject: "MSPSP Match #1120 at Portage Soccer Complex 5/16 3:00 PM"
+subject: 'MSPSP Match #1120 at Portage Soccer Complex 5/16 3:00 PM'
 message_count: 1
 first: 2026-05-13
 last: 2026-05-13
 senders:
-  - blumsj@gmail.com
+- blumsj@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # MSPSP Match #1120 at Portage Soccer Complex 5/16 3:00 PM

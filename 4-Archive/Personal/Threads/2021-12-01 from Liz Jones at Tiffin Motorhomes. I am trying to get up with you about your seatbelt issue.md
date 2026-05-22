@@ -1,12 +1,16 @@
 ---
-subject: "from Liz Jones at Tiffin Motorhomes. I am trying to get up with you about your seatbelt issue."
+subject: from Liz Jones at Tiffin Motorhomes. I am trying to get up with you about your seatbelt issue.
 message_count: 5
 first: 2021-12-01
 last: 2022-01-05
 senders:
-  - liz.jones@tiffinmotorhomes.com
+- liz.jones@tiffinmotorhomes.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
+- motorhome
 ---
 
 # from Liz Jones at Tiffin Motorhomes. I am trying to get up with you about your seatbelt issue.

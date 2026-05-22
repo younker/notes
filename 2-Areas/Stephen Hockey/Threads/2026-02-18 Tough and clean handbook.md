@@ -1,12 +1,16 @@
 ---
-subject: "Tough and clean handbook"
+subject: Tough and clean handbook
 message_count: 1
 first: 2026-02-18
 last: 2026-02-18
 senders:
-  - cfirman16@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # Tough and clean handbook

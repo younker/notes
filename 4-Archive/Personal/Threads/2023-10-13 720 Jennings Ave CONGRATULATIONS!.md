@@ -1,12 +1,14 @@
 ---
-subject: "720 Jennings Ave CONGRATULATIONS!"
+subject: 720 Jennings Ave CONGRATULATIONS!
 message_count: 1
 first: 2023-10-13
 last: 2023-10-13
 senders:
-  - Melissa.Deady@ctt.com
+- Melissa.Deady@ctt.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # 720 Jennings Ave CONGRATULATIONS!

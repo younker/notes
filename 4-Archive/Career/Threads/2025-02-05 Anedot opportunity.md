@@ -1,12 +1,14 @@
 ---
-subject: "Anedot opportunity"
+subject: Anedot opportunity
 message_count: 1
 first: 2025-02-05
 last: 2025-02-05
 senders:
-  - candidate-41cf11bbcb60@anedot.breezy-mail.com
+- candidate-41cf11bbcb60@anedot.breezy-mail.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Anedot opportunity

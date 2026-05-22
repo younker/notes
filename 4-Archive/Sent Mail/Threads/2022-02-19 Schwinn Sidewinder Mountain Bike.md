@@ -1,12 +1,15 @@
 ---
-subject: "Schwinn Sidewinder Mountain Bike"
+subject: Schwinn Sidewinder Mountain Bike
 message_count: 3
 first: 2022-02-19
 last: 2022-02-20
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Schwinn Sidewinder Mountain Bike

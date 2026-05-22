@@ -1,12 +1,15 @@
 ---
-subject: "Michigan DNR - Thank you for your order!"
+subject: Michigan DNR - Thank you for your order!
 message_count: 1
 first: 2025-11-14
 last: 2025-11-14
 senders:
-  - DNR-NoReply@mail.michigan.gov
+- DNR-NoReply@mail.michigan.gov
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hunting-outdoors
 ---
 
 # Michigan DNR - Thank you for your order!

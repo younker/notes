@@ -1,12 +1,15 @@
 ---
-subject: "Payment Question"
+subject: Payment Question
 message_count: 1
 first: 2019-10-14
 last: 2019-10-14
 senders:
-  - bill.taylor@dnr.wa.gov
+- bill.taylor@dnr.wa.gov
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hunting-outdoors
 ---
 
 # Payment Question

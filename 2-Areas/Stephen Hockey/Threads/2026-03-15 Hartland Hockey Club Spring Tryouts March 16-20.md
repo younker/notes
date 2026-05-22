@@ -1,12 +1,14 @@
 ---
-subject: "Hartland Hockey Club Spring Tryouts March 16-20"
+subject: Hartland Hockey Club Spring Tryouts March 16-20
 message_count: 1
 first: 2026-03-15
 last: 2026-03-15
 senders:
-  - notifications@hartlandhockey.club
+- notifications@hartlandhockey.club
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # Hartland Hockey Club Spring Tryouts March 16-20

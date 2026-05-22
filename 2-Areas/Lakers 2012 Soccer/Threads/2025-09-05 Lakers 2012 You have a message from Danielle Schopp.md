@@ -1,12 +1,14 @@
 ---
-subject: "Lakers 2012  You have a message from Danielle Schopp"
+subject: Lakers 2012  You have a message from Danielle Schopp
 message_count: 1
 first: 2025-09-05
 last: 2025-09-05
 senders:
-  - director@petoskeysoccer.com
+- director@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # Lakers 2012  You have a message from Danielle Schopp

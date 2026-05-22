@@ -1,12 +1,15 @@
 ---
-subject: "Training Tomorrow 4/14: River Rd."
+subject: 'Training Tomorrow 4/14: River Rd.'
 message_count: 1
 first: 2026-04-13
 last: 2026-04-13
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # Training Tomorrow 4/14: River Rd.

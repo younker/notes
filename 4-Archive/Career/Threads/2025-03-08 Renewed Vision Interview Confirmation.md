@@ -1,12 +1,14 @@
 ---
-subject: "Renewed Vision Interview Confirmation"
+subject: Renewed Vision Interview Confirmation
 message_count: 2
 first: 2025-03-08
 last: 2025-03-10
 senders:
-  - bethany.bagwell@renewedvision.com
+- bethany.bagwell@renewedvision.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Renewed Vision Interview Confirmation

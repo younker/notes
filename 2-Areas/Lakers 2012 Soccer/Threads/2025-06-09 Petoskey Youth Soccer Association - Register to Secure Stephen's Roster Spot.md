@@ -1,13 +1,18 @@
 ---
-subject: "Petoskey Youth Soccer Association | Register to Secure Stephen's
- Roster Spot"
+subject: Petoskey Youth Soccer Association | Register to Secure Stephen's Roster Spot
 message_count: 1
 first: 2025-06-09
 last: 2025-06-09
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- soccer
+- travel
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # Petoskey Youth Soccer Association | Register to Secure Stephen's

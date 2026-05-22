@@ -1,12 +1,16 @@
 ---
-subject: "I love you guys."
+subject: I love you guys.
 message_count: 1
 first: 2025-12-19
 last: 2025-12-19
 senders:
-  - cfirman16@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # I love you guys.

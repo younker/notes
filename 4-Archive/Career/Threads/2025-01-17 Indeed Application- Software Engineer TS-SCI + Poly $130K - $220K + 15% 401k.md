@@ -1,12 +1,14 @@
 ---
-subject: "Indeed Application: Software Engineer TS/SCI + Poly $130K - $220K + 15% 401k"
+subject: 'Indeed Application: Software Engineer TS/SCI + Poly $130K - $220K + 15% 401k'
 message_count: 1
 first: 2025-01-17
 last: 2025-01-17
 senders:
-  - indeedapply@indeed.com
+- indeedapply@indeed.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Indeed Application: Software Engineer TS/SCI + Poly $130K - $220K + 15% 401k

@@ -1,13 +1,18 @@
 ---
-subject: "New payment request from Petoskey Area Hockey Association - pledge 1024"
+subject: New payment request from Petoskey Area Hockey Association - pledge 1024
 message_count: 4
 first: 2025-09-05
 last: 2025-09-05
 senders:
-  - heathergoffinet@hotmail.com
-  - quickbooks@notification.intuit.com
+- heathergoffinet@hotmail.com
+- quickbooks@notification.intuit.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # New payment request from Petoskey Area Hockey Association - pledge 1024

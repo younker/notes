@@ -1,12 +1,14 @@
 ---
-subject: "Midwest United - NMFC 2011-2012 Boys Tryout Update"
+subject: Midwest United - NMFC 2011-2012 Boys Tryout Update
 message_count: 1
 first: 2025-06-09
 last: 2025-06-09
 senders:
-  - soccer@northernmichiganfc.com
+- soccer@northernmichiganfc.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # Midwest United - NMFC 2011-2012 Boys Tryout Update

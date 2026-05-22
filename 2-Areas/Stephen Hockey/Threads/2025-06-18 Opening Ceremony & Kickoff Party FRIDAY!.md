@@ -1,12 +1,15 @@
 ---
-subject: "Opening Ceremony & Kickoff Party FRIDAY!"
+subject: Opening Ceremony & Kickoff Party FRIDAY!
 message_count: 1
 first: 2025-06-18
 last: 2025-06-18
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Opening Ceremony & Kickoff Party FRIDAY!

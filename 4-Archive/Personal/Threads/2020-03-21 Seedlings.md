@@ -1,12 +1,15 @@
 ---
-subject: "Seedlings"
+subject: Seedlings
 message_count: 1
 first: 2020-03-21
 last: 2020-03-21
 senders:
-  - bill.taylor@dnr.wa.gov
+- bill.taylor@dnr.wa.gov
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- hunting-outdoors
 ---
 
 # Seedlings

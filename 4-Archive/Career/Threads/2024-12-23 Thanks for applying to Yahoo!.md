@@ -1,12 +1,14 @@
 ---
-subject: "Thanks for applying to Yahoo!"
+subject: Thanks for applying to Yahoo!
 message_count: 1
 first: 2024-12-23
 last: 2024-12-23
 senders:
-  - ouryahoo@myworkday.com
+- ouryahoo@myworkday.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thanks for applying to Yahoo!

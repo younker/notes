@@ -1,12 +1,15 @@
 ---
-subject: "003066736 - Life Policy Change Form"
+subject: 003066736 - Life Policy Change Form
 message_count: 2
 first: 2020-11-18
 last: 2020-11-24
 senders:
-  - ehrin.stumpges@countryfinancial.com
+- ehrin.stumpges@countryfinancial.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Ehrin Stumpges]]'
 ---
 
 # 003066736 - Life Policy Change Form

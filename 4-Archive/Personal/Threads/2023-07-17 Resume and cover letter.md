@@ -1,12 +1,14 @@
 ---
-subject: "Resume and cover letter"
+subject: Resume and cover letter
 message_count: 6
 first: 2023-07-17
 last: 2023-07-25
 senders:
-  - christopherdelgado1@gmail.com
+- christopherdelgado1@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Resume and cover letter

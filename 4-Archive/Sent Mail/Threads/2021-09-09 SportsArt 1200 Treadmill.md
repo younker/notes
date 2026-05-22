@@ -1,12 +1,15 @@
 ---
-subject: "SportsArt 1200 Treadmill"
+subject: SportsArt 1200 Treadmill
 message_count: 2
 first: 2021-09-09
 last: 2021-09-10
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # SportsArt 1200 Treadmill

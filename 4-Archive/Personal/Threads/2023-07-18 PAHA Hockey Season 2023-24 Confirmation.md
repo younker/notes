@@ -1,12 +1,14 @@
 ---
-subject: "PAHA Hockey Season 2023-24 Confirmation"
+subject: PAHA Hockey Season 2023-24 Confirmation
 message_count: 1
 first: 2023-07-18
 last: 2023-07-18
 senders:
-  - no-reply@mailer-h.sportsengine.com
+- no-reply@mailer-h.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # PAHA Hockey Season 2023-24 Confirmation

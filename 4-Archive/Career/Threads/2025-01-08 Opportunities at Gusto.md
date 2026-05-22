@@ -1,12 +1,14 @@
 ---
-subject: "Opportunities at Gusto"
+subject: Opportunities at Gusto
 message_count: 1
 first: 2025-01-08
 last: 2025-01-08
 senders:
-  - jeff.dunn@gusto.com
+- jeff.dunn@gusto.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Opportunities at Gusto

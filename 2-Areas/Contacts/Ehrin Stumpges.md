@@ -1,14 +1,18 @@
 ---
-name: "Ehrin Stumpges"
-first_name: "Ehrin"
-last_name: "Stumpges"
-organization: "Countrywide"
+name: Ehrin Stumpges
+first_name: Ehrin
+last_name: Stumpges
+organization: Countrywide
 phones:
-  - "(206) 200-5064"
-  - "(425) 413-4580"
+- (206) 200-5064
+- (425) 413-4580
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
+- contact/business
+emails:
+- ehrin.stumpges@countryfinancial.com
 ---
 
 # Ehrin Stumpges
@@ -22,3 +26,10 @@ tags: [contact, contact/business]
 ## Addresses
 - **Home:** 22035 SE Wax Rd
 Suite 2, Maple Valley, WA, 98038, United States
+
+## Email Threads
+
+*2 threads*
+
+- [[2020-11-18 003066736 - Life Policy Change Form]]
+- [[2020-11-18 Insurance Review Recap]]

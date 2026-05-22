@@ -1,13 +1,14 @@
 ---
-subject: "Invitation: Jason Younker | Interview with Gusto @ Wed Jan 29, 2025
- 1pm - 2pm (EST) (jason@ynkr.org)"
+subject: 'Invitation: Jason Younker | Interview with Gusto @ Wed Jan 29, 2025 1pm - 2pm (EST) (jason@ynkr.org)'
 message_count: 1
 first: 2025-01-22
 last: 2025-01-22
 senders:
-  - carren.scialacomo@gusto.com
+- carren.scialacomo@gusto.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Invitation: Jason Younker | Interview with Gusto @ Wed Jan 29, 2025

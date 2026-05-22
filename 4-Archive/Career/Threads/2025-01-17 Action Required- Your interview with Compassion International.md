@@ -1,12 +1,14 @@
 ---
-subject: "Action Required: Your interview with Compassion International"
+subject: 'Action Required: Your interview with Compassion International'
 message_count: 1
 first: 2025-01-17
 last: 2025-01-17
 senders:
-  - SaPark@us.ci.org
+- SaPark@us.ci.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Action Required: Your interview with Compassion International

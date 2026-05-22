@@ -1,12 +1,14 @@
 ---
-subject: "Radon test results"
+subject: Radon test results
 message_count: 1
 first: 2023-09-21
 last: 2023-09-21
 senders:
-  - landainspections.mark@gmail.com
+- landainspections.mark@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Radon test results

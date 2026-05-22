@@ -1,12 +1,16 @@
 ---
-subject: "Action Required - MYHockey Tournaments Hotel Reservation Information"
+subject: Action Required - MYHockey Tournaments Hotel Reservation Information
 message_count: 1
 first: 2025-12-16
 last: 2025-12-16
 senders:
-  - alexp@myhockeytournaments.com
+- alexp@myhockeytournaments.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
+- travel
 ---
 
 # Action Required - MYHockey Tournaments Hotel Reservation Information

@@ -1,12 +1,16 @@
 ---
-subject: "Top 100 List of Operators"
+subject: Top 100 List of Operators
 message_count: 1
 first: 2026-04-23
 last: 2026-04-23
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # Top 100 List of Operators

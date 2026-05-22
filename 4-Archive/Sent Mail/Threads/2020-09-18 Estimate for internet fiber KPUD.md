@@ -1,12 +1,15 @@
 ---
-subject: "Estimate for internet fiber KPUD"
+subject: Estimate for internet fiber KPUD
 message_count: 1
 first: 2020-09-18
 last: 2020-09-18
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Estimate for internet fiber KPUD

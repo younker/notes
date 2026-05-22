@@ -1,12 +1,15 @@
 ---
-subject: "Fed camp, Stephen Younker"
+subject: Fed camp, Stephen Younker
 message_count: 1
 first: 2025-08-06
 last: 2025-08-06
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Fed camp, Stephen Younker

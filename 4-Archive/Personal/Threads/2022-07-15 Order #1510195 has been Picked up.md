@@ -1,12 +1,15 @@
 ---
-subject: "Order #1510195 has been Picked up"
+subject: 'Order #1510195 has been Picked up'
 message_count: 1
 first: 2022-07-15
 last: 2022-07-15
 senders:
-  - notifications@ship.cars
+- notifications@ship.cars
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- vehicles
 ---
 
 # Order #1510195 has been Picked up

@@ -9,6 +9,7 @@ senders:
 type: email-thread
 tags:
 - email
+- hockey
 contacts:
 - '[[Heather Younker]]'
 ---

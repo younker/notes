@@ -1,12 +1,14 @@
 ---
-subject: "PAHA HOCKEY EQUIPMENT SWAP!"
+subject: PAHA HOCKEY EQUIPMENT SWAP!
 message_count: 2
 first: 2025-09-04
 last: 2025-09-04
 senders:
-  - pahacommunications@gmail.com
+- pahacommunications@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # PAHA HOCKEY EQUIPMENT SWAP!

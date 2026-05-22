@@ -1,12 +1,14 @@
 ---
-subject: "(no subject)"
+subject: (no subject)
 message_count: 1
 first: 2025-01-23
 last: 2025-01-23
 senders:
-  - email@renweb.com
+- email@renweb.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- school
 ---
 
 # (no subject)

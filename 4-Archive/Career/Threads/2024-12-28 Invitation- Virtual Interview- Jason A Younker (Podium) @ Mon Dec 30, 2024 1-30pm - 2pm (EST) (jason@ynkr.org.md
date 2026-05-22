@@ -1,13 +1,14 @@
 ---
-subject: "Invitation: Virtual Interview: Jason A Younker (Podium) @ Mon Dec 30,
- 2024 1:30pm - 2pm (EST) (jason@ynkr.org)"
+subject: 'Invitation: Virtual Interview: Jason A Younker (Podium) @ Mon Dec 30, 2024 1:30pm - 2pm (EST) (jason@ynkr.org)'
 message_count: 1
 first: 2024-12-28
 last: 2024-12-28
 senders:
-  - sarah.paulson@podium.com
+- sarah.paulson@podium.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Invitation: Virtual Interview: Jason A Younker (Podium) @ Mon Dec 30,

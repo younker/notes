@@ -1,13 +1,16 @@
 ---
-subject: "INVOICE #1916: Toilet does not refill after being flushed"
+subject: 'INVOICE #1916: Toilet does not refill after being flushed'
 message_count: 3
 first: 2022-10-01
 last: 2022-10-04
 senders:
-  - Service@tiffinmotorhomes.com
-  - rjklingberg@outlook.com
+- Service@tiffinmotorhomes.com
+- rjklingberg@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # INVOICE #1916: Toilet does not refill after being flushed

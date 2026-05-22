@@ -1,12 +1,17 @@
 ---
-subject: "Hockey Tryouts for Spring"
+subject: Hockey Tryouts for Spring
 message_count: 2
 first: 2026-03-06
 last: 2026-03-06
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Hockey Tryouts for Spring

@@ -8,6 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
+- health
 contacts:
 - '[[Heather Younker]]'
 ---

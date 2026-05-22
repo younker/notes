@@ -1,12 +1,16 @@
 ---
-subject: "Complete with Docusign: Jason Younker - Bera offer 3.14.2025.pdf, 2025 Benefits - New Hire Pre..."
+subject: 'Complete with Docusign: Jason Younker - Bera offer 3.14.2025.pdf, 2025 Benefits - New Hire Pre...'
 message_count: 1
 first: 2025-03-16
 last: 2025-03-16
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Complete with Docusign: Jason Younker - Bera offer 3.14.2025.pdf, 2025 Benefits - New Hire Pre...

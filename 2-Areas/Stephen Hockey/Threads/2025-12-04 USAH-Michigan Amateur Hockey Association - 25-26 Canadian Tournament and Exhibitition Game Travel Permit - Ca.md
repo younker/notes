@@ -1,12 +1,17 @@
 ---
-subject: "USAH-Michigan Amateur Hockey Association - 25-26 Canadian Tournament and Exhibitition Game Travel Permit - Canadian Tournament Permit Approval"
+subject: USAH-Michigan Amateur Hockey Association - 25-26 Canadian Tournament and Exhibitition Game Travel Permit - Canadian Tournament Permit Approval
 message_count: 1
 first: 2025-12-04
 last: 2025-12-04
 senders:
-  - brentcbolin@gmail.com
+- brentcbolin@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
+contacts:
+- '[[Brent Bolin]]'
 ---
 
 # USAH-Michigan Amateur Hockey Association - 25-26 Canadian Tournament and Exhibitition Game Travel Permit - Canadian Tournament Permit Approval

@@ -1,12 +1,17 @@
 ---
-subject: "HLCS soccer"
+subject: HLCS soccer
 message_count: 1
 first: 2024-08-14
 last: 2024-08-14
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- soccer
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # HLCS soccer

@@ -1,12 +1,14 @@
 ---
-subject: "Coaching Slate and Travel Tryout Registration"
+subject: Coaching Slate and Travel Tryout Registration
 message_count: 1
 first: 2026-05-13
 last: 2026-05-13
 senders:
-  - tchockey.mailer@leagueapps.com
+- tchockey.mailer@leagueapps.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # Coaching Slate and Travel Tryout Registration

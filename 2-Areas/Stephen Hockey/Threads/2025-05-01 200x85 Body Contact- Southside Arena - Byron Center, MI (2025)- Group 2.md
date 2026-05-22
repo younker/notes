@@ -1,12 +1,16 @@
 ---
-subject: "200x85 Body Contact- Southside Arena - Byron Center, MI (2025)- Group 2"
+subject: 200x85 Body Contact- Southside Arena - Byron Center, MI (2025)- Group 2
 message_count: 1
 first: 2025-05-01
 last: 2025-05-01
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # 200x85 Body Contact- Southside Arena - Byron Center, MI (2025)- Group 2

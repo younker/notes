@@ -1,12 +1,14 @@
 ---
-subject: "N Carolina Trip Update"
+subject: N Carolina Trip Update
 message_count: 1
 first: 2025-02-28
 last: 2025-02-28
 senders:
-  - Andrea@genesischurchmi.com
+- Andrea@genesischurchmi.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # N Carolina Trip Update

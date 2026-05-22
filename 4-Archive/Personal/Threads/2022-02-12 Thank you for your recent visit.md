@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for your recent visit"
+subject: Thank you for your recent visit
 message_count: 1
 first: 2022-02-12
 last: 2022-02-12
 senders:
-  - att-services.cn.586726138@emaildl.att-mail.com
+- att-services.cn.586726138@emaildl.att-mail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Thank you for your recent visit

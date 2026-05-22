@@ -1,12 +1,14 @@
 ---
-subject: "Fresh Coast Classic Update: PLEASE REVIEW"
+subject: 'Fresh Coast Classic Update: PLEASE REVIEW'
 message_count: 1
 first: 2026-05-07
 last: 2026-05-07
 senders:
-  - no_reply@gotsport.com
+- no_reply@gotsport.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # Fresh Coast Classic Update: PLEASE REVIEW

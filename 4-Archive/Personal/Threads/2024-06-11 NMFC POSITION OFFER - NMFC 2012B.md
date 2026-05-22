@@ -1,12 +1,14 @@
 ---
-subject: "NMFC POSITION OFFER - NMFC 2012B"
+subject: NMFC POSITION OFFER - NMFC 2012B
 message_count: 1
 first: 2024-06-11
 last: 2024-06-11
 senders:
-  - soccer@northernmichiganfc.com
+- soccer@northernmichiganfc.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # NMFC POSITION OFFER - NMFC 2012B

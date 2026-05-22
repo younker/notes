@@ -1,12 +1,16 @@
 ---
-subject: "PAHA Coaching Requirements - Deep Dive"
+subject: PAHA Coaching Requirements - Deep Dive
 message_count: 1
 first: 2022-10-09
 last: 2022-10-09
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # PAHA Coaching Requirements - Deep Dive

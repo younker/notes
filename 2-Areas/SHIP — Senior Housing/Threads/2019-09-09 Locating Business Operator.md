@@ -1,12 +1,15 @@
 ---
-subject: "Locating Business Operator"
+subject: Locating Business Operator
 message_count: 1
 first: 2019-09-09
 last: 2019-09-09
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # Locating Business Operator

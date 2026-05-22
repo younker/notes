@@ -1,13 +1,14 @@
 ---
-subject: "7 V 7 GRASSROOTS COURSES - IN-PERSON - PETOSKEY, MI - Course
- Registration Status Update"
+subject: 7 V 7 GRASSROOTS COURSES - IN-PERSON - PETOSKEY, MI - Course Registration Status Update
 message_count: 1
 first: 2025-07-12
 last: 2025-07-12
 senders:
-  - notifications@learning.ussoccer.org
+- notifications@learning.ussoccer.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # 7 V 7 GRASSROOTS COURSES - IN-PERSON - PETOSKEY, MI - Course

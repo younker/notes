@@ -1,12 +1,14 @@
 ---
-subject: "Handouts from Sunday"
+subject: Handouts from Sunday
 message_count: 1
 first: 2026-01-21
 last: 2026-01-21
 senders:
-  - Andrea@genesischurchmi.com
+- Andrea@genesischurchmi.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Handouts from Sunday

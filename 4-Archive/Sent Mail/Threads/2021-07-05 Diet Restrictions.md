@@ -1,12 +1,16 @@
 ---
-subject: "Diet Restrictions"
+subject: Diet Restrictions
 message_count: 1
 first: 2021-07-05
 last: 2021-07-05
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- insurance
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Diet Restrictions

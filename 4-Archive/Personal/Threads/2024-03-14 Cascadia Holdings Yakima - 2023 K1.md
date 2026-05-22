@@ -1,12 +1,15 @@
 ---
-subject: "Cascadia Holdings Yakima - 2023 K1"
+subject: Cascadia Holdings Yakima - 2023 K1
 message_count: 1
 first: 2024-03-14
 last: 2024-03-14
 senders:
-  - mike@cascadiaseniorliving.com
+- mike@cascadiaseniorliving.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
 ---
 
 # Cascadia Holdings Yakima - 2023 K1

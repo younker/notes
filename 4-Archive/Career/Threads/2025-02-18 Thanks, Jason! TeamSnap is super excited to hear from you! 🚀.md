@@ -1,12 +1,14 @@
 ---
-subject: "Thanks, Jason! TeamSnap is super excited to hear from you! 🚀"
+subject: Thanks, Jason! TeamSnap is super excited to hear from you! 🚀
 message_count: 1
 first: 2025-02-18
 last: 2025-02-18
 senders:
-  - no-reply@hire.lever.co
+- no-reply@hire.lever.co
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thanks, Jason! TeamSnap is super excited to hear from you! 🚀

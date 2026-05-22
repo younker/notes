@@ -1,12 +1,14 @@
 ---
-subject: "Honor Next Steps: Hiring Manager Video Call Invitation"
+subject: 'Honor Next Steps: Hiring Manager Video Call Invitation'
 message_count: 1
 first: 2025-01-06
 last: 2025-01-06
 senders:
-  - charlie.bowers@joinhonor.com
+- charlie.bowers@joinhonor.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Honor Next Steps: Hiring Manager Video Call Invitation

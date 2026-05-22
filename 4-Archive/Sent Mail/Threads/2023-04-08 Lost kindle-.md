@@ -1,12 +1,15 @@
 ---
-subject: "Lost kindle?"
+subject: Lost kindle?
 message_count: 1
 first: 2023-04-08
 last: 2023-04-08
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Lost kindle?

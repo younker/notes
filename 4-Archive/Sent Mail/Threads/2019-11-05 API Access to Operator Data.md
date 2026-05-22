@@ -1,12 +1,17 @@
 ---
-subject: "API Access to Operator Data"
+subject: API Access to Operator Data
 message_count: 1
 first: 2019-11-05
 last: 2019-11-05
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- insurance
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # API Access to Operator Data

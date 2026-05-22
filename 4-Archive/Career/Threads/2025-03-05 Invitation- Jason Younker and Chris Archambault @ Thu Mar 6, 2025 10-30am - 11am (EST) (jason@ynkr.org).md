@@ -1,13 +1,16 @@
 ---
-subject: "Invitation: Jason Younker and Chris Archambault @ Thu Mar 6, 2025
- 10:30am - 11am (EST) (jason@ynkr.org)"
+subject: 'Invitation: Jason Younker and Chris Archambault @ Thu Mar 6, 2025 10:30am - 11am (EST) (jason@ynkr.org)'
 message_count: 1
 first: 2025-03-05
 last: 2025-03-05
 senders:
-  - carchambault@bera.ai
+- carchambault@bera.ai
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Chris Archambault]]'
 ---
 
 # Invitation: Jason Younker and Chris Archambault @ Thu Mar 6, 2025

@@ -1,13 +1,14 @@
 ---
-subject: "11 v 11 GRASSROOTS COURSES - IN-PERSON - PETOSKEY, MI - Course
- Registration Status Update"
+subject: 11 v 11 GRASSROOTS COURSES - IN-PERSON - PETOSKEY, MI - Course Registration Status Update
 message_count: 1
 first: 2025-03-14
 last: 2025-03-14
 senders:
-  - notifications@learning.ussoccer.org
+- notifications@learning.ussoccer.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # 11 v 11 GRASSROOTS COURSES - IN-PERSON - PETOSKEY, MI - Course

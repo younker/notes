@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for your interest in Calm"
+subject: Thank you for your interest in Calm
 message_count: 1
 first: 2025-03-18
 last: 2025-03-18
 senders:
-  - no-reply@calm.com
+- no-reply@calm.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thank you for your interest in Calm

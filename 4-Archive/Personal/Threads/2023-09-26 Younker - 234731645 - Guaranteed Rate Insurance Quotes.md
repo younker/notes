@@ -1,12 +1,15 @@
 ---
-subject: "Younker - 234731645 - Guaranteed Rate Insurance Quotes"
+subject: Younker - 234731645 - Guaranteed Rate Insurance Quotes
 message_count: 1
 first: 2023-09-26
 last: 2023-09-26
 senders:
-  - rose.laxsalinas@rateins.com
+- rose.laxsalinas@rateins.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- insurance
+- real-estate
 ---
 
 # Younker - 234731645 - Guaranteed Rate Insurance Quotes

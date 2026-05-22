@@ -1,12 +1,14 @@
 ---
-subject: "You have signed * Purchase Agreement in 720 Jennings Ave, Petoskey MI 49770"
+subject: You have signed * Purchase Agreement in 720 Jennings Ave, Petoskey MI 49770
 message_count: 1
 first: 2023-09-16
 last: 2023-09-16
 senders:
-  - hit-reply@dotloop.com
+- hit-reply@dotloop.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # You have signed * Purchase Agreement in 720 Jennings Ave, Petoskey MI 49770

@@ -1,13 +1,18 @@
 ---
-subject: "Schedule Questions"
+subject: Schedule Questions
 message_count: 4
 first: 2025-11-12
 last: 2025-11-15
 senders:
-  - bkasiborski@gmail.com
-  - cfirman16@gmail.com
+- bkasiborski@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Brian Kasiborski]]'
+- '[[Chris Firman]]'
 ---
 
 # Schedule Questions

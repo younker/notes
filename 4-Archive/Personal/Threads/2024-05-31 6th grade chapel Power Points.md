@@ -1,12 +1,14 @@
 ---
-subject: "6th grade chapel Power Points"
+subject: 6th grade chapel Power Points
 message_count: 1
 first: 2024-05-31
 last: 2024-05-31
 senders:
-  - email@renweb.com
+- email@renweb.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- school
 ---
 
 # 6th grade chapel Power Points

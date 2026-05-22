@@ -1,12 +1,14 @@
 ---
-subject: "Your Dyson warranty is now active"
+subject: Your Dyson warranty is now active
 message_count: 1
 first: 2022-08-16
 last: 2022-08-16
 senders:
-  - questions@dyson.com
+- questions@dyson.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- shopping-receipts
 ---
 
 # Your Dyson warranty is now active

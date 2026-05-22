@@ -1,14 +1,20 @@
 ---
-subject: "Silver Sticks Finals analysis"
+subject: Silver Sticks Finals analysis
 message_count: 3
 first: 2026-01-15
 last: 2026-01-15
 senders:
-  - bkasiborski@gmail.com
-  - blcook6383@aol.com
-  - cfirman16@gmail.com
+- bkasiborski@gmail.com
+- blcook6383@aol.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- vehicles
+contacts:
+- '[[Brian Kasiborski]]'
+- '[[Brandon Cook]]'
+- '[[Chris Firman]]'
 ---
 
 # Silver Sticks Finals analysis

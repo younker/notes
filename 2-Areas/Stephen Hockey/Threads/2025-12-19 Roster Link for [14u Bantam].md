@@ -1,13 +1,18 @@
 ---
-subject: "Roster Link for [14u Bantam]"
+subject: Roster Link for [14u Bantam]
 message_count: 2
 first: 2025-12-19
 last: 2025-12-19
 senders:
-  - brentcbolin@gmail.com
-  - cfirman16@gmail.com
+- brentcbolin@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Brent Bolin]]'
+- '[[Chris Firman]]'
 ---
 
 # Roster Link for [14u Bantam]

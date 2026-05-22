@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to dbt Labs, Jason!"
+subject: Thank you for applying to dbt Labs, Jason!
 message_count: 2
 first: 2024-12-24
 last: 2025-01-14
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thank you for applying to dbt Labs, Jason!

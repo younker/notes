@@ -1,12 +1,16 @@
 ---
-subject: "Junior High Basketball"
+subject: Junior High Basketball
 message_count: 1
 first: 2024-01-03
 last: 2024-01-03
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- health
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Junior High Basketball

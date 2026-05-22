@@ -1,12 +1,14 @@
 ---
-subject: "14U Parent Meeting"
+subject: 14U Parent Meeting
 message_count: 1
 first: 2025-12-01
 last: 2025-12-01
 senders:
-  - no-reply@mailer.sportsengine.com
+- no-reply@mailer.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # 14U Parent Meeting

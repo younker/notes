@@ -1,12 +1,17 @@
 ---
-subject: "Your Flight Receipt - JASON ALLEN YOUNKER 23AUG21"
+subject: Your Flight Receipt - JASON ALLEN YOUNKER 23AUG21
 message_count: 1
 first: 2021-08-07
 last: 2021-08-07
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- travel
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Your Flight Receipt - JASON ALLEN YOUNKER 23AUG21

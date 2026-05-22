@@ -1,12 +1,15 @@
 ---
-subject: "USA Hockey Safe Sport Completion Receipt"
+subject: USA Hockey Safe Sport Completion Receipt
 message_count: 1
 first: 2025-08-11
 last: 2025-08-11
 senders:
-  - receipt@membership.usahockey.com
+- receipt@membership.usahockey.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # USA Hockey Safe Sport Completion Receipt

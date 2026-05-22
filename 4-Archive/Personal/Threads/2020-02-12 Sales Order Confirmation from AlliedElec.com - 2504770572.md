@@ -1,12 +1,17 @@
 ---
-subject: "Sales Order Confirmation from AlliedElec.com - 2504770572"
+subject: Sales Order Confirmation from AlliedElec.com - 2504770572
 message_count: 1
 first: 2020-02-12
 last: 2020-02-12
 senders:
-  - NoReply@AlliedElec.com
+- NoReply@AlliedElec.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
+- insurance
+- shopping-receipts
 ---
 
 # Sales Order Confirmation from AlliedElec.com - 2504770572

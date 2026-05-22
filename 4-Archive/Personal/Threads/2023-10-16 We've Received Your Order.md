@@ -1,12 +1,15 @@
 ---
-subject: "We've Received Your Order"
+subject: We've Received Your Order
 message_count: 1
 first: 2023-10-16
 last: 2023-10-16
 senders:
-  - MyAccount@spectrumemails.com
+- MyAccount@spectrumemails.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- real-estate
 ---
 
 # We've Received Your Order

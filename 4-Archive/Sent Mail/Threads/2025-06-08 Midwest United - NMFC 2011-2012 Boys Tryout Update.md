@@ -1,12 +1,16 @@
 ---
-subject: "Midwest United - NMFC 2011-2012 Boys Tryout Update"
+subject: Midwest United - NMFC 2011-2012 Boys Tryout Update
 message_count: 1
 first: 2025-06-08
 last: 2025-06-08
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Midwest United - NMFC 2011-2012 Boys Tryout Update

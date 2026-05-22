@@ -1,12 +1,16 @@
 ---
-subject: "Coaching Clinic Registration Payment Receipt and Clinic Details"
+subject: Coaching Clinic Registration Payment Receipt and Clinic Details
 message_count: 1
 first: 2022-11-08
 last: 2022-11-08
 senders:
-  - receipt@usahockeyemails.com
+- receipt@usahockeyemails.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
+- travel
 ---
 
 # Coaching Clinic Registration Payment Receipt and Clinic Details

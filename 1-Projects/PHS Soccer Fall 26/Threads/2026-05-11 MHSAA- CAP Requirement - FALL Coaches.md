@@ -1,12 +1,14 @@
 ---
-subject: "MHSAA: CAP Requirement - FALL Coaches"
+subject: 'MHSAA: CAP Requirement - FALL Coaches'
 message_count: 1
 first: 2026-05-11
 last: 2026-05-11
 senders:
-  - kiersten@mhsaa.com
+- kiersten@mhsaa.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # MHSAA: CAP Requirement - FALL Coaches

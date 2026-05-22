@@ -1,12 +1,14 @@
 ---
-subject: "Younker Purchase Loan"
+subject: Younker Purchase Loan
 message_count: 1
 first: 2023-09-22
 last: 2023-09-22
 senders:
-  - Chris.Lundeen@rate.com
+- Chris.Lundeen@rate.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Younker Purchase Loan

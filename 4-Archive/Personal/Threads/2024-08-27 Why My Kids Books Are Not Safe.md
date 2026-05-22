@@ -1,12 +1,14 @@
 ---
-subject: "Why My Kids Books Are Not Safe"
+subject: Why My Kids Books Are Not Safe
 message_count: 1
 first: 2024-08-27
 last: 2024-08-27
 senders:
-  - sd@sdsmith.com
+- sd@sdsmith.com
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
 ---
 
 # Why My Kids Books Are Not Safe

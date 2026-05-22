@@ -1,13 +1,17 @@
 ---
-name: "Bethany Hickner"
-first_name: "Bethany"
-last_name: "Hickner"
-organization: "Church/Mosaic"
+name: Bethany Hickner
+first_name: Bethany
+last_name: Hickner
+organization: Church/Mosaic
 phones:
-  - "+13606208143"
+- '+13606208143'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
+- contact/business
+emails:
+- bleehickner@gmail.com
 ---
 
 # Bethany Hickner

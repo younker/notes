@@ -1,12 +1,15 @@
 ---
-subject: "Lakers Aug 21 Practice Plan"
+subject: Lakers Aug 21 Practice Plan
 message_count: 1
 first: 2025-08-21
 last: 2025-08-21
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Lakers Aug 21 Practice Plan

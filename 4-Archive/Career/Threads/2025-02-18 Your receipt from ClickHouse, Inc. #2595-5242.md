@@ -1,12 +1,14 @@
 ---
-subject: "Your receipt from ClickHouse, Inc. #2595-5242"
+subject: 'Your receipt from ClickHouse, Inc. #2595-5242'
 message_count: 1
 first: 2025-02-18
 last: 2025-02-18
 senders:
-  - invoice+statements+acct_1LBihwC9bitRmbOw@stripe.com
+- invoice+statements+acct_1LBihwC9bitRmbOw@stripe.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Your receipt from ClickHouse, Inc. #2595-5242

@@ -1,12 +1,16 @@
 ---
-subject: "Men's Hang Out - Tomorrow"
+subject: Men's Hang Out - Tomorrow
 message_count: 1
 first: 2019-11-06
 last: 2019-11-06
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Men's Hang Out - Tomorrow

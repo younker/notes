@@ -1,12 +1,14 @@
 ---
-subject: "Please review ADDENDUM to Purchase Agreement 01"
+subject: Please review ADDENDUM to Purchase Agreement 01
 message_count: 1
 first: 2023-09-24
 last: 2023-09-24
 senders:
-  - hit-reply@dotloop.com
+- hit-reply@dotloop.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Please review ADDENDUM to Purchase Agreement 01

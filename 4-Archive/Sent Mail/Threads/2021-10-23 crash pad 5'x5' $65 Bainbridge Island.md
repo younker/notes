@@ -1,12 +1,16 @@
 ---
-subject: "crash pad 5'x5' $65 Bainbridge Island"
+subject: crash pad 5'x5' $65 Bainbridge Island
 message_count: 3
 first: 2021-10-23
 last: 2021-10-28
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # crash pad 5'x5' $65 Bainbridge Island

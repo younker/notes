@@ -1,12 +1,14 @@
 ---
-subject: "Lansing Photos Link"
+subject: Lansing Photos Link
 message_count: 1
 first: 2024-05-18
 last: 2024-05-18
 senders:
-  - email@renweb.com
+- email@renweb.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- school
 ---
 
 # Lansing Photos Link

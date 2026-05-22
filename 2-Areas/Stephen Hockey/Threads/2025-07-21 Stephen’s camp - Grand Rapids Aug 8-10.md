@@ -1,12 +1,16 @@
 ---
-subject: "Stephen’s camp - Grand Rapids Aug 8-10"
+subject: Stephen’s camp - Grand Rapids Aug 8-10
 message_count: 1
 first: 2025-07-21
 last: 2025-07-21
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Stephen’s camp - Grand Rapids Aug 8-10

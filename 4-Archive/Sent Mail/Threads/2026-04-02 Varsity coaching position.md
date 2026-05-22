@@ -1,12 +1,16 @@
 ---
-subject: "Varsity coaching position"
+subject: Varsity coaching position
 message_count: 1
 first: 2026-04-02
 last: 2026-04-02
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Varsity coaching position

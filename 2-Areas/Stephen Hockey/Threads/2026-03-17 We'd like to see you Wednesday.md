@@ -1,12 +1,14 @@
 ---
-subject: "We'd like to see you Wednesday"
+subject: We'd like to see you Wednesday
 message_count: 1
 first: 2026-03-17
 last: 2026-03-17
 senders:
-  - 2012hhcsilver@gmail.com
+- 2012hhcsilver@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # We'd like to see you Wednesday

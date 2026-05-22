@@ -1,12 +1,17 @@
 ---
-subject: "HHC Silver OFFER"
+subject: HHC Silver OFFER
 message_count: 1
 first: 2026-03-19
 last: 2026-03-19
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- travel
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # HHC Silver OFFER

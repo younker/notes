@@ -1,13 +1,14 @@
 ---
-subject: "Reminder: Jason Younker | Interview with Gusto @ Wed Jan 29, 2025
- 01:00 pm - 02:00 pm (America/Detroit)"
+subject: 'Reminder: Jason Younker | Interview with Gusto @ Wed Jan 29, 2025 01:00 pm - 02:00 pm (America/Detroit)'
 message_count: 1
 first: 2025-01-29
 last: 2025-01-29
 senders:
-  - noreply@zohocalendar.com
+- noreply@zohocalendar.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Reminder: Jason Younker | Interview with Gusto @ Wed Jan 29, 2025

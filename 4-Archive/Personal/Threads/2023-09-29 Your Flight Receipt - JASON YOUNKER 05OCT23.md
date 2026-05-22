@@ -1,12 +1,16 @@
 ---
-subject: "Your Flight Receipt - JASON YOUNKER 05OCT23"
+subject: Your Flight Receipt - JASON YOUNKER 05OCT23
 message_count: 1
 first: 2023-09-29
 last: 2023-09-29
 senders:
-  - DeltaAirLines@t.delta.com
+- DeltaAirLines@t.delta.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- insurance
+- travel
 ---
 
 # Your Flight Receipt - JASON YOUNKER 05OCT23

@@ -1,12 +1,15 @@
 ---
-subject: "Heather’s birthday"
+subject: Heather’s birthday
 message_count: 1
 first: 2022-08-18
 last: 2022-08-18
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Heather’s birthday

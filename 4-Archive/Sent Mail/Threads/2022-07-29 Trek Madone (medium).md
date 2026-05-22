@@ -1,12 +1,15 @@
 ---
-subject: "Trek Madone (medium)"
+subject: Trek Madone (medium)
 message_count: 1
 first: 2022-07-29
 last: 2022-07-29
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Trek Madone (medium)

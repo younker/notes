@@ -1,12 +1,15 @@
 ---
-subject: "Your Montway.com Order #1826904"
+subject: 'Your Montway.com Order #1826904'
 message_count: 2
 first: 2023-05-30
 last: 2023-05-30
 senders:
-  - info@montway.com
+- info@montway.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # Your Montway.com Order #1826904

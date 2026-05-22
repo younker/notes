@@ -1,12 +1,15 @@
 ---
-subject: "Receipt from Webster's Northern Lower Sports"
+subject: Receipt from Webster's Northern Lower Sports
 message_count: 3
 first: 2024-01-06
 last: 2024-02-19
 senders:
-  - messenger@messaging.squareup.com
+- messenger@messaging.squareup.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- shopping-receipts
 ---
 
 # Receipt from Webster's Northern Lower Sports

@@ -1,12 +1,16 @@
 ---
-subject: "2012 Michigan Camp - Final Details"
+subject: 2012 Michigan Camp - Final Details
 message_count: 1
 first: 2025-07-18
 last: 2025-07-18
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # 2012 Michigan Camp - Final Details

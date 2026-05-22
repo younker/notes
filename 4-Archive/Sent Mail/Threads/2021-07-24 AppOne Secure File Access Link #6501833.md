@@ -1,12 +1,15 @@
 ---
-subject: "AppOne Secure File Access Link #6501833"
+subject: 'AppOne Secure File Access Link #6501833'
 message_count: 1
 first: 2021-07-24
 last: 2021-07-24
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # AppOne Secure File Access Link #6501833

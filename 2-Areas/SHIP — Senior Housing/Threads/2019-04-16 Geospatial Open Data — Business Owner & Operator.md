@@ -1,14 +1,18 @@
 ---
-subject: "Geospatial Open Data — Business Owner & Operator"
+subject: Geospatial Open Data — Business Owner & Operator
 message_count: 5
 first: 2019-04-16
 last: 2019-04-30
 senders:
-  - GIS@dshs.wa.gov
-  - WAGIC@wa.gov
-  - justin@cascadiadevelopment.com
+- GIS@dshs.wa.gov
+- WAGIC@wa.gov
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # Geospatial Open Data — Business Owner & Operator

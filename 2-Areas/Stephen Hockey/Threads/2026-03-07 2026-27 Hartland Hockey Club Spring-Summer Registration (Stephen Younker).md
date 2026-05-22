@@ -1,12 +1,14 @@
 ---
-subject: "2026-27 Hartland Hockey Club Spring/Summer Registration (Stephen Younker)"
+subject: 2026-27 Hartland Hockey Club Spring/Summer Registration (Stephen Younker)
 message_count: 1
 first: 2026-03-07
 last: 2026-03-07
 senders:
-  - notifications@hartlandhockey.club
+- notifications@hartlandhockey.club
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # 2026-27 Hartland Hockey Club Spring/Summer Registration (Stephen Younker)

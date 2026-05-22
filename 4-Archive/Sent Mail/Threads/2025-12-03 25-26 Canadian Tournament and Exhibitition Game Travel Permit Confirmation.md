@@ -1,12 +1,16 @@
 ---
-subject: "25-26 Canadian Tournament and Exhibitition Game Travel Permit Confirmation"
+subject: 25-26 Canadian Tournament and Exhibitition Game Travel Permit Confirmation
 message_count: 1
 first: 2025-12-03
 last: 2025-12-03
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # 25-26 Canadian Tournament and Exhibitition Game Travel Permit Confirmation

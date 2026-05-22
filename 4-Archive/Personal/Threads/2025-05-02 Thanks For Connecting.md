@@ -1,12 +1,14 @@
 ---
-subject: "Thanks For Connecting"
+subject: Thanks For Connecting
 message_count: 1
 first: 2025-05-02
 last: 2025-05-02
 senders:
-  - repreply@toyotabedford.dsmessage.com
+- repreply@toyotabedford.dsmessage.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- vehicles
 ---
 
 # Thanks For Connecting

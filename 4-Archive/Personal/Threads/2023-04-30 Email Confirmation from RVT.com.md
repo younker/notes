@@ -1,12 +1,14 @@
 ---
-subject: "Email Confirmation from RVT.com"
+subject: Email Confirmation from RVT.com
 message_count: 1
 first: 2023-04-30
 last: 2023-04-30
 senders:
-  - tradersupport@rvt.com
+- tradersupport@rvt.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- motorhome
 ---
 
 # Email Confirmation from RVT.com

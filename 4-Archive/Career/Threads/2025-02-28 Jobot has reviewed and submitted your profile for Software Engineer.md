@@ -1,13 +1,15 @@
 ---
-subject: "Jobot has reviewed and submitted your profile for Software
- Engineer"
+subject: Jobot has reviewed and submitted your profile for Software Engineer
 message_count: 1
 first: 2025-02-28
 last: 2025-02-28
 senders:
-  - ryan.kilroy@jobot.com
+- ryan.kilroy@jobot.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- school
 ---
 
 # Jobot has reviewed and submitted your profile for Software

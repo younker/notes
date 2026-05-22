@@ -1,14 +1,22 @@
 ---
-subject: "Canada room block"
+subject: Canada room block
 message_count: 9
 first: 2025-11-24
 last: 2025-11-30
 senders:
-  - bkasiborski@gmail.com
-  - cfirman16@gmail.com
-  - jason@ynkr.org
+- bkasiborski@gmail.com
+- cfirman16@gmail.com
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
+- travel
+contacts:
+- '[[Brian Kasiborski]]'
+- '[[Chris Firman]]'
+- '[[Jason Younker]]'
 ---
 
 # Canada room block

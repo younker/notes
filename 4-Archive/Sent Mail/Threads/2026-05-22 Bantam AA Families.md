@@ -1,12 +1,16 @@
 ---
-subject: "Bantam AA Families"
+subject: Bantam AA Families
 message_count: 1
 first: 2026-05-22
 last: 2026-05-22
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Bantam AA Families

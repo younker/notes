@@ -1,12 +1,17 @@
 ---
-subject: "Your First Day Schedule & Action Items!"
+subject: Your First Day Schedule & Action Items!
 message_count: 1
 first: 2025-03-31
 last: 2025-03-31
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- finance
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Your First Day Schedule & Action Items!

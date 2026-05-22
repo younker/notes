@@ -1,12 +1,15 @@
 ---
-subject: "Your Dyson order confirmation"
+subject: Your Dyson order confirmation
 message_count: 1
 first: 2022-08-13
 last: 2022-08-13
 senders:
-  - questions@dyson.com
+- questions@dyson.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- shopping-receipts
 ---
 
 # Your Dyson order confirmation

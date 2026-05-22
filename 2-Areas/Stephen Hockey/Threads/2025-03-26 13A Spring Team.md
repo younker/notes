@@ -1,12 +1,16 @@
 ---
-subject: "13A Spring Team"
+subject: 13A Spring Team
 message_count: 3
 first: 2025-03-26
 last: 2025-04-04
 senders:
-  - brentcbolin@gmail.com
+- brentcbolin@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Brent Bolin]]'
 ---
 
 # 13A Spring Team

@@ -1,12 +1,15 @@
 ---
-subject: "Stephen’s GPA"
+subject: Stephen’s GPA
 message_count: 1
 first: 2026-02-11
 last: 2026-02-11
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Stephen’s GPA

@@ -1,12 +1,16 @@
 ---
-subject: "HAPPY EASTER! We look forward to celebrating with you this morning"
+subject: HAPPY EASTER! We look forward to celebrating with you this morning
 message_count: 1
 first: 2020-04-12
 last: 2020-04-12
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # HAPPY EASTER! We look forward to celebrating with you this morning

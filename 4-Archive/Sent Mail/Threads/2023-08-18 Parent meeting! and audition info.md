@@ -1,12 +1,16 @@
 ---
-subject: "Parent meeting! and audition info"
+subject: Parent meeting! and audition info
 message_count: 1
 first: 2023-08-18
 last: 2023-08-18
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- school
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Parent meeting! and audition info

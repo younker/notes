@@ -1,12 +1,16 @@
 ---
-subject: "Interview follow up"
+subject: Interview follow up
 message_count: 1
 first: 2021-01-29
 last: 2021-01-29
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Interview follow up

@@ -1,12 +1,14 @@
 ---
-subject: "Quote for Jason Younker (Younker / Additional IGU) from Olympic Glass and Building Materials, Inc. for QU-130193"
+subject: Quote for Jason Younker (Younker / Additional IGU) from Olympic Glass and Building Materials, Inc. for QU-130193
 message_count: 1
 first: 2021-09-21
 last: 2021-09-21
 senders:
-  - messaging-service@post.xero.com
+- messaging-service@post.xero.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Quote for Jason Younker (Younker / Additional IGU) from Olympic Glass and Building Materials, Inc. for QU-130193

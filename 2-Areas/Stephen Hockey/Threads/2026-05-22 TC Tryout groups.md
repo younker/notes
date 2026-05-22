@@ -1,12 +1,15 @@
 ---
-subject: "TC Tryout groups"
+subject: TC Tryout groups
 message_count: 1
 first: 2026-05-22
 last: 2026-05-22
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # TC Tryout groups

@@ -1,12 +1,15 @@
 ---
-subject: "Contact & Info"
+subject: Contact & Info
 message_count: 5
 first: 2021-09-22
 last: 2021-10-04
 senders:
-  - ryan@viewpointcapitalllc.com
+- ryan@viewpointcapitalllc.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- finance
 ---
 
 # Contact & Info

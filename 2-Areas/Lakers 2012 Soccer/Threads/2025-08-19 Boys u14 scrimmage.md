@@ -1,12 +1,16 @@
 ---
-subject: "Boys u14 scrimmage"
+subject: Boys u14 scrimmage
 message_count: 1
 first: 2025-08-19
 last: 2025-08-19
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # Boys u14 scrimmage

@@ -1,12 +1,15 @@
 ---
-subject: "Vehicle Report of Sale Confirmation Number: 0-049-003-729"
+subject: 'Vehicle Report of Sale Confirmation Number: 0-049-003-729'
 message_count: 1
 first: 2021-09-26
 last: 2021-09-26
 senders:
-  - DRIVESEmail@dol.wa.gov
+- DRIVESEmail@dol.wa.gov
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # Vehicle Report of Sale Confirmation Number: 0-049-003-729

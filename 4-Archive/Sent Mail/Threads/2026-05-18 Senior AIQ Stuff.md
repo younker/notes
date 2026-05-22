@@ -1,12 +1,16 @@
 ---
-subject: "Senior AIQ Stuff"
+subject: Senior AIQ Stuff
 message_count: 1
 first: 2026-05-18
 last: 2026-05-18
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Senior AIQ Stuff

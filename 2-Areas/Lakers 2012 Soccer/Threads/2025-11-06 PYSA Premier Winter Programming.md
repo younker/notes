@@ -1,12 +1,17 @@
 ---
-subject: "PYSA Premier Winter Programming"
+subject: PYSA Premier Winter Programming
 message_count: 1
 first: 2025-11-06
 last: 2025-11-06
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # PYSA Premier Winter Programming

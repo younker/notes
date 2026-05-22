@@ -1,12 +1,15 @@
 ---
-subject: "MSPSP Fall 2025 Pre-Divisions & Divisioning Meeting Info (7/15 @ NOON)"
+subject: MSPSP Fall 2025 Pre-Divisions & Divisioning Meeting Info (7/15 @ NOON)
 message_count: 1
 first: 2025-07-12
 last: 2025-07-12
 senders:
-  - no_reply@gotsport.com
+- no_reply@gotsport.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- soccer
 ---
 
 # MSPSP Fall 2025 Pre-Divisions & Divisioning Meeting Info (7/15 @ NOON)

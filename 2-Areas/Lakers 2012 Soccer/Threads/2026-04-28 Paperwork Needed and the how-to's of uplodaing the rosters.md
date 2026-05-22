@@ -1,12 +1,15 @@
 ---
-subject: "Paperwork Needed and the how-to's of uplodaing the rosters"
+subject: Paperwork Needed and the how-to's of uplodaing the rosters
 message_count: 1
 first: 2026-04-28
 last: 2026-04-28
 senders:
-  - no_reply@gotsport.com
+- no_reply@gotsport.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
 ---
 
 # Paperwork Needed and the how-to's of uplodaing the rosters

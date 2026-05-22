@@ -1,12 +1,16 @@
 ---
-subject: "MAC Tournament Schedule Update"
+subject: MAC Tournament Schedule Update
 message_count: 1
 first: 2025-12-01
 last: 2025-12-01
 senders:
-  - cfirman16@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # MAC Tournament Schedule Update

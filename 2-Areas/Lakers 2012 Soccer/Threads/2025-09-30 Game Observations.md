@@ -1,12 +1,15 @@
 ---
-subject: "Game Observations"
+subject: Game Observations
 message_count: 1
 first: 2025-09-30
 last: 2025-09-30
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # Game Observations

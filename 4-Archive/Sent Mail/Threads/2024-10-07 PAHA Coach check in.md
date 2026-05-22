@@ -1,12 +1,16 @@
 ---
-subject: "PAHA Coach check in"
+subject: PAHA Coach check in
 message_count: 1
 first: 2024-10-07
 last: 2024-10-07
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # PAHA Coach check in

@@ -1,12 +1,18 @@
 ---
-subject: "The Morning: Bad-news bias"
+subject: 'The Morning: Bad-news bias'
 message_count: 1
 first: 2021-03-24
 last: 2021-03-24
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- health
+- insurance
+- shopping-receipts
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # The Morning: Bad-news bias

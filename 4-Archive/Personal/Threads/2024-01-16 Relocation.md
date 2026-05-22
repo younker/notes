@@ -1,13 +1,16 @@
 ---
-subject: "Relocation"
+subject: Relocation
 message_count: 2
 first: 2024-01-16
 last: 2024-01-17
 senders:
-  - annette.hernandez@j2.com
-  - erika.guzman@ziffdavis.com
+- annette.hernandez@j2.com
+- erika.guzman@ziffdavis.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- finance
 ---
 
 # Relocation

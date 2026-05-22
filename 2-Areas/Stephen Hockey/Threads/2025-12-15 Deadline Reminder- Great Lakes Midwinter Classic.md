@@ -1,13 +1,16 @@
 ---
-subject: "Deadline Reminder: Great Lakes Midwinter Classic"
+subject: 'Deadline Reminder: Great Lakes Midwinter Classic'
 message_count: 3
 first: 2025-12-15
 last: 2025-12-16
 senders:
-  - cfirman16@gmail.com
-  - pbarton02@gmail.com
+- cfirman16@gmail.com
+- pbarton02@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # Deadline Reminder: Great Lakes Midwinter Classic

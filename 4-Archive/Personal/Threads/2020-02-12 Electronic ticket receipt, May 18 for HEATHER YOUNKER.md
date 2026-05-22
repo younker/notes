@@ -1,12 +1,17 @@
 ---
-subject: "Electronic ticket receipt, May 18 for HEATHER YOUNKER"
+subject: Electronic ticket receipt, May 18 for HEATHER YOUNKER
 message_count: 1
 first: 2020-02-12
 last: 2020-02-12
 senders:
-  - noreply@notification.hawaiianairlines.com
+- noreply@notification.hawaiianairlines.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- insurance
+- travel
+- vehicles
 ---
 
 # Electronic ticket receipt, May 18 for HEATHER YOUNKER

@@ -1,12 +1,17 @@
 ---
-subject: "2 Wild Kratts Creature Power Suits (with discs)"
+subject: 2 Wild Kratts Creature Power Suits (with discs)
 message_count: 1
 first: 2021-08-29
 last: 2021-08-29
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- shopping-receipts
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # 2 Wild Kratts Creature Power Suits (with discs)

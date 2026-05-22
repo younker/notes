@@ -1,14 +1,19 @@
 ---
-subject: "Stay to Play restrictions"
+subject: Stay to Play restrictions
 message_count: 3
 first: 2025-12-16
 last: 2025-12-16
 senders:
-  - alexp@myhockeytournaments.com
-  - blcook6383@aol.com
-  - will@myhockeytournaments.com
+- alexp@myhockeytournaments.com
+- blcook6383@aol.com
+- will@myhockeytournaments.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
+contacts:
+- '[[Brandon Cook]]'
 ---
 
 # Stay to Play restrictions

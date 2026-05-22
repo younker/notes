@@ -1,12 +1,16 @@
 ---
-subject: "PYSA 2012 Lakers July Update"
+subject: PYSA 2012 Lakers July Update
 message_count: 1
 first: 2025-07-14
 last: 2025-07-14
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # PYSA 2012 Lakers July Update

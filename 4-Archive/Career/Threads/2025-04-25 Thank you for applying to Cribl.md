@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to Cribl"
+subject: Thank you for applying to Cribl
 message_count: 1
 first: 2025-04-25
 last: 2025-04-25
 senders:
-  - no-reply@cribl.io
+- no-reply@cribl.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Thank you for applying to Cribl

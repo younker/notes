@@ -1,12 +1,14 @@
 ---
-subject: "PAHA 13UA Spring Team Registration 2025 Confirmation"
+subject: PAHA 13UA Spring Team Registration 2025 Confirmation
 message_count: 1
 first: 2025-04-07
 last: 2025-04-07
 senders:
-  - no-reply@mailer-h.sportsengine.com
+- no-reply@mailer-h.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # PAHA 13UA Spring Team Registration 2025 Confirmation

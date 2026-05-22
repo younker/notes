@@ -1,12 +1,15 @@
 ---
-subject: "Receipt for order #9652"
+subject: 'Receipt for order #9652'
 message_count: 1
 first: 2025-06-24
 last: 2025-06-24
 senders:
-  - store+24433475@t.shopifyemail.com
+- store+24433475@t.shopifyemail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # Receipt for order #9652

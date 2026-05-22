@@ -1,12 +1,17 @@
 ---
-subject: "Your SOCCER.COM Order"
+subject: Your SOCCER.COM Order
 message_count: 1
 first: 2025-07-16
 last: 2025-07-16
 senders:
-  - custserv@sportsendeavors.com
+- custserv@sportsendeavors.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
+- real-estate
+- soccer
 ---
 
 # Your SOCCER.COM Order

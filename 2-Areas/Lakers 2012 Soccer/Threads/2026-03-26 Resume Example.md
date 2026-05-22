@@ -1,12 +1,16 @@
 ---
-subject: "Resume Example"
+subject: Resume Example
 message_count: 1
 first: 2026-03-26
 last: 2026-03-26
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # Resume Example

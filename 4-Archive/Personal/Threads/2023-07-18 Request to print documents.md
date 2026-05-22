@@ -1,12 +1,14 @@
 ---
-subject: "Request to print documents"
+subject: Request to print documents
 message_count: 1
 first: 2023-07-18
 last: 2023-07-18
 senders:
-  - reservations@hearthsidegrove.com
+- reservations@hearthsidegrove.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- motorhome
 ---
 
 # Request to print documents

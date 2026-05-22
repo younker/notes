@@ -1,12 +1,16 @@
 ---
-subject: "US Grassroots Courses 4/5"
+subject: US Grassroots Courses 4/5
 message_count: 2
 first: 2025-03-07
 last: 2025-03-14
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # US Grassroots Courses 4/5

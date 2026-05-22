@@ -1,12 +1,15 @@
 ---
-subject: "Dispatch Notification - Trucker assigned - Order #1826904"
+subject: 'Dispatch Notification - Trucker assigned - Order #1826904'
 message_count: 1
 first: 2023-06-05
 last: 2023-06-05
 senders:
-  - info@montway.com
+- info@montway.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # Dispatch Notification - Trucker assigned - Order #1826904

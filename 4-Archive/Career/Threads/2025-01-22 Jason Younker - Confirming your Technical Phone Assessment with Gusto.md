@@ -1,12 +1,14 @@
 ---
-subject: "Jason Younker - Confirming your Technical Phone Assessment with Gusto"
+subject: Jason Younker - Confirming your Technical Phone Assessment with Gusto
 message_count: 1
 first: 2025-01-22
 last: 2025-01-22
 senders:
-  - carren.scialacomo@gusto.com
+- carren.scialacomo@gusto.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Jason Younker - Confirming your Technical Phone Assessment with Gusto

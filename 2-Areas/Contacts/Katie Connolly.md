@@ -1,12 +1,16 @@
 ---
-name: "Katie Connolly"
-first_name: "Katie"
-last_name: "Connolly"
+name: Katie Connolly
+first_name: Katie
+last_name: Connolly
 phones:
-  - "+1 (231) 838-1225"
+- +1 (231) 838-1225
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
+- contact/person
+emails:
+- katienowels@gmail.com
 ---
 
 # Katie Connolly
@@ -16,3 +20,9 @@ tags: [contact, contact/person]
 
 ## Notes
 PAHA Helped get Jacob goalie gear
+
+## Email Threads
+
+*1 threads*
+
+- [[2025-12-27 Goalie Equipment]]

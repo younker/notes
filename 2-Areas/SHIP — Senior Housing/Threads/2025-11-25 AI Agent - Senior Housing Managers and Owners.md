@@ -1,12 +1,16 @@
 ---
-subject: "AI Agent - Senior Housing Managers and Owners"
+subject: AI Agent - Senior Housing Managers and Owners
 message_count: 1
 first: 2025-11-25
 last: 2025-11-25
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # AI Agent - Senior Housing Managers and Owners

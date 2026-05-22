@@ -1,12 +1,17 @@
 ---
-subject: "2012 (birth year) soccer coaching opportunities"
+subject: 2012 (birth year) soccer coaching opportunities
 message_count: 3
 first: 2024-02-03
 last: 2024-06-06
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # 2012 (birth year) soccer coaching opportunities

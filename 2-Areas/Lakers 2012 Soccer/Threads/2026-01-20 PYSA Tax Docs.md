@@ -1,12 +1,15 @@
 ---
-subject: "PYSA Tax Docs"
+subject: PYSA Tax Docs
 message_count: 1
 first: 2026-01-20
 last: 2026-01-20
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # PYSA Tax Docs

@@ -1,12 +1,15 @@
 ---
-subject: "Fraud Case"
+subject: Fraud Case
 message_count: 1
 first: 2021-01-25
 last: 2021-01-25
 senders:
-  - ESDFRAUD@ESD.WA.GOV
+- ESDFRAUD@ESD.WA.GOV
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- insurance
 ---
 
 # Fraud Case

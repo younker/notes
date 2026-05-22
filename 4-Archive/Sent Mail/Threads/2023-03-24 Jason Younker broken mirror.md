@@ -1,12 +1,16 @@
 ---
-subject: "Jason Younker broken mirror"
+subject: Jason Younker broken mirror
 message_count: 1
 first: 2023-03-24
 last: 2023-03-24
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- motorhome
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Jason Younker broken mirror

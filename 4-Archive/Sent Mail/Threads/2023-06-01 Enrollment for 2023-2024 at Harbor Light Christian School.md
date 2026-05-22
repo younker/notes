@@ -1,12 +1,17 @@
 ---
-subject: "Enrollment for 2023-2024 at Harbor Light Christian School"
+subject: Enrollment for 2023-2024 at Harbor Light Christian School
 message_count: 2
 first: 2023-06-01
 last: 2023-06-01
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- church
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Enrollment for 2023-2024 at Harbor Light Christian School

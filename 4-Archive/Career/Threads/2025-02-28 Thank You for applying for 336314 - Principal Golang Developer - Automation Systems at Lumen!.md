@@ -1,13 +1,14 @@
 ---
-subject: "Thank You for applying for 336314 - Principal Golang Developer -
- Automation Systems at Lumen!"
+subject: Thank You for applying for 336314 - Principal Golang Developer - Automation Systems at Lumen!
 message_count: 1
 first: 2025-02-28
 last: 2025-02-28
 senders:
-  - mylink.admin@centurylink.com
+- mylink.admin@centurylink.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- school
 ---
 
 # Thank You for applying for 336314 - Principal Golang Developer -

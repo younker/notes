@@ -1,12 +1,15 @@
 ---
-subject: "K1 - Assisted/Independent Living- Yakima"
+subject: K1 - Assisted/Independent Living- Yakima
 message_count: 1
 first: 2019-04-01
 last: 2019-04-01
 senders:
-  - mike@cascadiaseniorliving.com
+- mike@cascadiaseniorliving.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
 ---
 
 # K1 - Assisted/Independent Living- Yakima

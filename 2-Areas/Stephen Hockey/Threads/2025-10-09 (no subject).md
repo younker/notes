@@ -1,13 +1,18 @@
 ---
-subject: "(no subject)"
+subject: (no subject)
 message_count: 2
 first: 2025-10-09
 last: 2025-12-18
 senders:
-  - cfirman16@gmail.com
-  - jason@ynkr.org
+- cfirman16@gmail.com
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- shopping-receipts
+contacts:
+- '[[Chris Firman]]'
+- '[[Jason Younker]]'
 ---
 
 # (no subject)

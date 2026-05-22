@@ -1,12 +1,15 @@
 ---
-subject: "Novara Buzz"
+subject: Novara Buzz
 message_count: 2
 first: 2023-04-07
 last: 2023-10-06
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Novara Buzz

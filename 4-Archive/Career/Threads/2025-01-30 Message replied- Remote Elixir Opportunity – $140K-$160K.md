@@ -1,12 +1,14 @@
 ---
-subject: "Message replied: Remote Elixir Opportunity – $140K-$160K"
+subject: 'Message replied: Remote Elixir Opportunity – $140K-$160K'
 message_count: 1
 first: 2025-01-30
 last: 2025-01-30
 senders:
-  - hit-reply@linkedin.com
+- hit-reply@linkedin.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Message replied: Remote Elixir Opportunity – $140K-$160K

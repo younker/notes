@@ -1,12 +1,14 @@
 ---
-subject: "IMPORTANT INFO- Change in payroll schedule notification #3"
+subject: 'IMPORTANT INFO- Change in payroll schedule notification #3'
 message_count: 1
 first: 2023-09-22
 last: 2023-09-22
 senders:
-  - liz.white@ziffdavis.com
+- liz.white@ziffdavis.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # IMPORTANT INFO- Change in payroll schedule notification #3

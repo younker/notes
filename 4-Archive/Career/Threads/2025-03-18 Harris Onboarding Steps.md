@@ -1,12 +1,17 @@
 ---
-subject: "Harris Onboarding Steps"
+subject: Harris Onboarding Steps
 message_count: 3
 first: 2025-03-18
 last: 2025-03-21
 senders:
-  - kat.grolle@harrispoll.com
+- kat.grolle@harrispoll.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- cascadia-ship
+- email
+contacts:
+- '[[Kat Grolle]]'
 ---
 
 # Harris Onboarding Steps

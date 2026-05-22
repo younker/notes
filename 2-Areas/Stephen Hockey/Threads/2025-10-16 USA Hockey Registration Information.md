@@ -1,12 +1,15 @@
 ---
-subject: "USA Hockey Registration Information"
+subject: USA Hockey Registration Information
 message_count: 1
 first: 2025-10-16
 last: 2025-10-16
 senders:
-  - receipt@membership.usahockey.com
+- receipt@membership.usahockey.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # USA Hockey Registration Information

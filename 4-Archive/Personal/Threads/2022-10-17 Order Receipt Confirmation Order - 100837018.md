@@ -1,12 +1,15 @@
 ---
-subject: "Order Receipt Confirmation Order : 100837018"
+subject: 'Order Receipt Confirmation Order : 100837018'
 message_count: 1
 first: 2022-10-17
 last: 2022-10-17
 senders:
-  - parts@tiffinmotorhomes.com
+- parts@tiffinmotorhomes.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # Order Receipt Confirmation Order : 100837018

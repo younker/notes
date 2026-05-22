@@ -1,12 +1,16 @@
 ---
-subject: "Younker insurance"
+subject: Younker insurance
 message_count: 1
 first: 2026-01-28
 last: 2026-01-28
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- insurance
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Younker insurance

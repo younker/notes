@@ -1,12 +1,19 @@
 ---
-subject: "From Jason Younker"
+subject: From Jason Younker
 message_count: 15
 first: 2023-05-05
 last: 2023-06-12
 senders:
-  - jmcpheeters@GeneralRv.com
+- jmcpheeters@GeneralRv.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- home-improvement
+- insurance
+- motorhome
+- real-estate
+- vehicles
 ---
 
 # From Jason Younker

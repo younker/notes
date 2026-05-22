@@ -1,12 +1,16 @@
 ---
-subject: "Summary: Senior Housing Facility Selection - LLM vs Traditional Data Service"
+subject: 'Summary: Senior Housing Facility Selection - LLM vs Traditional Data Service'
 message_count: 1
 first: 2025-12-30
 last: 2025-12-30
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Summary: Senior Housing Facility Selection - LLM vs Traditional Data Service

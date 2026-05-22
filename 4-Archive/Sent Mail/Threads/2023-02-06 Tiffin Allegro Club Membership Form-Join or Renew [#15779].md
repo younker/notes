@@ -1,12 +1,17 @@
 ---
-subject: "Tiffin Allegro Club Membership Form-Join or Renew [#15779]"
+subject: Tiffin Allegro Club Membership Form-Join or Renew [#15779]
 message_count: 1
 first: 2023-02-06
 last: 2023-02-06
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Tiffin Allegro Club Membership Form-Join or Renew [#15779]

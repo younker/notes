@@ -1,12 +1,15 @@
 ---
-subject: "Receipt Confirmation"
+subject: Receipt Confirmation
 message_count: 1
 first: 2023-09-21
 last: 2023-09-21
 senders:
-  - do_not_reply@payments.intuit.com
+- do_not_reply@payments.intuit.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- real-estate
 ---
 
 # Receipt Confirmation

@@ -1,12 +1,18 @@
 ---
-subject: "Health Benefits Continued?"
+subject: Health Benefits Continued?
 message_count: 3
 first: 2025-04-21
 last: 2025-04-21
 senders:
-  - benefits@ziffdavis.com
+- benefits@ziffdavis.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- finance
+- health
+- insurance
+- real-estate
 ---
 
 # Health Benefits Continued?

@@ -1,12 +1,15 @@
 ---
-subject: "Google: We've received your payment for 0584-9651-3226"
+subject: 'Google: We''ve received your payment for 0584-9651-3226'
 message_count: 1
 first: 2026-05-07
 last: 2026-05-07
 senders:
-  - payments-noreply@google.com
+- payments-noreply@google.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- school
 ---
 
 # Google: We've received your payment for 0584-9651-3226

@@ -1,14 +1,18 @@
 ---
-subject: "USA Coaching CEP"
+subject: USA Coaching CEP
 message_count: 3
 first: 2025-11-18
 last: 2025-12-19
 senders:
-  - ben@vandamboats.com
-  - jason@ynkr.org
-  - petoskeyhockeyregistrar@gmail.com
+- ben@vandamboats.com
+- jason@ynkr.org
+- petoskeyhockeyregistrar@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # USA Coaching CEP

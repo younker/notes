@@ -1,12 +1,15 @@
 ---
-subject: "Adapt Health"
+subject: Adapt Health
 message_count: 2
 first: 2021-08-10
 last: 2021-08-18
 senders:
-  - nicole@soundoxygen.com
+- nicole@soundoxygen.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- insurance
 ---
 
 # Adapt Health

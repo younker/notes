@@ -1,12 +1,14 @@
 ---
-subject: "Younker family"
+subject: Younker family
 message_count: 2
 first: 2023-05-03
 last: 2023-05-03
 senders:
-  - daveoc@crosssound.org
+- daveoc@crosssound.org
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
 ---
 
 # Younker family

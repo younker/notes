@@ -1,12 +1,14 @@
 ---
-subject: "[Petoskey PeeWee ] 13A Spring team - checking interest"
+subject: '[Petoskey PeeWee ] 13A Spring team - checking interest'
 message_count: 1
 first: 2025-02-06
 last: 2025-02-06
 senders:
-  - no-reply@mailer.sportsengine.com
+- no-reply@mailer.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # [Petoskey PeeWee ] 13A Spring team - checking interest

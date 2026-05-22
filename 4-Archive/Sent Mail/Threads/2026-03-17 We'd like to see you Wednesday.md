@@ -1,12 +1,16 @@
 ---
-subject: "We'd like to see you Wednesday"
+subject: We'd like to see you Wednesday
 message_count: 1
 first: 2026-03-17
 last: 2026-03-17
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # We'd like to see you Wednesday

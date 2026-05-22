@@ -1,12 +1,16 @@
 ---
-subject: "Updated PAHA 14UB Roster 12-31-2025"
+subject: Updated PAHA 14UB Roster 12-31-2025
 message_count: 1
 first: 2026-01-02
 last: 2026-01-02
 senders:
-  - brentcbolin@gmail.com
+- brentcbolin@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Brent Bolin]]'
 ---
 
 # Updated PAHA 14UB Roster 12-31-2025

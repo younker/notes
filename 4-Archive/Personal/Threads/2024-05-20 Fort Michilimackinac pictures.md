@@ -1,12 +1,14 @@
 ---
-subject: "Fort Michilimackinac pictures"
+subject: Fort Michilimackinac pictures
 message_count: 1
 first: 2024-05-20
 last: 2024-05-20
 senders:
-  - email@renweb.com
+- email@renweb.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- school
 ---
 
 # Fort Michilimackinac pictures

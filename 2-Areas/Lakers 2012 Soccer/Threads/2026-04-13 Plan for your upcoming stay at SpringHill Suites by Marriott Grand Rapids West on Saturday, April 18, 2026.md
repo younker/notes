@@ -1,13 +1,14 @@
 ---
-subject: "Plan for your upcoming stay at SpringHill Suites by Marriott Grand
- Rapids West on Saturday, April 18, 2026"
+subject: Plan for your upcoming stay at SpringHill Suites by Marriott Grand Rapids West on Saturday, April 18, 2026
 message_count: 1
 first: 2026-04-13
 last: 2026-04-13
 senders:
-  - reservations@res-marriott.com
+- reservations@res-marriott.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- travel
 ---
 
 # Plan for your upcoming stay at SpringHill Suites by Marriott Grand

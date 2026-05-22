@@ -1,13 +1,14 @@
 ---
-subject: "Invitation: Jason Younker and Frank Bardon + Bin Le @ Wed Mar 5, 2025
- 2pm - 3pm (EST) (jason@ynkr.org)"
+subject: 'Invitation: Jason Younker and Frank Bardon + Bin Le @ Wed Mar 5, 2025 2pm - 3pm (EST) (jason@ynkr.org)'
 message_count: 1
 first: 2025-03-04
 last: 2025-03-04
 senders:
-  - fbardon@bera.ai
+- fbardon@bera.ai
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Invitation: Jason Younker and Frank Bardon + Bin Le @ Wed Mar 5, 2025

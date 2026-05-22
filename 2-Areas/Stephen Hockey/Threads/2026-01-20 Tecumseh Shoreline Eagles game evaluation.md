@@ -1,12 +1,16 @@
 ---
-subject: "Tecumseh Shoreline Eagles game evaluation"
+subject: Tecumseh Shoreline Eagles game evaluation
 message_count: 1
 first: 2026-01-20
 last: 2026-01-20
 senders:
-  - blcook6383@aol.com
+- blcook6383@aol.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Brandon Cook]]'
 ---
 
 # Tecumseh Shoreline Eagles game evaluation

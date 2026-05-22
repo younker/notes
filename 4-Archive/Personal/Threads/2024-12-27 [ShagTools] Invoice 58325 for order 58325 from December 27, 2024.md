@@ -1,12 +1,16 @@
 ---
-subject: "[ShagTools] Invoice 58325 for order 58325 from December 27, 2024"
+subject: '[ShagTools] Invoice 58325 for order 58325 from December 27, 2024'
 message_count: 1
 first: 2024-12-27
 last: 2024-12-27
 senders:
-  - orders@shagtools.com
+- orders@shagtools.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- real-estate
+- shopping-receipts
 ---
 
 # [ShagTools] Invoice 58325 for order 58325 from December 27, 2024

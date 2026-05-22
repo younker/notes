@@ -1,12 +1,15 @@
 ---
-subject: "2019 - K1 - Cascadia Holdings Yakima"
+subject: 2019 - K1 - Cascadia Holdings Yakima
 message_count: 1
 first: 2020-07-10
 last: 2020-07-10
 senders:
-  - investor.relations@cascadiaseniorliving.com
+- investor.relations@cascadiaseniorliving.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
 ---
 
 # 2019 - K1 - Cascadia Holdings Yakima

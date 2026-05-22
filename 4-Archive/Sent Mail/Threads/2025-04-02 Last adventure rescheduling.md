@@ -1,12 +1,17 @@
 ---
-subject: "Last adventure rescheduling"
+subject: Last adventure rescheduling
 message_count: 1
 first: 2025-04-02
 last: 2025-04-02
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- finance
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Last adventure rescheduling

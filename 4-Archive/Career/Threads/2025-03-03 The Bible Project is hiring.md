@@ -1,12 +1,16 @@
 ---
-subject: "The Bible Project is hiring"
+subject: The Bible Project is hiring
 message_count: 1
 first: 2025-03-03
 last: 2025-03-03
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # The Bible Project is hiring

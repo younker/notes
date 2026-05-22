@@ -1,12 +1,15 @@
 ---
-subject: "for tonight"
+subject: for tonight
 message_count: 1
 first: 2025-09-10
 last: 2025-09-10
 senders:
-  - brentcbolin@gmail.com
+- brentcbolin@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brent Bolin]]'
 ---
 
 # for tonight

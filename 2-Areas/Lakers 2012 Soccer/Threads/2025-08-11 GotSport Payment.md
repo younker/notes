@@ -1,12 +1,15 @@
 ---
-subject: "GotSport Payment"
+subject: GotSport Payment
 message_count: 1
 first: 2025-08-11
 last: 2025-08-11
 senders:
-  - no_reply@gotsoccer.com
+- no_reply@gotsoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- soccer
 ---
 
 # GotSport Payment

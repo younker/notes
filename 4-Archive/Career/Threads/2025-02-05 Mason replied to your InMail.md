@@ -1,12 +1,14 @@
 ---
-subject: "Mason replied to your InMail"
+subject: Mason replied to your InMail
 message_count: 1
 first: 2025-02-05
 last: 2025-02-05
 senders:
-  - hit-reply@linkedin.com
+- hit-reply@linkedin.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Mason replied to your InMail

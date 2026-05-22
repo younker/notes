@@ -1,12 +1,16 @@
 ---
-subject: "Enrollment for 2023-2024 at Harbor Light Christian School"
+subject: Enrollment for 2023-2024 at Harbor Light Christian School
 message_count: 2
 first: 2023-05-31
 last: 2023-05-31
 senders:
-  - hlcs@harborlight.org
+- hlcs@harborlight.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- church
+- email
+- school
 ---
 
 # Enrollment for 2023-2024 at Harbor Light Christian School

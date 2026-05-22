@@ -1,13 +1,16 @@
 ---
-subject: "2012 Lakers/Pass Cards/Ref $"
+subject: 2012 Lakers/Pass Cards/Ref $
 message_count: 2
 first: 2026-04-13
 last: 2026-04-13
 senders:
-  - bryan@petoskeysoccer.com
-  - danielleschopp@yahoo.com
+- bryan@petoskeysoccer.com
+- danielleschopp@yahoo.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # 2012 Lakers/Pass Cards/Ref $

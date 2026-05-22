@@ -1,12 +1,16 @@
 ---
-subject: "Please read and let me know your thoughts...."
+subject: Please read and let me know your thoughts....
 message_count: 1
 first: 2025-12-19
 last: 2025-12-19
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Please read and let me know your thoughts....

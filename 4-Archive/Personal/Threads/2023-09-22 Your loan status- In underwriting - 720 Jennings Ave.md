@@ -1,12 +1,14 @@
 ---
-subject: "Your loan status: In underwriting - 720 Jennings Ave"
+subject: 'Your loan status: In underwriting - 720 Jennings Ave'
 message_count: 1
 first: 2023-09-22
 last: 2023-09-22
 senders:
-  - nathan@rate.com
+- nathan@rate.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Your loan status: In underwriting - 720 Jennings Ave

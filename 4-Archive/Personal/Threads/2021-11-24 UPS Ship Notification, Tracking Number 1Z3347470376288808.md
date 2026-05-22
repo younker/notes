@@ -1,12 +1,16 @@
 ---
-subject: "UPS Ship Notification, Tracking Number 1Z3347470376288808"
+subject: UPS Ship Notification, Tracking Number 1Z3347470376288808
 message_count: 1
 first: 2021-11-24
 last: 2021-11-24
 senders:
-  - pkginfo@ups.com
+- pkginfo@ups.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- motorhome
+- shopping-receipts
 ---
 
 # UPS Ship Notification, Tracking Number 1Z3347470376288808

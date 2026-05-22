@@ -1,12 +1,17 @@
 ---
-subject: "For the Holland tournament"
+subject: For the Holland tournament
 message_count: 1
 first: 2026-01-16
 last: 2026-01-16
 senders:
-  - blcook6383@aol.com
+- blcook6383@aol.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- vehicles
+contacts:
+- '[[Brandon Cook]]'
 ---
 
 # For the Holland tournament

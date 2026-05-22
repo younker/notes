@@ -1,12 +1,16 @@
 ---
-subject: "Younker 234731645-IMPORTANT INSTRUCTIONS FOR CLOSING"
+subject: Younker 234731645-IMPORTANT INSTRUCTIONS FOR CLOSING
 message_count: 1
 first: 2023-10-11
 last: 2023-10-11
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Younker 234731645-IMPORTANT INSTRUCTIONS FOR CLOSING

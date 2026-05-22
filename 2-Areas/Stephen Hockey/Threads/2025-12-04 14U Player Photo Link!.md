@@ -1,12 +1,15 @@
 ---
-subject: "14U Player Photo Link!"
+subject: 14U Player Photo Link!
 message_count: 1
 first: 2025-12-04
 last: 2025-12-04
 senders:
-  - no-reply@mailer.sportsengine.com
+- no-reply@mailer.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- shopping-receipts
 ---
 
 # 14U Player Photo Link!

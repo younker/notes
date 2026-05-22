@@ -1,12 +1,14 @@
 ---
-subject: "Mobile Check-In for Skyline Hotel & Waterpark"
+subject: Mobile Check-In for Skyline Hotel & Waterpark
 message_count: 1
 first: 2026-01-06
 last: 2026-01-06
 senders:
-  - bookings@skylinehotelniagarafalls.ca
+- bookings@skylinehotelniagarafalls.ca
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Mobile Check-In for Skyline Hotel & Waterpark

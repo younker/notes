@@ -1,12 +1,14 @@
 ---
-subject: "Please review Inspection Addendum. Price"
+subject: Please review Inspection Addendum. Price
 message_count: 1
 first: 2023-09-25
 last: 2023-09-25
 senders:
-  - hit-reply@dotloop.com
+- hit-reply@dotloop.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Please review Inspection Addendum. Price

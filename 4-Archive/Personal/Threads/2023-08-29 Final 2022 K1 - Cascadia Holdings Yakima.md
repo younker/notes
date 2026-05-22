@@ -1,12 +1,15 @@
 ---
-subject: "Final 2022 K1 - Cascadia Holdings Yakima"
+subject: Final 2022 K1 - Cascadia Holdings Yakima
 message_count: 1
 first: 2023-08-29
 last: 2023-08-29
 senders:
-  - mike@cascadiaseniorliving.com
+- mike@cascadiaseniorliving.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
 ---
 
 # Final 2022 K1 - Cascadia Holdings Yakima

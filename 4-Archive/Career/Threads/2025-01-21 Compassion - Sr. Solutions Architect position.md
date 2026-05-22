@@ -1,12 +1,14 @@
 ---
-subject: "Compassion - Sr. Solutions Architect position"
+subject: Compassion - Sr. Solutions Architect position
 message_count: 4
 first: 2025-01-21
 last: 2025-01-29
 senders:
-  - SaPark@us.ci.org
+- SaPark@us.ci.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Compassion - Sr. Solutions Architect position

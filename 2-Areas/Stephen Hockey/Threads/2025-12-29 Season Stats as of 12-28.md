@@ -1,13 +1,17 @@
 ---
-subject: "Season Stats as of 12/28"
+subject: Season Stats as of 12/28
 message_count: 3
 first: 2025-12-29
 last: 2025-12-29
 senders:
-  - blcook6383@aol.com
-  - cfirman16@gmail.com
+- blcook6383@aol.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brandon Cook]]'
+- '[[Chris Firman]]'
 ---
 
 # Season Stats as of 12/28

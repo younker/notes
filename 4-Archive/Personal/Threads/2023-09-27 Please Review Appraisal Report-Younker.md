@@ -1,12 +1,14 @@
 ---
-subject: "Please Review Appraisal Report-Younker"
+subject: Please Review Appraisal Report-Younker
 message_count: 1
 first: 2023-09-27
 last: 2023-09-27
 senders:
-  - dse@docusign.net
+- dse@docusign.net
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Please Review Appraisal Report-Younker

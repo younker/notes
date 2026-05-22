@@ -1,12 +1,18 @@
 ---
-subject: "Seedlings"
+subject: Seedlings
 message_count: 1
 first: 2020-03-21
 last: 2020-03-21
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- hunting-outdoors
+- shopping-receipts
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Seedlings

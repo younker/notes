@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for your Calm Application"
+subject: Thank you for your Calm Application
 message_count: 1
 first: 2025-01-03
 last: 2025-01-03
 senders:
-  - no-reply@appreview.gem.com
+- no-reply@appreview.gem.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thank you for your Calm Application

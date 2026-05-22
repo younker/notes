@@ -1,12 +1,15 @@
 ---
-subject: "Thank you for registering!"
+subject: Thank you for registering!
 message_count: 2
 first: 2025-06-11
 last: 2026-03-18
 senders:
-  - director@petoskeysoccer.com
+- director@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- soccer
 ---
 
 # Thank you for registering!

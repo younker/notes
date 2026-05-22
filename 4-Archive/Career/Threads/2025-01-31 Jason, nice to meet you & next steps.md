@@ -1,12 +1,14 @@
 ---
-subject: "Jason, nice to meet you & next steps"
+subject: Jason, nice to meet you & next steps
 message_count: 1
 first: 2025-01-31
 last: 2025-01-31
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Jason, nice to meet you & next steps

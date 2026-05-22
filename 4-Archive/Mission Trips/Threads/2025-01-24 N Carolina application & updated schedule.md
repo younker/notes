@@ -1,12 +1,15 @@
 ---
-subject: "N Carolina application & updated schedule"
+subject: N Carolina application & updated schedule
 message_count: 1
 first: 2025-01-24
 last: 2025-01-24
 senders:
-  - kmolmsted@gmail.com
+- kmolmsted@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+- finance
 ---
 
 # N Carolina application & updated schedule

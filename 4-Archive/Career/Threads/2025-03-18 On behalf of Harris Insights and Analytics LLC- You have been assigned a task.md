@@ -1,13 +1,14 @@
 ---
-subject: "On behalf of Harris Insights and Analytics LLC: You have been
- assigned a task"
+subject: 'On behalf of Harris Insights and Analytics LLC: You have been assigned a task'
 message_count: 1
 first: 2025-03-18
 last: 2025-03-18
 senders:
-  - noreply@sterling.app
+- noreply@sterling.app
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # On behalf of Harris Insights and Analytics LLC: You have been

@@ -1,12 +1,16 @@
 ---
-subject: "About that Moz interview cancellation...And we're back!"
+subject: About that Moz interview cancellation...And we're back!
 message_count: 1
 first: 2023-02-04
 last: 2023-02-04
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # About that Moz interview cancellation...And we're back!

@@ -1,13 +1,14 @@
 ---
-subject: "AWS Budgets: Account 042143600000 has a budget exceeding your alert
- threshold"
+subject: 'AWS Budgets: Account 042143600000 has a budget exceeding your alert threshold'
 message_count: 2
 first: 2026-05-01
 last: 2026-05-10
 senders:
-  - budgets@costalerts.amazonaws.com
+- budgets@costalerts.amazonaws.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- shopping-receipts
 ---
 
 # AWS Budgets: Account 042143600000 has a budget exceeding your alert

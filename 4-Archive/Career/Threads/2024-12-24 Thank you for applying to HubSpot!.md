@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to HubSpot!"
+subject: Thank you for applying to HubSpot!
 message_count: 1
 first: 2024-12-24
 last: 2024-12-24
 senders:
-  - no-reply@hubspot.com
+- no-reply@hubspot.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thank you for applying to HubSpot!

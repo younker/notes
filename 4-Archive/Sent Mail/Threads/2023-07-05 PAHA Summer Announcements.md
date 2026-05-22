@@ -1,12 +1,16 @@
 ---
-subject: "PAHA Summer Announcements"
+subject: PAHA Summer Announcements
 message_count: 2
 first: 2023-07-05
 last: 2023-07-16
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # PAHA Summer Announcements

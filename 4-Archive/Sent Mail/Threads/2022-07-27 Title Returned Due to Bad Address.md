@@ -1,12 +1,16 @@
 ---
-subject: "Title Returned Due to Bad Address"
+subject: Title Returned Due to Bad Address
 message_count: 1
 first: 2022-07-27
 last: 2022-07-27
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Title Returned Due to Bad Address

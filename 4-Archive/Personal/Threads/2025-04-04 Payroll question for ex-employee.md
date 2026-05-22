@@ -1,12 +1,15 @@
 ---
-subject: "Payroll question for ex-employee"
+subject: Payroll question for ex-employee
 message_count: 1
 first: 2025-04-04
 last: 2025-04-04
 senders:
-  - sara.laurencic@moz.com
+- sara.laurencic@moz.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- finance
 ---
 
 # Payroll question for ex-employee

@@ -1,12 +1,15 @@
 ---
-subject: "Petoskey Grassroots Courses 7v7 and 11v11"
+subject: Petoskey Grassroots Courses 7v7 and 11v11
 message_count: 1
 first: 2025-07-18
 last: 2025-07-18
 senders:
-  - bryan.l.goyings@gmail.com
+- bryan.l.goyings@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
 ---
 
 # Petoskey Grassroots Courses 7v7 and 11v11

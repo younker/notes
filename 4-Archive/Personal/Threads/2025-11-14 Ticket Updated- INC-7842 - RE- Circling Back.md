@@ -1,12 +1,15 @@
 ---
-subject: "Ticket Updated: INC-7842 - RE: Circling Back"
+subject: 'Ticket Updated: INC-7842 - RE: Circling Back'
 message_count: 1
 first: 2025-11-14
 last: 2025-11-14
 senders:
-  - benefits@stagwellglobal.com
+- benefits@stagwellglobal.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- insurance
 ---
 
 # Ticket Updated: INC-7842 - RE: Circling Back

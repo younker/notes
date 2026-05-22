@@ -1,12 +1,16 @@
 ---
-subject: "Your parcel will soon be on its way"
+subject: Your parcel will soon be on its way
 message_count: 1
 first: 2021-08-30
 last: 2021-08-30
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Your parcel will soon be on its way

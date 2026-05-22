@@ -1,12 +1,15 @@
 ---
-subject: "Your Petoskey Youth Soccer Association Payment Has Been Processed"
+subject: Your Petoskey Youth Soccer Association Payment Has Been Processed
 message_count: 1
 first: 2025-06-15
 last: 2025-06-15
 senders:
-  - director@petoskeysoccer.com
+- director@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- soccer
 ---
 
 # Your Petoskey Youth Soccer Association Payment Has Been Processed

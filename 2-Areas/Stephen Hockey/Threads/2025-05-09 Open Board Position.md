@@ -1,12 +1,15 @@
 ---
-subject: "Open Board Position"
+subject: Open Board Position
 message_count: 1
 first: 2025-05-09
 last: 2025-05-09
 senders:
-  - pahacommunications@gmail.com
+- pahacommunications@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
 ---
 
 # Open Board Position

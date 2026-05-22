@@ -1,12 +1,15 @@
 ---
-subject: "Move up request"
+subject: Move up request
 message_count: 1
 first: 2025-12-01
 last: 2025-12-01
 senders:
-  - cfirman16@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # Move up request

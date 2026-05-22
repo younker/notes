@@ -1,12 +1,16 @@
 ---
-subject: "[Petoskey Squirt 10U White] pre season skating"
+subject: '[Petoskey Squirt 10U White] pre season skating'
 message_count: 1
 first: 2023-08-22
 last: 2023-08-22
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # [Petoskey Squirt 10U White] pre season skating

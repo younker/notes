@@ -1,12 +1,15 @@
 ---
-subject: "Follow up on First Hour Classroom Visit Today"
+subject: Follow up on First Hour Classroom Visit Today
 message_count: 1
 first: 2024-10-16
 last: 2024-10-16
 senders:
-  - email@renweb.com
+- email@renweb.com
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+- school
 ---
 
 # Follow up on First Hour Classroom Visit Today

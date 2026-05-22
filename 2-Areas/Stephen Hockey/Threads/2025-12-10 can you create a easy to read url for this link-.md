@@ -1,12 +1,15 @@
 ---
-subject: "can you create a easy to read url for this link?"
+subject: can you create a easy to read url for this link?
 message_count: 1
 first: 2025-12-10
 last: 2025-12-10
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # can you create a easy to read url for this link?

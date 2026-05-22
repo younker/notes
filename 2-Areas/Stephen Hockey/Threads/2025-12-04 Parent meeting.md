@@ -1,12 +1,15 @@
 ---
-subject: "Parent meeting"
+subject: Parent meeting
 message_count: 1
 first: 2025-12-04
 last: 2025-12-04
 senders:
-  - kassiewalters22@gmail.com
+- kassiewalters22@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # Parent meeting

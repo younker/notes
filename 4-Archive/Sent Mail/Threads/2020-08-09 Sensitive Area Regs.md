@@ -1,12 +1,16 @@
 ---
-subject: "Sensitive Area Regs"
+subject: Sensitive Area Regs
 message_count: 1
 first: 2020-08-09
 last: 2020-08-09
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Sensitive Area Regs

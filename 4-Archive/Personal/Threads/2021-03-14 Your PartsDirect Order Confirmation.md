@@ -1,12 +1,15 @@
 ---
-subject: "Your PartsDirect Order Confirmation"
+subject: Your PartsDirect Order Confirmation
 message_count: 1
 first: 2021-03-14
 last: 2021-03-14
 senders:
-  - no-reply@orders.searshomeservices.io
+- no-reply@orders.searshomeservices.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- shopping-receipts
 ---
 
 # Your PartsDirect Order Confirmation

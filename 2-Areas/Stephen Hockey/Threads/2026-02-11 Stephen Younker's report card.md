@@ -1,12 +1,15 @@
 ---
-subject: "Stephen Younker's report card"
+subject: Stephen Younker's report card
 message_count: 1
 first: 2026-02-11
 last: 2026-02-11
 senders:
-  - pahacommunications@gmail.com
+- pahacommunications@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- school
 ---
 
 # Stephen Younker's report card

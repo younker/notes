@@ -1,12 +1,15 @@
 ---
-subject: "Your Belle Tire Invoice - 47328344 2016 TOYOTA TRU TACOMA PICKUP"
+subject: Your Belle Tire Invoice - 47328344 2016 TOYOTA TRU TACOMA PICKUP
 message_count: 1
 first: 2026-01-06
 last: 2026-01-06
 senders:
-  - JHebden@belletire.com
+- JHebden@belletire.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- vehicles
 ---
 
 # Your Belle Tire Invoice - 47328344 2016 TOYOTA TRU TACOMA PICKUP

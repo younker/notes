@@ -1,12 +1,16 @@
 ---
-subject: "13A Spring Team"
+subject: 13A Spring Team
 message_count: 2
 first: 2025-03-26
 last: 2025-04-04
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # 13A Spring Team

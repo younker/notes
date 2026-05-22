@@ -1,12 +1,15 @@
 ---
-subject: "New Listing: 5392 Hughston Rd, Harbor Springs, MI 49740. Your 'House search' Search."
+subject: 'New Listing: 5392 Hughston Rd, Harbor Springs, MI 49740. Your ''House search'' Search.'
 message_count: 1
 first: 2023-04-28
 last: 2023-04-28
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # New Listing: 5392 Hughston Rd, Harbor Springs, MI 49740. Your 'House search' Search.

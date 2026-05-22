@@ -1,13 +1,16 @@
 ---
-subject: "A Place for Mom Pivots to AI Amid Big Shifts in Senior Living Digital
- Marketing Trends"
+subject: A Place for Mom Pivots to AI Amid Big Shifts in Senior Living Digital Marketing Trends
 message_count: 1
 first: 2025-11-13
 last: 2025-11-13
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # A Place for Mom Pivots to AI Amid Big Shifts in Senior Living Digital

@@ -1,12 +1,14 @@
 ---
-subject: "You have signed Wire Fraud Notification Addendum in 720 Jennings Ave, Petoskey MI 49770"
+subject: You have signed Wire Fraud Notification Addendum in 720 Jennings Ave, Petoskey MI 49770
 message_count: 1
 first: 2023-09-18
 last: 2023-09-18
 senders:
-  - hit-reply@dotloop.com
+- hit-reply@dotloop.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # You have signed Wire Fraud Notification Addendum in 720 Jennings Ave, Petoskey MI 49770

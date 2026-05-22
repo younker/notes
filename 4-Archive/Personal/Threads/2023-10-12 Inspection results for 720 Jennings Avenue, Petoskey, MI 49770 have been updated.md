@@ -1,12 +1,14 @@
 ---
-subject: "Inspection results for 720 Jennings Avenue, Petoskey, MI 49770 have been updated"
+subject: Inspection results for 720 Jennings Avenue, Petoskey, MI 49770 have been updated
 message_count: 1
 first: 2023-10-12
 last: 2023-10-12
 senders:
-  - inspections@tapinspect.com
+- inspections@tapinspect.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Inspection results for 720 Jennings Avenue, Petoskey, MI 49770 have been updated

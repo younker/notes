@@ -1,12 +1,16 @@
 ---
-subject: "Phantoms Camp Schedule"
+subject: Phantoms Camp Schedule
 message_count: 1
 first: 2025-08-04
 last: 2025-08-04
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Phantoms Camp Schedule

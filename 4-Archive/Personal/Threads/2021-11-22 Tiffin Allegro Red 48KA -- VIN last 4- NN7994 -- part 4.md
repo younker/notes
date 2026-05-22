@@ -1,12 +1,15 @@
 ---
-subject: "Tiffin Allegro Red 48KA -- VIN last 4: NN7994 -- part 4"
+subject: 'Tiffin Allegro Red 48KA -- VIN last 4: NN7994 -- part 4'
 message_count: 1
 first: 2021-11-22
 last: 2021-11-22
 senders:
-  - Lacey.Oswalt@tiffinmotorhomes.com
+- Lacey.Oswalt@tiffinmotorhomes.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # Tiffin Allegro Red 48KA -- VIN last 4: NN7994 -- part 4

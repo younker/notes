@@ -1,12 +1,14 @@
 ---
-subject: "Your Invoice is available -- Invoice #26651"
+subject: 'Your Invoice is available -- Invoice #26651'
 message_count: 1
 first: 2025-06-19
 last: 2025-06-19
 senders:
-  - services@mail.ezfacility.com
+- services@mail.ezfacility.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Your Invoice is available -- Invoice #26651

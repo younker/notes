@@ -1,14 +1,17 @@
 ---
-subject: "2012 (birth year) soccer coaching opportunities"
+subject: 2012 (birth year) soccer coaching opportunities
 message_count: 8
 first: 2024-02-02
 last: 2024-03-09
 senders:
-  - director@petoskeysoccer.com
-  - doc@petoskeysoccer.com
-  - max@petoskeysoccer.com
+- director@petoskeysoccer.com
+- doc@petoskeysoccer.com
+- max@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
 ---
 
 # 2012 (birth year) soccer coaching opportunities

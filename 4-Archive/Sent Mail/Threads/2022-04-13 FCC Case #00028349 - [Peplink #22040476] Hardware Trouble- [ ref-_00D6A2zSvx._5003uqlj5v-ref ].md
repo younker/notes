@@ -1,12 +1,15 @@
 ---
-subject: "FCC Case #00028349 | [Peplink #22040476] Hardware Trouble?    [ ref:_00D6A2zSvx._5003uqlj5v:ref ]"
+subject: 'FCC Case #00028349 | [Peplink #22040476] Hardware Trouble?    [ ref:_00D6A2zSvx._5003uqlj5v:ref ]'
 message_count: 3
 first: 2022-04-13
 last: 2022-04-14
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # FCC Case #00028349 | [Peplink #22040476] Hardware Trouble?    [ ref:_00D6A2zSvx._5003uqlj5v:ref ]

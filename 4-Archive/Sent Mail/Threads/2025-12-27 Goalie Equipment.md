@@ -1,12 +1,16 @@
 ---
-subject: "Goalie Equipment"
+subject: Goalie Equipment
 message_count: 3
 first: 2025-12-27
 last: 2025-12-27
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Goalie Equipment

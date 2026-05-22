@@ -1,12 +1,15 @@
 ---
-subject: "UPDATED AUTO POLICY AND ID CARD"
+subject: UPDATED AUTO POLICY AND ID CARD
 message_count: 1
 first: 2025-05-02
 last: 2025-05-02
 senders:
-  - jessica.boone@rateins.com
+- jessica.boone@rateins.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- insurance
+- real-estate
 ---
 
 # UPDATED AUTO POLICY AND ID CARD

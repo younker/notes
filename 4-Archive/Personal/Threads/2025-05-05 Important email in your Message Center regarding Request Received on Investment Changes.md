@@ -1,12 +1,15 @@
 ---
-subject: "Important email in your Message Center regarding Request Received on Investment Changes"
+subject: Important email in your Message Center regarding Request Received on Investment Changes
 message_count: 1
 first: 2025-05-05
 last: 2025-05-05
 senders:
-  - ThePrincipalFinancialGroup@principal.com
+- ThePrincipalFinancialGroup@principal.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- school
 ---
 
 # Important email in your Message Center regarding Request Received on Investment Changes

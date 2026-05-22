@@ -1,12 +1,15 @@
 ---
-subject: "Leather Chair & Ottoman"
+subject: Leather Chair & Ottoman
 message_count: 1
 first: 2021-01-03
 last: 2021-01-03
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Leather Chair & Ottoman

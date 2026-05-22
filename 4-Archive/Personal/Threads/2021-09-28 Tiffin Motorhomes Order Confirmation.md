@@ -1,12 +1,16 @@
 ---
-subject: "Tiffin Motorhomes Order Confirmation"
+subject: Tiffin Motorhomes Order Confirmation
 message_count: 5
 first: 2021-09-28
 last: 2022-06-20
 senders:
-  - donotreply@tiffinmotorhomes.com
+- donotreply@tiffinmotorhomes.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
+- shopping-receipts
 ---
 
 # Tiffin Motorhomes Order Confirmation

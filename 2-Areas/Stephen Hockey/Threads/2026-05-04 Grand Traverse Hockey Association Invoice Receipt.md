@@ -1,12 +1,15 @@
 ---
-subject: "Grand Traverse Hockey Association Invoice Receipt"
+subject: Grand Traverse Hockey Association Invoice Receipt
 message_count: 1
 first: 2026-05-04
 last: 2026-05-04
 senders:
-  - mailer@leagueapps.com
+- mailer@leagueapps.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # Grand Traverse Hockey Association Invoice Receipt

@@ -1,12 +1,14 @@
 ---
-subject: "Event Registration Confirmation"
+subject: Event Registration Confirmation
 message_count: 2
 first: 2026-05-12
 last: 2026-05-12
 senders:
-  - cap@mhsaa.com
+- cap@mhsaa.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Event Registration Confirmation

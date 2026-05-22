@@ -1,13 +1,14 @@
 ---
-subject: "Reminder for interview with Honor for the Staff Backend Engineer
- (Core Services) position"
+subject: Reminder for interview with Honor for the Staff Backend Engineer (Core Services) position
 message_count: 1
 first: 2025-01-05
 last: 2025-01-05
 senders:
-  - no-reply@greenhouse.io
+- no-reply@greenhouse.io
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Reminder for interview with Honor for the Staff Backend Engineer

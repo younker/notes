@@ -1,12 +1,15 @@
 ---
-subject: "Fiber optic internet"
+subject: Fiber optic internet
 message_count: 1
 first: 2020-08-22
 last: 2020-08-22
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Fiber optic internet

@@ -1,12 +1,16 @@
 ---
-subject: "Strength & conditioning info"
+subject: Strength & conditioning info
 message_count: 1
 first: 2026-05-11
 last: 2026-05-11
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Strength & conditioning info

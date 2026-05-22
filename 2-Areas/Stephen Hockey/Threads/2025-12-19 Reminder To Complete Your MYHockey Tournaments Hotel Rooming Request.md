@@ -1,12 +1,14 @@
 ---
-subject: "Reminder To Complete Your MYHockey Tournaments Hotel Rooming Request"
+subject: Reminder To Complete Your MYHockey Tournaments Hotel Rooming Request
 message_count: 1
 first: 2025-12-19
 last: 2025-12-19
 senders:
-  - alexp@myhockeytournaments.com
+- alexp@myhockeytournaments.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- travel
 ---
 
 # Reminder To Complete Your MYHockey Tournaments Hotel Rooming Request

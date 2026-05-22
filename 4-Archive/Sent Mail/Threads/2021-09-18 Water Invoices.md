@@ -1,12 +1,16 @@
 ---
-subject: "Water Invoices"
+subject: Water Invoices
 message_count: 1
 first: 2021-09-18
 last: 2021-09-18
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Water Invoices

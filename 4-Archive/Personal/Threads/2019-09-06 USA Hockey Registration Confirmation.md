@@ -1,13 +1,17 @@
 ---
-subject: "USA Hockey Registration Confirmation"
+subject: USA Hockey Registration Confirmation
 message_count: 5
 first: 2019-09-06
 last: 2023-07-17
 senders:
-  - receipt@usahockeyemails.com
-  - registration@usahockey.org
+- receipt@usahockeyemails.com
+- registration@usahockey.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
+- home-improvement
 ---
 
 # USA Hockey Registration Confirmation

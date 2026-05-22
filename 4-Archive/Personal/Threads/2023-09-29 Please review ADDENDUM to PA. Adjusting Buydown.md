@@ -1,12 +1,14 @@
 ---
-subject: "Please review ADDENDUM to PA. Adjusting Buydown"
+subject: Please review ADDENDUM to PA. Adjusting Buydown
 message_count: 1
 first: 2023-09-29
 last: 2023-09-29
 senders:
-  - hit-reply@dotloop.com
+- hit-reply@dotloop.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Please review ADDENDUM to PA. Adjusting Buydown

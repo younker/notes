@@ -1,12 +1,16 @@
 ---
-subject: "Expat Senior Living Websites"
+subject: Expat Senior Living Websites
 message_count: 1
 first: 2025-10-09
 last: 2025-10-09
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Expat Senior Living Websites

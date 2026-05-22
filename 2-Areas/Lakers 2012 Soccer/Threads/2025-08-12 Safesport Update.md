@@ -1,12 +1,16 @@
 ---
-subject: "Safesport Update"
+subject: Safesport Update
 message_count: 1
 first: 2025-08-12
 last: 2025-08-12
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # Safesport Update

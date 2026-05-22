@@ -1,12 +1,15 @@
 ---
-subject: "SUMNER RV CENTER BILL OF SALE"
+subject: SUMNER RV CENTER BILL OF SALE
 message_count: 2
 first: 2021-08-24
 last: 2021-08-25
 senders:
-  - larisa@sumnerrv.com
+- larisa@sumnerrv.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # SUMNER RV CENTER BILL OF SALE

@@ -1,12 +1,15 @@
 ---
-subject: "New Listing: 5391 Grubaugh Rd, Alanson, MI 49706. Your 'Boyne Falls, MI' Search."
+subject: 'New Listing: 5391 Grubaugh Rd, Alanson, MI 49706. Your ''Boyne Falls, MI'' Search.'
 message_count: 1
 first: 2023-07-01
 last: 2023-07-01
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # New Listing: 5391 Grubaugh Rd, Alanson, MI 49706. Your 'Boyne Falls, MI' Search.

@@ -1,13 +1,15 @@
 ---
-subject: "Congratulations on Moving Forward in the Interview Process"
+subject: Congratulations on Moving Forward in the Interview Process
 message_count: 3
 first: 2025-02-19
 last: 2025-03-03
 senders:
-  - bonham@planningcenter.com
-  - no-reply@ats.rippling.com
+- bonham@planningcenter.com
+- no-reply@ats.rippling.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Congratulations on Moving Forward in the Interview Process

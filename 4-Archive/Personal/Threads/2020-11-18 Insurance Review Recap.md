@@ -1,12 +1,17 @@
 ---
-subject: "Insurance Review Recap"
+subject: Insurance Review Recap
 message_count: 1
 first: 2020-11-18
 last: 2020-11-18
 senders:
-  - ehrin.stumpges@countryfinancial.com
+- ehrin.stumpges@countryfinancial.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- insurance
+- vehicles
+contacts:
+- '[[Ehrin Stumpges]]'
 ---
 
 # Insurance Review Recap

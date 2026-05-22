@@ -1,12 +1,15 @@
 ---
-subject: "Game vs Fox Motors"
+subject: Game vs Fox Motors
 message_count: 2
 first: 2025-11-21
 last: 2025-11-21
 senders:
-  - blcook6383@aol.com
+- blcook6383@aol.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brandon Cook]]'
 ---
 
 # Game vs Fox Motors

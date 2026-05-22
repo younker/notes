@@ -1,12 +1,14 @@
 ---
-subject: "Invoice 1633 from On site rv repair llc"
+subject: Invoice 1633 from On site rv repair llc
 message_count: 1
 first: 2022-06-22
 last: 2022-06-22
 senders:
-  - quickbooks@notification.intuit.com
+- quickbooks@notification.intuit.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Invoice 1633 from On site rv repair llc

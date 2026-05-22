@@ -1,13 +1,14 @@
 ---
-subject: "Reminder for interview with Renewed Vision for the Core Software
- Engineer | Rust position"
+subject: Reminder for interview with Renewed Vision for the Core Software Engineer | Rust position
 message_count: 1
 first: 2025-03-09
 last: 2025-03-09
 senders:
-  - no-reply@greenhouse.io
+- no-reply@greenhouse.io
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Reminder for interview with Renewed Vision for the Core Software

@@ -1,13 +1,18 @@
 ---
-subject: "Your Electronic Receipt"
+subject: Your Electronic Receipt
 message_count: 6
 first: 2019-04-28
 last: 2024-12-27
 senders:
-  - HomeDepot@order.homedepot.com
-  - HomeDepotReceipt@homedepot.com
+- HomeDepot@order.homedepot.com
+- HomeDepotReceipt@homedepot.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
+- home-improvement
+- shopping-receipts
 ---
 
 # Your Electronic Receipt

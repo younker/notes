@@ -1,12 +1,15 @@
 ---
-subject: "Biggby Coffee Ice Cube - East Lansing Registration Confirmation"
+subject: Biggby Coffee Ice Cube - East Lansing Registration Confirmation
 message_count: 1
 first: 2026-03-07
 last: 2026-03-07
 senders:
-  - no-reply@mailer.bondsports.co
+- no-reply@mailer.bondsports.co
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # Biggby Coffee Ice Cube - East Lansing Registration Confirmation

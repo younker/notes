@@ -1,14 +1,14 @@
 ---
-subject: "Reminder: Phone Interview for Sr. Solutions Architect with
- Compassion International @ Tue Jan 21, 2025 03:30 pm - 04:15 pm
- (America/Detroit)"
+subject: 'Reminder: Phone Interview for Sr. Solutions Architect with Compassion International @ Tue Jan 21, 2025 03:30 pm - 04:15 pm (America/Detroit)'
 message_count: 1
 first: 2025-01-21
 last: 2025-01-21
 senders:
-  - noreply@zohocalendar.com
+- noreply@zohocalendar.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Reminder: Phone Interview for Sr. Solutions Architect with

@@ -1,12 +1,14 @@
 ---
-subject: "Order US-84455 confirmed"
+subject: Order US-84455 confirmed
 message_count: 1
 first: 2025-09-09
 last: 2025-09-09
 senders:
-  - support@t1tan.com
+- support@t1tan.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Order US-84455 confirmed

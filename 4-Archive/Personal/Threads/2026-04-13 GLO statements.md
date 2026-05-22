@@ -1,12 +1,16 @@
 ---
-subject: "GLO statements"
+subject: GLO statements
 message_count: 2
 first: 2026-04-13
 last: 2026-04-17
 senders:
-  - info@migreatlakesortho.com
+- info@migreatlakesortho.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- health
+- insurance
 ---
 
 # GLO statements

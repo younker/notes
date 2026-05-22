@@ -1,12 +1,16 @@
 ---
-subject: "West Shore house B 14u tournament"
+subject: West Shore house B 14u tournament
 message_count: 1
 first: 2025-11-10
 last: 2025-11-10
 senders:
-  - cfirman16@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # West Shore house B 14u tournament

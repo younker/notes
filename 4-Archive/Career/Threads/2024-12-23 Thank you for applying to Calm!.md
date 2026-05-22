@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to Calm!"
+subject: Thank you for applying to Calm!
 message_count: 2
 first: 2024-12-23
 last: 2025-02-14
 senders:
-  - no-reply@calm.com
+- no-reply@calm.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thank you for applying to Calm!

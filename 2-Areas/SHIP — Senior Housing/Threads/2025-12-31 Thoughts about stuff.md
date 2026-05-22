@@ -1,12 +1,15 @@
 ---
-subject: "Thoughts about stuff"
+subject: Thoughts about stuff
 message_count: 1
 first: 2025-12-31
 last: 2025-12-31
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Thoughts about stuff

@@ -1,12 +1,14 @@
 ---
-subject: "Bantam Fundraising: Recent Sponsors"
+subject: 'Bantam Fundraising: Recent Sponsors'
 message_count: 1
 first: 2025-12-04
 last: 2025-12-04
 senders:
-  - pahacommunications@gmail.com
+- pahacommunications@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # Bantam Fundraising: Recent Sponsors

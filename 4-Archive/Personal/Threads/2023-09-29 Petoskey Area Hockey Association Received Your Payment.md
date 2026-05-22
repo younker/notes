@@ -1,12 +1,15 @@
 ---
-subject: "Petoskey Area Hockey Association Received Your Payment"
+subject: Petoskey Area Hockey Association Received Your Payment
 message_count: 1
 first: 2023-09-29
 last: 2023-09-29
 senders:
-  - no-reply@mailer-h.sportsengine.com
+- no-reply@mailer-h.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # Petoskey Area Hockey Association Received Your Payment

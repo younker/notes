@@ -1,13 +1,16 @@
 ---
-subject: "Jobot // Bera.ai - Lead Full-stack Engineer - Interview Prep
- Information - Thursday 3/6 @ 10:30 AM"
+subject: Jobot // Bera.ai - Lead Full-stack Engineer - Interview Prep Information - Thursday 3/6 @ 10:30 AM
 message_count: 1
 first: 2025-03-06
 last: 2025-03-06
 senders:
-  - Craigr@jobot.com
+- Craigr@jobot.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Craig Rosecrans]]'
 ---
 
 # Jobot // Bera.ai - Lead Full-stack Engineer - Interview Prep

@@ -1,12 +1,14 @@
 ---
-subject: "Payment Confirmation"
+subject: Payment Confirmation
 message_count: 1
 first: 2025-04-15
 last: 2025-04-15
 senders:
-  - DoNotReply@CommerceBank.com
+- DoNotReply@CommerceBank.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Payment Confirmation

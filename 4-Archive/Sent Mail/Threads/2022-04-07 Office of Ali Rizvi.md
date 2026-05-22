@@ -1,12 +1,16 @@
 ---
-subject: "Office of Ali Rizvi"
+subject: Office of Ali Rizvi
 message_count: 2
 first: 2022-04-07
 last: 2022-05-06
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Office of Ali Rizvi

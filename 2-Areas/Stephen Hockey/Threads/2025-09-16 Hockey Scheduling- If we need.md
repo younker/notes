@@ -1,12 +1,16 @@
 ---
-subject: "Hockey Scheduling: If we need...."
+subject: 'Hockey Scheduling: If we need....'
 message_count: 1
 first: 2025-09-16
 last: 2025-09-16
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Hockey Scheduling: If we need....

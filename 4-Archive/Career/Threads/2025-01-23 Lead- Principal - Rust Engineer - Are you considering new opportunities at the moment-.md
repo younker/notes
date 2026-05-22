@@ -1,13 +1,14 @@
 ---
-subject: "Lead/ Principal - Rust Engineer - Are you considering new
- opportunities at the moment?"
+subject: Lead/ Principal - Rust Engineer - Are you considering new opportunities at the moment?
 message_count: 1
 first: 2025-01-23
 last: 2025-01-23
 senders:
-  - inmail-hit-reply@linkedin.com
+- inmail-hit-reply@linkedin.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- school
 ---
 
 # Lead/ Principal - Rust Engineer - Are you considering new

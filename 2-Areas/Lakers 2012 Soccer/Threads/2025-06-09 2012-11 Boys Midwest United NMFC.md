@@ -1,12 +1,14 @@
 ---
-subject: "2012-11 Boys Midwest United NMFC"
+subject: 2012-11 Boys Midwest United NMFC
 message_count: 2
 first: 2025-06-09
 last: 2025-06-17
 senders:
-  - suffolk@me.com
+- suffolk@me.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # 2012-11 Boys Midwest United NMFC

@@ -1,12 +1,16 @@
 ---
-subject: "Reservation Confirmation for Springhill Suites Grand Rapids West: 2025 Meijer State Games - Main Weekend"
+subject: 'Reservation Confirmation for Springhill Suites Grand Rapids West: 2025 Meijer State Games - Main Weekend'
 message_count: 1
 first: 2025-06-18
 last: 2025-06-18
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Reservation Confirmation for Springhill Suites Grand Rapids West: 2025 Meijer State Games - Main Weekend

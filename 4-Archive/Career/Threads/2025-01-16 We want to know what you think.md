@@ -1,12 +1,14 @@
 ---
-subject: "We want to know what you think"
+subject: We want to know what you think
 message_count: 1
 first: 2025-01-16
 last: 2025-01-16
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # We want to know what you think

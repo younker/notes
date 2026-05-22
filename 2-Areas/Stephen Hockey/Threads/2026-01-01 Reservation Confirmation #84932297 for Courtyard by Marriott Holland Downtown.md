@@ -1,12 +1,16 @@
 ---
-subject: "Reservation Confirmation #84932297 for Courtyard by Marriott Holland Downtown"
+subject: 'Reservation Confirmation #84932297 for Courtyard by Marriott Holland Downtown'
 message_count: 1
 first: 2026-01-01
 last: 2026-01-01
 senders:
-  - reservations@res-marriott.com
+- reservations@res-marriott.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
+- travel
 ---
 
 # Reservation Confirmation #84932297 for Courtyard by Marriott Holland Downtown

@@ -1,12 +1,15 @@
 ---
-subject: "Phone number"
+subject: Phone number
 message_count: 1
 first: 2024-10-02
 last: 2024-10-02
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Phone number

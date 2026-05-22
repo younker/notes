@@ -1,14 +1,20 @@
 ---
-subject: "[## 187190 ##] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025"
+subject: '[## 187190 ##] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025'
 message_count: 4
 first: 2025-11-26
 last: 2025-11-28
 senders:
-  - bkasiborski@gmail.com
-  - brentcbolin@gmail.com
-  - cfirman16@gmail.com
+- bkasiborski@gmail.com
+- brentcbolin@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Brian Kasiborski]]'
+- '[[Brent Bolin]]'
+- '[[Chris Firman]]'
 ---
 
 # [## 187190 ##] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025

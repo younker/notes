@@ -1,12 +1,15 @@
 ---
-subject: "Hackathon idea"
+subject: Hackathon idea
 message_count: 1
 first: 2020-06-07
 last: 2020-06-07
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Hackathon idea

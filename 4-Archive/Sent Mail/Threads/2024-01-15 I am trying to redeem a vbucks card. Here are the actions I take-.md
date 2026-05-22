@@ -1,12 +1,15 @@
 ---
-subject: "I am trying to redeem a vbucks card. Here are the actions I take:"
+subject: 'I am trying to redeem a vbucks card. Here are the actions I take:'
 message_count: 1
 first: 2024-01-15
 last: 2024-01-15
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # I am trying to redeem a vbucks card. Here are the actions I take:

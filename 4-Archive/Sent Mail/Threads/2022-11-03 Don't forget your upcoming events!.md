@@ -1,12 +1,16 @@
 ---
-subject: "Don't forget your upcoming events!"
+subject: Don't forget your upcoming events!
 message_count: 1
 first: 2022-11-03
 last: 2022-11-03
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Don't forget your upcoming events!

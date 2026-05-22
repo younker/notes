@@ -1,13 +1,14 @@
 ---
-subject: "Invitation: Hiring Manager Interview: Jason Younker + Honor for
- Staff... @ Tue Jan 7, 2025 11am - 11:30am (EST) (jason@ynkr.org)"
+subject: 'Invitation: Hiring Manager Interview: Jason Younker + Honor for Staff... @ Tue Jan 7, 2025 11am - 11:30am (EST) (jason@ynkr.org)'
 message_count: 1
 first: 2025-01-06
 last: 2025-01-06
 senders:
-  - sejal.sangani@joinhonor.com
+- sejal.sangani@joinhonor.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Invitation: Hiring Manager Interview: Jason Younker + Honor for

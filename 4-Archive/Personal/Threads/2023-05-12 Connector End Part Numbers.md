@@ -1,12 +1,14 @@
 ---
-subject: "Connector End Part Numbers"
+subject: Connector End Part Numbers
 message_count: 1
 first: 2023-05-12
 last: 2023-05-12
 senders:
-  - ryan@spydercontrols.com
+- ryan@spydercontrols.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- motorhome
 ---
 
 # Connector End Part Numbers

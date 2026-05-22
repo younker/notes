@@ -1,12 +1,16 @@
 ---
-subject: "10U Draft Skate"
+subject: 10U Draft Skate
 message_count: 1
 first: 2022-10-15
 last: 2022-10-15
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # 10U Draft Skate

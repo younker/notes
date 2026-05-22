@@ -1,12 +1,14 @@
 ---
-subject: "Bryan Goyings invited you to join PYSA Lakers 2012 on Veo"
+subject: Bryan Goyings invited you to join PYSA Lakers 2012 on Veo
 message_count: 1
 first: 2025-08-18
 last: 2025-08-18
 senders:
-  - service@veo.co
+- service@veo.co
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # Bryan Goyings invited you to join PYSA Lakers 2012 on Veo

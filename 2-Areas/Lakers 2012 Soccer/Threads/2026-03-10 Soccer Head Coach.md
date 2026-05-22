@@ -1,12 +1,16 @@
 ---
-subject: "Soccer Head Coach"
+subject: Soccer Head Coach
 message_count: 1
 first: 2026-03-10
 last: 2026-03-10
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Soccer Head Coach

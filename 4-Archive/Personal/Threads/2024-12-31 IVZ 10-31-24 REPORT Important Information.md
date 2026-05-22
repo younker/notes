@@ -1,12 +1,14 @@
 ---
-subject: "IVZ 10-31-24 REPORT Important Information"
+subject: IVZ 10-31-24 REPORT Important Information
 message_count: 1
 first: 2024-12-31
 last: 2024-12-31
 senders:
-  - id@proxyvote.com
+- id@proxyvote.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # IVZ 10-31-24 REPORT Important Information

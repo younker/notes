@@ -1,12 +1,14 @@
 ---
-subject: "Payment confirmation: Invoice #1897-(Firman Electric, inc)"
+subject: 'Payment confirmation: Invoice #1897-(Firman Electric, inc)'
 message_count: 1
 first: 2025-01-06
 last: 2025-01-06
 senders:
-  - quickbooks@notification.intuit.com
+- quickbooks@notification.intuit.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Payment confirmation: Invoice #1897-(Firman Electric, inc)

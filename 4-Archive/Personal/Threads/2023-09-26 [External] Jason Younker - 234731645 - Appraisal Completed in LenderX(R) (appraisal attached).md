@@ -1,12 +1,14 @@
 ---
-subject: "[External] Jason Younker - 234731645 - Appraisal Completed in LenderX(R) (appraisal attached)"
+subject: '[External] Jason Younker - 234731645 - Appraisal Completed in LenderX(R) (appraisal attached)'
 message_count: 1
 first: 2023-09-26
 last: 2023-09-26
 senders:
-  - nathan@rate.com
+- nathan@rate.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # [External] Jason Younker - 234731645 - Appraisal Completed in LenderX(R) (appraisal attached)

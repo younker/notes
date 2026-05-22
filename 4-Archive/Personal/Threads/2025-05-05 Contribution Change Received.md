@@ -1,12 +1,16 @@
 ---
-subject: "Contribution Change Received"
+subject: Contribution Change Received
 message_count: 1
 first: 2025-05-05
 last: 2025-05-05
 senders:
-  - notification@alert.principal.com
+- notification@alert.principal.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- insurance
+- school
 ---
 
 # Contribution Change Received

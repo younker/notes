@@ -1,12 +1,16 @@
 ---
-subject: "The Morning: A C.D.C. about-face"
+subject: 'The Morning: A C.D.C. about-face'
 message_count: 1
 first: 2021-05-14
 last: 2021-05-14
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- health
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # The Morning: A C.D.C. about-face

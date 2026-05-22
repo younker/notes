@@ -1,12 +1,16 @@
 ---
-subject: "Paid Paid to file for California trip"
+subject: Paid Paid to file for California trip
 message_count: 1
 first: 2019-05-25
 last: 2019-05-25
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- travel
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Paid Paid to file for California trip

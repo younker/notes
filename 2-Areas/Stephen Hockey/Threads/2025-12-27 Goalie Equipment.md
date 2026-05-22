@@ -1,15 +1,20 @@
 ---
-subject: "Goalie Equipment"
+subject: Goalie Equipment
 message_count: 5
 first: 2025-12-27
 last: 2025-12-28
 senders:
-  - dnowels@reopetoskey.com
-  - jason@ynkr.org
-  - katienowels@gmail.com
-  - pahacommunications@gmail.com
+- dnowels@reopetoskey.com
+- jason@ynkr.org
+- katienowels@gmail.com
+- pahacommunications@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
+- '[[Katie Connolly]]'
 ---
 
 # Goalie Equipment

@@ -1,12 +1,15 @@
 ---
-subject: "Room Block Deadline Reminder for the G-00445063 | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026"
+subject: Room Block Deadline Reminder for the G-00445063 | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026
 message_count: 1
 first: 2025-12-01
 last: 2025-12-01
 senders:
-  - mailer@eventpipe.com
+- mailer@eventpipe.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+- travel
 ---
 
 # Room Block Deadline Reminder for the G-00445063 | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026

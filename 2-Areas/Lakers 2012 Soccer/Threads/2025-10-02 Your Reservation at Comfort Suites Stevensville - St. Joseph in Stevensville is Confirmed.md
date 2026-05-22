@@ -1,13 +1,16 @@
 ---
-subject: "Your Reservation at Comfort Suites Stevensville - St. Joseph in
- Stevensville is Confirmed."
+subject: Your Reservation at Comfort Suites Stevensville - St. Joseph in Stevensville is Confirmed.
 message_count: 1
 first: 2025-10-02
 last: 2025-10-02
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Your Reservation at Comfort Suites Stevensville - St. Joseph in

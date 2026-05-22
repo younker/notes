@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying with Stream!"
+subject: Thank you for applying with Stream!
 message_count: 1
 first: 2025-03-04
 last: 2025-03-04
 senders:
-  - no-reply@ashbyhq.com
+- no-reply@ashbyhq.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thank you for applying with Stream!

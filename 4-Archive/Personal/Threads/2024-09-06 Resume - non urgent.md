@@ -7,6 +7,7 @@ senders:
 - heatheryounker@outlook.com
 type: email-thread
 tags:
+- career
 - email
 contacts:
 - '[[Heather Younker]]'

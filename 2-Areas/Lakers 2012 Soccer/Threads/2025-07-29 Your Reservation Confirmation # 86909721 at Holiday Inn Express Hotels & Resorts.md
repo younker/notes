@@ -1,12 +1,15 @@
 ---
-subject: "Your Reservation Confirmation # 86909721 at Holiday Inn Express Hotels & Resorts."
+subject: 'Your Reservation Confirmation # 86909721 at Holiday Inn Express Hotels & Resorts.'
 message_count: 1
 first: 2025-07-29
 last: 2025-07-29
 senders:
-  - HolidayInnExpress@tx.ihg.com
+- HolidayInnExpress@tx.ihg.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- soccer
 ---
 
 # Your Reservation Confirmation # 86909721 at Holiday Inn Express Hotels & Resorts.

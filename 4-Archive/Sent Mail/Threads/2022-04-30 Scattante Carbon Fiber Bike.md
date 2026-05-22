@@ -1,12 +1,15 @@
 ---
-subject: "Scattante Carbon Fiber Bike"
+subject: Scattante Carbon Fiber Bike
 message_count: 2
 first: 2022-04-30
 last: 2022-05-01
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Scattante Carbon Fiber Bike

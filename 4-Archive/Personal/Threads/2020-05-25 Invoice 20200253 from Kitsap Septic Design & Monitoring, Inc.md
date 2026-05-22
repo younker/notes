@@ -1,12 +1,15 @@
 ---
-subject: "Invoice 20200253 from Kitsap Septic Design & Monitoring, Inc."
+subject: Invoice 20200253 from Kitsap Septic Design & Monitoring, Inc.
 message_count: 1
 first: 2020-05-25
 last: 2020-05-25
 senders:
-  - quickbooks@notification.intuit.com
+- quickbooks@notification.intuit.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- home-improvement
 ---
 
 # Invoice 20200253 from Kitsap Septic Design & Monitoring, Inc.

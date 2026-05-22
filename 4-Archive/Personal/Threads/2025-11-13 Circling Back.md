@@ -8,7 +8,9 @@ senders:
 - kat.grolle@harrispoll.com
 type: email-thread
 tags:
+- career
 - email
+- insurance
 contacts:
 - '[[Jason Younker]]'
 - '[[Kat Grolle]]'

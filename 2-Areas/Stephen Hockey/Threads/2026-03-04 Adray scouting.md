@@ -1,13 +1,17 @@
 ---
-subject: "Adray scouting"
+subject: Adray scouting
 message_count: 2
 first: 2026-03-04
 last: 2026-03-04
 senders:
-  - blcook6383@aol.com
-  - cfirman16@gmail.com
+- blcook6383@aol.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brandon Cook]]'
+- '[[Chris Firman]]'
 ---
 
 # Adray scouting

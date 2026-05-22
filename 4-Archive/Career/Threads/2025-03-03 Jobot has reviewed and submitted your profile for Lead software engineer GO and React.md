@@ -1,13 +1,14 @@
 ---
-subject: "Jobot has reviewed and submitted your profile for Lead software
- engineer GO and React"
+subject: Jobot has reviewed and submitted your profile for Lead software engineer GO and React
 message_count: 1
 first: 2025-03-03
 last: 2025-03-03
 senders:
-  - adam.bennett@jobot.com
+- adam.bennett@jobot.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Jobot has reviewed and submitted your profile for Lead software

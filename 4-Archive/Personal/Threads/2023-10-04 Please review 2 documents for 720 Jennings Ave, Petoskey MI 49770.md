@@ -1,12 +1,15 @@
 ---
-subject: "Please review 2 documents for 720 Jennings Ave, Petoskey MI 49770"
+subject: Please review 2 documents for 720 Jennings Ave, Petoskey MI 49770
 message_count: 1
 first: 2023-10-04
 last: 2023-10-04
 senders:
-  - hit-reply@dotloop.com
+- hit-reply@dotloop.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- real-estate
 ---
 
 # Please review 2 documents for 720 Jennings Ave, Petoskey MI 49770

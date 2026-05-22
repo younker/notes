@@ -1,12 +1,17 @@
 ---
-subject: "PHS Soccer"
+subject: PHS Soccer
 message_count: 2
 first: 2026-05-16
 last: 2026-05-18
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- school
+- soccer
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # PHS Soccer

@@ -1,12 +1,15 @@
 ---
-subject: "same formation, players rotated"
+subject: same formation, players rotated
 message_count: 1
 first: 2025-09-30
 last: 2025-09-30
 senders:
-  - brentcbolin@gmail.com
+- brentcbolin@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brent Bolin]]'
 ---
 
 # same formation, players rotated

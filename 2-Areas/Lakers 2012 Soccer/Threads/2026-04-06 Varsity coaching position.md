@@ -1,12 +1,17 @@
 ---
-subject: "Varsity coaching position"
+subject: Varsity coaching position
 message_count: 1
 first: 2026-04-06
 last: 2026-04-06
 senders:
-  - dohm.jj.m@northmen.org
+- dohm.jj.m@northmen.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- soccer
+contacts:
+- '[[Joel Dohm]]'
 ---
 
 # Varsity coaching position

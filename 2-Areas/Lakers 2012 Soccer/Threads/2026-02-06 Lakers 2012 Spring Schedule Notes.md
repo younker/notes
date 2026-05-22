@@ -1,14 +1,19 @@
 ---
-subject: "Lakers 2012 Spring Schedule Notes"
+subject: Lakers 2012 Spring Schedule Notes
 message_count: 5
 first: 2026-02-06
 last: 2026-02-07
 senders:
-  - bryan@petoskeysoccer.com
-  - danielleschopp@yahoo.com
-  - traci_schultz912@hotmail.com
+- bryan@petoskeysoccer.com
+- danielleschopp@yahoo.com
+- traci_schultz912@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Bryan Goyings]]'
+- '[[Traci Wong]]'
 ---
 
 # Lakers 2012 Spring Schedule Notes

@@ -1,12 +1,15 @@
 ---
-subject: "Holland contact"
+subject: Holland contact
 message_count: 1
 first: 2025-12-22
 last: 2025-12-22
 senders:
-  - cfirman16@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # Holland contact

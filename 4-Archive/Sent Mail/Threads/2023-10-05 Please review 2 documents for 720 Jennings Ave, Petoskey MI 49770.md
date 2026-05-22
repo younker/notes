@@ -1,12 +1,17 @@
 ---
-subject: "Please review 2 documents for 720 Jennings Ave, Petoskey MI 49770"
+subject: Please review 2 documents for 720 Jennings Ave, Petoskey MI 49770
 message_count: 1
 first: 2023-10-05
 last: 2023-10-05
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- real-estate
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Please review 2 documents for 720 Jennings Ave, Petoskey MI 49770

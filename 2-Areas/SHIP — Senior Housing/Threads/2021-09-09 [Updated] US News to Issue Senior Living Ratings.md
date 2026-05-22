@@ -1,13 +1,17 @@
 ---
-subject: "[Updated] US News to Issue Senior Living Ratings"
+subject: '[Updated] US News to Issue Senior Living Ratings'
 message_count: 5
 first: 2021-09-09
 last: 2021-09-21
 senders:
-  - justin@cascadiadevelopment.com
-  - zillah.chen@moz.com
+- justin@cascadiadevelopment.com
+- zillah.chen@moz.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # [Updated] US News to Issue Senior Living Ratings

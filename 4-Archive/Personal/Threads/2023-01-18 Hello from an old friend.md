@@ -7,7 +7,9 @@ senders:
 - jroeth@gmail.com
 type: email-thread
 tags:
+- church
 - email
+- motorhome
 contacts:
 - '[[Jon Roeth]]'
 ---

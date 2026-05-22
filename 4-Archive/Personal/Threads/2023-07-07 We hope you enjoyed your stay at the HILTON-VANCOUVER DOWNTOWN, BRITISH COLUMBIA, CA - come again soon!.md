@@ -1,12 +1,15 @@
 ---
-subject: "We hope you enjoyed your stay at the HILTON-VANCOUVER DOWNTOWN, BRITISH COLUMBIA, CA - come again soon!"
+subject: We hope you enjoyed your stay at the HILTON-VANCOUVER DOWNTOWN, BRITISH COLUMBIA, CA - come again soon!
 message_count: 1
 first: 2023-07-07
 last: 2023-07-07
 senders:
-  - receipt@hilton.com
+- receipt@hilton.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- travel
 ---
 
 # We hope you enjoyed your stay at the HILTON-VANCOUVER DOWNTOWN, BRITISH COLUMBIA, CA - come again soon!

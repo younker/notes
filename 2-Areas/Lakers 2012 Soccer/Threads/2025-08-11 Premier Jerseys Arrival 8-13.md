@@ -1,12 +1,15 @@
 ---
-subject: "Premier Jerseys Arrival 8/13"
+subject: Premier Jerseys Arrival 8/13
 message_count: 1
 first: 2025-08-11
 last: 2025-08-11
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # Premier Jerseys Arrival 8/13

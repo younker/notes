@@ -1,12 +1,15 @@
 ---
-subject: "Crazy kids"
+subject: Crazy kids
 message_count: 2
 first: 2021-10-02
 last: 2021-10-03
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Crazy kids

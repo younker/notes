@@ -1,12 +1,15 @@
 ---
-subject: "Slipper chairs"
+subject: Slipper chairs
 message_count: 1
 first: 2021-09-13
 last: 2021-09-13
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Slipper chairs

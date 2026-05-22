@@ -1,12 +1,16 @@
 ---
-subject: "(no subject)"
+subject: (no subject)
 message_count: 1
 first: 2023-11-03
 last: 2023-11-03
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- vehicles
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # (no subject)

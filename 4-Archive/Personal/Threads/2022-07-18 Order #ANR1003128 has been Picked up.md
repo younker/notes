@@ -1,13 +1,16 @@
 ---
-subject: "Order #ANR1003128 has been Picked up"
+subject: 'Order #ANR1003128 has been Picked up'
 message_count: 2
 first: 2022-07-18
 last: 2022-07-18
 senders:
-  - notifications@ship.cars
-  - truckbytruckinc@gmail.com
+- notifications@ship.cars
+- truckbytruckinc@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- vehicles
 ---
 
 # Order #ANR1003128 has been Picked up

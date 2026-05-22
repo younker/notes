@@ -1,12 +1,14 @@
 ---
-subject: "[External] Welcome Letter and Important Information - Younker - Purchase/Full Appraisal - Closing 10/13/2023"
+subject: '[External] Welcome Letter and Important Information - Younker - Purchase/Full Appraisal - Closing 10/13/2023'
 message_count: 1
 first: 2023-09-22
 last: 2023-09-22
 senders:
-  - Chris.Lundeen@rate.com
+- Chris.Lundeen@rate.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # [External] Welcome Letter and Important Information - Younker - Purchase/Full Appraisal - Closing 10/13/2023

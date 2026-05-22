@@ -1,12 +1,16 @@
 ---
-subject: "MYHockey Tournaments Hotel Reservation Notice"
+subject: MYHockey Tournaments Hotel Reservation Notice
 message_count: 2
 first: 2026-01-02
 last: 2026-01-02
 senders:
-  - alexp@myhockeytournaments.com
+- alexp@myhockeytournaments.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
+- travel
 ---
 
 # MYHockey Tournaments Hotel Reservation Notice

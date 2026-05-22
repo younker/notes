@@ -1,13 +1,15 @@
 ---
-subject: "Honor Interview Confirmation"
+subject: Honor Interview Confirmation
 message_count: 2
 first: 2025-01-01
 last: 2025-01-06
 senders:
-  - charlie.bowers@joinhonor.com
-  - sejal.sangani@joinhonor.com
+- charlie.bowers@joinhonor.com
+- sejal.sangani@joinhonor.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Honor Interview Confirmation

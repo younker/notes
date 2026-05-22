@@ -1,13 +1,17 @@
 ---
-subject: "Jason Younker Resume & Cover Letter"
+subject: Jason Younker Resume & Cover Letter
 message_count: 2
 first: 2025-03-10
 last: 2025-03-11
 senders:
-  - greg@sr2rec.com
-  - jason@ynkr.org
+- greg@sr2rec.com
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Jason Younker Resume & Cover Letter

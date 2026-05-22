@@ -1,12 +1,15 @@
 ---
-subject: "Passcard Players 5/2"
+subject: Passcard Players 5/2
 message_count: 4
 first: 2026-04-29
 last: 2026-05-01
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # Passcard Players 5/2

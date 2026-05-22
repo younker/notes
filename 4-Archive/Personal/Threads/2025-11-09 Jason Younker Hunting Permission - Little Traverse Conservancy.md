@@ -1,12 +1,15 @@
 ---
-subject: "Jason Younker Hunting Permission - Little Traverse Conservancy"
+subject: Jason Younker Hunting Permission - Little Traverse Conservancy
 message_count: 1
 first: 2025-11-09
 last: 2025-11-09
 senders:
-  - charles@landtrust.org
+- charles@landtrust.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hunting-outdoors
+- real-estate
 ---
 
 # Jason Younker Hunting Permission - Little Traverse Conservancy

@@ -1,12 +1,15 @@
 ---
-subject: "William needs you to sign Inspection Addendum in 720 Jennings Ave, Petoskey MI 49770"
+subject: William needs you to sign Inspection Addendum in 720 Jennings Ave, Petoskey MI 49770
 message_count: 1
 first: 2023-09-24
 last: 2023-09-24
 senders:
-  - hit-reply@dotloop.com
+- hit-reply@dotloop.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- home-improvement
+- real-estate
 ---
 
 # William needs you to sign Inspection Addendum in 720 Jennings Ave, Petoskey MI 49770

@@ -1,12 +1,14 @@
 ---
-subject: "MHSAA Event Payment Required"
+subject: MHSAA Event Payment Required
 message_count: 2
 first: 2026-05-12
 last: 2026-05-12
 senders:
-  - notify@mhsaa.com
+- notify@mhsaa.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # MHSAA Event Payment Required

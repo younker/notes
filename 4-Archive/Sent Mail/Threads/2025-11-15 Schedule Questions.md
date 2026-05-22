@@ -1,12 +1,16 @@
 ---
-subject: "Schedule Questions"
+subject: Schedule Questions
 message_count: 1
 first: 2025-11-15
 last: 2025-11-15
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Schedule Questions

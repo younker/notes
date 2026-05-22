@@ -1,12 +1,16 @@
 ---
-subject: "KÜHL Order confirmation"
+subject: KÜHL Order confirmation
 message_count: 1
 first: 2022-12-15
 last: 2022-12-15
 senders:
-  - customerservice@kuhl.com
+- customerservice@kuhl.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
+- shopping-receipts
 ---
 
 # KÜHL Order confirmation

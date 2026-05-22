@@ -1,12 +1,15 @@
 ---
-subject: "HELIOS Membership Key"
+subject: HELIOS Membership Key
 message_count: 1
 first: 2026-01-13
 last: 2026-01-13
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # HELIOS Membership Key

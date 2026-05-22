@@ -1,12 +1,15 @@
 ---
-subject: "JASON, Here is Your Vehicle Protection Package"
+subject: JASON, Here is Your Vehicle Protection Package
 message_count: 1
 first: 2021-07-27
 last: 2021-07-27
 senders:
-  - noreply@menumetric.com
+- noreply@menumetric.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # JASON, Here is Your Vehicle Protection Package

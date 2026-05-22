@@ -1,13 +1,17 @@
 ---
-subject: "Hockey games"
+subject: Hockey games
 message_count: 4
 first: 2025-09-24
 last: 2025-09-26
 senders:
-  - cfirman16@gmail.com
-  - manistiquehockeyassociation@gmail.com
+- cfirman16@gmail.com
+- manistiquehockeyassociation@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # Hockey games

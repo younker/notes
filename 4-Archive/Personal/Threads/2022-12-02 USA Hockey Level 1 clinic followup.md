@@ -1,12 +1,15 @@
 ---
-subject: "USA Hockey Level 1 clinic followup"
+subject: USA Hockey Level 1 clinic followup
 message_count: 1
 first: 2022-12-02
 last: 2022-12-02
 senders:
-  - bdhathpg@aol.com
+- bdhathpg@aol.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- shopping-receipts
 ---
 
 # USA Hockey Level 1 clinic followup

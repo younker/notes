@@ -1,12 +1,14 @@
 ---
-subject: "Office of Ali Rizvi"
+subject: Office of Ali Rizvi
 message_count: 1
 first: 2022-04-12
 last: 2022-04-12
 senders:
-  - Mayra.Alvarez@northstarfinancial.com
+- Mayra.Alvarez@northstarfinancial.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Office of Ali Rizvi

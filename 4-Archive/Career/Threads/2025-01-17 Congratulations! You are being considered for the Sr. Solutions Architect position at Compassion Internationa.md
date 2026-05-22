@@ -1,13 +1,14 @@
 ---
-subject: "Congratulations!  You are being considered for the Sr. Solutions
- Architect position at Compassion International"
+subject: Congratulations!  You are being considered for the Sr. Solutions Architect position at Compassion International
 message_count: 1
 first: 2025-01-17
 last: 2025-01-17
 senders:
-  - compassion@myworkday.com
+- compassion@myworkday.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Congratulations!  You are being considered for the Sr. Solutions

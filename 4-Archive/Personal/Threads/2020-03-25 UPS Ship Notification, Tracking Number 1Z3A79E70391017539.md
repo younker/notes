@@ -1,12 +1,16 @@
 ---
-subject: "UPS Ship Notification, Tracking Number 1Z3A79E70391017539"
+subject: UPS Ship Notification, Tracking Number 1Z3A79E70391017539
 message_count: 1
 first: 2020-03-25
 last: 2020-03-25
 senders:
-  - pkginfo@ups.com
+- pkginfo@ups.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- hunting-outdoors
+- shopping-receipts
 ---
 
 # UPS Ship Notification, Tracking Number 1Z3A79E70391017539

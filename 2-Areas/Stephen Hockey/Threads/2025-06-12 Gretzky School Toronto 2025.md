@@ -1,12 +1,16 @@
 ---
-subject: "Gretzky School Toronto 2025"
+subject: Gretzky School Toronto 2025
 message_count: 1
 first: 2025-06-12
 last: 2025-06-12
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Gretzky School Toronto 2025

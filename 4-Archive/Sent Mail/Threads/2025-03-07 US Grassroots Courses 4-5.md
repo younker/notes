@@ -1,12 +1,16 @@
 ---
-subject: "US Grassroots Courses 4/5"
+subject: US Grassroots Courses 4/5
 message_count: 1
 first: 2025-03-07
 last: 2025-03-07
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # US Grassroots Courses 4/5

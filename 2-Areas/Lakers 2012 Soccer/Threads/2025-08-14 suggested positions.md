@@ -1,12 +1,15 @@
 ---
-subject: "suggested positions"
+subject: suggested positions
 message_count: 1
 first: 2025-08-14
 last: 2025-08-14
 senders:
-  - brentcbolin@gmail.com
+- brentcbolin@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brent Bolin]]'
 ---
 
 # suggested positions

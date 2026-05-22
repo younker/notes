@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to Airbnb!"
+subject: Thank you for applying to Airbnb!
 message_count: 1
 first: 2024-12-26
 last: 2024-12-26
 senders:
-  - no-reply@airbnb.com
+- no-reply@airbnb.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- travel
 ---
 
 # Thank you for applying to Airbnb!

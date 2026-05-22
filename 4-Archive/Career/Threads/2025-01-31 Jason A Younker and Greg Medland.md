@@ -1,12 +1,14 @@
 ---
-subject: "Jason A Younker and Greg Medland"
+subject: Jason A Younker and Greg Medland
 message_count: 1
 first: 2025-01-31
 last: 2025-01-31
 senders:
-  - greg@sr2rec.com
+- greg@sr2rec.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Jason A Younker and Greg Medland

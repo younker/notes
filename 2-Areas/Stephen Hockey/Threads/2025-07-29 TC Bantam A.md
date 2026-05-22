@@ -1,12 +1,16 @@
 ---
-subject: "TC Bantam A"
+subject: TC Bantam A
 message_count: 2
 first: 2025-07-29
 last: 2025-07-29
 senders:
-  - stumm_@hotmail.com
+- stumm_@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jared Stumm]]'
 ---
 
 # TC Bantam A

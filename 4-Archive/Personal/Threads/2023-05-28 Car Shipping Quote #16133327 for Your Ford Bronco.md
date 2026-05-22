@@ -1,12 +1,14 @@
 ---
-subject: "Car Shipping Quote #16133327 for Your Ford Bronco"
+subject: 'Car Shipping Quote #16133327 for Your Ford Bronco'
 message_count: 1
 first: 2023-05-28
 last: 2023-05-28
 senders:
-  - quotes@montway.com
+- quotes@montway.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- motorhome
 ---
 
 # Car Shipping Quote #16133327 for Your Ford Bronco

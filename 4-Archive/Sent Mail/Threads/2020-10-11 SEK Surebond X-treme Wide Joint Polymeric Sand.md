@@ -1,12 +1,15 @@
 ---
-subject: "SEK Surebond X-treme Wide Joint Polymeric Sand"
+subject: SEK Surebond X-treme Wide Joint Polymeric Sand
 message_count: 5
 first: 2020-10-11
 last: 2020-10-11
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # SEK Surebond X-treme Wide Joint Polymeric Sand

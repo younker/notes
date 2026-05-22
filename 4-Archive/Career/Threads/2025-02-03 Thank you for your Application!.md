@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for your Application!"
+subject: Thank you for your Application!
 message_count: 1
 first: 2025-02-03
 last: 2025-02-03
 senders:
-  - do-not-reply@jobs.microsoft.com
+- do-not-reply@jobs.microsoft.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thank you for your Application!

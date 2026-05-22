@@ -1,12 +1,15 @@
 ---
-subject: "[Updated] US News to Issue Senior Living Ratings"
+subject: '[Updated] US News to Issue Senior Living Ratings'
 message_count: 1
 first: 2021-09-09
 last: 2021-09-09
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # [Updated] US News to Issue Senior Living Ratings

@@ -1,12 +1,16 @@
 ---
-subject: "TC AA Tryouts May 18-19"
+subject: TC AA Tryouts May 18-19
 message_count: 1
 first: 2026-04-21
 last: 2026-04-21
 senders:
-  - heatheryounker@outlook.com
+- heatheryounker@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # TC AA Tryouts May 18-19

@@ -1,12 +1,17 @@
 ---
-subject: "Your Order Is On Its Way"
+subject: Your Order Is On Its Way
 message_count: 1
 first: 2023-02-07
 last: 2023-02-07
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- health
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Your Order Is On Its Way

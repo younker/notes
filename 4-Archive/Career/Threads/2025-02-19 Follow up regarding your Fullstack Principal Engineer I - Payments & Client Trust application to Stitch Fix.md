@@ -1,13 +1,15 @@
 ---
-subject: "Follow up regarding your Fullstack Principal Engineer I - Payments & Client
- Trust application to Stitch Fix"
+subject: Follow up regarding your Fullstack Principal Engineer I - Payments & Client Trust application to Stitch Fix
 message_count: 1
 first: 2025-02-19
 last: 2025-02-19
 senders:
-  - no-reply@stitchfix.com
+- no-reply@stitchfix.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- school
 ---
 
 # Follow up regarding your Fullstack Principal Engineer I - Payments & Client

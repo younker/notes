@@ -1,12 +1,16 @@
 ---
-subject: "CSC Christmas Pageant! Practice THIS Sunday!"
+subject: CSC Christmas Pageant! Practice THIS Sunday!
 message_count: 1
 first: 2019-12-07
 last: 2019-12-07
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # CSC Christmas Pageant! Practice THIS Sunday!

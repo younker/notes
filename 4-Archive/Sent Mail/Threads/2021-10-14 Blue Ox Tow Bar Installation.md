@@ -1,12 +1,15 @@
 ---
-subject: "Blue Ox Tow Bar Installation"
+subject: Blue Ox Tow Bar Installation
 message_count: 1
 first: 2021-10-14
 last: 2021-10-14
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Blue Ox Tow Bar Installation

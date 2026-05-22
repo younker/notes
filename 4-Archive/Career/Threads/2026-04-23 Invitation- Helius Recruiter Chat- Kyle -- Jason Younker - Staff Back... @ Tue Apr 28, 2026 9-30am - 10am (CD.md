@@ -1,13 +1,14 @@
 ---
-subject: "Invitation: Helius Recruiter Chat: Kyle <> Jason Younker - Staff
- Back... @ Tue Apr 28, 2026 9:30am - 10am (CDT) (jason@ynkr.org)"
+subject: 'Invitation: Helius Recruiter Chat: Kyle <> Jason Younker - Staff Back... @ Tue Apr 28, 2026 9:30am - 10am (CDT) (jason@ynkr.org)'
 message_count: 2
 first: 2026-04-23
 last: 2026-04-28
 senders:
-  - k.devaldivielso@helius.xyz
+- k.devaldivielso@helius.xyz
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Invitation: Helius Recruiter Chat: Kyle <> Jason Younker - Staff

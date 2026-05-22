@@ -1,12 +1,14 @@
 ---
-subject: "AMERICAN FUNDS Important Information"
+subject: AMERICAN FUNDS Important Information
 message_count: 2
 first: 2025-01-03
 last: 2025-01-03
 senders:
-  - id@proxyvote.com
+- id@proxyvote.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # AMERICAN FUNDS Important Information

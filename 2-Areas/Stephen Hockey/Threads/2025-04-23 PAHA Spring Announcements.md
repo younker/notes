@@ -1,12 +1,15 @@
 ---
-subject: "PAHA Spring Announcements"
+subject: PAHA Spring Announcements
 message_count: 1
 first: 2025-04-23
 last: 2025-04-23
 senders:
-  - noreply@mailer.sportsengine.com
+- noreply@mailer.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # PAHA Spring Announcements

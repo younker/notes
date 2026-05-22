@@ -1,12 +1,15 @@
 ---
-subject: "Petoskey Fundraising Flyer"
+subject: Petoskey Fundraising Flyer
 message_count: 1
 first: 2025-12-10
 last: 2025-12-10
 senders:
-  - heatheryounker@outlook.com
+- heatheryounker@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Petoskey Fundraising Flyer

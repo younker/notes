@@ -1,12 +1,15 @@
 ---
-subject: "We have received your response for Square Credit Card Payment Form"
+subject: We have received your response for Square Credit Card Payment Form
 message_count: 2
 first: 2021-09-08
 last: 2021-09-21
 senders:
-  - noreply@jotform.com
+- noreply@jotform.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- shopping-receipts
 ---
 
 # We have received your response for Square Credit Card Payment Form

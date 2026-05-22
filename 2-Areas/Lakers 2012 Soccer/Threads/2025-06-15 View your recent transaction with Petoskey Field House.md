@@ -1,12 +1,14 @@
 ---
-subject: "View your recent transaction with Petoskey Field House"
+subject: View your recent transaction with Petoskey Field House
 message_count: 1
 first: 2025-06-15
 last: 2025-06-15
 senders:
-  - dash@dashplatform.com
+- dash@dashplatform.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # View your recent transaction with Petoskey Field House

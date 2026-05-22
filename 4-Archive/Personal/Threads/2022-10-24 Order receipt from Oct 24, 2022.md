@@ -1,12 +1,14 @@
 ---
-subject: "Order receipt from Oct 24, 2022"
+subject: Order receipt from Oct 24, 2022
 message_count: 1
 first: 2022-10-24
 last: 2022-10-24
 senders:
-  - support@nordaccount.com
+- support@nordaccount.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Order receipt from Oct 24, 2022

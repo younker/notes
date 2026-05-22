@@ -1,12 +1,16 @@
 ---
-subject: "Strength & conditioning info"
+subject: Strength & conditioning info
 message_count: 2
 first: 2026-05-11
 last: 2026-05-12
 senders:
-  - tgarbo@northmen.org
+- tgarbo@northmen.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Trevor Garbo]]'
 ---
 
 # Strength & conditioning info

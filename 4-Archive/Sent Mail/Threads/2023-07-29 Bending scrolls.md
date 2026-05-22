@@ -1,12 +1,15 @@
 ---
-subject: "Bending scrolls"
+subject: Bending scrolls
 message_count: 1
 first: 2023-07-29
 last: 2023-07-29
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Bending scrolls

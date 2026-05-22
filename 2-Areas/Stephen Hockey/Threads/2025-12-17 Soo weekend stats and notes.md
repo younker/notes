@@ -1,12 +1,15 @@
 ---
-subject: "Soo weekend stats and notes"
+subject: Soo weekend stats and notes
 message_count: 1
 first: 2025-12-17
 last: 2025-12-17
 senders:
-  - blcook6383@aol.com
+- blcook6383@aol.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brandon Cook]]'
 ---
 
 # Soo weekend stats and notes

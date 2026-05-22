@@ -1,12 +1,16 @@
 ---
-subject: "Matt Hill - JV Position"
+subject: Matt Hill - JV Position
 message_count: 2
 first: 2026-05-13
 last: 2026-05-14
 senders:
-  - dohm.jj.m@northmen.org
+- dohm.jj.m@northmen.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Joel Dohm]]'
 ---
 
 # Matt Hill - JV Position

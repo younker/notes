@@ -1,12 +1,14 @@
 ---
-subject: "Time to set up your claim payment"
+subject: Time to set up your claim payment
 message_count: 1
 first: 2025-04-15
 last: 2025-04-15
 senders:
-  - DoNotReply@CommerceBank.com
+- DoNotReply@CommerceBank.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Time to set up your claim payment

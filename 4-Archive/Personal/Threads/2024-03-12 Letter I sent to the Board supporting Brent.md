@@ -8,6 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
+- hockey
+- real-estate
 contacts:
 - '[[Heather Younker]]'
 ---

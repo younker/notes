@@ -8,7 +8,9 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
+- church
 - email
+- school
 contacts:
 - '[[Jason Younker]]'
 ---

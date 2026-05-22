@@ -1,12 +1,15 @@
 ---
-subject: "You're invited to the staff of Petoskey Jr Northmen"
+subject: You're invited to the staff of Petoskey Jr Northmen
 message_count: 1
 first: 2025-10-10
 last: 2025-10-10
 senders:
-  - notifications@mqtjrhockey.org
+- notifications@mqtjrhockey.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- soccer
 ---
 
 # You're invited to the staff of Petoskey Jr Northmen

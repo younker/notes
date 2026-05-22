@@ -1,12 +1,15 @@
 ---
-subject: "Eligibility question"
+subject: Eligibility question
 message_count: 1
 first: 2026-05-14
 last: 2026-05-14
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Eligibility question

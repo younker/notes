@@ -1,12 +1,14 @@
 ---
-subject: "Twinstar Unit Payoff Check"
+subject: Twinstar Unit Payoff Check
 message_count: 1
 first: 2021-09-03
 last: 2021-09-03
 senders:
-  - jessica@sumnerrv.com
+- jessica@sumnerrv.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- motorhome
 ---
 
 # Twinstar Unit Payoff Check

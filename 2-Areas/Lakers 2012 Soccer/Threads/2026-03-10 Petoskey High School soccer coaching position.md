@@ -1,12 +1,18 @@
 ---
-subject: "Petoskey High School soccer coaching position"
+subject: Petoskey High School soccer coaching position
 message_count: 3
 first: 2026-03-10
 last: 2026-03-20
 senders:
-  - dohm.jj.m@northmen.org
+- dohm.jj.m@northmen.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- school
+- soccer
+contacts:
+- '[[Joel Dohm]]'
 ---
 
 # Petoskey High School soccer coaching position

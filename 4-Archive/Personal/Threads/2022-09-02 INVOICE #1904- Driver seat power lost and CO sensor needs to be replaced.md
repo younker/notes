@@ -10,6 +10,8 @@ senders:
 type: email-thread
 tags:
 - email
+- finance
+- motorhome
 contacts:
 - '[[Jason Younker]]'
 ---

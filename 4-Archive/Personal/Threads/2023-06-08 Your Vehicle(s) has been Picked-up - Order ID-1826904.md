@@ -1,12 +1,15 @@
 ---
-subject: "Your Vehicle(s) has been Picked-up - Order ID:1826904"
+subject: Your Vehicle(s) has been Picked-up - Order ID:1826904
 message_count: 2
 first: 2023-06-08
 last: 2023-06-08
 senders:
-  - info@montway.com
+- info@montway.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # Your Vehicle(s) has been Picked-up - Order ID:1826904

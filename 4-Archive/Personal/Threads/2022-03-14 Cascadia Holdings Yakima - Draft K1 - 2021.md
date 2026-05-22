@@ -1,12 +1,15 @@
 ---
-subject: "Cascadia Holdings Yakima - Draft K1 - 2021"
+subject: Cascadia Holdings Yakima - Draft K1 - 2021
 message_count: 1
 first: 2022-03-14
 last: 2022-03-14
 senders:
-  - investor.relations@cascadiaseniorliving.com
+- investor.relations@cascadiaseniorliving.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
 ---
 
 # Cascadia Holdings Yakima - Draft K1 - 2021

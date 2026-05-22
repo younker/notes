@@ -1,12 +1,14 @@
 ---
-subject: "Podium Phone Interview"
+subject: Podium Phone Interview
 message_count: 1
 first: 2024-12-27
 last: 2024-12-27
 senders:
-  - sarah.paulson@podium.com
+- sarah.paulson@podium.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Podium Phone Interview

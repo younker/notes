@@ -1,12 +1,14 @@
 ---
-subject: "Invoice for Jason Younker from Olympic Glass and Building Materials, Inc. regarding INV-230348"
+subject: Invoice for Jason Younker from Olympic Glass and Building Materials, Inc. regarding INV-230348
 message_count: 1
 first: 2021-10-07
 last: 2021-10-07
 senders:
-  - messaging-service@post.xero.com
+- messaging-service@post.xero.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Invoice for Jason Younker from Olympic Glass and Building Materials, Inc. regarding INV-230348

@@ -1,12 +1,17 @@
 ---
-subject: "For the Holland tournament"
+subject: For the Holland tournament
 message_count: 1
 first: 2026-01-16
 last: 2026-01-16
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- vehicles
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # For the Holland tournament

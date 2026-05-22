@@ -8,6 +8,7 @@ phones:
 emails:
 - heatheryounker@outlook.com
 - heathergoffinet@hotmail.com
+- heather@phyliciamasonheimer.com
 created: 2026-01-24
 modified: 2026-03-17
 tags:
@@ -28,7 +29,7 @@ tags:
 
 ## Email Threads
 
-*45 threads*
+*74 threads*
 
 - [[2019-05-25 Paid Paid to file for California trip]]
 - [[2019-10-02 Incident today on Playground, Ongoing issues with Rohan]]
@@ -69,9 +70,38 @@ tags:
 - [[2025-01-03 Bible in a Year Site]]
 - [[2025-01-07 This is a really good recap]]
 - [[2025-01-16 Remember-]]
+- [[2025-03-03 The Bible Project is hiring]]
 - [[2025-03-12 Should I send this to Brent-]]
+- [[2025-05-01 200x85 Body Contact- Southside Arena - Byron Center, MI (2025)- Group 2]]
 - [[2025-05-28 how's this-]]
 - [[2025-05-30 Yesterday's Slap Challenge]]
+- [[2025-06-12 Gretzky School Toronto 2025]]
+- [[2025-06-18 Meijer State Games Schedule Thurs-Fri]]
+- [[2025-06-18 Opening Ceremony & Kickoff Party FRIDAY!]]
+- [[2025-06-18 Reservation Confirmation for Springhill Suites Grand Rapids West- 2025 Meijer State Games - Main Weekend]]
+- [[2025-07-18 2012 Michigan Camp - Final Details]]
+- [[2025-07-21 Stephen’s camp - Grand Rapids Aug 8-10]]
+- [[2025-08-04 Phantoms Camp Schedule]]
+- [[2025-09-05 New payment request from Petoskey Area Hockey Association - pledge 1024]]
+- [[2025-09-16 Hockey Info I could find for scheduling]]
+- [[2025-09-16 Hockey Scheduling- If we need]]
+- [[2025-10-02 Your Reservation at Comfort Suites Stevensville - St. Joseph in Stevensville is Confirmed]]
 - [[2025-10-13 Conflict in class on Friday]]
 - [[2025-10-14 FACTS Behavior logging]]
 - [[2025-10-27 Being on time for class]]
+- [[2025-12-04 Season Stats as of 12-4]]
+- [[2025-12-10 Petoskey Fundraising Flyer]]
+- [[2025-12-10 can you create a easy to read url for this link-]]
+- [[2025-12-18 My text to Chris]]
+- [[2025-12-19 Please read and let me know your thoughts]]
+- [[2026-01-13 HELIOS Membership Key]]
+- [[2026-01-13 Understanding your HELIOS Metrics]]
+- [[2026-01-13 Welcome to HELIOS!]]
+- [[2026-02-11 Stephen’s GPA]]
+- [[2026-03-06 Hockey Tryouts for Spring]]
+- [[2026-03-10 Soccer Head Coach]]
+- [[2026-04-14 Confronting the Lie of Sinless Conservatism]]
+- [[2026-04-21 TC AA Tryouts May 18-19]]
+- [[2026-04-21 fed camp]]
+- [[2026-05-18 Jerseys for Day 2 Update]]
+- [[2026-05-22 TC Tryout groups]]

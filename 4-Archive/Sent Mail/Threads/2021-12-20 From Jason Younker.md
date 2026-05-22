@@ -1,12 +1,19 @@
 ---
-subject: "From Jason Younker"
+subject: From Jason Younker
 message_count: 4
 first: 2021-12-20
 last: 2023-05-11
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- home-improvement
+- motorhome
+- real-estate
+- vehicles
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # From Jason Younker

@@ -1,12 +1,15 @@
 ---
-subject: "Penske Personal One-way Confirmed Reservation 91736742"
+subject: Penske Personal One-way Confirmed Reservation 91736742
 message_count: 1
 first: 2023-09-29
 last: 2023-09-29
 senders:
-  - no-reply@penske.com
+- no-reply@penske.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- home-improvement
+- insurance
 ---
 
 # Penske Personal One-way Confirmed Reservation 91736742

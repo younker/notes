@@ -1,12 +1,16 @@
 ---
-subject: "Stephen-jersey number"
+subject: Stephen-jersey number
 message_count: 1
 first: 2022-10-27
 last: 2022-10-27
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Stephen-jersey number

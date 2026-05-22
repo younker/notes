@@ -1,12 +1,14 @@
 ---
-subject: "Svix - Tech lead Application Confirmation"
+subject: Svix - Tech lead Application Confirmation
 message_count: 1
 first: 2025-01-31
 last: 2025-01-31
 senders:
-  - no-reply@ashbyhq.com
+- no-reply@ashbyhq.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Svix - Tech lead Application Confirmation

@@ -1,12 +1,15 @@
 ---
-subject: "Remainder of order"
+subject: Remainder of order
 message_count: 2
 first: 2020-01-31
 last: 2020-01-31
 senders:
-  - bill.taylor@dnr.wa.gov
+- bill.taylor@dnr.wa.gov
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- hunting-outdoors
 ---
 
 # Remainder of order

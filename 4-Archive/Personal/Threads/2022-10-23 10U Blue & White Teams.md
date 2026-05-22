@@ -8,7 +8,9 @@ senders:
 - no-reply@mailer.sportsengine.com
 type: email-thread
 tags:
+- church
 - email
+- hockey
 contacts:
 - '[[Jason Younker]]'
 ---

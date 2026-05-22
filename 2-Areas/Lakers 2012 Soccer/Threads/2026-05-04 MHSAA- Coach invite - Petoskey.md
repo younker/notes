@@ -1,12 +1,14 @@
 ---
-subject: "MHSAA: Coach invite - Petoskey"
+subject: 'MHSAA: Coach invite - Petoskey'
 message_count: 1
 first: 2026-05-04
 last: 2026-05-04
 senders:
-  - coachinvite@mhsaa.com
+- coachinvite@mhsaa.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # MHSAA: Coach invite - Petoskey

@@ -1,15 +1,21 @@
 ---
-subject: "Season Stats as of 12/4"
+subject: Season Stats as of 12/4
 message_count: 5
 first: 2025-12-04
 last: 2025-12-04
 senders:
-  - blcook6383@aol.com
-  - brentcbolin@gmail.com
-  - cfirman16@gmail.com
-  - heatheryounker@outlook.com
+- blcook6383@aol.com
+- brentcbolin@gmail.com
+- cfirman16@gmail.com
+- heatheryounker@outlook.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brandon Cook]]'
+- '[[Brent Bolin]]'
+- '[[Chris Firman]]'
+- '[[Heather Younker]]'
 ---
 
 # Season Stats as of 12/4

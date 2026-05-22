@@ -1,13 +1,17 @@
 ---
-subject: "Group Block Release Notice Petoskey Jr Northmen | 2026 Pelham Silver Stick Finals"
+subject: Group Block Release Notice Petoskey Jr Northmen | 2026 Pelham Silver Stick Finals
 message_count: 3
 first: 2025-12-08
 last: 2025-12-10
 senders:
-  - cfirman16@gmail.com
-  - mailer@eventpipe.com
+- cfirman16@gmail.com
+- mailer@eventpipe.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # Group Block Release Notice Petoskey Jr Northmen | 2026 Pelham Silver Stick Finals

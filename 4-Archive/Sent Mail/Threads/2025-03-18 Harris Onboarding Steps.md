@@ -1,12 +1,18 @@
 ---
-subject: "Harris Onboarding Steps"
+subject: Harris Onboarding Steps
 message_count: 8
 first: 2025-03-18
 last: 2025-03-30
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- cascadia-ship
+- email
+- school
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Harris Onboarding Steps

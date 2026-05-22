@@ -1,12 +1,14 @@
 ---
-subject: "Renewed Vision Interview Availability"
+subject: Renewed Vision Interview Availability
 message_count: 1
 first: 2025-03-07
 last: 2025-03-07
 senders:
-  - bethany.bagwell@renewedvision.com
+- bethany.bagwell@renewedvision.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Renewed Vision Interview Availability

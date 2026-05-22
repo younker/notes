@@ -1,12 +1,14 @@
 ---
-subject: "Lumen Requisition Has Been Cancelled"
+subject: Lumen Requisition Has Been Cancelled
 message_count: 1
 first: 2025-04-24
 last: 2025-04-24
 senders:
-  - mylink.admin@centurylink.com
+- mylink.admin@centurylink.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- school
 ---
 
 # Lumen Requisition Has Been Cancelled

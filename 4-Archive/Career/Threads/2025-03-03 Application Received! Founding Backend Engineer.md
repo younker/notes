@@ -1,12 +1,14 @@
 ---
-subject: "Application Received! Founding Backend Engineer"
+subject: Application Received! Founding Backend Engineer
 message_count: 1
 first: 2025-03-03
 last: 2025-03-03
 senders:
-  - alerts@jobs.jobot.com
+- alerts@jobs.jobot.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Application Received! Founding Backend Engineer

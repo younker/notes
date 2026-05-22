@@ -1,12 +1,14 @@
 ---
-subject: "AT&T online payment confirmation"
+subject: AT&T online payment confirmation
 message_count: 1
 first: 2022-07-07
 last: 2022-07-07
 senders:
-  - att-online.services.848736213@emaildl.att-mail.com
+- att-online.services.848736213@emaildl.att-mail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # AT&T online payment confirmation

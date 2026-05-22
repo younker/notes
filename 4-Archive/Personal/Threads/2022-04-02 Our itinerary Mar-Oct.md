@@ -8,6 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
+- motorhome
+- travel
 contacts:
 - '[[Heather Younker]]'
 ---

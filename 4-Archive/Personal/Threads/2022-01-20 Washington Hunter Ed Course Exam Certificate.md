@@ -1,12 +1,16 @@
 ---
-subject: "Washington Hunter Ed Course Exam Certificate"
+subject: Washington Hunter Ed Course Exam Certificate
 message_count: 1
 first: 2022-01-20
 last: 2022-01-20
 senders:
-  - stephenyounker9@gmail.com
+- stephenyounker9@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hunting-outdoors
+contacts:
+- '[[Stephen Younker]]'
 ---
 
 # Washington Hunter Ed Course Exam Certificate

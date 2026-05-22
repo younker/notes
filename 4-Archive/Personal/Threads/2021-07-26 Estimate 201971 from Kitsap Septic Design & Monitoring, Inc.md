@@ -10,6 +10,8 @@ senders:
 type: email-thread
 tags:
 - email
+- finance
+- home-improvement
 contacts:
 - '[[Heather Younker]]'
 - '[[Paul Wandling]]'

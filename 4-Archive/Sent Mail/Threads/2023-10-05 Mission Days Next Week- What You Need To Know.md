@@ -1,12 +1,16 @@
 ---
-subject: "Mission Days Next Week: What You Need To Know"
+subject: 'Mission Days Next Week: What You Need To Know'
 message_count: 1
 first: 2023-10-05
 last: 2023-10-05
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Mission Days Next Week: What You Need To Know

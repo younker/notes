@@ -1,12 +1,16 @@
 ---
-subject: "Cascadia Holdings Yakima Update"
+subject: Cascadia Holdings Yakima Update
 message_count: 1
 first: 2021-08-03
 last: 2021-08-03
 senders:
-  - investor.relations@cascadiaseniorliving.com
+- investor.relations@cascadiaseniorliving.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
+- real-estate
 ---
 
 # Cascadia Holdings Yakima Update

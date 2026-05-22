@@ -1,12 +1,15 @@
 ---
-subject: "Mercier Orion Road bike"
+subject: Mercier Orion Road bike
 message_count: 1
 first: 2022-04-30
 last: 2022-04-30
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Mercier Orion Road bike

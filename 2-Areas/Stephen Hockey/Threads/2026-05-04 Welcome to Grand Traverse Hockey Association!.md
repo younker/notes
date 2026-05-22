@@ -1,12 +1,15 @@
 ---
-subject: "Welcome to Grand Traverse Hockey Association!"
+subject: Welcome to Grand Traverse Hockey Association!
 message_count: 1
 first: 2026-05-04
 last: 2026-05-04
 senders:
-  - mailer@leagueapps.com
+- mailer@leagueapps.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # Welcome to Grand Traverse Hockey Association!

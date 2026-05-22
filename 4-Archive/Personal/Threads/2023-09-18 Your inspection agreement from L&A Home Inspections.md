@@ -1,12 +1,14 @@
 ---
-subject: "Your inspection agreement from L&A Home Inspections"
+subject: Your inspection agreement from L&A Home Inspections
 message_count: 1
 first: 2023-09-18
 last: 2023-09-18
 senders:
-  - no-reply@internachi.org
+- no-reply@internachi.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Your inspection agreement from L&A Home Inspections

@@ -1,12 +1,14 @@
 ---
-subject: "Welcome to Harris Insights and Analytics LLC!"
+subject: Welcome to Harris Insights and Analytics LLC!
 message_count: 1
 first: 2025-03-18
 last: 2025-03-18
 senders:
-  - noreply@ultimatesoftware.com
+- noreply@ultimatesoftware.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Welcome to Harris Insights and Analytics LLC!

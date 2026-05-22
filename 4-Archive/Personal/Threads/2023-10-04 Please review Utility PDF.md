@@ -1,12 +1,14 @@
 ---
-subject: "Please review Utility PDF"
+subject: Please review Utility PDF
 message_count: 1
 first: 2023-10-04
 last: 2023-10-04
 senders:
-  - hit-reply@dotloop.com
+- hit-reply@dotloop.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- real-estate
 ---
 
 # Please review Utility PDF

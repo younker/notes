@@ -1,12 +1,14 @@
 ---
-subject: "GRINDER HOCKEY: Waiver Acceptance for Stephen Younker"
+subject: 'GRINDER HOCKEY: Waiver Acceptance for Stephen Younker'
 message_count: 1
 first: 2026-04-14
 last: 2026-04-14
 senders:
-  - noreply@grinderhockey.com
+- noreply@grinderhockey.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # GRINDER HOCKEY: Waiver Acceptance for Stephen Younker

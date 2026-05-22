@@ -1,12 +1,15 @@
 ---
-subject: "Receipt for Your Payment to Walcro, LLC"
+subject: Receipt for Your Payment to Walcro, LLC
 message_count: 1
 first: 2024-12-27
 last: 2024-12-27
 senders:
-  - service@paypal.com
+- service@paypal.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- shopping-receipts
 ---
 
 # Receipt for Your Payment to Walcro, LLC

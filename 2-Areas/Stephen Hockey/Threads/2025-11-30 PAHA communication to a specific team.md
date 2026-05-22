@@ -1,12 +1,14 @@
 ---
-subject: "PAHA communication to a specific team"
+subject: PAHA communication to a specific team
 message_count: 1
 first: 2025-11-30
 last: 2025-11-30
 senders:
-  - pahacommunications@gmail.com
+- pahacommunications@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # PAHA communication to a specific team

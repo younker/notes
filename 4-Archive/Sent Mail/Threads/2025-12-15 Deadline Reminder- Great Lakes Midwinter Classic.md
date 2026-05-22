@@ -1,12 +1,15 @@
 ---
-subject: "Deadline Reminder: Great Lakes Midwinter Classic"
+subject: 'Deadline Reminder: Great Lakes Midwinter Classic'
 message_count: 1
 first: 2025-12-15
 last: 2025-12-15
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Deadline Reminder: Great Lakes Midwinter Classic

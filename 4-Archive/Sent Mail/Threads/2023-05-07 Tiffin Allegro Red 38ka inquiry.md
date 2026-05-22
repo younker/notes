@@ -1,12 +1,16 @@
 ---
-subject: "Tiffin Allegro Red 38ka inquiry"
+subject: Tiffin Allegro Red 38ka inquiry
 message_count: 1
 first: 2023-05-07
 last: 2023-05-07
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- motorhome
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Tiffin Allegro Red 38ka inquiry

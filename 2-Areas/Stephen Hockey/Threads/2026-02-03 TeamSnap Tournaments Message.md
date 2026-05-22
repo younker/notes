@@ -1,12 +1,17 @@
 ---
-subject: "TeamSnap Tournaments Message"
+subject: TeamSnap Tournaments Message
 message_count: 1
 first: 2026-02-03
 last: 2026-02-03
 senders:
-  - cfirman16@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- school
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # TeamSnap Tournaments Message

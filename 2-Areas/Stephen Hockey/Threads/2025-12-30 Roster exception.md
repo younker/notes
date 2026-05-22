@@ -1,13 +1,19 @@
 ---
-subject: "Roster exception"
+subject: Roster exception
 message_count: 5
 first: 2025-12-30
 last: 2025-12-31
 senders:
-  - bkasiborski@gmail.com
-  - cfirman16@gmail.com
+- bkasiborski@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- health
+- hockey
+contacts:
+- '[[Brian Kasiborski]]'
+- '[[Chris Firman]]'
 ---
 
 # Roster exception

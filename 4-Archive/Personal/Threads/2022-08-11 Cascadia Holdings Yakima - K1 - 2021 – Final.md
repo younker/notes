@@ -1,12 +1,15 @@
 ---
-subject: "Cascadia Holdings Yakima - K1 - 2021 – Final"
+subject: Cascadia Holdings Yakima - K1 - 2021 – Final
 message_count: 1
 first: 2022-08-11
 last: 2022-08-11
 senders:
-  - investor.relations@cascadiaseniorliving.com
+- investor.relations@cascadiaseniorliving.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
 ---
 
 # Cascadia Holdings Yakima - K1 - 2021 – Final

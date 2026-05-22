@@ -1,12 +1,15 @@
 ---
-subject: "Wednesday Feb. 7"
+subject: Wednesday Feb. 7
 message_count: 1
 first: 2024-02-04
 last: 2024-02-04
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Wednesday Feb. 7

@@ -1,12 +1,14 @@
 ---
-subject: "Updated Roster"
+subject: Updated Roster
 message_count: 1
 first: 2023-09-11
 last: 2023-09-11
 senders:
-  - furgeso2@msu.edu
+- furgeso2@msu.edu
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # Updated Roster

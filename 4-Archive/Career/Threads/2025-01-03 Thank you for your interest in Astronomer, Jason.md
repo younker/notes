@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for your interest in Astronomer, Jason"
+subject: Thank you for your interest in Astronomer, Jason
 message_count: 1
 first: 2025-01-03
 last: 2025-01-03
 senders:
-  - no-reply@ashbyhq.com
+- no-reply@ashbyhq.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thank you for your interest in Astronomer, Jason

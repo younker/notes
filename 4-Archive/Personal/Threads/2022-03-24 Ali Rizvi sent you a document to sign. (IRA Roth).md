@@ -1,12 +1,15 @@
 ---
-subject: "Ali Rizvi sent you a document to sign. (IRA Roth)"
+subject: Ali Rizvi sent you a document to sign. (IRA Roth)
 message_count: 1
 first: 2022-03-24
 last: 2022-03-24
 senders:
-  - dse@docusign.net
+- dse@docusign.net
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- school
 ---
 
 # Ali Rizvi sent you a document to sign. (IRA Roth)

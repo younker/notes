@@ -1,12 +1,17 @@
 ---
-subject: "Seedling Order"
+subject: Seedling Order
 message_count: 2
 first: 2019-09-16
 last: 2019-09-16
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hunting-outdoors
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Seedling Order

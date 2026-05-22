@@ -1,12 +1,17 @@
 ---
-subject: "Cascadia Holdings Yakima - Draft K1 - 2021"
+subject: Cascadia Holdings Yakima - Draft K1 - 2021
 message_count: 1
 first: 2022-03-16
 last: 2022-03-16
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Cascadia Holdings Yakima - Draft K1 - 2021

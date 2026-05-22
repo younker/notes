@@ -1,12 +1,14 @@
 ---
-subject: "ATTENTION: Completed Player Documents"
+subject: 'ATTENTION: Completed Player Documents'
 message_count: 1
 first: 2024-03-17
 last: 2024-03-17
 senders:
-  - MMYSL@sportsforms.net
+- MMYSL@sportsforms.net
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # ATTENTION: Completed Player Documents

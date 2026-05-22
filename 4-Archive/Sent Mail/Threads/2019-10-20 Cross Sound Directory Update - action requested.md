@@ -1,12 +1,16 @@
 ---
-subject: "Cross Sound Directory Update - action requested"
+subject: Cross Sound Directory Update - action requested
 message_count: 1
 first: 2019-10-20
 last: 2019-10-20
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Cross Sound Directory Update - action requested

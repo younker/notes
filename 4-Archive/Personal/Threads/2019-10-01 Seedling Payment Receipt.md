@@ -1,12 +1,15 @@
 ---
-subject: "Seedling Payment Receipt"
+subject: Seedling Payment Receipt
 message_count: 2
 first: 2019-10-01
 last: 2019-10-15
 senders:
-  - bill.taylor@dnr.wa.gov
+- bill.taylor@dnr.wa.gov
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hunting-outdoors
 ---
 
 # Seedling Payment Receipt

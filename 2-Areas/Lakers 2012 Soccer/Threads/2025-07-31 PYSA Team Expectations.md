@@ -1,12 +1,15 @@
 ---
-subject: "PYSA Team Expectations"
+subject: PYSA Team Expectations
 message_count: 2
 first: 2025-07-31
 last: 2025-08-05
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # PYSA Team Expectations

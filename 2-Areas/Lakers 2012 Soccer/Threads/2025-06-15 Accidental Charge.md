@@ -1,12 +1,15 @@
 ---
-subject: "Accidental Charge"
+subject: Accidental Charge
 message_count: 1
 first: 2025-06-15
 last: 2025-06-15
 senders:
-  - soccer@northernmichiganfc.com
+- soccer@northernmichiganfc.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- soccer
 ---
 
 # Accidental Charge

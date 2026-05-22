@@ -1,12 +1,15 @@
 ---
-subject: "Coaching Openings this Fall?"
+subject: Coaching Openings this Fall?
 message_count: 1
 first: 2025-05-19
 last: 2025-05-19
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # Coaching Openings this Fall?

@@ -1,12 +1,16 @@
 ---
-subject: "Your flight to Dallas/Fort Worth - JZADKM"
+subject: Your flight to Dallas/Fort Worth - JZADKM
 message_count: 1
 first: 2024-07-22
 last: 2024-07-22
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- travel
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Your flight to Dallas/Fort Worth - JZADKM

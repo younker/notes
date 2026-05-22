@@ -1,12 +1,15 @@
 ---
-subject: "Island Family Eyecare"
+subject: Island Family Eyecare
 message_count: 1
 first: 2021-10-28
 last: 2021-10-28
 senders:
-  - islandfamilyeyecare@gmail.com
+- islandfamilyeyecare@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- insurance
 ---
 
 # Island Family Eyecare

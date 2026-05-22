@@ -1,12 +1,14 @@
 ---
-subject: "PAHA 14UAA Spring Team 2026 Tryout Confirmation"
+subject: PAHA 14UAA Spring Team 2026 Tryout Confirmation
 message_count: 1
 first: 2026-03-19
 last: 2026-03-19
 senders:
-  - no-reply@mailer-h.sportsengine.com
+- no-reply@mailer-h.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # PAHA 14UAA Spring Team 2026 Tryout Confirmation

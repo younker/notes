@@ -1,12 +1,15 @@
 ---
-subject: "Cannondale gravel bike"
+subject: Cannondale gravel bike
 message_count: 2
 first: 2022-07-10
 last: 2022-07-23
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Cannondale gravel bike

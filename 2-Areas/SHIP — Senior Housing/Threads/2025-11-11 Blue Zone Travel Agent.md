@@ -1,12 +1,15 @@
 ---
-subject: "Blue Zone Travel Agent"
+subject: Blue Zone Travel Agent
 message_count: 1
 first: 2025-11-11
 last: 2025-11-11
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # Blue Zone Travel Agent

@@ -1,12 +1,16 @@
 ---
-name: "Keith Van Eaton"
-first_name: "Keith"
-last_name: "Van Eaton"
+name: Keith Van Eaton
+first_name: Keith
+last_name: Van Eaton
 phones:
-  - "+12063000969"
+- '+12063000969'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
+- contact/person
+emails:
+- keithave@yahoo.com
 ---
 
 # Keith Van Eaton

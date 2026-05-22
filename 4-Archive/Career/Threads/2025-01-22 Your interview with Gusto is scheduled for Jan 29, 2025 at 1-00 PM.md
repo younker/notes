@@ -1,12 +1,14 @@
 ---
-subject: "Your interview with Gusto is scheduled for Jan 29, 2025 at 1:00 PM"
+subject: Your interview with Gusto is scheduled for Jan 29, 2025 at 1:00 PM
 message_count: 1
 first: 2025-01-22
 last: 2025-01-22
 senders:
-  - no-reply@interviews.modernloop.io
+- no-reply@interviews.modernloop.io
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Your interview with Gusto is scheduled for Jan 29, 2025 at 1:00 PM

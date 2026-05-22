@@ -1,12 +1,14 @@
 ---
-subject: "N Carolina Hotel & Team Mtgs"
+subject: N Carolina Hotel & Team Mtgs
 message_count: 1
 first: 2025-01-25
 last: 2025-01-25
 senders:
-  - Andrea@genesischurchmi.com
+- Andrea@genesischurchmi.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # N Carolina Hotel & Team Mtgs

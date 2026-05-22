@@ -1,12 +1,16 @@
 ---
-subject: "Pre-Arrival for Niagara Falls Marriott on the Falls | R-05063523 | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026"
+subject: Pre-Arrival for Niagara Falls Marriott on the Falls | R-05063523 | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026
 message_count: 1
 first: 2025-12-31
 last: 2025-12-31
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- travel
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Pre-Arrival for Niagara Falls Marriott on the Falls | R-05063523 | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026

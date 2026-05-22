@@ -1,12 +1,16 @@
 ---
-subject: "Aug 12 Lakers practice"
+subject: Aug 12 Lakers practice
 message_count: 1
 first: 2025-08-12
 last: 2025-08-12
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Aug 12 Lakers practice

@@ -1,12 +1,16 @@
 ---
-subject: "Jason Y feedback"
+subject: Jason Y feedback
 message_count: 1
 first: 2025-03-14
 last: 2025-03-14
 senders:
-  - Craigr@jobot.com
+- Craigr@jobot.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Craig Rosecrans]]'
 ---
 
 # Jason Y feedback

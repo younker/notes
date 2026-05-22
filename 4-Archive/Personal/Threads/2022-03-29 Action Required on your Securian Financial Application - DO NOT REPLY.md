@@ -1,12 +1,15 @@
 ---
-subject: "Action Required on your Securian Financial Application - DO NOT REPLY"
+subject: Action Required on your Securian Financial Application - DO NOT REPLY
 message_count: 1
 first: 2022-03-29
 last: 2022-03-29
 senders:
-  - donotreply@ipipeline.com
+- donotreply@ipipeline.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- insurance
 ---
 
 # Action Required on your Securian Financial Application - DO NOT REPLY

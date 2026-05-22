@@ -1,14 +1,16 @@
 ---
-subject: "MSPSP Premier 2 Spring Scheduling"
+subject: MSPSP Premier 2 Spring Scheduling
 message_count: 6
 first: 2026-02-07
 last: 2026-02-08
 senders:
-  - conor@michiganfutbolacademy.com
-  - jasonmpowell@hotmail.com
-  - rjbrower04@gmail.com
+- conor@michiganfutbolacademy.com
+- jasonmpowell@hotmail.com
+- rjbrower04@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
 ---
 
 # MSPSP Premier 2 Spring Scheduling

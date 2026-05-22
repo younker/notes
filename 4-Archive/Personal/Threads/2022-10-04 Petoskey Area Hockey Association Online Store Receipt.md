@@ -1,12 +1,15 @@
 ---
-subject: "Petoskey Area Hockey Association Online Store Receipt"
+subject: Petoskey Area Hockey Association Online Store Receipt
 message_count: 1
 first: 2022-10-04
 last: 2022-10-04
 senders:
-  - no-reply@mailer-h.sportsengine.com
+- no-reply@mailer-h.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # Petoskey Area Hockey Association Online Store Receipt

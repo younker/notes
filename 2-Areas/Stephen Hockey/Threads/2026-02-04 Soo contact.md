@@ -1,12 +1,15 @@
 ---
-subject: "Soo contact"
+subject: Soo contact
 message_count: 1
 first: 2026-02-04
 last: 2026-02-04
 senders:
-  - cfirman16@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Chris Firman]]'
 ---
 
 # Soo contact

@@ -1,12 +1,16 @@
 ---
-subject: "Conditionally approved! Younker 234731645"
+subject: Conditionally approved! Younker 234731645
 message_count: 1
 first: 2023-09-25
 last: 2023-09-25
 senders:
-  - Guy.McCarthy@rate.com
+- Guy.McCarthy@rate.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- insurance
+- real-estate
 ---
 
 # Conditionally approved! Younker 234731645

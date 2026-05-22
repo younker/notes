@@ -1,12 +1,16 @@
 ---
-subject: "Jewelry Follow Up - 2nd Attempt"
+subject: Jewelry Follow Up - 2nd Attempt
 message_count: 2
 first: 2024-01-18
 last: 2024-01-18
 senders:
-  - Tarah.McKay@rateins.com
+- Tarah.McKay@rateins.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- insurance
+- real-estate
+- shopping-receipts
 ---
 
 # Jewelry Follow Up - 2nd Attempt

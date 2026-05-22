@@ -1,12 +1,15 @@
 ---
-subject: "Payment receipt for car shipping Order# 1826904. Thank you!"
+subject: Payment receipt for car shipping Order# 1826904. Thank you!
 message_count: 1
 first: 2023-06-05
 last: 2023-06-05
 senders:
-  - info@montway.com
+- info@montway.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # Payment receipt for car shipping Order# 1826904. Thank you!

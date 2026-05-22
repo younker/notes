@@ -1,12 +1,16 @@
 ---
-subject: "January/February"
+subject: January/February
 message_count: 1
 first: 2021-04-01
 last: 2021-04-01
 senders:
-  - cherit@wwmsllc.com
+- cherit@wwmsllc.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Cheri Thurston]]'
 ---
 
 # January/February

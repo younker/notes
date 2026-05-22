@@ -1,12 +1,14 @@
 ---
-subject: "Famous last words"
+subject: Famous last words
 message_count: 1
 first: 2024-11-07
 last: 2024-11-07
 senders:
-  - bill@understandably.com
+- bill@understandably.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- travel
 ---
 
 # Famous last words

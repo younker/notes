@@ -1,12 +1,16 @@
 ---
-subject: "MSPSP Match #1108 UPDATE"
+subject: 'MSPSP Match #1108 UPDATE'
 message_count: 2
 first: 2026-04-17
 last: 2026-04-17
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # MSPSP Match #1108 UPDATE

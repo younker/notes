@@ -1,12 +1,18 @@
 ---
-subject: "Your Moving Estimate 6193606"
+subject: Your Moving Estimate 6193606
 message_count: 1
 first: 2023-03-11
 last: 2023-03-11
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- insurance
+- travel
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Your Moving Estimate 6193606

@@ -1,12 +1,14 @@
 ---
-subject: "Judge Plumbing Co / JPC Waterworks estimate"
+subject: Judge Plumbing Co / JPC Waterworks estimate
 message_count: 1
 first: 2020-02-05
 last: 2020-02-05
 senders:
-  - kristine@jpcwaterworks.com
+- kristine@jpcwaterworks.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- home-improvement
 ---
 
 # Judge Plumbing Co / JPC Waterworks estimate

@@ -1,12 +1,15 @@
 ---
-subject: "Return request confirmed for SNOW DEER Upgraded Rechargeable..."
+subject: Return request confirmed for SNOW DEER Upgraded Rechargeable...
 message_count: 1
 first: 2025-12-10
 last: 2025-12-10
 senders:
-  - return@amazon.com
+- return@amazon.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- shopping-receipts
 ---
 
 # Return request confirmed for SNOW DEER Upgraded Rechargeable...

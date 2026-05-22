@@ -1,12 +1,15 @@
 ---
-subject: "Boyne City Grassroots Course Follow-Up"
+subject: Boyne City Grassroots Course Follow-Up
 message_count: 1
 first: 2025-04-07
 last: 2025-04-07
 senders:
-  - bryan.l.goyings@gmail.com
+- bryan.l.goyings@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- shopping-receipts
+- soccer
 ---
 
 # Boyne City Grassroots Course Follow-Up

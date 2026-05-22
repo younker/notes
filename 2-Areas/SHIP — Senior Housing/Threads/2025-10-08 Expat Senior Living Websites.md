@@ -1,12 +1,16 @@
 ---
-subject: "Expat Senior Living Websites"
+subject: Expat Senior Living Websites
 message_count: 2
 first: 2025-10-08
 last: 2025-10-10
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # Expat Senior Living Websites

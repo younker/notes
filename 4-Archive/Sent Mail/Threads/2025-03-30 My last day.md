@@ -1,12 +1,16 @@
 ---
-subject: "My last day"
+subject: My last day
 message_count: 1
 first: 2025-03-30
 last: 2025-03-30
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # My last day

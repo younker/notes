@@ -1,12 +1,16 @@
 ---
-subject: "Understanding your HELIOS Metrics"
+subject: Understanding your HELIOS Metrics
 message_count: 1
 first: 2026-01-13
 last: 2026-01-13
 senders:
-  - heathergoffinet@hotmail.com
+- heathergoffinet@hotmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Understanding your HELIOS Metrics

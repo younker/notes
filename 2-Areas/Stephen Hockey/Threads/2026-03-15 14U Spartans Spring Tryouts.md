@@ -1,12 +1,15 @@
 ---
-subject: "14U Spartans Spring Tryouts"
+subject: 14U Spartans Spring Tryouts
 message_count: 1
 first: 2026-03-15
 last: 2026-03-15
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # 14U Spartans Spring Tryouts

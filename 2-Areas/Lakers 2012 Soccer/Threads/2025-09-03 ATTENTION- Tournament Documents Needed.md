@@ -1,12 +1,15 @@
 ---
-subject: "ATTENTION: Tournament Documents Needed"
+subject: 'ATTENTION: Tournament Documents Needed'
 message_count: 1
 first: 2025-09-03
 last: 2025-09-03
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # ATTENTION: Tournament Documents Needed

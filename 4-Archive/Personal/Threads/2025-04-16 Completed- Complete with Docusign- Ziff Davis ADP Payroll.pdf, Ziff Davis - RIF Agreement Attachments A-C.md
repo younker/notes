@@ -1,13 +1,16 @@
 ---
-subject: "Completed: Complete with Docusign: Ziff Davis ADP Payroll.pdf, Ziff Davis - RIF Agreement Attachments A-C...."
+subject: 'Completed: Complete with Docusign: Ziff Davis ADP Payroll.pdf, Ziff Davis - RIF Agreement Attachments A-C....'
 message_count: 2
 first: 2025-04-16
 last: 2025-10-01
 senders:
-  - ingrid.galvis@moz.com
-  - sara.laurencic@moz.com
+- ingrid.galvis@moz.com
+- sara.laurencic@moz.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+- finance
 ---
 
 # Completed: Complete with Docusign: Ziff Davis ADP Payroll.pdf, Ziff Davis - RIF Agreement Attachments A-C....

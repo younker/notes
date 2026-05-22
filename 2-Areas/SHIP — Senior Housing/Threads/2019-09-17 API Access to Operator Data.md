@@ -1,13 +1,18 @@
 ---
-subject: "API Access to Operator Data"
+subject: API Access to Operator Data
 message_count: 5
 first: 2019-09-17
 last: 2019-11-11
 senders:
-  - jharness@nic.org
-  - justin@cascadiadevelopment.com
+- jharness@nic.org
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- insurance
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # API Access to Operator Data

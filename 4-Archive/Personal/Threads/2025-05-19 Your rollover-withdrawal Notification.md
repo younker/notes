@@ -1,12 +1,14 @@
 ---
-subject: "Your rollover/withdrawal Notification"
+subject: Your rollover/withdrawal Notification
 message_count: 1
 first: 2025-05-19
 last: 2025-05-19
 senders:
-  - Fidelity.Investments@mail.fidelity.com
+- Fidelity.Investments@mail.fidelity.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Your rollover/withdrawal Notification

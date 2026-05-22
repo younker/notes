@@ -1,12 +1,14 @@
 ---
-subject: "2012 Hockey Information"
+subject: 2012 Hockey Information
 message_count: 2
 first: 2025-07-28
 last: 2026-03-09
 senders:
-  - travelvp@tchockey.com
+- travelvp@tchockey.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # 2012 Hockey Information

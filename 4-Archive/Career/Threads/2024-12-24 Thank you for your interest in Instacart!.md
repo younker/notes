@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for your interest in Instacart!"
+subject: Thank you for your interest in Instacart!
 message_count: 1
 first: 2024-12-24
 last: 2024-12-24
 senders:
-  - no-reply@instacart.com
+- no-reply@instacart.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Thank you for your interest in Instacart!

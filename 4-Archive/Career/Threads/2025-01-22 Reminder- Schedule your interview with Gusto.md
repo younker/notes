@@ -1,12 +1,14 @@
 ---
-subject: "Reminder: Schedule your interview with Gusto"
+subject: 'Reminder: Schedule your interview with Gusto'
 message_count: 1
 first: 2025-01-22
 last: 2025-01-22
 senders:
-  - no-reply@interviews.modernloop.io
+- no-reply@interviews.modernloop.io
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # Reminder: Schedule your interview with Gusto

@@ -1,12 +1,14 @@
 ---
-subject: "Your application to Senior Software Engineer, Trust at Airbnb"
+subject: Your application to Senior Software Engineer, Trust at Airbnb
 message_count: 1
 first: 2025-01-16
 last: 2025-01-16
 senders:
-  - no-reply@appreview.gem.com
+- no-reply@appreview.gem.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- travel
 ---
 
 # Your application to Senior Software Engineer, Trust at Airbnb

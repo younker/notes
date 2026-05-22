@@ -1,12 +1,15 @@
 ---
-subject: "[Harris Poll] Follow Up on Orientation"
+subject: '[Harris Poll] Follow Up on Orientation'
 message_count: 2
 first: 2025-04-04
 last: 2025-04-04
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # [Harris Poll] Follow Up on Orientation

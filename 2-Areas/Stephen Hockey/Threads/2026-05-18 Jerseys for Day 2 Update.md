@@ -1,13 +1,18 @@
 ---
-subject: "Jerseys for Day 2 Update"
+subject: Jerseys for Day 2 Update
 message_count: 3
 first: 2026-05-18
 last: 2026-05-19
 senders:
-  - heathergoffinet@hotmail.com
-  - wheeler6415@gmail.com
+- heathergoffinet@hotmail.com
+- wheeler6415@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Heather Younker]]'
+- '[[Matthew Wheeler]]'
 ---
 
 # Jerseys for Day 2 Update

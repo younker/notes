@@ -1,12 +1,14 @@
 ---
-subject: "Application for Software Engineer TS/SCI + Poly $130K - $220K + 15% 401k at Millennial Software"
+subject: Application for Software Engineer TS/SCI + Poly $130K - $220K + 15% 401k at Millennial Software
 message_count: 1
 first: 2025-01-20
 last: 2025-01-20
 senders:
-  - noreply@indeed.com
+- noreply@indeed.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Application for Software Engineer TS/SCI + Poly $130K - $220K + 15% 401k at Millennial Software

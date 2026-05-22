@@ -1,12 +1,15 @@
 ---
-subject: "Follow up regarding payment"
+subject: Follow up regarding payment
 message_count: 1
 first: 2020-02-25
 last: 2020-02-25
 senders:
-  - kristine@jpcwaterworks.com
+- kristine@jpcwaterworks.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- home-improvement
 ---
 
 # Follow up regarding payment

@@ -1,12 +1,14 @@
 ---
-subject: "Your receipt from Anthropic, PBC #2898-1974-4649"
+subject: 'Your receipt from Anthropic, PBC #2898-1974-4649'
 message_count: 1
 first: 2025-06-18
 last: 2025-06-18
 senders:
-  - invoice+statements@mail.anthropic.com
+- invoice+statements@mail.anthropic.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Your receipt from Anthropic, PBC #2898-1974-4649

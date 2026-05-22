@@ -1,12 +1,16 @@
 ---
-subject: "MSPSP Spring Season Kickoff Meeting (Optional) - March 18 6PM ZOOM"
+subject: MSPSP Spring Season Kickoff Meeting (Optional) - March 18 6PM ZOOM
 message_count: 1
 first: 2026-03-18
 last: 2026-03-18
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # MSPSP Spring Season Kickoff Meeting (Optional) - March 18 6PM ZOOM

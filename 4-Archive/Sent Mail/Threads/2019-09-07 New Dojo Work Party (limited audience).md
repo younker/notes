@@ -1,12 +1,16 @@
 ---
-subject: "New Dojo Work Party (limited audience)"
+subject: New Dojo Work Party (limited audience)
 message_count: 1
 first: 2019-09-07
 last: 2019-09-07
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # New Dojo Work Party (limited audience)

@@ -1,12 +1,15 @@
 ---
-subject: "Automatic reply: Fwd: INVOICE #1916: Toilet does not refill after being flushed"
+subject: 'Automatic reply: Fwd: INVOICE #1916: Toilet does not refill after being flushed'
 message_count: 1
 first: 2022-10-03
 last: 2022-10-03
 senders:
-  - Service@tiffinmotorhomes.com
+- Service@tiffinmotorhomes.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # Automatic reply: Fwd: INVOICE #1916: Toilet does not refill after being flushed

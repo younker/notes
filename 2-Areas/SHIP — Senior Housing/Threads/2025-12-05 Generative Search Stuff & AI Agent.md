@@ -1,12 +1,16 @@
 ---
-subject: "Generative Search Stuff & AI Agent"
+subject: Generative Search Stuff & AI Agent
 message_count: 2
 first: 2025-12-05
 last: 2025-12-07
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # Generative Search Stuff & AI Agent

@@ -1,12 +1,16 @@
 ---
-subject: "PAHA communication to a specific team"
+subject: PAHA communication to a specific team
 message_count: 1
 first: 2025-11-30
 last: 2025-11-30
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # PAHA communication to a specific team

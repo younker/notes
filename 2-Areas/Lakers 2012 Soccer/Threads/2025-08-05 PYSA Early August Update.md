@@ -1,12 +1,17 @@
 ---
-subject: "PYSA Early August Update"
+subject: PYSA Early August Update
 message_count: 1
 first: 2025-08-05
 last: 2025-08-05
 senders:
-  - bryan@petoskeysoccer.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+- travel
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # PYSA Early August Update

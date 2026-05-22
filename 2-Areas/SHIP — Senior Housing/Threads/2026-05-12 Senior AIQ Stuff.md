@@ -1,12 +1,16 @@
 ---
-subject: "Senior AIQ Stuff"
+subject: Senior AIQ Stuff
 message_count: 2
 first: 2026-05-12
 last: 2026-05-13
 senders:
-  - justin@cascadiadevelopment.com
+- justin@cascadiadevelopment.com
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # Senior AIQ Stuff

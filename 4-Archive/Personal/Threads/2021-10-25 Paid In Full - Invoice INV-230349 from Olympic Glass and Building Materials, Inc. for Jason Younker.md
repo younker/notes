@@ -1,12 +1,14 @@
 ---
-subject: "Paid In Full - Invoice INV-230349 from Olympic Glass and Building Materials, Inc. for Jason Younker"
+subject: Paid In Full - Invoice INV-230349 from Olympic Glass and Building Materials, Inc. for Jason Younker
 message_count: 1
 first: 2021-10-25
 last: 2021-10-25
 senders:
-  - messaging-service@post.xero.com
+- messaging-service@post.xero.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Paid In Full - Invoice INV-230349 from Olympic Glass and Building Materials, Inc. for Jason Younker

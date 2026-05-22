@@ -1,14 +1,18 @@
 ---
-subject: "MSPSP Match 576: Petoskey Lakers 2012 v AYSO United AYSO United 12B"
+subject: 'MSPSP Match 576: Petoskey Lakers 2012 v AYSO United AYSO United 12B'
 message_count: 6
 first: 2025-10-02
 last: 2025-10-03
 senders:
-  - bryan@petoskeysoccer.com
-  - danielleschopp@yahoo.com
-  - wyattrowen1008@gmail.com
+- bryan@petoskeysoccer.com
+- danielleschopp@yahoo.com
+- wyattrowen1008@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- soccer
+contacts:
+- '[[Bryan Goyings]]'
 ---
 
 # MSPSP Match 576: Petoskey Lakers 2012 v AYSO United AYSO United 12B

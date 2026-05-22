@@ -1,12 +1,15 @@
 ---
-subject: "Reset Your ShareFile Password"
+subject: Reset Your ShareFile Password
 message_count: 1
 first: 2024-04-07
 last: 2024-04-07
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Reset Your ShareFile Password

@@ -1,12 +1,15 @@
 ---
-subject: "USA Hockey Forgot Username Request"
+subject: USA Hockey Forgot Username Request
 message_count: 1
 first: 2025-12-01
 last: 2025-12-01
 senders:
-  - receipt@membership.usahockey.com
+- receipt@membership.usahockey.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hockey
 ---
 
 # USA Hockey Forgot Username Request

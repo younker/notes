@@ -1,12 +1,15 @@
 ---
-subject: "Transaction Receipt from MONTWAY AUTO TRANSPORT for $219.00 (USD)"
+subject: Transaction Receipt from MONTWAY AUTO TRANSPORT for $219.00 (USD)
 message_count: 1
 first: 2023-06-05
 last: 2023-06-05
 senders:
-  - noreply@mail.authorize.net
+- noreply@mail.authorize.net
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- motorhome
 ---
 
 # Transaction Receipt from MONTWAY AUTO TRANSPORT for $219.00 (USD)

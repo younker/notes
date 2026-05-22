@@ -1,12 +1,15 @@
 ---
-subject: "Thank you: Bible in a Year Club 2025"
+subject: 'Thank you: Bible in a Year Club 2025'
 message_count: 1
 first: 2025-01-03
 last: 2025-01-03
 senders:
-  - help@phyliciamasonheimer.com
+- help@phyliciamasonheimer.com
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+- finance
 ---
 
 # Thank you: Bible in a Year Club 2025

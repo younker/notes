@@ -1,12 +1,15 @@
 ---
-subject: "Happy New Year!"
+subject: Happy New Year!
 message_count: 1
 first: 2024-01-09
 last: 2024-01-09
 senders:
-  - nathan@rate.com
+- nathan@rate.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- insurance
+- real-estate
 ---
 
 # Happy New Year!

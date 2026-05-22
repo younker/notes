@@ -1,12 +1,14 @@
 ---
-subject: "Sell Order for 345.000000 ZD Executed"
+subject: Sell Order for 345.000000 ZD Executed
 message_count: 1
 first: 2023-09-14
 last: 2023-09-14
 senders:
-  - E-tradeAlerts-DoNotReply@etrade.com
+- E-tradeAlerts-DoNotReply@etrade.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Sell Order for 345.000000 ZD Executed

@@ -1,13 +1,14 @@
 ---
-subject: "Jason, thank you for applying to Stitch Fix | Fullstack Principal Engineer I -
- Payments & Client Trust"
+subject: Jason, thank you for applying to Stitch Fix | Fullstack Principal Engineer I - Payments & Client Trust
 message_count: 1
 first: 2024-12-24
 last: 2024-12-24
 senders:
-  - no-reply@stitchfix.com
+- no-reply@stitchfix.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- school
 ---
 
 # Jason, thank you for applying to Stitch Fix | Fullstack Principal Engineer I -

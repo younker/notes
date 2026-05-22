@@ -1,13 +1,15 @@
 ---
-subject: "Quote for Jason Younker (Younker / Door IGU) from Olympic Glass and Building Materials, Inc. for QU-130108"
+subject: Quote for Jason Younker (Younker / Door IGU) from Olympic Glass and Building Materials, Inc. for QU-130108
 message_count: 3
 first: 2021-09-07
 last: 2021-09-07
 senders:
-  - dominic@olyglass.com
-  - messaging-service@post.xero.com
+- dominic@olyglass.com
+- messaging-service@post.xero.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Quote for Jason Younker (Younker / Door IGU) from Olympic Glass and Building Materials, Inc. for QU-130108

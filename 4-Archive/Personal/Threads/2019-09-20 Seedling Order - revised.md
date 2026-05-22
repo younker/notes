@@ -1,12 +1,15 @@
 ---
-subject: "Seedling Order - revised"
+subject: Seedling Order - revised
 message_count: 2
 first: 2019-09-20
 last: 2019-09-27
 senders:
-  - bill.taylor@dnr.wa.gov
+- bill.taylor@dnr.wa.gov
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hunting-outdoors
 ---
 
 # Seedling Order - revised

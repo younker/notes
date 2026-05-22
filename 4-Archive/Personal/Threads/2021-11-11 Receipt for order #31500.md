@@ -1,12 +1,14 @@
 ---
-subject: "Receipt for order #31500"
+subject: 'Receipt for order #31500'
 message_count: 1
 first: 2021-11-11
 last: 2021-11-11
 senders:
-  - steve@wildernestoutdoorstore.com
+- steve@wildernestoutdoorstore.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
 ---
 
 # Receipt for order #31500

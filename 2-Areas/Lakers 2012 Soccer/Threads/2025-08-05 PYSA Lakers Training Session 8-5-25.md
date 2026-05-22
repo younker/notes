@@ -1,13 +1,17 @@
 ---
-subject: "PYSA Lakers Training Session 8/5/25"
+subject: PYSA Lakers Training Session 8/5/25
 message_count: 2
 first: 2025-08-05
 last: 2025-08-05
 senders:
-  - brentcbolin@gmail.com
-  - bryan@petoskeysoccer.com
+- brentcbolin@gmail.com
+- bryan@petoskeysoccer.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brent Bolin]]'
+- '[[Bryan Goyings]]'
 ---
 
 # PYSA Lakers Training Session 8/5/25

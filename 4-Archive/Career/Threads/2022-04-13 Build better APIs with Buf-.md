@@ -1,12 +1,16 @@
 ---
-subject: "Build better APIs with Buf?"
+subject: Build better APIs with Buf?
 message_count: 4
 first: 2022-04-13
 last: 2024-11-25
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Build better APIs with Buf?

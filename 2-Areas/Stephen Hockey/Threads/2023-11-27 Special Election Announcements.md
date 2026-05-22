@@ -1,12 +1,16 @@
 ---
-subject: "Special Election Announcements"
+subject: Special Election Announcements
 message_count: 1
 first: 2023-11-27
 last: 2023-11-27
 senders:
-  - brentcbolin@gmail.com
+- brentcbolin@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Brent Bolin]]'
 ---
 
 # Special Election Announcements

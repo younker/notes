@@ -1,12 +1,15 @@
 ---
-subject: "Payment Receipt - U.S. Soccer Learning Center"
+subject: Payment Receipt - U.S. Soccer Learning Center
 message_count: 2
 first: 2025-03-14
 last: 2026-04-06
 senders:
-  - notifications@learning.ussoccer.org
+- notifications@learning.ussoccer.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- soccer
 ---
 
 # Payment Receipt - U.S. Soccer Learning Center

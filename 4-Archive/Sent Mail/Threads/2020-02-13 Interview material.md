@@ -1,12 +1,16 @@
 ---
-subject: "Interview material"
+subject: Interview material
 message_count: 1
 first: 2020-02-13
 last: 2020-02-13
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Interview material

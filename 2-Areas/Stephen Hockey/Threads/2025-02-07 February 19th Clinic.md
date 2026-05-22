@@ -1,12 +1,14 @@
 ---
-subject: "February 19th Clinic"
+subject: February 19th Clinic
 message_count: 1
 first: 2025-02-07
 last: 2025-02-07
 senders:
-  - noreply@mailer.sportsengine.com
+- noreply@mailer.sportsengine.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
 ---
 
 # February 19th Clinic

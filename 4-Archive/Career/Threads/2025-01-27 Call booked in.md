@@ -1,13 +1,16 @@
 ---
-subject: "Call booked in"
+subject: Call booked in
 message_count: 2
 first: 2025-01-27
 last: 2025-01-27
 senders:
-  - Lauren@velocity-tech.co
-  - jason@ynkr.org
+- Lauren@velocity-tech.co
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Call booked in

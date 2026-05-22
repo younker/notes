@@ -1,12 +1,17 @@
 ---
-subject: "Cascadia Holdings Yakima - 2023 K1"
+subject: Cascadia Holdings Yakima - 2023 K1
 message_count: 1
 first: 2024-03-17
 last: 2024-03-17
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- cascadia-ship
+- email
+- finance
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Cascadia Holdings Yakima - 2023 K1

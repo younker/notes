@@ -1,12 +1,17 @@
 ---
-subject: "Canada room block"
+subject: Canada room block
 message_count: 2
 first: 2025-11-25
 last: 2025-11-30
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- travel
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Canada room block

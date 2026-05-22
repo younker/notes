@@ -1,13 +1,17 @@
 ---
-subject: "Roster stickers"
+subject: Roster stickers
 message_count: 2
 first: 2025-11-20
 last: 2025-11-20
 senders:
-  - bkasiborski@gmail.com
-  - cfirman16@gmail.com
+- bkasiborski@gmail.com
+- cfirman16@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Brian Kasiborski]]'
+- '[[Chris Firman]]'
 ---
 
 # Roster stickers

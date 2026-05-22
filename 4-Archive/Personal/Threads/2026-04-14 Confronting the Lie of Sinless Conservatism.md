@@ -1,12 +1,17 @@
 ---
-subject: "Confronting the Lie of Sinless Conservatism"
+subject: Confronting the Lie of Sinless Conservatism
 message_count: 1
 first: 2026-04-14
 last: 2026-04-14
 senders:
-  - heather@phyliciamasonheimer.com
+- heather@phyliciamasonheimer.com
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+- school
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Confronting the Lie of Sinless Conservatism

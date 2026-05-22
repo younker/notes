@@ -1,12 +1,15 @@
 ---
-subject: "Stoeger M3000 Realtree Max-5 12 Gauge 3in Semi Automatic Shotgun - 28in | Sportsman's Warehouse"
+subject: Stoeger M3000 Realtree Max-5 12 Gauge 3in Semi Automatic Shotgun - 28in | Sportsman's Warehouse
 message_count: 1
 first: 2022-01-22
 last: 2022-01-22
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Stoeger M3000 Realtree Max-5 12 Gauge 3in Semi Automatic Shotgun - 28in | Sportsman's Warehouse

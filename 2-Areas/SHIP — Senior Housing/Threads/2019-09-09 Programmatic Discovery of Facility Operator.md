@@ -1,13 +1,17 @@
 ---
-subject: "Programmatic Discovery of Facility Operator"
+subject: Programmatic Discovery of Facility Operator
 message_count: 3
 first: 2019-09-09
 last: 2019-09-11
 senders:
-  - justin@cascadiadevelopment.com
-  - wongma@dshs.wa.gov
+- justin@cascadiadevelopment.com
+- wongma@dshs.wa.gov
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+contacts:
+- '[[Justin Younker]]'
 ---
 
 # Programmatic Discovery of Facility Operator

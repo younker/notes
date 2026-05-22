@@ -1,12 +1,16 @@
 ---
-subject: "Season Stats as of 1/27"
+subject: Season Stats as of 1/27
 message_count: 1
 first: 2026-01-27
 last: 2026-01-27
 senders:
-  - blcook6383@aol.com
+- blcook6383@aol.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Brandon Cook]]'
 ---
 
 # Season Stats as of 1/27

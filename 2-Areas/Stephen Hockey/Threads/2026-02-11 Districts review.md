@@ -1,12 +1,16 @@
 ---
-subject: "Districts review"
+subject: Districts review
 message_count: 1
 first: 2026-02-11
 last: 2026-02-11
 senders:
-  - blcook6383@aol.com
+- blcook6383@aol.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+contacts:
+- '[[Brandon Cook]]'
 ---
 
 # Districts review

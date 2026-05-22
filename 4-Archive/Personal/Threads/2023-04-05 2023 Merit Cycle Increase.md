@@ -1,12 +1,14 @@
 ---
-subject: "2023 Merit Cycle Increase"
+subject: 2023 Merit Cycle Increase
 message_count: 1
 first: 2023-04-05
 last: 2023-04-05
 senders:
-  - victoria.louie@moz.com
+- victoria.louie@moz.com
 type: email-thread
-tags: [email]
+tags:
+- career
+- email
 ---
 
 # 2023 Merit Cycle Increase

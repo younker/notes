@@ -1,12 +1,15 @@
 ---
-subject: "Holland Tournament Block"
+subject: Holland Tournament Block
 message_count: 1
 first: 2026-01-02
 last: 2026-01-02
 senders:
-  - BBanfill@suburbaninns.com
+- BBanfill@suburbaninns.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- hockey
+- travel
 ---
 
 # Holland Tournament Block

@@ -1,12 +1,15 @@
 ---
-subject: "Alaska Fish and Game license: Order number 2768958"
+subject: 'Alaska Fish and Game license: Order number 2768958'
 message_count: 1
 first: 2021-06-21
 last: 2021-06-21
 senders:
-  - adfg.license@alaska.gov
+- adfg.license@alaska.gov
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- hunting-outdoors
 ---
 
 # Alaska Fish and Game license: Order number 2768958

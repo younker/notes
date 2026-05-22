@@ -1,12 +1,15 @@
 ---
-subject: "ZOHO DISTRIBUTION CO...: $6.97 USD"
+subject: 'ZOHO DISTRIBUTION CO...: $6.97 USD'
 message_count: 1
 first: 2025-09-16
 last: 2025-09-16
 senders:
-  - service@paypal.com
+- service@paypal.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- finance
+- shopping-receipts
 ---
 
 # ZOHO DISTRIBUTION CO...: $6.97 USD

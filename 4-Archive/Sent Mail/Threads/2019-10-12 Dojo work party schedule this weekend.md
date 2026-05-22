@@ -1,12 +1,16 @@
 ---
-subject: "Dojo work party schedule this weekend"
+subject: Dojo work party schedule this weekend
 message_count: 2
 first: 2019-10-12
 last: 2019-10-12
 senders:
-  - jason@ynkr.org
+- jason@ynkr.org
 type: email-thread
-tags: [email]
+tags:
+- church
+- email
+contacts:
+- '[[Jason Younker]]'
 ---
 
 # Dojo work party schedule this weekend
