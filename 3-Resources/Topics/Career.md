@@ -25,8 +25,6 @@ Hub for `#career` — 95 threads, 8 contacts.
 
 - [[2020-01-31 Resume]]
 - [[2020-02-13 Interview material]]
-- [[2020-08-09 Sensitive Area Regs]]
-- [[2021-01-25 Fraud Case]]
 - [[2021-01-29 Interview follow up]]
 - [[2021-09-09 [Updated] US News to Issue Senior Living Ratings]]
 - [[2021-09-22 Contact & Info]]

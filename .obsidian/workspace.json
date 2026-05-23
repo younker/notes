@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0e8c36d05a7071e7",
+        "id": "aafb86a2f00b72d3",
         "type": "tabs",
         "children": [
           {
-            "id": "8ff3d5364b765264",
+            "id": "d378fe3dc803e3b5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "4-Archive/Sent Mail/Threads/2021-09-09 [Updated] US News to Issue Senior Living Ratings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2021-09-09 [Updated] US News to Issue Senior Living Ratings"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:contact",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "4-Archive/Sent Mail/Threads/2021-09-09 [Updated] US News to Issue Senior Living Ratings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2021-09-09 [Updated] US News to Issue Senior Living Ratings"
             }
           },
           {
@@ -178,35 +184,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ff3d5364b765264",
+  "active": "d378fe3dc803e3b5",
   "lastOpenFiles": [
+    "3-Resources/Topics/Career.md",
+    "4-Archive/Personal/Threads/2020-08-09 Sensitive Area Regs.md",
+    "2026-05-22.md",
+    "Untitled.canvas",
+    "2-Areas/Contacts/Paul Wandling.md",
     "3-Resources/Topics/Ship.md",
+    "2-Areas/Contacts/Cheri Thurston.md",
+    "3-Resources/Topics/Hockey.md",
+    "2-Areas/Contacts/Joel Dohm.md",
+    "2-Areas/Contacts/Melissa Fonseca.md",
+    "2-Areas/Contacts/Kitsap Physical Therapy.md",
+    "2-Areas/Contacts/Emily Younker.md",
     "3-Resources/Topics/Motorhome.md",
     "3-Resources/Topics/Hunting Outdoors.md",
     "3-Resources/Topics/Church.md",
     "3-Resources/Topics/Insurance.md",
     "3-Resources/Topics/Real Estate.md",
     "3-Resources/Topics/Cascadia Ship.md",
-    "3-Resources/Topics/Career.md",
     "3-Resources/Topics/Vehicles.md",
     "3-Resources/Topics/Health.md",
     "3-Resources/Topics/Travel.md",
     "3-Resources/Topics/Home Improvement.md",
     "3-Resources/Topics/School.md",
-    "3-Resources/Topics/Hockey.md",
     "3-Resources/Topics/Shopping Receipts.md",
     "3-Resources/Topics/Finance.md",
     "3-Resources/Topics/Soccer.md",
     "3-Resources/Topics",
     "3-Resources/Topics/Kids.md",
-    "3-Resources/Topics/Family.md",
-    "4-Archive/Personal/Threads/2021-09-18 Water Invoices.md",
-    "2-Areas/Contacts/Bremerton Ice Arena.md",
-    "2-Areas/Contacts/Stevan.md",
-    "2-Areas/Contacts/Kassie Kennaugh.md",
-    "4-Archive/Personal/Emails — personal.md",
-    "4-Archive/Personal/Threads/2023-03-24 Order Receipt Confirmation Order - 100866518.md",
-    "2-Areas/Contacts/Rob Horstmann.md",
     "2-Areas/Contacts",
     "4-Archive/Personal/Threads",
     "4-Archive/Sent Mail/Threads",
