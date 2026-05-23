@@ -2,7 +2,7 @@
 family: Boss
 team: TC Red AA 14U
 player: Ryan Boss
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Boss Family

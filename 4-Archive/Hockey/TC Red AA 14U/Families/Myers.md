@@ -2,7 +2,7 @@
 family: Myers
 team: TC Red AA 14U
 player: Benjamin Myers
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Myers Family

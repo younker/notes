@@ -2,7 +2,7 @@
 family: Jefferys
 team: TC Red AA 14U
 player: Hudson Jefferys
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Jefferys Family

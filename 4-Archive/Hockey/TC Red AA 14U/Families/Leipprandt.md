@@ -2,7 +2,7 @@
 family: Leipprandt
 team: TC Red AA 14U
 player: Calvin Leipprandt
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Leipprandt Family

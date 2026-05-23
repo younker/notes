@@ -2,7 +2,7 @@
 family: Wheeler
 team: TC Red AA 14U
 player: Zachary Wheeler
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Wheeler Family

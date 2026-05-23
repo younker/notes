@@ -1,0 +1,12 @@
+{
+  "operation": "delete-email-archive-index",
+  "timestamp": "20260523-093047",
+  "vault": "/Users/younker/Obsidian/notes",
+  "reason": "User requested removal — process-only documentation of email import, not needed long-term",
+  "files": [
+    {
+      "path": "3-Resources/Reference/Email Archive Index.md",
+      "content": "---\ntype: email-archive-index\ncreated: 2026-05-22\nsource: ~/email-to-obsidian (8 mbox files)\ntotal_messages: 1253\ntotal_threads: 893\ntags:\n- index\n- reference\n---\n\n# Email Archive Index\n\nMigration of 8 mbox files from `~/email-to-obsidian/` into the PARA vault on 2026-05-22.\nEach bucket has an `Emails — <source>.md` index note and a `Threads/` subfolder with one note per email thread.\n\n## Buckets\n\n### 1-Projects\n\n- [[Emails — petoskey-high-school]] — PHS Soccer Fall 26 (11 threads, May 2026) — JV position with Matt Hill, MHSAA CAP, daughter's volleyball eligibility\n\n### 2-Areas\n\n- [[Emails — petoskey-hockey]] — Stephen Hockey (135 threads, Nov 2023 to May 2026) — tournaments, parent meetings, registration, equipment\n- [[Emails — soccer-emails.rtfd]] — Lakers 2012 Soccer (82 threads, Mar 2025 to May 2026) — MSPSP matches, practice plans, GotSport, Fresh Coast Classic\n- [[Emails — justin-projects]] — SHIP / Senior Housing (38 threads, Apr 2019 to May 2026) — DSHS records, API access, AIQ scoring, operator data\n\n### 4-Archive\n\n- [[Emails — job-search]] — Career (172 threads, Nov 2024 to Apr 2026) — concluded Mar 2025 with Bera + Harris offers\n- [[Emails — genesis-church-missions]] — Mission Trips (6 threads, Jan 2025 to Jan 2026) — NC mission trip\n- [[Emails — personal]] — Personal Archive (292 threads, Apr 2019 to Apr 2026) — CVS benefits, Tiffin RV, household, family logistics\n- [[Emails — sent-messages]] — Sent Mail (157 threads, Apr 2019 to May 2026) — outgoing record across all topics\n\n## Notes on conversion\n\n- HTML stripped; attachments dropped (filenames only would have been kept, but bodies were the focus).\n- Thread = messages sharing a normalized subject (Re:/Fwd: prefixes removed, whitespace collapsed).\n- Each thread note has frontmatter with sender list, message count, and date range.\n- Source mbox files preserved in `~/email-to-obsidian/`.\n\n## See also\n\n- [[Roster]] — TC Red AA 14U roster (referenced from hockey threads)\n- [[Boys Soccer Fall 26]] — PHS soccer schedule (referenced from PHS threads)\n"
+    }
+  ]
+}

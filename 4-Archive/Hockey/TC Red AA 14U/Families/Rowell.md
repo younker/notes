@@ -2,7 +2,7 @@
 family: Rowell
 team: TC Red AA 14U
 player: Jack Rowell
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Rowell Family

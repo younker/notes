@@ -2,7 +2,7 @@
 family: Stumm
 team: TC Red AA 14U
 player: Kason Stumm
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Stumm Family

@@ -3,13 +3,15 @@ name: Chris Firman
 first_name: Chris
 last_name: Firman
 phones:
-- 231-838-0178
+  - 231-838-0178
 emails:
-- cfirman16@gmail.com
-- chris@firmanelectric.com
+  - cfirman16@gmail.com
+  - chris@firmanelectric.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: []
+tags:
+  - hockey
+  - paha-org
 ---
 
 # Chris Firman

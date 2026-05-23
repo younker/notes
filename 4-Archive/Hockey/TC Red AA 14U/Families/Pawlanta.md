@@ -2,7 +2,7 @@
 family: Pawlanta
 team: TC Red AA 14U
 player: Keane Pawlanta
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Pawlanta Family

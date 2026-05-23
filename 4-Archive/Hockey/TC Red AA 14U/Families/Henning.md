@@ -2,7 +2,7 @@
 family: Henning
 team: TC Red AA 14U
 player: Bentley Henning
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Henning Family

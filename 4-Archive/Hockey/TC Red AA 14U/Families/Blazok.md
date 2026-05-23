@@ -2,7 +2,7 @@
 family: Blazok
 team: TC Red AA 14U
 player: Carter Blazok
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Blazok Family

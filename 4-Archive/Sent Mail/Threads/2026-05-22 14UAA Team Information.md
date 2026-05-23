@@ -4,23 +4,24 @@ message_count: 1
 first: 2026-05-22
 last: 2026-05-22
 senders:
-- jason@ynkr.org
+  - jason@ynkr.org
 type: email-thread
-tags: []
+tags:
+  - hockey
 contacts:
-- '[[Jason Younker]]'
-- '[[Vanessa Tucker]]'
-- '[[Jess Blazok]]'
-- '[[Carter]]'
-- '[[Whitney Wheeler]]'
-- '[[Julie Boss]]'
-- '[[Terry Denoyer]]'
-- '[[Marie Pence]]'
-- '[[Shelley Wald]]'
-- '[[Theresa Rowell]]'
-- '[[Morgan Merideth]]'
-- '[[Meredith McDonald]]'
-- '[[Jared Stumm]]'
+  - "[[Jason Younker]]"
+  - "[[Vanessa Tucker]]"
+  - "[[Jess Blazok]]"
+  - "[[Carter]]"
+  - "[[Whitney Wheeler]]"
+  - "[[Julie Boss]]"
+  - "[[Terry Denoyer]]"
+  - "[[Marie Pence]]"
+  - "[[Shelley Wald]]"
+  - "[[Theresa Rowell]]"
+  - "[[Morgan Merideth]]"
+  - "[[Meredith McDonald]]"
+  - "[[Jared Stumm]]"
 ---
 
 # 14UAA Team Information

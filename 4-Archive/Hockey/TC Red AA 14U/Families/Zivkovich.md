@@ -2,7 +2,7 @@
 family: Zivkovich
 team: TC Red AA 14U
 player: Nico Zivkovich
-tags: [tc-red-aa-14u, family, hockey]
+tags: [tc-red-aa-14u, hockey]
 ---
 
 # Zivkovich Family

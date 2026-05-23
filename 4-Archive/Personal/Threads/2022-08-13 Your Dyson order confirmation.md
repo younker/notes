@@ -4,10 +4,9 @@ message_count: 1
 first: 2022-08-13
 last: 2022-08-13
 senders:
-- questions@dyson.com
+  - questions@dyson.com
 type: email-thread
 tags:
-- ship
 ---
 
 # Your Dyson order confirmation
