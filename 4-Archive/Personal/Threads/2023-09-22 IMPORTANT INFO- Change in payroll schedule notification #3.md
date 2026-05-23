@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # IMPORTANT INFO- Change in payroll schedule notification #3

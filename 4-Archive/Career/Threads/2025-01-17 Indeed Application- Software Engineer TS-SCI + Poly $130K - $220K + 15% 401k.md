@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # Indeed Application: Software Engineer TS/SCI + Poly $130K - $220K + 15% 401k

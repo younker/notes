@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - email
 - hockey
-- shopping-receipts
 ---
 
 # USA Hockey Level 1 clinic followup

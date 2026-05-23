@@ -10,7 +10,6 @@ tags:
 - ship
 - email
 - hunting-outdoors
-- shopping-receipts
 contacts:
 - '[[Jason Younker]]'
 ---

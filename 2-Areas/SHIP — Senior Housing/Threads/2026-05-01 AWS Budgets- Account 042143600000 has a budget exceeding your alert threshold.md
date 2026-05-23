@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- shopping-receipts
 ---
 
 # AWS Budgets: Account 042143600000 has a budget exceeding your alert

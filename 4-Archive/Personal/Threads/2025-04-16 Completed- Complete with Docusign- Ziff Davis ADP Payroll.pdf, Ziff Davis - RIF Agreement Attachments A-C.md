@@ -10,7 +10,6 @@ type: email-thread
 tags:
 - career
 - email
-- finance
 ---
 
 # Completed: Complete with Docusign: Ziff Davis ADP Payroll.pdf, Ziff Davis - RIF Agreement Attachments A-C....

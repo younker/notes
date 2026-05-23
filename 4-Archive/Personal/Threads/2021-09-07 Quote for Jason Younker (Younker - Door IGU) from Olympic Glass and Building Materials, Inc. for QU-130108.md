@@ -9,7 +9,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # Quote for Jason Younker (Younker / Door IGU) from Olympic Glass and Building Materials, Inc. for QU-130108

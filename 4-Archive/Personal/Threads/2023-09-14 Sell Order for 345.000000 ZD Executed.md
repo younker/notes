@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # Sell Order for 345.000000 ZD Executed

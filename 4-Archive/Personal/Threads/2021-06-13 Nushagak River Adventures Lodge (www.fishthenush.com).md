@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- home-improvement
-- travel
 contacts:
 - '[[Beth Younker]]'
 ---

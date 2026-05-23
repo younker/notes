@@ -9,9 +9,6 @@ type: email-thread
 tags:
 - ship
 - email
-- finance
-- insurance
-- shopping-receipts
 ---
 
 # Sales Order Confirmation from AlliedElec.com - 2504770572

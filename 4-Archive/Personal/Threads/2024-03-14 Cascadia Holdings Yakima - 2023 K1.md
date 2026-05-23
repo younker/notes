@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - ship
 - email
-- finance
 ---
 
 # Cascadia Holdings Yakima - 2023 K1

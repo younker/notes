@@ -9,8 +9,6 @@ type: email-thread
 tags:
 - career
 - email
-- finance
-- travel
 ---
 
 # 100% Remote Engineer opportunity at SaaS Platform Files.com

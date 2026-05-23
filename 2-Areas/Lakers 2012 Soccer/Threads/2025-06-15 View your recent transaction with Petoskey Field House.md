@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # View your recent transaction with Petoskey Field House

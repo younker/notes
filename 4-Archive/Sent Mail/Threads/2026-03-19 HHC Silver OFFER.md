@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - email
 - hockey
-- travel
 contacts:
 - '[[Jason Younker]]'
 ---

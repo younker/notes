@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - career
 - email
-- insurance
 ---
 
 # Fraud Case

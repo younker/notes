@@ -8,9 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- insurance
 - real-estate
-- shopping-receipts
 ---
 
 # Jewelry Follow Up - 2nd Attempt

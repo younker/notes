@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- travel
 ---
 
 # Booking Confirmation R-05063523 | Niagara Falls Marriott on the Falls | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026

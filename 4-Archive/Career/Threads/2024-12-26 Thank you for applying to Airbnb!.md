@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- travel
 ---
 
 # Thank you for applying to Airbnb!

@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 - hunting-outdoors
 contacts:
 - '[[Jason Younker]]'

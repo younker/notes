@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - ship
 - email
-- finance
 ---
 
 # Draft K1 - 2022 - Cascadia Holdings Yakima

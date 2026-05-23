@@ -8,10 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
-- home-improvement
 - motorhome
 - real-estate
-- vehicles
 contacts:
 - '[[Jason Younker]]'
 ---

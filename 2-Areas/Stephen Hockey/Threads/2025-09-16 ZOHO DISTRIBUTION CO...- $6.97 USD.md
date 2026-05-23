@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- shopping-receipts
 ---
 
 # ZOHO DISTRIBUTION CO...: $6.97 USD

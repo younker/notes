@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - ship
 - email
-- finance
 ---
 
 # Final 2022 K1 - Cascadia Holdings Yakima

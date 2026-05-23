@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- home-improvement
 ---
 
 # Follow up regarding payment

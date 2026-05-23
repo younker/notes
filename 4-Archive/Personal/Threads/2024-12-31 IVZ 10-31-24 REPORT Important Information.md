@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # IVZ 10-31-24 REPORT Important Information

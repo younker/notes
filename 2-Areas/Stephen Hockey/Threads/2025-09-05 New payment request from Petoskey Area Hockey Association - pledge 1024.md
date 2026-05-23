@@ -9,7 +9,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 - hockey
 contacts:
 - '[[Heather Younker]]'

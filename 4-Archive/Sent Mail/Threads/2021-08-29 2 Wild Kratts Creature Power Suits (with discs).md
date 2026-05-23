@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - ship
 - email
-- shopping-receipts
 contacts:
 - '[[Jason Younker]]'
 ---

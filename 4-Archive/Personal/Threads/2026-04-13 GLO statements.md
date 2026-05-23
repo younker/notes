@@ -8,9 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 - health
-- insurance
 ---
 
 # GLO statements

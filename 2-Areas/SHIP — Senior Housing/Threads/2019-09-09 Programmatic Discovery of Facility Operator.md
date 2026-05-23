@@ -9,7 +9,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 contacts:
 - '[[Justin Younker]]'
 ---

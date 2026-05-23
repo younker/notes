@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - ship
 - email
-- vehicles
 ---
 
 # Order #1510195 has been Picked up

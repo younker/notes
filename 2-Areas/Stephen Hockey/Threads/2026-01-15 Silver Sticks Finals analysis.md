@@ -10,7 +10,6 @@ senders:
 type: email-thread
 tags:
 - email
-- vehicles
 contacts:
 - '[[Brian Kasiborski]]'
 - '[[Brandon Cook]]'

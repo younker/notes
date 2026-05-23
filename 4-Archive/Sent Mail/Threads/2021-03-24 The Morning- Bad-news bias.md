@@ -9,8 +9,6 @@ type: email-thread
 tags:
 - email
 - health
-- insurance
-- shopping-receipts
 contacts:
 - '[[Jason Younker]]'
 ---

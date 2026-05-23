@@ -10,7 +10,6 @@ type: email-thread
 tags:
 - ship
 - email
-- vehicles
 ---
 
 # Order #ANR1003128 has been Picked up

@@ -9,9 +9,7 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 - hockey
-- home-improvement
 ---
 
 # USA Hockey Registration Confirmation

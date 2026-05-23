@@ -11,9 +11,7 @@ type: email-thread
 tags:
 - career
 - email
-- finance
 - health
-- insurance
 contacts:
 - '[[Jason Younker]]'
 - '[[Kat Grolle]]'

@@ -8,9 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 - soccer
-- travel
 contacts:
 - '[[Bryan Goyings]]'
 ---

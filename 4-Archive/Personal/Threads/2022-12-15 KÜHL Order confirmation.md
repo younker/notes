@@ -9,8 +9,6 @@ type: email-thread
 tags:
 - ship
 - email
-- finance
-- shopping-receipts
 ---
 
 # KÜHL Order confirmation

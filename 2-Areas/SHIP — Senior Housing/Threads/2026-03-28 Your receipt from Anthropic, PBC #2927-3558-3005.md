@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # Your receipt from Anthropic, PBC #2927-3558-3005

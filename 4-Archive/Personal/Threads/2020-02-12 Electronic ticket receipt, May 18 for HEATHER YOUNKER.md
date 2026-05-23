@@ -8,10 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- insurance
-- travel
-- vehicles
 ---
 
 # Electronic ticket receipt, May 18 for HEATHER YOUNKER

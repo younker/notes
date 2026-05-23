@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # Paid In Full - Invoice INV-230349 from Olympic Glass and Building Materials, Inc. for Jason Younker

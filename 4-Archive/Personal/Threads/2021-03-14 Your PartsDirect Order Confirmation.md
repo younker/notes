@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- shopping-receipts
 ---
 
 # Your PartsDirect Order Confirmation

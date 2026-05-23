@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- insurance
-- travel
 contacts:
 - '[[Heather Younker]]'
 ---

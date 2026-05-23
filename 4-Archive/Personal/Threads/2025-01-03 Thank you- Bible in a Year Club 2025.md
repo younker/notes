@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - church
 - email
-- finance
 ---
 
 # Thank you: Bible in a Year Club 2025

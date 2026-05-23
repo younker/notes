@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- travel
 ---
 
 # Plan for your upcoming stay at SpringHill Suites by Marriott Grand

@@ -10,7 +10,6 @@ type: email-thread
 tags:
 - career
 - email
-- finance
 ---
 
 # Relocation

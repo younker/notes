@@ -10,9 +10,7 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 - hockey
-- travel
 contacts:
 - '[[Brian Kasiborski]]'
 - '[[Chris Firman]]'

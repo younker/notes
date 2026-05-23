@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # Your receipt from ClickHouse, Inc. #2595-5242

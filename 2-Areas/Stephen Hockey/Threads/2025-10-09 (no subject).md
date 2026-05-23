@@ -9,7 +9,6 @@ senders:
 type: email-thread
 tags:
 - email
-- shopping-receipts
 contacts:
 - '[[Chris Firman]]'
 - '[[Jason Younker]]'

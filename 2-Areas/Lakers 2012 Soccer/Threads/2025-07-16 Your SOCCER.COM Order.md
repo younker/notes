@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - ship
 - email
-- finance
 - real-estate
 - soccer
 ---

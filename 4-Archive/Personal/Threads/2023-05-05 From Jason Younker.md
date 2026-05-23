@@ -8,12 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- home-improvement
-- insurance
 - motorhome
 - real-estate
-- vehicles
 ---
 
 # From Jason Younker

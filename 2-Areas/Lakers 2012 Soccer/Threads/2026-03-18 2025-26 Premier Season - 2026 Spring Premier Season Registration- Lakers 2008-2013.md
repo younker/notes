@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - email
 - soccer
-- travel
 contacts:
 - '[[Bryan Goyings]]'
 ---

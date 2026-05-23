@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- home-improvement
 ---
 
 # Judge Plumbing Co / JPC Waterworks estimate

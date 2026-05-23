@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - ship
 - email
-- finance
 ---
 
 # 2019 - K1 - Cascadia Holdings Yakima

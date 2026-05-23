@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - church
 - email
-- finance
 ---
 
 # N Carolina application & updated schedule

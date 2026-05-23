@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- shopping-receipts
 ---
 
 # Your Dyson warranty is now active

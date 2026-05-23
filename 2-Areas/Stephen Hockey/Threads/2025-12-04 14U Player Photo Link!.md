@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - email
 - hockey
-- shopping-receipts
 ---
 
 # 14U Player Photo Link!

@@ -8,9 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 - motorhome
-- shopping-receipts
 ---
 
 # Order Receipt Confirmation Order : 100830066

@@ -9,9 +9,7 @@ type: email-thread
 tags:
 - career
 - email
-- finance
 - health
-- insurance
 - real-estate
 ---
 

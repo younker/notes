@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- home-improvement
-- insurance
 ---
 
 # Penske Personal One-way Confirmed Reservation 91736742

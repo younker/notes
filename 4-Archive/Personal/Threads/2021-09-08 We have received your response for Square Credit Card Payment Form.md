@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- shopping-receipts
 ---
 
 # We have received your response for Square Credit Card Payment Form

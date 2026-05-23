@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- vehicles
 ---
 
 # 2007 Toyota Tundra: Noise after bearing replacement

@@ -8,9 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 - hockey
-- home-improvement
 - school
 ---
 

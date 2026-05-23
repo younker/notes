@@ -9,7 +9,6 @@ type: email-thread
 tags:
 - career
 - email
-- insurance
 ---
 
 # Ticket Updated: INC-7842 - RE: Circling Back

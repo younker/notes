@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- travel
 ---
 
 # Reminder To Complete Your MYHockey Tournaments Hotel Rooming Request

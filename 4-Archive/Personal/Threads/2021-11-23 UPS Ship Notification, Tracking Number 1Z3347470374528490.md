@@ -10,7 +10,6 @@ tags:
 - ship
 - email
 - motorhome
-- shopping-receipts
 ---
 
 # UPS Ship Notification, Tracking Number 1Z3347470374528490

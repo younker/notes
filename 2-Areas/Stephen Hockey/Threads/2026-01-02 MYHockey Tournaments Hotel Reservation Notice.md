@@ -10,7 +10,6 @@ tags:
 - email
 - hockey
 - soccer
-- travel
 ---
 
 # MYHockey Tournaments Hotel Reservation Notice

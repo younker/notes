@@ -8,9 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 - hockey
-- travel
 ---
 
 # Coaching Clinic Registration Payment Receipt and Clinic Details

@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # On behalf of Harris Insights and Analytics LLC: You have been

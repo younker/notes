@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- travel
 ---
 
 # We hope you enjoyed your stay at the HILTON-VANCOUVER DOWNTOWN, BRITISH COLUMBIA, CA - come again soon!

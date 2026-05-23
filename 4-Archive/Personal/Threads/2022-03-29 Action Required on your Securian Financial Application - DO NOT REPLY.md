@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- insurance
 ---
 
 # Action Required on your Securian Financial Application - DO NOT REPLY

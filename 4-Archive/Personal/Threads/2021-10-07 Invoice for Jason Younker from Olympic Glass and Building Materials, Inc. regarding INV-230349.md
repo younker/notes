@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # Invoice for Jason Younker from Olympic Glass and Building Materials, Inc. regarding INV-230349

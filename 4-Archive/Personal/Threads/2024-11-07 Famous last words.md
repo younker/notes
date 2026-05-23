@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- travel
 ---
 
 # Famous last words

@@ -10,9 +10,6 @@ type: email-thread
 tags:
 - ship
 - email
-- finance
-- home-improvement
-- shopping-receipts
 ---
 
 # Your Electronic Receipt

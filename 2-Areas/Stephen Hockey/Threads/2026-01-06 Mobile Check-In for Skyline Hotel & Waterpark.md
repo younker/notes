@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # Mobile Check-In for Skyline Hotel & Waterpark

@@ -10,7 +10,6 @@ type: email-thread
 tags:
 - ship
 - email
-- finance
 contacts:
 - '[[Heather Younker]]'
 ---

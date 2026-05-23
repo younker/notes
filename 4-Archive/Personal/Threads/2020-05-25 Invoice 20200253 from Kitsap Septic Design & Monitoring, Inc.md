@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- home-improvement
 ---
 
 # Invoice 20200253 from Kitsap Septic Design & Monitoring, Inc.

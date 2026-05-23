@@ -8,9 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 - real-estate
-- shopping-receipts
 ---
 
 # [ShagTools] Invoice 58325 for order 58325 from December 27, 2024

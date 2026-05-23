@@ -9,9 +9,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- insurance
-- travel
 contacts:
 - '[[Beth Younker]]'
 ---

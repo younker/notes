@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- vehicles
 contacts:
 - '[[Jason Younker]]'
 ---

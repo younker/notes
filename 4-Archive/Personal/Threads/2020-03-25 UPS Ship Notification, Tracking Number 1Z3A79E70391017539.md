@@ -10,7 +10,6 @@ tags:
 - ship
 - email
 - hunting-outdoors
-- shopping-receipts
 ---
 
 # UPS Ship Notification, Tracking Number 1Z3A79E70391017539

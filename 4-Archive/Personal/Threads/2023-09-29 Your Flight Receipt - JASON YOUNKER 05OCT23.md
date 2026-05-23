@@ -8,9 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- insurance
-- travel
 ---
 
 # Your Flight Receipt - JASON YOUNKER 05OCT23

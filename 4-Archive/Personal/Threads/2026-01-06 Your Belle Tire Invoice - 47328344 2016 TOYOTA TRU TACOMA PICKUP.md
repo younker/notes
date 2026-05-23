@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
-- vehicles
 ---
 
 # Your Belle Tire Invoice - 47328344 2016 TOYOTA TRU TACOMA PICKUP

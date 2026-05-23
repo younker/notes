@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- finance
 ---
 
 # Payment confirmation: Invoice #1897-(Firman Electric, inc)
