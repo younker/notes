@@ -11,14 +11,10 @@
             "id": "18dc157f9c200598",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4-Archive/Personal/Emails — personal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emails — personal"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-Archive/Personal/Emails — personal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Emails — personal"
+              "title": "Backlinks"
             }
           },
           {
@@ -185,6 +180,7 @@
   },
   "active": "18dc157f9c200598",
   "lastOpenFiles": [
+    "4-Archive/Personal/Emails — personal.md",
     "4-Archive/Hockey/TC Red AA 14U/Families/Zivkovich.md",
     "4-Archive/Hockey/TC Red AA 14U/Families/Younker.md",
     "4-Archive/Hockey/TC Red AA 14U/Families/Wheeler.md",
@@ -212,7 +208,6 @@
     "4-Archive/Hockey/Threads/2025-03-26 13A Spring Team (sent).md",
     "4-Archive/Hockey/Threads/2024-10-07 PAHA Coach check in.md",
     "4-Archive/Hockey/Threads/2023-08-22 [Petoskey Squirt 10U White] pre season skating.md",
-    "4-Archive/Hockey/Threads/2023-07-05 PAHA Summer Announcements (sent).md",
     "4-Archive/Hockey/Threads",
     "3-Resources/Reading/The Hive.pdf",
     "Untitled.canvas",
