@@ -5,8 +5,7 @@ phones:
 - '8002382727'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # ADT Trouble Alert

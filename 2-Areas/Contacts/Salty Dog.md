@@ -5,8 +5,7 @@ phones:
 - '+12064514040'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Salty Dog

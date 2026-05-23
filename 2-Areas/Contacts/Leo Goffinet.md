@@ -6,8 +6,7 @@ phones:
 - '+13175198111'
 created: 2026-01-24
 modified: 2026-02-07
-tags:
-- contact
+tags: []
 ---
 
 # Leo Goffinet

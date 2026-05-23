@@ -8,8 +8,7 @@ emails:
 - noreply@seomoz.org
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # noreply@seomoz.org (JIRA)

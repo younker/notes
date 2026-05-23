@@ -5,8 +5,7 @@ last_name: Powell
 organization: Apple Tree Cove Animal Hospital
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Dr. Susan Powell

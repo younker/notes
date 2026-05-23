@@ -6,8 +6,7 @@ phones:
 - '+17343410388'
 created: 2026-03-19
 modified: 2026-04-06
-tags:
-- contact
+tags: []
 ---
 
 # Ryan Wrathell

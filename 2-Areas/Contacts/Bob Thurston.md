@@ -9,8 +9,7 @@ emails:
 - robert_thurston@msn.com
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Bob Thurston

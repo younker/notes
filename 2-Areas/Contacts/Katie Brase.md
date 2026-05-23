@@ -8,8 +8,7 @@ phones:
 - 1 (206) 790-4994
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Katie Brase

@@ -5,8 +5,7 @@ phones:
 - (425) 455-9995
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Lexus Of Bellevue

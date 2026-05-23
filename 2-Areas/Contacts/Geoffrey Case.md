@@ -7,8 +7,7 @@ phones:
 - +1 (231) 838-1382
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Geoffrey Case

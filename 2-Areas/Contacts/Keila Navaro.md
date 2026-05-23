@@ -8,8 +8,7 @@ phones:
 - +1 (936) 777-0444
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Keila Navaro

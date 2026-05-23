@@ -9,8 +9,7 @@ emails:
 - shelly@seomoz.org
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Shelly Matsudaira

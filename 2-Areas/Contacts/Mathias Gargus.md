@@ -6,8 +6,7 @@ phones:
 - 509-952-1488
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Mathias Gargus

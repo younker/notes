@@ -5,8 +5,7 @@ emails:
 - kate.matsudaira@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # kate.matsudaira@gmail.com

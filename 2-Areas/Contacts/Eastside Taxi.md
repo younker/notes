@@ -5,8 +5,7 @@ phones:
 - 425-454-5055
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Eastside Taxi

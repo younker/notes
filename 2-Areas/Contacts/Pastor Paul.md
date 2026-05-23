@@ -5,8 +5,7 @@ phones:
 - '+12068424241'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Pastor Paul

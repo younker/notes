@@ -5,8 +5,7 @@ emails:
 - vargowill@gmail.com
 created: 2026-04-24
 modified: 2026-04-24
-tags:
-- contact
+tags: []
 ---
 
 # Will

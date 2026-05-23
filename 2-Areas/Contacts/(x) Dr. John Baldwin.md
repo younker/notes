@@ -8,8 +8,7 @@ phones:
 - 425-453-0766
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # (x) Dr. John Baldwin

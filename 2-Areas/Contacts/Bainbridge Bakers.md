@@ -5,8 +5,7 @@ phones:
 - +1 (206) 842-1822
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Bainbridge Bakers

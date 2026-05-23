@@ -5,8 +5,7 @@ phones:
 - 1 (360) 779-2938
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # John's Auto Body

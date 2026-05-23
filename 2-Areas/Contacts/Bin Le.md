@@ -7,8 +7,7 @@ phones:
 - '+14846315928'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 emails:
 - ble@bera.ai
 ---

@@ -6,8 +6,7 @@ phones:
 - 831-588-3822
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Dennis Adams

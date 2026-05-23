@@ -9,8 +9,7 @@ emails:
 - dpolley@fbinsmi.com
 created: 2026-05-04
 modified: 2026-05-22
-tags:
-- contact
+tags: []
 ---
 
 # Dan Polleys

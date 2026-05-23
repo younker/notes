@@ -6,8 +6,7 @@ phones:
 - (206) 621-1982
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Stat Medical

@@ -6,8 +6,7 @@ phones:
 - (231) 330-4741
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Ben Dawely

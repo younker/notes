@@ -5,8 +5,7 @@ phones:
 - 1 (231) 932-5818
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Fedex Traverse City

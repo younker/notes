@@ -6,8 +6,7 @@ phones:
 - '+16046184969'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Brian Ho

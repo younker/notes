@@ -8,8 +8,7 @@ phones:
 - +1 (509) 457-6426
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Benji Stevens

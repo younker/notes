@@ -7,8 +7,7 @@ phones:
 - '3615703889'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Todd Denoyer

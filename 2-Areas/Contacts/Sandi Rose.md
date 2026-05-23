@@ -6,8 +6,7 @@ phones:
 - '+12318388630'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Sandi Rose

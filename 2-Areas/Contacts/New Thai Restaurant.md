@@ -5,8 +5,7 @@ phones:
 - +1 (509) 966-9730
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # New Thai Restaurant

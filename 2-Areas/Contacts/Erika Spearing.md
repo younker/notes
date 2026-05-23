@@ -6,8 +6,7 @@ phones:
 - (509) 225-0169
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Erika Spearing

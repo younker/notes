@@ -4,8 +4,7 @@ first_name: Michael
 last_name: Iwai
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Michael Iwai

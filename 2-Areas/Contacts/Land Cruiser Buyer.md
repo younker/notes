@@ -5,8 +5,7 @@ phones:
 - '2533283241'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Land Cruiser Buyer

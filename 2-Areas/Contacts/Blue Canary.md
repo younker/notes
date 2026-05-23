@@ -5,8 +5,7 @@ phones:
 - '+12064514220'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Blue Canary

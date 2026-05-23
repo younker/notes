@@ -6,8 +6,7 @@ phones:
 - '+12318387363'
 created: 2026-03-26
 modified: 2026-05-04
-tags:
-- contact
+tags: []
 ---
 
 # Zach Jonker

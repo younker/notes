@@ -5,8 +5,7 @@ phones:
 - 1 (800) 222-1222
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # poison control

@@ -5,8 +5,7 @@ phones:
 - 1 (509) 653-1647
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Nile Valley Game

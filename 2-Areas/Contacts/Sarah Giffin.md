@@ -8,8 +8,7 @@ emails:
 - sgiffin6@gmail.com
 created: 2026-05-05
 modified: 2026-05-05
-tags:
-- contact
+tags: []
 ---
 
 # Sarah Giffin

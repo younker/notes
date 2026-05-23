@@ -5,8 +5,7 @@ phones:
 - +1 (509) 494-1001
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Taj Palace

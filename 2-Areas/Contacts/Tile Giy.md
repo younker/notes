@@ -6,8 +6,7 @@ phones:
 - (206) 201-3187
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Tile Giy

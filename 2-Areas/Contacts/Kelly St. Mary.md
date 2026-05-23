@@ -6,8 +6,7 @@ phones:
 - (509) 949-2629
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kelly St. Mary

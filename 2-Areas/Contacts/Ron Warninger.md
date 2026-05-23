@@ -6,8 +6,7 @@ phones:
 - '+15099520774'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Ron Warninger

@@ -5,8 +5,7 @@ phones:
 - '+19896192330'
 created: 2026-01-24
 modified: 2026-02-23
-tags:
-- contact
+tags: []
 ---
 
 # Max ❤️

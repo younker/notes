@@ -12,8 +12,7 @@ emails:
 - karahanses@hotmail.com
 created: 2026-01-24
 modified: 2026-03-17
-tags:
-- contact
+tags: []
 ---
 
 # Kara Tefft

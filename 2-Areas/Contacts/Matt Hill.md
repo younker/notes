@@ -6,8 +6,7 @@ phones:
 - '+12487650067'
 created: 2026-05-12
 modified: 2026-05-12
-tags:
-- contact
+tags: []
 ---
 
 # Matt Hill

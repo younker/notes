@@ -6,8 +6,7 @@ phones:
 - (206) 229-6782
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Scott LePera

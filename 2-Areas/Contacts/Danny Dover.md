@@ -6,8 +6,7 @@ phones:
 - (425) 765-6795
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Danny Dover

@@ -14,8 +14,7 @@ emails:
 - peglegpictures@mac.com
 created: 2026-01-24
 modified: 2026-05-18
-tags:
-- contact
+tags: []
 ---
 
 # Ryan Horner

@@ -7,8 +7,7 @@ phones:
 - 206-232-5188
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # (x) Dr. Devon Singh Barrett

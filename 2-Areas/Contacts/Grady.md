@@ -5,8 +5,7 @@ phones:
 - '+12482224440'
 created: 2026-04-10
 modified: 2026-04-10
-tags:
-- contact
+tags: []
 ---
 
 # Grady

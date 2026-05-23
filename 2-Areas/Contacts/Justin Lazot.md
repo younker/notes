@@ -7,8 +7,7 @@ phones:
 - +1 (509) 949-5902
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Justin Lazot

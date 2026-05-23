@@ -5,8 +5,7 @@ phones:
 - '31996'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Sweet Dahlia Bakery (dinner menu)

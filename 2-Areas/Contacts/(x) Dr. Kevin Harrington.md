@@ -8,8 +8,7 @@ phones:
 - 1 (509) 225-2542
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # (x) Dr. Kevin Harrington

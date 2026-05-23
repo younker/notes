@@ -5,8 +5,7 @@ phones:
 - (877) 324-6764
 created: 2026-05-04
 modified: 2026-05-04
-tags:
-- contact
+tags: []
 ---
 
 # State Farm Claims 24 Hour

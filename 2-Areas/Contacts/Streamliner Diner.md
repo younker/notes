@@ -5,8 +5,7 @@ phones:
 - (206) 842-8595
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Streamliner Diner

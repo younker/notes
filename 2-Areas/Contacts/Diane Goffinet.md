@@ -8,8 +8,7 @@ emails:
 - dsgoffinet@sbcglobal.net
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Diane Goffinet

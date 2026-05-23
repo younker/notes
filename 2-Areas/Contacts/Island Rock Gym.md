@@ -5,8 +5,7 @@ phones:
 - +1 (206) 451-4020
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Island Rock Gym

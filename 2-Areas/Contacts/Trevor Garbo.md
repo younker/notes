@@ -9,8 +9,7 @@ emails:
 - tgarbo@northmen.org
 created: 2026-05-13
 modified: 2026-05-13
-tags:
-- contact
+tags: []
 ---
 
 # Trevor Garbo

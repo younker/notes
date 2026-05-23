@@ -9,8 +9,7 @@ emails:
 - matthew.earl.myers@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags:
-- contact
+tags: []
 ---
 
 # Matt Myers

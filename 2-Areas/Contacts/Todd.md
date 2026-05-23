@@ -6,8 +6,7 @@ phones:
 - +1 (206) 571-8080
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Todd

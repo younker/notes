@@ -6,8 +6,7 @@ phones:
 - '+15419517593'
 created: 2026-01-24
 modified: 2026-02-06
-tags:
-- contact
+tags: []
 ---
 
 # Jacob Walters (hockey)

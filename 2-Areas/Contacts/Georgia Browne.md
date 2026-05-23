@@ -6,8 +6,7 @@ phones:
 - 1 (360) 689-1974
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Georgia Browne

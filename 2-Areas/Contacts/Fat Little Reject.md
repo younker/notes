@@ -5,8 +5,7 @@ phones:
 - '+12318815425'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Fat Little Reject

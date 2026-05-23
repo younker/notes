@@ -7,8 +7,7 @@ phones:
 - 1 (407) 414-4784
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Chris Prather

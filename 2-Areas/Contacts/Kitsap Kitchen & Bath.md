@@ -5,8 +5,7 @@ phones:
 - '+13606975616'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kitsap Kitchen & Bath

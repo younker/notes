@@ -5,8 +5,7 @@ phones:
 - '+12068426288'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kitsap Physical Therapy

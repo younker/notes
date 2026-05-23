@@ -6,8 +6,7 @@ phones:
 - (206) 856-2556
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Jerry

@@ -6,8 +6,7 @@ phones:
 - (231) 373-8572
 created: 2026-02-16
 modified: 2026-03-01
-tags:
-- contact
+tags: []
 ---
 
 # Jewel Bradford

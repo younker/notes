@@ -5,8 +5,7 @@ phones:
 - '+12318389186'
 created: 2026-03-05
 modified: 2026-03-05
-tags:
-- contact
+tags: []
 ---
 
 # Mike (red green)

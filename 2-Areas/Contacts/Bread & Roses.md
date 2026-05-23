@@ -6,8 +6,7 @@ phones:
 - +1 (831) 480-9878
 created: 2026-05-03
 modified: 2026-05-03
-tags:
-- contact
+tags: []
 ---
 
 # Bread & Roses

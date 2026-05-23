@@ -6,8 +6,7 @@ phones:
 - 423-421-3006
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kelly Conn

@@ -6,8 +6,7 @@ phones:
 - '+14156378947'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Lindsey

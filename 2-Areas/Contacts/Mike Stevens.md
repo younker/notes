@@ -6,8 +6,7 @@ phones:
 - (509) 949-8707
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Mike Stevens

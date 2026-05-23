@@ -7,8 +7,7 @@ phones:
 - '5099492802'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Steve Herke

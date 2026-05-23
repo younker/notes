@@ -9,8 +9,7 @@ emails:
 - morrisandbetty2@charter.net
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Grand(m|p)a Light

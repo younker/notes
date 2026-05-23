@@ -8,8 +8,7 @@ emails:
 - janetrules007@hotmail.com
 created: 2026-05-08
 modified: 2026-05-08
-tags:
-- contact
+tags: []
 ---
 
 # Janet Manthei

@@ -3,8 +3,7 @@ name: Pancake House At The Summit
 organization: Pancake House At The Summit
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Pancake House At The Summit

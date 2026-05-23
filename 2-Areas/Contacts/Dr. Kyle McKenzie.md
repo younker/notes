@@ -8,8 +8,7 @@ phones:
 - (812) 220-3288
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Dr. Kyle McKenzie

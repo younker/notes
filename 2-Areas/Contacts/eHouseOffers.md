@@ -7,8 +7,7 @@ emails:
 - contact@ehouseoffers.com
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # eHouseOffers

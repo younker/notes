@@ -6,8 +6,7 @@ phones:
 - 1 (509) 248-1232
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Dr Stephen Shaul

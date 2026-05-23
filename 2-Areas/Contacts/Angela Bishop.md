@@ -6,8 +6,7 @@ phones:
 - (231) 838-4615
 created: 2026-04-30
 modified: 2026-04-30
-tags:
-- contact
+tags: []
 ---
 
 # Angela Bishop

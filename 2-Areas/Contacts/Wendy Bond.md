@@ -6,8 +6,7 @@ phones:
 - '+12066047880'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Wendy Bond

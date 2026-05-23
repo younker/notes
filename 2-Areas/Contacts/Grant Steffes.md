@@ -6,8 +6,7 @@ phones:
 - '+12313733312'
 created: 2026-05-19
 modified: 2026-05-19
-tags:
-- contact
+tags: []
 ---
 
 # Grant Steffes

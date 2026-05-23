@@ -7,8 +7,7 @@ phones:
 - (206) 780-3919
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Rich Perlot

@@ -7,8 +7,7 @@ phones:
 - '+12488812887'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Fedor Fedorov

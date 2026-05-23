@@ -5,8 +5,7 @@ phones:
 - (206) 787-3952
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Bell Harbor Seattle

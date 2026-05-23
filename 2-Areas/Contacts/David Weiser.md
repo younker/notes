@@ -7,8 +7,7 @@ phones:
 - 1 (307) 760-0839
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # David Weiser

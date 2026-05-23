@@ -11,8 +11,7 @@ emails:
 - brian.conn.7@hotmail.com
 created: 2026-01-24
 modified: 2026-03-26
-tags:
-- contact
+tags: []
 ---
 
 # Brian Conn

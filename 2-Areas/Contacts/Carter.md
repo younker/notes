@@ -5,8 +5,7 @@ phones:
 - '+12487709481'
 created: 2026-04-10
 modified: 2026-04-10
-tags:
-- contact
+tags: []
 ---
 
 # Carter

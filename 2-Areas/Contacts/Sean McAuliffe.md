@@ -6,8 +6,7 @@ phones:
 - '+18123742626'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Sean McAuliffe

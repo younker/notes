@@ -6,8 +6,7 @@ phones:
 - '+17202555475'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Jeff Suffolk

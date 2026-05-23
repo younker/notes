@@ -6,8 +6,7 @@ phones:
 - '+15096545150'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kennedy Wilkinson

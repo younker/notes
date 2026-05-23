@@ -6,8 +6,7 @@ phones:
 - '+12313305721'
 created: 2026-05-19
 modified: 2026-05-19
-tags:
-- contact
+tags: []
 ---
 
 # Kristin Jeffers

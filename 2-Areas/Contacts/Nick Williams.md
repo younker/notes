@@ -7,8 +7,7 @@ phones:
 - 1 (206) 914-3817
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Nick Williams

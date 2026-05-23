@@ -5,8 +5,7 @@ phones:
 - +1 509-972-3643
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Special Effects Hair By Design

@@ -5,8 +5,7 @@ phones:
 - +1 (425) 820-9870
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Nick's Grill

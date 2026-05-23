@@ -6,8 +6,7 @@ phones:
 - '+18133763213'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kate Gutowski

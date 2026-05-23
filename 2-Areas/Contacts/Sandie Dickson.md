@@ -7,8 +7,7 @@ phones:
 - (206) 842-2793
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Sandie Dickson

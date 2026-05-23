@@ -8,8 +8,7 @@ phones:
 - 760-521-3332
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Josh Meisel

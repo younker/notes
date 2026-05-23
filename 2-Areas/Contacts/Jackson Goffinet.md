@@ -6,8 +6,7 @@ phones:
 - '+13175014153'
 created: 2026-01-24
 modified: 2026-03-12
-tags:
-- contact
+tags: []
 ---
 
 # Jackson Goffinet

@@ -7,8 +7,7 @@ phones:
 - 1 (509) 969-8586
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Danielle Bridges

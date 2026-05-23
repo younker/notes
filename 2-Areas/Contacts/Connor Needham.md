@@ -6,8 +6,7 @@ phones:
 - +1 (772) 773-0484
 created: 2026-04-23
 modified: 2026-04-23
-tags:
-- contact
+tags: []
 ---
 
 # Connor Needham

@@ -6,8 +6,7 @@ phones:
 - (360) 689-0069
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Bryce McGuire

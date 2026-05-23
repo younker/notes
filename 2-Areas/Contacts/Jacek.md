@@ -5,8 +5,7 @@ phones:
 - '+17344176158'
 created: 2026-04-11
 modified: 2026-05-01
-tags:
-- contact
+tags: []
 ---
 
 # Jacek

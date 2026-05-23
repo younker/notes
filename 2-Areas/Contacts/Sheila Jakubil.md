@@ -8,8 +8,7 @@ phones:
 - +1 (206) 910-7025
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Sheila Jakubil

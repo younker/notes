@@ -5,8 +5,7 @@ phones:
 - (877) 728-3814
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Charter Communications

@@ -6,8 +6,7 @@ phones:
 - '2066609300'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Marie Pence

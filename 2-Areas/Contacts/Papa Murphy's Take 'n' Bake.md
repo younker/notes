@@ -6,8 +6,7 @@ phones:
 - +1 (425) 643-9310
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Papa Murphy's Take 'n' Bake

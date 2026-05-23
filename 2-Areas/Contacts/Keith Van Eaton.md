@@ -6,8 +6,7 @@ phones:
 - '+12063000969'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 emails:
 - keithave@yahoo.com
 ---

@@ -6,8 +6,7 @@ phones:
 - (253) 315-5976
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Trinette (Baer) Kowalski

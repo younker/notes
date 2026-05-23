@@ -7,8 +7,7 @@ phones:
 - '+17603975416'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Dave Ruvolo

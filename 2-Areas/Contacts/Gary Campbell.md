@@ -7,8 +7,7 @@ phones:
 - '+12312034103'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Gary Campbell

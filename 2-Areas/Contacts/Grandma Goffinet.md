@@ -6,8 +6,7 @@ phones:
 - (812) 547-4764
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Grandma Goffinet

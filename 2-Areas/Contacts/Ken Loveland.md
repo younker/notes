@@ -8,8 +8,7 @@ phones:
 - (509) 697-5553
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Ken Loveland

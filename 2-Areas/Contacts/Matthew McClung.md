@@ -7,8 +7,7 @@ phones:
 - '4233311511'
 created: 2026-01-24
 modified: 2026-03-17
-tags:
-- contact
+tags: []
 ---
 
 # Matthew McClung

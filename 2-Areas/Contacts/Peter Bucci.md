@@ -6,8 +6,7 @@ phones:
 - '+12318381973'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Peter Bucci

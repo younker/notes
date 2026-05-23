@@ -6,8 +6,7 @@ phones:
 - 1 (720) 663-9866
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # David Overcash

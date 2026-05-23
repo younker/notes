@@ -7,8 +7,7 @@ phones:
 - '5034237627'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Chris Jasperson

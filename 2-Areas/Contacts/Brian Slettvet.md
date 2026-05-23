@@ -9,8 +9,7 @@ phones:
 - 206-200-6957
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Brian Slettvet

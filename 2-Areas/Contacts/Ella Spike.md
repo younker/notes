@@ -8,8 +8,7 @@ phones:
 - 1 (619) 500-4592
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Ella Spike

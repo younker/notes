@@ -6,8 +6,7 @@ phones:
 - (206) 914-2225
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # John Fearnside

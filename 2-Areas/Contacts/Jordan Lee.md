@@ -6,8 +6,7 @@ phones:
 - (425) 870-0092
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Jordan Lee

@@ -7,8 +7,7 @@ phones:
 - 541-231-4954
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Stephanie Hale (Skinner)

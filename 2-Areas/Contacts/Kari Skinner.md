@@ -6,8 +6,7 @@ phones:
 - '5033202567'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kari Skinner

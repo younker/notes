@@ -7,8 +7,7 @@ phones:
 - '+19194288582'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Dan Sowder

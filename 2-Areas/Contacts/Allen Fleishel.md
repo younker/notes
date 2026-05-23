@@ -6,8 +6,7 @@ phones:
 - '+14109193413'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Allen Fleishel

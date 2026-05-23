@@ -5,8 +5,7 @@ phones:
 - '12062443800'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Pauls Taxi (airport)

@@ -6,8 +6,7 @@ phones:
 - (509) 834-0311
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Sandy Hanses Sullivan

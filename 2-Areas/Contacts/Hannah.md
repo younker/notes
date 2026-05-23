@@ -5,8 +5,7 @@ phones:
 - '+19472241606'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Hannah

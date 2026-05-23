@@ -6,8 +6,7 @@ phones:
 - 1 (231) 838-4557
 created: 2026-05-18
 modified: 2026-05-18
-tags:
-- contact
+tags: []
 ---
 
 # Jenni Attie

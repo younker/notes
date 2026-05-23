@@ -5,8 +5,7 @@ phones:
 - '+19898218776'
 created: 2026-05-01
 modified: 2026-05-01
-tags:
-- contact
+tags: []
 ---
 
 # Andrew

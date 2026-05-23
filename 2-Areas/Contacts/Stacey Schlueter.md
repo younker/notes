@@ -6,8 +6,7 @@ phones:
 - (949) 887-2466
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Stacey Schlueter

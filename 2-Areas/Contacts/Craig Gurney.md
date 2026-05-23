@@ -7,8 +7,7 @@ phones:
 - 1 (360) 271-2780
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Craig Gurney

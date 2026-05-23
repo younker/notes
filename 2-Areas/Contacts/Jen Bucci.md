@@ -6,8 +6,7 @@ phones:
 - '+16784292582'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Jen Bucci

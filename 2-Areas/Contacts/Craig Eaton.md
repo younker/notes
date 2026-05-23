@@ -11,8 +11,7 @@ emails:
 - craig_eaton25@hotmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Craig Eaton

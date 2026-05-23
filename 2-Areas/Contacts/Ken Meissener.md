@@ -7,8 +7,7 @@ phones:
 - (509) 575-1065
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Ken Meissener

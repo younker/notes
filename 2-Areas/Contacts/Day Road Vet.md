@@ -6,8 +6,7 @@ phones:
 - '+12068421209'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Day Road Vet

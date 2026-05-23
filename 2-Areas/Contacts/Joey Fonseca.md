@@ -7,8 +7,7 @@ phones:
 - '5599363177'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Joey Fonseca

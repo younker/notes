@@ -6,8 +6,7 @@ phones:
 - '+14065316759'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Scott Eggeman

@@ -6,8 +6,7 @@ phones:
 - (425) 746-5929
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # (x) Dr. J Malyon

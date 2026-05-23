@@ -7,8 +7,7 @@ phones:
 - (206) 991-2121
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # [X] Dr. Richard St. Cyr

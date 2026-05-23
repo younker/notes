@@ -6,8 +6,7 @@ phones:
 - (231) 497-4346
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Hunter Johnachic

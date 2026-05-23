@@ -6,8 +6,7 @@ phones:
 - '+12313873999'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kenadee ⚠️avoid At All Costs!!⚠️

@@ -6,8 +6,7 @@ phones:
 - (509) 961-4774
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Todd Lochre

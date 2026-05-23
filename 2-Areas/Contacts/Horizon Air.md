@@ -5,8 +5,7 @@ phones:
 - 1 (800) 252-7522
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Horizon Air

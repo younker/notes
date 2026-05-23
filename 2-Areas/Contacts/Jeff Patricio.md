@@ -7,8 +7,7 @@ phones:
 - 1 (360) 440-0769
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Jeff Patricio

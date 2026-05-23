@@ -7,8 +7,7 @@ phones:
 - '6164375872'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Casey Henry

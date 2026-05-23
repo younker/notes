@@ -7,8 +7,7 @@ phones:
 - '+16165666681'
 created: 2026-01-24
 modified: 2026-03-26
-tags:
-- contact
+tags: []
 ---
 
 # Ryan Ringle (PYSA)

@@ -6,8 +6,7 @@ phones:
 - +1 (479) 644-4979
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Sara Erwin

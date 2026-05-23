@@ -7,8 +7,7 @@ phones:
 - (360) 286-3355
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Juan Mendoza

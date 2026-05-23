@@ -7,8 +7,7 @@ phones:
 - (509) 452-8247
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Nate Sabari

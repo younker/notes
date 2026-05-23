@@ -7,8 +7,7 @@ phones:
 - '+15096545667'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Landon Wilkinson

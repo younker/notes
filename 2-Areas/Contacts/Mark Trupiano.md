@@ -7,8 +7,7 @@ phones:
 - (707) 495-7632
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Mark Trupiano

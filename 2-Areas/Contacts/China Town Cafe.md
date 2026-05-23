@@ -5,8 +5,7 @@ phones:
 - (509) 469-1025
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # China Town Cafe

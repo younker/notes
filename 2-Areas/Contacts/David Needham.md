@@ -5,8 +5,7 @@ phones:
 - '+17727083142'
 created: 2026-01-24
 modified: 2026-03-26
-tags:
-- contact
+tags: []
 ---
 
 # David Needham

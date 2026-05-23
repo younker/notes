@@ -7,8 +7,7 @@ phones:
 - 1 (509) 945-4092
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Carl Kirby

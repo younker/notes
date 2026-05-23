@@ -9,8 +9,7 @@ emails:
 - mere510@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags:
-- contact
+tags: []
 ---
 
 # Meredith McDonald

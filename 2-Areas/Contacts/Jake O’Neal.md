@@ -7,8 +7,7 @@ phones:
 - '+12313737388'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Jake O’Neal

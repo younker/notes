@@ -6,8 +6,7 @@ phones:
 - '5099309477'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kelsey (Light) St. Mary

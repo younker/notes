@@ -6,8 +6,7 @@ phones:
 - '5093075735'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Linda Light

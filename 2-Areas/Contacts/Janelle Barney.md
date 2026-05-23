@@ -6,8 +6,7 @@ phones:
 - '+12319398024'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Janelle Barney

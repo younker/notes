@@ -5,8 +5,7 @@ phones:
 - (860) 373-5966
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Michael

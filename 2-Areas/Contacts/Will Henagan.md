@@ -6,8 +6,7 @@ phones:
 - '+12312820196'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Will Henagan

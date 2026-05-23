@@ -7,8 +7,7 @@ phones:
 - (206) 842-7550
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # John Wilken

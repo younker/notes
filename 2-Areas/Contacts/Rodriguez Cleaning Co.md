@@ -5,8 +5,7 @@ phones:
 - (509) 969-1100
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Rodriguez Cleaning Co.

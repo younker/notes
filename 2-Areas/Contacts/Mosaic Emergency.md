@@ -5,8 +5,7 @@ phones:
 - (206) 780-1374
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Mosaic Emergency

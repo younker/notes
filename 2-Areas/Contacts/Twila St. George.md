@@ -8,8 +8,7 @@ emails:
 - twilastgeorge@verizon.com
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Twila St. George

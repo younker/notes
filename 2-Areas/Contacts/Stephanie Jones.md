@@ -6,8 +6,7 @@ phones:
 - (313) 680-0007
 created: 2026-02-04
 modified: 2026-02-04
-tags:
-- contact
+tags: []
 ---
 
 # Stephanie Jones

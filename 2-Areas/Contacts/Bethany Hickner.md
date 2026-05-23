@@ -7,8 +7,7 @@ phones:
 - '+13606208143'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 emails:
 - bleehickner@gmail.com
 ---

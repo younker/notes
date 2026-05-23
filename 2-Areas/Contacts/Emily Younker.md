@@ -11,7 +11,6 @@ emails:
 created: 2026-01-24
 modified: 2026-04-09
 tags:
-- contact
 - family
 ---
 

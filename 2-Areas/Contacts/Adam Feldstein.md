@@ -6,8 +6,7 @@ phones:
 - (206) 240-8698
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Adam Feldstein

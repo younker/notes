@@ -6,8 +6,7 @@ phones:
 - (231) 550-2020
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # David Bolin

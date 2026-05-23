@@ -5,8 +5,7 @@ phones:
 - '+13606972004'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Cafe Cocina Poulsbo

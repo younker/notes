@@ -8,8 +8,7 @@ phones:
 - (509) 452-8315
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Tom Durrett

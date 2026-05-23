@@ -7,8 +7,7 @@ phones:
 - '+14109358918'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Frank Marca

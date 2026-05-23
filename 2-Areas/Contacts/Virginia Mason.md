@@ -6,8 +6,7 @@ phones:
 - (206) 842-5632
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Virginia Mason

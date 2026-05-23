@@ -6,8 +6,7 @@ phones:
 - +1 (231) 838-1225
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 emails:
 - katienowels@gmail.com
 ---

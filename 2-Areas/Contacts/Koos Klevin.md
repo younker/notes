@@ -4,8 +4,7 @@ first_name: Koos
 last_name: Klevin
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Koos Klevin

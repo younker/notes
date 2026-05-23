@@ -6,8 +6,7 @@ phones:
 - '+17035050400'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Danielle Bolin

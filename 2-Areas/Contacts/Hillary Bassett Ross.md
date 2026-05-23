@@ -8,8 +8,7 @@ emails:
 - hillarybassettross@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Hillary Bassett Ross

@@ -6,8 +6,7 @@ phones:
 - (586) 522-8259
 created: 2026-04-16
 modified: 2026-04-16
-tags:
-- contact
+tags: []
 ---
 
 # Mikey Thompson

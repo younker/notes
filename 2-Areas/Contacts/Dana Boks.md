@@ -6,8 +6,7 @@ phones:
 - '+19892051389'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Dana Boks

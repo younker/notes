@@ -6,8 +6,7 @@ phones:
 - 1 (509) 930-4583
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Dick Twiss

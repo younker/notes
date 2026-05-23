@@ -7,8 +7,7 @@ phones:
 - (509) 949-0752
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Ryan Brewer

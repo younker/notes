@@ -5,8 +5,7 @@ phones:
 - (360) 642-8069
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Boreas B&B

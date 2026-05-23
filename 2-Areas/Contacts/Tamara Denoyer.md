@@ -6,8 +6,7 @@ phones:
 - '+13619204353'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Tamara Denoyer

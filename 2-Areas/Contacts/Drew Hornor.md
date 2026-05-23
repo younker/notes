@@ -8,8 +8,7 @@ emails:
 - h2contractors@comcast.net
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Drew Hornor

@@ -10,8 +10,7 @@ emails:
 - stumm_@hotmail.com
 created: 2026-05-21
 modified: 2026-05-22
-tags:
-- contact
+tags: []
 ---
 
 # Jared Stumm

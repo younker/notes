@@ -9,8 +9,7 @@ phones:
 - (206) 855-7700
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # (x) Dr. Charles Nelson

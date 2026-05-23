@@ -9,8 +9,7 @@ emails:
 - chris@firmanelectric.com
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Chris Firman

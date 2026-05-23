@@ -7,8 +7,7 @@ phones:
 - +1 (215) 435-6191
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 emails:
 - carchambault@bera.ai
 ---

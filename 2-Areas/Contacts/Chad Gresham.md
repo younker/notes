@@ -7,8 +7,7 @@ phones:
 - '+13603404965'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Chad Gresham

@@ -6,8 +6,7 @@ phones:
 - '+19894708492'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Blake Mac

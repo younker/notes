@@ -8,8 +8,7 @@ phones:
 - (440) 697-8212
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kirstin Siupik

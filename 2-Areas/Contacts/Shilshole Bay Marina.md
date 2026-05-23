@@ -6,8 +6,7 @@ phones:
 - 1 (206) 601-4089
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Shilshole Bay Marina

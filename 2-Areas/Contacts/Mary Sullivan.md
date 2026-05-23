@@ -6,8 +6,7 @@ phones:
 - +1 (630) 550-7176
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Mary Sullivan

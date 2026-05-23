@@ -5,8 +5,7 @@ phones:
 - (888) 522-1130
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Cascade Natural Gas

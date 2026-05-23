@@ -7,8 +7,7 @@ phones:
 - 509-961-3431
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Jenny Lochre

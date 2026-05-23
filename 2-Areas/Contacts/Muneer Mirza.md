@@ -8,8 +8,7 @@ phones:
 - 206-266-6074
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Muneer Mirza

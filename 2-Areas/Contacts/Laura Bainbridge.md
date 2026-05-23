@@ -6,8 +6,7 @@ phones:
 - '+19496065613'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Laura Bainbridge

@@ -5,8 +5,7 @@ phones:
 - '+12482014814'
 created: 2026-05-12
 modified: 2026-05-12
-tags:
-- contact
+tags: []
 ---
 
 # Mikey

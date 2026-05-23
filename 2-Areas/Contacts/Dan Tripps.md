@@ -6,8 +6,7 @@ phones:
 - +1 (206) 619-8528
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 emails:
 - dtripps@comcast.net
 ---

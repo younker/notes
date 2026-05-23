@@ -6,8 +6,7 @@ phones:
 - '+12313300567'
 created: 2026-04-19
 modified: 2026-04-19
-tags:
-- contact
+tags: []
 ---
 
 # Chad Broughman

@@ -6,8 +6,7 @@ phones:
 - '5099522307'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Danielle LaRiviere

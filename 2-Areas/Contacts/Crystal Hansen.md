@@ -4,8 +4,7 @@ first_name: Crystal
 last_name: Hansen
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Crystal Hansen

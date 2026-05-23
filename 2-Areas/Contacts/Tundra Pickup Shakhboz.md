@@ -5,8 +5,7 @@ phones:
 - (480) 875-6050
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Tundra Pickup: Shakhboz

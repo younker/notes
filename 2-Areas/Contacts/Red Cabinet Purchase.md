@@ -5,8 +5,7 @@ phones:
 - '+13607105059'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Red Cabinet Purchase

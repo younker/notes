@@ -6,8 +6,7 @@ phones:
 - '+12314970158'
 created: 2026-01-24
 modified: 2026-01-25
-tags:
-- contact
+tags: []
 ---
 
 # Kassie Kennaugh

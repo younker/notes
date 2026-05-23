@@ -7,8 +7,7 @@ phones:
 - '+15099103109'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Ramiro Vasquez

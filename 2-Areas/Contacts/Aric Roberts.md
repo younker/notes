@@ -8,8 +8,7 @@ phones:
 - (509) 653-1352
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Aric Roberts

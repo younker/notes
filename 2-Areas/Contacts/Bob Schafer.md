@@ -6,8 +6,7 @@ phones:
 - '+19893518944'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Bob Schafer

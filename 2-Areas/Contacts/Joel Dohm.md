@@ -8,8 +8,7 @@ emails:
 - dohm.jj.m@northmen.org
 created: 2026-05-14
 modified: 2026-05-14
-tags:
-- contact
+tags: []
 ---
 
 # Joel Dohm

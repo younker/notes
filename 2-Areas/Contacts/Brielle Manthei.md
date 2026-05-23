@@ -7,8 +7,7 @@ phones:
 - 1 (231) 459-9100
 created: 2026-01-24
 modified: 2026-04-26
-tags:
-- contact
+tags: []
 ---
 
 # Brielle Manthei

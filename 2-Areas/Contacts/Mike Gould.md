@@ -6,8 +6,7 @@ phones:
 - '+12316322148'
 created: 2026-04-29
 modified: 2026-04-29
-tags:
-- contact
+tags: []
 ---
 
 # Mike Gould

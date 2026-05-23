@@ -5,8 +5,7 @@ phones:
 - (509) 248-0665
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Overhead Door

@@ -13,8 +13,7 @@ emails:
 - Eloa.S.Adams@kp.org
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Agnieszka Adams

@@ -8,8 +8,7 @@ emails:
 - jwells2092@charter.net
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Jeff Wells

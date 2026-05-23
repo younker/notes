@@ -5,8 +5,7 @@ phones:
 - '12313477859'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Harbor Light Christian School

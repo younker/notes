@@ -6,8 +6,7 @@ phones:
 - 1 (406) 531-4092
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Lindsey Bona-Eggemen

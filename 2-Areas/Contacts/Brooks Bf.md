@@ -5,8 +5,7 @@ phones:
 - '+12313401500'
 created: 2026-03-19
 modified: 2026-03-19
-tags:
-- contact
+tags: []
 ---
 
 # Brooks Bf

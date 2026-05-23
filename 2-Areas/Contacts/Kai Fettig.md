@@ -9,8 +9,7 @@ emails:
 - kai.fettig@gmail.com
 created: 2026-01-24
 modified: 2026-04-12
-tags:
-- contact
+tags: []
 ---
 
 # Kai Fettig

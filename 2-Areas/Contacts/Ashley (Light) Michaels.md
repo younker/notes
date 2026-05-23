@@ -6,8 +6,7 @@ emails:
 - ashleymichaels@ashley.michaels.526
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Ashley (Light) Michaels

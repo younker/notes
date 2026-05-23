@@ -8,8 +8,7 @@ emails:
 - nhonaker@northmen.org
 created: 2026-05-18
 modified: 2026-05-18
-tags:
-- contact
+tags: []
 ---
 
 # Noah Honaker

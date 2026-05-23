@@ -6,8 +6,7 @@ phones:
 - 1 (231) 373-3745
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Gus Eggeman

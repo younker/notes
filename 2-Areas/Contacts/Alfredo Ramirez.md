@@ -6,8 +6,7 @@ phones:
 - 1 (360) 434-7616
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Alfredo Ramirez

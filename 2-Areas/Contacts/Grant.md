@@ -5,8 +5,7 @@ phones:
 - '+17346011408'
 created: 2026-05-12
 modified: 2026-05-12
-tags:
-- contact
+tags: []
 ---
 
 # Grant

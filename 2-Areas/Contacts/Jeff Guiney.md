@@ -6,8 +6,7 @@ phones:
 - '+12318380198'
 created: 2026-05-21
 modified: 2026-05-21
-tags:
-- contact
+tags: []
 ---
 
 # Jeff Guiney

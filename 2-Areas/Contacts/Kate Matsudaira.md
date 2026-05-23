@@ -8,8 +8,7 @@ emails:
 - kate@seomoz.org
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Kate Matsudaira

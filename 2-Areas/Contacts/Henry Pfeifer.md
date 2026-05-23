@@ -6,8 +6,7 @@ phones:
 - '+12313421567'
 created: 2026-01-24
 modified: 2026-01-24
-tags:
-- contact
+tags: []
 ---
 
 # Henry Pfeifer
