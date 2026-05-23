@@ -7,19 +7,97 @@
   "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
-    { "query": "tag:#720-jennings", "color": { "a": 1, "rgb": 14315734 } },
-    { "query": "tag:#tiffin-rv", "color": { "a": 1, "rgb": 16027919 } },
-    { "query": "tag:#cascadia-yakima", "color": { "a": 1, "rgb": 13458524 } },
-    { "query": "tag:#ship", "color": { "a": 1, "rgb": 16753920 } },
-    { "query": "tag:#petoskey-soccer", "color": { "a": 1, "rgb": 5025616 } },
-    { "query": "tag:#paha-org", "color": { "a": 1, "rgb": 4093371 } },
-    { "query": "tag:#job-search-2024", "color": { "a": 1, "rgb": 7779890 } },
-    { "query": "tag:#harborlight", "color": { "a": 1, "rgb": 11168511 } },
-    { "query": "tag:#genesis-church", "color": { "a": 1, "rgb": 14702122 } },
-    { "query": "tag:#kitsap-septic", "color": { "a": 1, "rgb": 5793266 } },
-    { "query": "tag:#anthropic", "color": { "a": 1, "rgb": 15844367 } },
-    { "query": "tag:#moz", "color": { "a": 1, "rgb": 4675315 } },
-    { "query": "tag:#contact", "color": { "a": 1, "rgb": 9342606 } }
+    {
+      "query": "tag:#720-jennings",
+      "color": {
+        "a": 1,
+        "rgb": 14315734
+      }
+    },
+    {
+      "query": "tag:#tiffin-rv",
+      "color": {
+        "a": 1,
+        "rgb": 16027919
+      }
+    },
+    {
+      "query": "tag:#cascadia-yakima",
+      "color": {
+        "a": 1,
+        "rgb": 13458524
+      }
+    },
+    {
+      "query": "tag:#ship",
+      "color": {
+        "a": 1,
+        "rgb": 16753920
+      }
+    },
+    {
+      "query": "tag:#petoskey-soccer",
+      "color": {
+        "a": 1,
+        "rgb": 5025616
+      }
+    },
+    {
+      "query": "tag:#paha-org",
+      "color": {
+        "a": 1,
+        "rgb": 4093371
+      }
+    },
+    {
+      "query": "tag:#job-search-2024",
+      "color": {
+        "a": 1,
+        "rgb": 7779890
+      }
+    },
+    {
+      "query": "tag:#harborlight",
+      "color": {
+        "a": 1,
+        "rgb": 11168511
+      }
+    },
+    {
+      "query": "tag:#genesis-church",
+      "color": {
+        "a": 1,
+        "rgb": 14702122
+      }
+    },
+    {
+      "query": "tag:#kitsap-septic",
+      "color": {
+        "a": 1,
+        "rgb": 5793266
+      }
+    },
+    {
+      "query": "tag:#anthropic",
+      "color": {
+        "a": 1,
+        "rgb": 15844367
+      }
+    },
+    {
+      "query": "tag:#moz",
+      "color": {
+        "a": 1,
+        "rgb": 4675315
+      }
+    },
+    {
+      "query": "tag:#contact",
+      "color": {
+        "a": 1,
+        "rgb": 9342606
+      }
+    }
   ],
   "collapse-display": true,
   "showArrow": false,
@@ -31,6 +109,6 @@
   "repelStrength": 15,
   "linkStrength": 0.7,
   "linkDistance": 180,
-  "scale": 0.5,
+  "scale": 0.039995017191120495,
   "close": true
 }
