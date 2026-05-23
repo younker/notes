@@ -4,11 +4,11 @@ message_count: 1
 first: 2026-05-19
 last: 2026-05-19
 senders:
-- rjbrower04@gmail.com
+  - rjbrower04@gmail.com
 type: email-thread
-tags: []
+tags:
+  - petoskey-soccer
 contacts:
-- '[[Rory Light]]'
 ---
 
 # Sunday vs Petoskey

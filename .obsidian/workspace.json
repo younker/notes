@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e711003c7cafeeaf",
+        "id": "41f1a9d41ec71a1a",
         "type": "tabs",
         "children": [
           {
-            "id": "18dc157f9c200598",
+            "id": "80c84c5d0f3084b5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#81356114----------------------------------Hampton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,8 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18dc157f9c200598",
+  "active": "80c84c5d0f3084b5",
   "lastOpenFiles": [
+    "2-Areas/Lakers 2012 Soccer/Threads/2026-03-05 Your May-16-2026 Confirmation.md",
+    "4-Archive/Hockey/Threads/2025-06-19 Your Invoice is available -- Invoice.md",
+    "4-Archive/Career/Threads/2025-02-18 Your receipt from ClickHouse, Inc..md",
+    "4-Archive/Personal/Threads/2022-07-02 Congratulations! You got an e-gift card!.md",
+    "2-Areas/Lakers 2012 Soccer/Threads/2026-05-19 Sunday vs Petoskey.md",
+    "2-Areas/Contacts/Bethany Hickner.md",
     "4-Archive/Personal/Emails — personal.md",
     "4-Archive/Hockey/TC Red AA 14U/Families/Zivkovich.md",
     "4-Archive/Hockey/TC Red AA 14U/Families/Younker.md",
@@ -202,12 +209,6 @@
     "4-Archive/Hockey/TC Red AA 14U/Families",
     "4-Archive/Hockey/TC Red AA 14U",
     "4-Archive/Hockey/Emails — petoskey-hockey.md",
-    "4-Archive/Hockey/Threads/2025-12-27 Goalie Equipment (sent).md",
-    "4-Archive/Hockey/Threads/2025-11-30 PAHA communication to a specific team (sent).md",
-    "4-Archive/Hockey/Threads/2025-11-15 Schedule Questions.md",
-    "4-Archive/Hockey/Threads/2025-03-26 13A Spring Team (sent).md",
-    "4-Archive/Hockey/Threads/2024-10-07 PAHA Coach check in.md",
-    "4-Archive/Hockey/Threads/2023-08-22 [Petoskey Squirt 10U White] pre season skating.md",
     "4-Archive/Hockey/Threads",
     "3-Resources/Reading/The Hive.pdf",
     "Untitled.canvas",
