@@ -11,7 +11,7 @@ tags: []
 
 # Kurt
 
-**Role:** [[Bainbridge Heating]]
+**Role:** Bainbridge Heating
 
 ## Contact
 - **Phone:** 2064500515

@@ -7,6 +7,7 @@ date_range: 2025-03-07 to 2026-05-19
 type: email-index
 tags:
 - index
+- petoskey-soccer
 ---
 
 # Email Index — soccer-emails.rtfd

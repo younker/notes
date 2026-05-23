@@ -18,5 +18,5 @@ tags: []
 - **Home:** 2336 Maxwell Rd., Petoskey, MI, 49770, United States
 
 ## Related
-- **Son:** [[Carsen Fisher]]
+- **Son:** Carsen Fisher
 - **Spouse:** [[Tonya Reeb]]

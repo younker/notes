@@ -2,7 +2,8 @@
 title: The Hive
 author: Brian Conn
 type: pdf
-tags: [reading]
+tags:
+- reading
 attachment: The Hive.pdf
 ---
 
@@ -10,6 +11,6 @@ attachment: The Hive.pdf
 
 *By [[Brian Conn]]*
 
-Companion note for the attached PDF: [[The Hive.pdf]]
+Companion note for the attached PDF: The Hive.pdf
 
 See also: [[Acts of Kindness]]

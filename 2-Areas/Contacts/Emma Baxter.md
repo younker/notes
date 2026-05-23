@@ -12,7 +12,7 @@ tags: []
 
 # Emma Baxter
 
-**Role:** [[Columbus Skating Coach]]
+**Role:** Columbus Skating Coach
 
 ## Contact
 - **Home:** +16192485116

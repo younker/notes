@@ -7,12 +7,13 @@ phones:
 - '+12318387551'
 created: 2026-01-24
 modified: 2026-01-24
-tags: []
+tags:
+- petoskey-soccer
 ---
 
 # Grant Reed
 
-**Role:** [[PYSA Goalie Coach]]
+**Role:** PYSA Goalie Coach
 
 ## Contact
 - **Phone:** +12318387551

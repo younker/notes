@@ -19,7 +19,7 @@ tags:
 
 # Jason Younker
 
-**Role:** [[ynkr.org]]
+**Role:** ynkr.org
 
 ## Contact
 - **Mobile:** (206) 795-4418
@@ -35,9 +35,9 @@ tags:
 - **Brother:** [[Justin Younker]]
 - **Father:** [[Stephen Younker]]
 - **Mother:** [[Beth Younker]]
-- **Sister:** [[Kara Hanses-Tefft]]
+- **Sister:** Kara Hanses-Tefft
 - **Spouse:** [[Heather Younker]]
-- **Father:** [[Dr. Dad Younker Ed.D.]]
+- **Father:** Dr. Dad Younker Ed.D.
 
 ## Email Threads
 
@@ -68,7 +68,7 @@ tags:
 - [[2022-11-03 Don't forget your upcoming events!]]
 - [[2023-01-16 Justin!]]
 - [[2023-02-04 About that Moz interview cancellation...And we're back!]]
-- [[2023-02-06 Tiffin Allegro Club Membership Form-Join or Renew [#15779]]]
+- 2023-02-06 Tiffin Allegro Club Membership Form-Join or Renew [#15779]
 - [[2023-02-07 Your Order Is On Its Way]]
 - [[2023-03-04 He. Firebirds skill sessions]]
 - [[2023-03-04 Jr. firebirds skill sessions]]
@@ -156,10 +156,10 @@ tags:
 - [[2025-12-27 Goalie Equipment]]
 - [[2025-12-30 Summary- Senior Housing Facility Selection - LLM vs Traditional Data Service]]
 - [[2025-12-31 Pre-Arrival for Niagara Falls Marriott on the Falls - R-05063523 - 2026 Pelham Silver Stick Finals - Thu, 01-]]
-- [[2025-12-31 Thoughts about stuff]]
-- [[2026-01-02 foo]]
+- 2025-12-31 Thoughts about stuff
+- 2026-01-02 foo
 - [[2026-01-16 For the Holland tournament]]
-- [[2026-01-27 doc]]
+- 2026-01-27 doc
 - [[2026-01-28 United Healthcare]]
 - [[2026-01-28 Younker insurance]]
 - [[2026-03-15 14U Spartans Spring Tryouts]]

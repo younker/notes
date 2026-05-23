@@ -6,7 +6,8 @@ last: 2025-08-18
 senders:
 - service@veo.co
 type: email-thread
-tags: []
+tags:
+- petoskey-soccer
 ---
 
 # Bryan Goyings invited you to join PYSA Lakers 2012 on Veo

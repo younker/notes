@@ -14,7 +14,7 @@ emails:
 
 # Chris Archambault
 
-**Role:** [[Bera CTO]]
+**Role:** Bera CTO
 
 ## Contact
 - **Phone:** +1 (215) 435-6191

@@ -37,8 +37,7 @@ Glacier West Storage
 Poulsbo, WA 98370
 Confirm Your Reservation <https://www.pensketruckrental.com/view-edit-reservation/#/view-edit-reservation.html/?utm_source=marketo&amp;utm_medium=email&amp;utm_campaign=Consumer%20Rental%20Transaction&amp;resNumber=91736742&amp;request_type=CR
 >
-To view, change or cancel your reservation, visit Manage My Reservation <[[https://www.pensketruckrental.com/view-edit-reservation/#/view-edit-reservation.html/?utm_source=marketo&amp;utm_medium=email&amp;utm_campaign=Consumer%20Rental%20Transaction&amp;resNumber=91736742&amp;request_type=CR
-]]>. Thank you for moving with Penske and we look forward to seeing you soon.
+To view, change or cancel your reservation, visit Manage My Reservation <https://www.pensketruckrental.com/view-edit-reservation/#/view-edit-reservation.html/?utm_source=marketo&amp;utm_medium=email&amp;utm_campaign=Consumer%20Rental%20Transaction&amp;resNumber=91736742&amp;request_type=CR>. Thank you for moving with Penske and we look forward to seeing you soon.
 
 Sincerely,
  Penske Truck Rental
@@ -52,7 +51,7 @@ Privacy Policy <https://elearn.gopenske.com/dc/9H7koAX2b-ma9bK3Z-WYDt5TLy-VWlVEa
 
 Terms and Conditions <https://elearn.gopenske.com/dc/9H7koAX2b-ma9bK3Z-WYDtjLODZW5_VE0xKlYmAHkCQ7z4CjCNgDsCmrPzgsVyJm2JGI9rtpDlZryaaDIYLWNW_ZXnk5_Oi-f7eI_SKgPqtiEdxYZJv00aYKxOcSw5Z-rcesfgSSyX3vK_rp6ahiNsAM8eXQmBRImC63mUd-cvNWLlTHdaFl6UB12yGE7Vhu/MDA0LVJISy03MzcAAAGOipKkitwxbRPvbBPfwlCvS93MDgZkByouIWCDdsVI1Rk9w9E1EBe84vqz253Dvj9lVULCcis=>
 
-Unsubscribe <[[https://epages.gopenske.com/UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=MDA0LVJISy03MzcAAAGOipKkijIwoaDypyDl1x-8926zhG6E4bZAwS9zWwAKPLWH4b4TRMkbAvE2Hs9J4bS_xUftJeGYHCs1Zv9RrLccb4XhUzKzUA7JQl-d8XxQxjCBfhOZcA]]>
+Unsubscribe <https://epages.gopenske.com/UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=MDA0LVJISy03MzcAAAGOipKkijIwoaDypyDl1x-8926zhG6E4bZAwS9zWwAKPLWH4b4TRMkbAvE2Hs9J4bS_xUftJeGYHCs1Zv9RrLccb4XhUzKzUA7JQl-d8XxQxjCBfhOZcA>
 
 This is an advertisement from Penske.
 

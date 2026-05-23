@@ -14,7 +14,7 @@ emails:
 
 # Bethany Hickner
 
-**Role:** [[Church/Mosaic]]
+**Role:** Church/Mosaic
 
 ## Contact
 - **Phone:** +13606208143

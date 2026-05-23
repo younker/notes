@@ -11,7 +11,7 @@ tags: []
 
 # Tracy
 
-**Role:** [[Pomona]]
+**Role:** Pomona
 
 ## Contact
 - **Work:** 1 (509) 833-8088

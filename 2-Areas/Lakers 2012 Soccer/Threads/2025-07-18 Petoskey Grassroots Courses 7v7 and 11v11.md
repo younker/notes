@@ -6,7 +6,8 @@ last: 2025-07-18
 senders:
 - bryan.l.goyings@gmail.com
 type: email-thread
-tags: []
+tags:
+- petoskey-soccer
 ---
 
 # Petoskey Grassroots Courses 7v7 and 11v11

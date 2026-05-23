@@ -8,6 +8,7 @@ senders:
 type: email-thread
 tags:
 - 720-jennings
+- petoskey-soccer
 - ship
 ---
 

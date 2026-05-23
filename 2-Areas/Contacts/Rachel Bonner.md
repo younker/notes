@@ -12,7 +12,7 @@ tags: []
 
 # Rachel Bonner
 
-**Role:** [[Piano Instructor]]
+**Role:** Piano Instructor
 
 ## Contact
 - **Mobile:** (509) 833-3203

@@ -12,7 +12,7 @@ tags: []
 
 # Landon Wilkinson
 
-**Role:** [[Painting]]
+**Role:** Painting
 
 ## Contact
 - **Mobile:** +15096545667

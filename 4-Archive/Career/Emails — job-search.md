@@ -124,8 +124,8 @@ Date range: 2022-04-13 to 2026-04-30
 | 2025-01-22 | [[2025-01-22 Invitation- Jason Younker - Interview with Gusto @ Wed Jan 29, 2025 1pm - 2pm (EST) (jason@ynkr.org)|Invitation: Jason Younker \| Interview with Gusto @ Wed Jan ]] | 1 | 2025-01-22 | carren.scialacomo@gusto.com |
 | 2025-01-22 | [[2025-01-22 Your interview with Gusto is scheduled for Jan 29, 2025 at 1-00 PM|Your interview with Gusto is scheduled for Jan 29, 2025 at 1]] | 1 | 2025-01-22 | no-reply@interviews.modernloop.io |
 | 2025-01-22 | [[2025-01-22 Reminder- Schedule your interview with Gusto|Reminder: Schedule your interview with Gusto]] | 1 | 2025-01-22 | no-reply@interviews.modernloop.io |
-| 2025-01-21 | [[2025-01-21 Reminder- Phone Interview for Sr. Solutions Architect with Compassion International @ Tue Jan 21, 2025 03-30 |Reminder: Phone Interview for Sr. Solutions Architect with
- ]] | 1 | 2025-01-21 | noreply@zohocalendar.com |
+| 2025-01-21 | Reminder: Phone Interview for Sr. Solutions Architect with
+  | 1 | 2025-01-21 | noreply@zohocalendar.com |
 | 2025-01-21 | [[2025-01-21 Scheduling your Technical Phone Assessment with Gusto!|Scheduling your Technical Phone Assessment with Gusto!]] | 1 | 2025-01-21 | carren.scialacomo@gusto.com |
 | 2025-01-20 | [[2025-01-20 Application for Software Engineer TS-SCI + Poly $130K - $220K + 15% 401k at Millennial Software|Application for Software Engineer TS/SCI + Poly $130K - $220]] | 1 | 2025-01-20 | noreply@indeed.com |
 | 2025-01-17 | [[2025-01-17 Thank you for your interest in Settle|Thank you for your interest in Settle]] | 1 | 2025-01-17 | no-reply@us.greenhouse-mail.io |

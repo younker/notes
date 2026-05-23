@@ -12,7 +12,7 @@ tags: []
 
 # Joey Fonseca
 
-**Role:** [[Horizon Health & Subacute Care]]
+**Role:** Horizon Health & Subacute Care
 
 ## Contact
 - **Mobile:** 5599363177

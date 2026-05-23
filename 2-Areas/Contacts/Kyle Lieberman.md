@@ -12,7 +12,7 @@ tags: []
 
 # Kyle Lieberman
 
-**Role:** [[NMFC]]
+**Role:** NMFC
 
 ## Contact
 - **Mobile:** +12316221535

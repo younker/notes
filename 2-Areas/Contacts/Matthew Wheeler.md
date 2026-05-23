@@ -15,7 +15,7 @@ tags: []
 
 # Matthew Wheeler
 
-**Role:** TC Red AA 14U at [[TC 14U AA Coach]]
+**Role:** TC Red AA 14U at TC 14U AA Coach
 
 ## Contact
 - **Mobile:** +19893905928

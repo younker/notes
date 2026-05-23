@@ -8,7 +8,8 @@ emails:
 - bryan@petoskeysoccer.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: []
+tags:
+- petoskey-soccer
 ---
 
 # Bryan Goyings

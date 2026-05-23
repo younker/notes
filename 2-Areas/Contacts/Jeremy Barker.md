@@ -14,7 +14,7 @@ tags: []
 
 # Jeremy Barker
 
-**Role:** [[Barker Floors]]
+**Role:** Barker Floors
 
 ## Contact
 - **Work:** 1 (253) 797-2151

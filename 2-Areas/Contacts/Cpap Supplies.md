@@ -11,7 +11,7 @@ tags: []
 
 # Cpap Supplies
 
-**Role:** [[X Medequip]]
+**Role:** X Medequip
 
 ## Contact
 - **Work:** (360) 479-8811

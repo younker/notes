@@ -12,7 +12,7 @@ tags: []
 
 # Rich Perlot
 
-**Role:** [[Heat Holders]]
+**Role:** Heat Holders
 
 ## Contact
 - **Mobile:** (206) 780-3919

@@ -12,7 +12,7 @@ tags: []
 
 # Karl Dights
 
-**Role:** [[RV Storage]]
+**Role:** RV Storage
 
 ## Contact
 - **Mobile:** 206 866 6112

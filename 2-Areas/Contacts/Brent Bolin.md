@@ -8,7 +8,8 @@ emails:
 - brentcbolin@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: []
+tags:
+- petoskey-soccer
 ---
 
 # Brent Bolin
@@ -38,5 +39,5 @@ Petoskey hockey coach
 - [[2025-12-03 25-26 Canadian Tournament and Exhibitition Game Travel Permit Confirmation]]
 - [[2025-12-04 Season Stats as of 12-4]]
 - [[2025-12-04 USAH-Michigan Amateur Hockey Association - 25-26 Canadian Tournament and Exhibitition Game Travel Permit - Ca]]
-- [[2025-12-19 Roster Link for [14u Bantam]]]
+- 2025-12-19 Roster Link for [14u Bantam]
 - [[2026-01-02 Updated PAHA 14UB Roster 12-31-2025]]

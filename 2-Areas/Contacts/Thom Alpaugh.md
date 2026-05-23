@@ -15,7 +15,7 @@ tags: []
 
 # Thom Alpaugh
 
-**Role:** [[Neighbor]]
+**Role:** Neighbor
 
 ## Contact
 - **Home:** (206) 842-1905

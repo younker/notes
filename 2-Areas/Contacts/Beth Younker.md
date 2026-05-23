@@ -30,7 +30,7 @@ tags:
 - **Work:** 289 Charlie Ln., Naches, WA, 98937, USA
 
 ## Related
-- **Mother:** [[Mom]]
+- **Mother:** Mom
 
 ## Email Threads
 

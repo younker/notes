@@ -12,7 +12,7 @@ tags: []
 
 # Kathy Cooper
 
-**Role:** [[Swimming Instructor]]
+**Role:** Swimming Instructor
 
 ## Contact
 - **Main:** 206.313.4987

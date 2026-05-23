@@ -14,7 +14,7 @@ emails:
 
 # Craig Rosecrans
 
-**Role:** [[Jobot]]
+**Role:** Jobot
 
 ## Contact
 - **Phone:** +19194395371

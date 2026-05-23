@@ -12,7 +12,7 @@ tags: []
 
 # Fedor Fedorov
 
-**Role:** [[Petoskey Ice Arena]]
+**Role:** Petoskey Ice Arena
 
 ## Contact
 - **Phone:** +12488812887

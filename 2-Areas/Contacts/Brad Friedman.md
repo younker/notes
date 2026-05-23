@@ -14,7 +14,7 @@ tags: []
 
 # Brad Friedman
 
-**Role:** [[Moz]]
+**Role:** Moz
 
 ## Contact
 - **Main:** 267-994-7382

@@ -13,7 +13,7 @@ tags: []
 
 # Kirstin Siupik
 
-**Role:** [[Progressive Claims Adjuster]]
+**Role:** Progressive Claims Adjuster
 
 ## Contact
 - **Work:** +1 (844) 997-3977

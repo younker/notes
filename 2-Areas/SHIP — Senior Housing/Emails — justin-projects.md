@@ -35,9 +35,9 @@ Date range: 2019-04-01 to 2026-05-13
 | 2026-02-16 | [[2026-02-13 Blog|Blog]] | 2 | 2026-02-13 | justin@cascadiadevelopment.com |
 | 2026-01-29 | [[2026-01-29 Website|Website]] | 1 | 2026-01-29 | justin@cascadiadevelopment.com |
 | 2026-01-28 | [[2026-01-28 Justin Younker sent you a gift- Claude Max 5x|Justin Younker sent you a gift: Claude Max 5x]] | 1 | 2026-01-28 | no-reply-0whH6i7Ph_Y-nDvHIwVR2g@mail.anthropic.com |
-| 2026-01-27 | [[2026-01-27 doc|doc]] | 1 | 2026-01-27 | jason@ynkr.org |
-| 2026-01-02 | [[2026-01-02 foo|foo]] | 1 | 2026-01-02 | jason@ynkr.org |
-| 2025-12-31 | [[2025-12-31 Thoughts about stuff|Thoughts about stuff]] | 1 | 2025-12-31 | jason@ynkr.org |
+| 2026-01-27 | doc | 1 | 2026-01-27 | jason@ynkr.org |
+| 2026-01-02 | foo | 1 | 2026-01-02 | jason@ynkr.org |
+| 2025-12-31 | Thoughts about stuff | 1 | 2025-12-31 | jason@ynkr.org |
 | 2025-12-30 | [[2025-12-30 Summary- Senior Housing Facility Selection - LLM vs Traditional Data Service|Summary: Senior Housing Facility Selection - LLM vs Traditio]] | 1 | 2025-12-30 | jason@ynkr.org |
 | 2025-12-07 | [[2025-12-05 Generative Search Stuff & AI Agent|Generative Search Stuff & AI Agent]] | 2 | 2025-12-05 | justin@cascadiadevelopment.com |
 | 2025-11-25 | [[2025-11-25 AI Agent - Senior Housing Managers and Owners|AI Agent - Senior Housing Managers and Owners]] | 1 | 2025-11-25 | justin@cascadiadevelopment.com |
@@ -47,14 +47,14 @@ Date range: 2019-04-01 to 2026-05-13
 | 2022-02-22 | [[2022-02-22 [SECURE] DSHS PD Request #202111-PRR-307 - Fee Letter|[SECURE] DSHS PD Request #202111-PRR-307 - Fee Letter]] | 1 | 2022-02-22 | natasha.motley@dshs.wa.gov |
 | 2021-12-03 | [[2021-12-03 [SECURE] DSHS PD Request #202111-PRR-307- Response Time Letter|[SECURE] DSHS PD Request #202111-PRR-307- Response Time Lett]] | 2 | 2021-12-03 | Office365@messaging.microsoft.com |
 | 2021-11-23 | [[2021-11-17 [Washington State Library] Access to ALF Operator License Info|[Washington State Library] Access to ALF Operator License In]] | 3 | 2021-11-17 | WashingtonStateLibrary@askwa.libanswers.com |
-| 2021-11-23 | [[2021-11-23 DSHS PD Request- Natasha Motley -- encrypted reply|DSHS PD Request: Natasha Motley -- encrypted reply]] | 1 | 2021-11-23 | jason@ynkr.org |
+| 2021-11-23 | DSHS PD Request: Natasha Motley -- encrypted reply | 1 | 2021-11-23 | jason@ynkr.org |
 | 2021-11-23 | [[2021-11-16 [SECURE] DSHS PD Request #202111-PRR-307- Clarification|[SECURE] DSHS PD Request #202111-PRR-307- Clarification]] | 2 | 2021-11-16 | Office365@messaging.microsoft.com |
 | 2021-09-21 | [[2021-09-09 [Updated] US News to Issue Senior Living Ratings|[Updated] US News to Issue Senior Living Ratings]] | 5 | 2021-09-09 | justin@cascadiadevelopment.com |
-| 2020-04-02 | [[2020-04-02 Fieldstone Communities Analysis - Invitation to edit|Fieldstone Communities Analysis - Invitation to edit]] | 1 | 2020-04-02 | britneymuller@gmail.com |
-| 2020-04-02 | [[2020-04-02 Fieldstone Keyword Research - Invitation to edit|Fieldstone Keyword Research - Invitation to edit]] | 1 | 2020-04-02 | britneymuller@gmail.com |
-| 2019-11-11 | [[2019-09-17 API Access to Operator Data|API Access to Operator Data]] | 5 | 2019-09-17 | jharness@nic.org |
-| 2019-09-11 | [[2019-09-09 Programmatic Discovery of Facility Operator|Programmatic Discovery of Facility Operator]] | 3 | 2019-09-09 | justin@cascadiadevelopment.com |
-| 2019-09-09 | [[2019-09-09 Other|Other]] | 1 | 2019-09-09 | wongma@dshs.wa.gov |
-| 2019-09-09 | [[2019-09-09 Locating Business Operator|Locating Business Operator]] | 1 | 2019-09-09 | justin@cascadiadevelopment.com |
-| 2019-04-30 | [[2019-04-16 Geospatial Open Data — Business Owner & Operator|Geospatial Open Data — Business Owner & Operator]] | 5 | 2019-04-16 | GIS@dshs.wa.gov |
-| 2019-04-01 | [[2019-04-01 K1 - Assisted-Independent Living- Yakima|K1 - Assisted/Independent Living- Yakima]] | 1 | 2019-04-01 | mike@cascadiaseniorliving.com |
+| 2020-04-02 | Fieldstone Communities Analysis - Invitation to edit | 1 | 2020-04-02 | britneymuller@gmail.com |
+| 2020-04-02 | Fieldstone Keyword Research - Invitation to edit | 1 | 2020-04-02 | britneymuller@gmail.com |
+| 2019-11-11 | API Access to Operator Data | 5 | 2019-09-17 | jharness@nic.org |
+| 2019-09-11 | Programmatic Discovery of Facility Operator | 3 | 2019-09-09 | justin@cascadiadevelopment.com |
+| 2019-09-09 | Other | 1 | 2019-09-09 | wongma@dshs.wa.gov |
+| 2019-09-09 | Locating Business Operator | 1 | 2019-09-09 | justin@cascadiadevelopment.com |
+| 2019-04-30 | Geospatial Open Data — Business Owner & Operator | 5 | 2019-04-16 | GIS@dshs.wa.gov |
+| 2019-04-01 | K1 - Assisted/Independent Living- Yakima | 1 | 2019-04-01 | mike@cascadiaseniorliving.com |

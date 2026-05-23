@@ -6,7 +6,8 @@ phones:
 - '+12314451793'
 created: 2026-01-24
 modified: 2026-01-24
-tags: []
+tags:
+- petoskey-soccer
 ---
 
 # Paul Retherford

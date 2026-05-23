@@ -18,7 +18,7 @@ tags: []
 
 # Agnieszka Adams
 
-**Role:** [[Kaiser]]
+**Role:** Kaiser
 
 ## Contact
 - **Mobile:** +1 (415) 572-4568
@@ -33,6 +33,6 @@ tags: []
 - **Home:** 489 Harrison St. Apt. 402, San Francisco, CA, 94105, United States
 
 ## Related
-- **Brother:** [[Mikey Adams]]
+- **Brother:** Mikey Adams
 - **Brother:** [[Jonas Adams]]
 - **Spouse:** [[Agnieszka Adams]]

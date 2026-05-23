@@ -17,7 +17,7 @@ tags: []
 
 # Nathan Craghill
 
-**Role:** [[Met Life Home Loans]]
+**Role:** Met Life Home Loans
 
 ## Contact
 - **Work:** (509) 736-3333

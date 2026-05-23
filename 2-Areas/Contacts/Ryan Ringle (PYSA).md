@@ -7,12 +7,13 @@ phones:
 - '+16165666681'
 created: 2026-01-24
 modified: 2026-03-26
-tags: []
+tags:
+- petoskey-soccer
 ---
 
 # Ryan Ringle (PYSA)
 
-**Role:** [[PYSA 2013 Coach]]
+**Role:** PYSA 2013 Coach
 
 ## Contact
 - **Phone:** +16165666681
