@@ -11,6 +11,7 @@ senders:
 type: email-thread
 tags:
 - email
+- paha-org
 contacts:
 - '[[Brandon Cook]]'
 - '[[Brent Bolin]]'

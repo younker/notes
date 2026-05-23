@@ -8,6 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
+- paha-org
 contacts:
 - '[[Chris Firman]]'
 - '[[Vincent Athen]]'
