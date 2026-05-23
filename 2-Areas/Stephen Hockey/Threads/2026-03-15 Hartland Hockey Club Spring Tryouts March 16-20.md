@@ -8,7 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+contacts:
+- '[[Lars Hanson]]'
+- '[[Kyle Lieberman]]'
+- '[[Doug Hughes]]'
 ---
 
 # Hartland Hockey Club Spring Tryouts March 16-20
@@ -176,7 +179,7 @@ tags:
 
 
 
- Kyle Mattingly
+ [[Kyle Lieberman|Kyle]] Mattingly
 
 
 
@@ -379,7 +382,7 @@ tags:
 
 
 
- Lars Helminen
+ [[Lars Hanson|Lars]] Helminen
 
 
 
@@ -495,7 +498,7 @@ tags:
 
 
 
- Doug Kastamo
+ [[Doug Hughes|Doug]] Kastamo
 
 
 

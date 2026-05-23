@@ -8,7 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
+contacts:
+- '[[Tonya Reeb]]'
 ---
 
 # Thank you for registering!
@@ -223,7 +225,7 @@ Thank you for registering!
 
 
 
- Dear Tonya Reeb,
+ Dear [[Tonya Reeb|Tonya]] Reeb,
  Thank you for registering for the 2026 Spring Premier Season!
 MSPSP requires that you sign your Player Contract and upload Proof-of-Age. Please head to https://www.sportsforms.club/mspsp.html to complete this additional documentation. If you have any questions, please reach out to bryan@petoskeysoccer.com.
 

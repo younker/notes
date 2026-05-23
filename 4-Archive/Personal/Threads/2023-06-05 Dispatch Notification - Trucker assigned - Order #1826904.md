@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
 ---
 
 # Dispatch Notification - Trucker assigned - Order #1826904

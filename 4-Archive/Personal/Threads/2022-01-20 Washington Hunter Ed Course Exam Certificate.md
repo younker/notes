@@ -8,12 +8,12 @@ senders:
 type: email-thread
 tags:
 - email
-- hunting-outdoors
 contacts:
 - '[[Stephen Younker]]'
+- '[[Hunter Johnachic]]'
 ---
 
-# Washington Hunter Ed Course Exam Certificate
+# Washington [[Hunter Johnachic|Hunter]] Ed Course Exam Certificate
 
 **1 message** on 2022-01-20
 

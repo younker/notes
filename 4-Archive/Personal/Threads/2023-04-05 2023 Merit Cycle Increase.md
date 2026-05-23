@@ -7,8 +7,10 @@ senders:
 - victoria.louie@moz.com
 type: email-thread
 tags:
-- career
 - email
+- moz
+contacts:
+- '[[Victoria Louie]]'
 ---
 
 # 2023 Merit Cycle Increase
@@ -24,7 +26,7 @@ I just wanted to share your 2023 Merit Cycle Increase letter.
 Thanks for holding down the fort while I was out!
 
 
-*Victoria Louie*
+*[[Victoria Louie|Victoria]] Louie*
 Engineering Manager, Data Services
 
 

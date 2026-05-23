@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Janelle Barney]]'
 ---
 
 # Crazy kids
@@ -18,7 +19,7 @@ contacts:
 
 ## 1. 2021-10-02 10:01 — jason@ynkr.org
 
-Hello Janelle, it’s Jason. You snapped a picture of my son jumping into the lake. Thank you for taking and sending that picture to me!
+Hello [[Janelle Barney|Janelle]], it’s Jason. You snapped a picture of my son jumping into the lake. Thank you for taking and sending that picture to me!
 
 Jason
 

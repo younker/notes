@@ -8,9 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 contacts:
 - '[[Jason Younker]]'
+- '[[Heather Younker]]'
 ---
 
 # PAHA Summer Announcements
@@ -67,7 +68,7 @@ Privacy Policy
 
 *Subject: Fwd: PAHA Summer Announcements*
 
-Did you get this? Do you want me to sign him up or will you do it. If you do, please indicate I want to coach. Begin forwarded message:From: Jason Younker <jason@ynkr.org>Date: July 5, 2023 at 11:51:43 PM EDTTo: Heather Younker <heathergoffinet@hotmail.com>Subject: Fwd: PAHA Summer Announcements﻿Begin forwarded message:From: Petoskey Area Hockey Association <no-reply@mailer.sportsengine.com>Date: July 5, 2023 at 1:41:39 PM EDTTo: jason@ynkr.orgSubject: PAHA Summer AnnouncementsReply-To: saddisonpaving@gmail.com﻿
+Did you get this? Do you want me to sign him up or will you do it. If you do, please indicate I want to coach. Begin forwarded message:From: Jason Younker <jason@ynkr.org>Date: July 5, 2023 at 11:51:43 PM EDTTo: [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>Subject: Fwd: PAHA Summer Announcements﻿Begin forwarded message:From: Petoskey Area Hockey Association <no-reply@mailer.sportsengine.com>Date: July 5, 2023 at 1:41:39 PM EDTTo: jason@ynkr.orgSubject: PAHA Summer AnnouncementsReply-To: saddisonpaving@gmail.com﻿
 
 PAHA Summer Announcements
 

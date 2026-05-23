@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
 ---
 
 # Request to print documents

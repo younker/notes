@@ -8,9 +8,12 @@ senders:
 type: email-thread
 tags:
 - email
-- health
 contacts:
 - '[[Jason Younker]]'
+- '[[Thomas McElroy]]'
+- '[[Police]]'
+- '[[Sharon Lyon]]'
+- '[[George Light]]'
 ---
 
 # The Morning: Bad-news bias
@@ -92,7 +95,7 @@ Begin forwarded message:
 > Roughly one in four Americans has received at least one dose of a Covid vaccine.
 > Politics
 > The White House said it would appoint an official to focus on Asian-American priorities after the Senate’s two Asian-American Democrats criticized a lack of representation at the Biden administration’s highest levels.
-> The Times obtained videos showing how Brian Sicknick, the Capitol Police officer who died after the Jan. 6 riot, was attacked with chemical spray.
+> The Times obtained videos showing how Brian Sicknick, the Capitol [[Police|Police]] officer who died after the Jan. 6 riot, was attacked with chemical spray.
 > Other Big Stories
 >
 > Supporters of Benjamin Netanyahu’s party in Jerusalem yesterday.Ammar Awad/Reuters
@@ -109,7 +112,7 @@ Begin forwarded message:
 > Alexey Molchanov beneath the surface before the dive.Viktor Lyagushkin
 > Polar Plunge: The world’s best free diver sets his sights on a record: 80 meters below the ice.
 >
-> Lives Lived: George Segal began his career in serious drama but became one of America’s most reliable and familiar comic actors. Most recently he played “Pops” on the sitcom “The Goldbergs.” He died at 87.
+> Lives Lived: [[George Light|George]] Segal began his career in serious drama but became one of America’s most reliable and familiar comic actors. Most recently he played “Pops” on the sitcom “The Goldbergs.” He died at 87.
 >
 > If you’ve found this newsletter helpful, please consider subscribing to The New York Times — with this special offer. Your support makes our work possible.
 >
@@ -136,7 +139,7 @@ Begin forwarded message:
 > Pollo en fricasé features bone-in chicken thighs and potatoes. Find more essential Puerto Rican recipes here.
 >
 > What to Read
-> Sharon Stone writes about her life and brushes with death in a new memoir. Read a Q&A.
+> [[Sharon Lyon|Sharon]] Stone writes about her life and brushes with death in a new memoir. Read a Q&A.
 >
 > What to Watch
 > This list of fresh movie recommendations includes oddball genre movies and complex indie dramas.
@@ -154,7 +157,7 @@ Begin forwarded message:
 >
 > Thanks for spending part of your morning with The Times. See you tomorrow. — David
 >
-> P.S. The Times covered a public demonstration of Thomas Edison’s newly patented phonograph — including “Mary Had a Little Lamb” — 143 years ago today.
+> P.S. The Times covered a public demonstration of [[Thomas McElroy|Thomas]] Edison’s newly patented phonograph — including “Mary Had a Little Lamb” — 143 years ago today.
 >
 > You can see today’s print front page here.
 >

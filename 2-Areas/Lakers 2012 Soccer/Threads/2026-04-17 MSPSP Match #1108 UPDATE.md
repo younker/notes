@@ -8,9 +8,12 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
+- '[[Traci Wong]]'
+- '[[Kristin Jeffers]]'
+- '[[Tyler Murray]]'
 ---
 
 # MSPSP Match #1108 UPDATE
@@ -27,7 +30,7 @@ Sorry, did not include you on the previous message.
 From: Bryan Goyings <bryan@petoskeysoccer.com>
 Date: Fri, Apr 17, 2026 at 1:27 PM
 Subject: MSPSP Match #1108 UPDATE
-To: <rodas.eli@gmail.com>, <dereks@boynesoccer.com>, Traci Wong <
+To: <rodas.eli@gmail.com>, <dereks@boynesoccer.com>, [[Traci Wong|Traci]] Wong <
 traci_schultz912@hotmail.com>, <alohakris@hotmail.com>, Danielle Schopp <
 danielleschopp@yahoo.com>
 
@@ -82,14 +85,14 @@ wrote:
 
 > Hello Bryan
 >
-> I will contact Tyler and our referee assignor to make this change.
+> I will contact [[Tyler Murray|Tyler]] and our referee assignor to make this change.
 >
 > Just confirm the address
 > Grandville high School
 > 4700 Canal Ave Sw
 > Grandville
 >
-> Kristin Ruiter
+> [[Kristin Jeffers|Kristin]] Ruiter
 > 616-617-1913
 > Travel Consultant
 > Alliance FC -Registrar

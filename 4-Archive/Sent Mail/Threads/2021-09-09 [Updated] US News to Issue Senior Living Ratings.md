@@ -7,6 +7,7 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
+- cascadia-yakima
 - email
 contacts:
 - '[[Jason Younker]]'

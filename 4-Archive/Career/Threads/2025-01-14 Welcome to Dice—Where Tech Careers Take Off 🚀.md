@@ -1,12 +1,14 @@
 ---
-subject: "Welcome to Dice—Where Tech Careers Take Off 🚀"
+subject: Welcome to Dice—Where Tech Careers Take Off 🚀
 message_count: 1
 first: 2025-01-14
 last: 2025-01-14
 senders:
-  - dice@connect.dice.com
+- dice@connect.dice.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Welcome to Dice—Where Tech Careers Take Off 🚀

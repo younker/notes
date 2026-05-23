@@ -7,8 +7,9 @@ senders:
 - SaPark@us.ci.org
 type: email-thread
 tags:
-- career
 - email
+contacts:
+- '[[Samuel Erwin]]'
 ---
 
 # Compassion - Sr. Solutions Architect position
@@ -26,7 +27,7 @@ Sr. Talent Acquisition Partner | People & Culture
 Compassion International
 847.409.5227 (c)
 
-From: Samuel Park <SaPark@us.ci.org>
+From: [[Samuel Erwin|Samuel]] Park <SaPark@us.ci.org>
 Sent: Friday, January 17, 2025 8:03 AM
 Subject: Notification: Jason Younker scheduled an interview using autobook for the Sr. Solutions Architect position
 

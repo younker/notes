@@ -8,7 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
+contacts:
+- '[[Emma Baxter]]'
 ---
 
 # 14U Player Photo Link!
@@ -35,7 +37,7 @@ There’s still time!
 You can Venmo @thecrookedporch $40 — please include your child’s name, number, and team. Their photos will be uploaded ASAP.
 
 If you have any questions, please reach out to me or Crooked Porch.
--Emma Tuthill
+-[[Emma Baxter|Emma]] Tuthill
 PAHA Secretary & Communications Officer
 Petoskey Area Hockey Association
 P.O. Box 862 Petoskey, MI 49770

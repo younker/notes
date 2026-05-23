@@ -1,12 +1,18 @@
 ---
-subject: "generators & pics!"
+subject: generators & pics!
 message_count: 1
 first: 2025-03-20
 last: 2025-03-20
 senders:
-  - Andrea@genesischurchmi.com
+- Andrea@genesischurchmi.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- genesis-church
+contacts:
+- '[[Heather Younker]]'
+- '[[Stewart Stevens]]'
+- '[[Corbin]]'
 ---
 
 # generators & pics!
@@ -17,13 +23,13 @@ tags: [email]
 
 *Subject: Fw: generators & pics!*
 
-Hi Heather and Jason,
+Hi [[Heather Younker|Heather]] and Jason,
 
 I sent out this email yesterday and I got an error message saying it was too large for your email to receive??  So, I am trying again with less photos.
 ________________________________
 From: Andrea Schuitema <Andrea@genesischurchmi.com>
 Sent: Wednesday, March 19, 2025 9:18 PM
-To: Bob Blomberg <blomberg49@aol.com>; Norm Byers <norm@genesispetoskey.com>; threeoakscamp@gmail.com <threeoakscamp@gmail.com>; Melissa Fay <melissa@genesispetoskey.com>; Melissa Fay <melissa@genesispetoskey.com>; matthew.fettig@gmail.com <matthew.fettig@gmail.com>; matthew.fettig@gmail.com <matthew.fettig@gmail.com>; harriskeb96@icloud.com <harriskeb96@icloud.com>; kubby68@gmail.com <kubby68@gmail.com>; emmaleejane97@gmail.com <emmaleejane97@gmail.com>; j_herm2403@yahoo.com <j_herm2403@yahoo.com>; Gabrielalee1216@gmail.com <gabrielalee1216@gmail.com>; shickman@themantheigroup.com <shickman@themantheigroup.com>; kerncraig@yahoo.com <kerncraig@yahoo.com>; davidbknowles@yahoo.com <davidbknowles@yahoo.com>; g84d68@gmail.com <g84d68@gmail.com>; joanmmarshall@gmail.com <joanmmarshall@gmail.com>; john.s.marshall67@gmail.com <john.s.marshall67@gmail.com>; Connie Maggrett <cmaggrett@yahoo.com>; Stewart Maggrett <stewartmaggrett@yahoo.com>; Marta Mills <marta.carl.mills@gmail.com>; meyers.kyled@gmail.com <meyers.kyled@gmail.com>; peanutlily200@gmail.com <peanutlily200@gmail.com>; mirandasue.meyers@gmail.com <mirandasue.meyers@gmail.com>; murphykie@aol.com <murphykie@aol.com>; robbie@neumann5.com <robbie@neumann5.com>; ellajoydesignco@gmail.com <ellajoydesignco@gmail.com>; swkmolmsted@gmail.com <swkmolmsted@gmail.com>; Jason Peterman <jasonpetermanpa@gmail.com>; jgpeterman@icloud.com <jgpeterman@icloud.com>; srice59@yahoo.com <srice59@yahoo.com>; Andrea Schuitema <Andrea@genesischurchmi.com>; mikeschuitema@gmail.com <mikeschuitema@gmail.com>; kailamschutte@gmail.com <kailamschutte@gmail.com>; slsolisrn@aol.com <slsolisrn@aol.com>; Elizabeth Torri <torribeth@gmail.com>; Corbin Towner <corbintowner@icloud.com>; lmveurink@gmail.com <lmveurink@gmail.com>; smveurink@gmail.com <smveurink@gmail.com>; jmveurink08@gmail.com <jmveurink08@gmail.com>; m.l.wert@gmail.com <m.l.wert@gmail.com>; m.l.wert@gmail.com <m.l.wert@gmail.com>; heatheryounker@outlook.com <heatheryounker@outlook.com>; jason@ynkr.org <jason@ynkr.org>; heatheryounker@outlook.com <heatheryounker@outlook.com>; heatheryounker@outlook.com <heatheryounker@outlook.com>; Joseph Hickman <joeyhickman220@gmail.com>
+To: Bob Blomberg <blomberg49@aol.com>; Norm Byers <norm@genesispetoskey.com>; threeoakscamp@gmail.com <threeoakscamp@gmail.com>; Melissa Fay <melissa@genesispetoskey.com>; Melissa Fay <melissa@genesispetoskey.com>; matthew.fettig@gmail.com <matthew.fettig@gmail.com>; matthew.fettig@gmail.com <matthew.fettig@gmail.com>; harriskeb96@icloud.com <harriskeb96@icloud.com>; kubby68@gmail.com <kubby68@gmail.com>; emmaleejane97@gmail.com <emmaleejane97@gmail.com>; j_herm2403@yahoo.com <j_herm2403@yahoo.com>; Gabrielalee1216@gmail.com <gabrielalee1216@gmail.com>; shickman@themantheigroup.com <shickman@themantheigroup.com>; kerncraig@yahoo.com <kerncraig@yahoo.com>; davidbknowles@yahoo.com <davidbknowles@yahoo.com>; g84d68@gmail.com <g84d68@gmail.com>; joanmmarshall@gmail.com <joanmmarshall@gmail.com>; john.s.marshall67@gmail.com <john.s.marshall67@gmail.com>; Connie Maggrett <cmaggrett@yahoo.com>; [[Stewart Stevens|Stewart]] Maggrett <stewartmaggrett@yahoo.com>; Marta Mills <marta.carl.mills@gmail.com>; meyers.kyled@gmail.com <meyers.kyled@gmail.com>; peanutlily200@gmail.com <peanutlily200@gmail.com>; mirandasue.meyers@gmail.com <mirandasue.meyers@gmail.com>; murphykie@aol.com <murphykie@aol.com>; robbie@neumann5.com <robbie@neumann5.com>; ellajoydesignco@gmail.com <ellajoydesignco@gmail.com>; swkmolmsted@gmail.com <swkmolmsted@gmail.com>; Jason Peterman <jasonpetermanpa@gmail.com>; jgpeterman@icloud.com <jgpeterman@icloud.com>; srice59@yahoo.com <srice59@yahoo.com>; Andrea Schuitema <Andrea@genesischurchmi.com>; mikeschuitema@gmail.com <mikeschuitema@gmail.com>; kailamschutte@gmail.com <kailamschutte@gmail.com>; slsolisrn@aol.com <slsolisrn@aol.com>; Elizabeth Torri <torribeth@gmail.com>; [[Corbin|Corbin]] Towner <corbintowner@icloud.com>; lmveurink@gmail.com <lmveurink@gmail.com>; smveurink@gmail.com <smveurink@gmail.com>; jmveurink08@gmail.com <jmveurink08@gmail.com>; m.l.wert@gmail.com <m.l.wert@gmail.com>; m.l.wert@gmail.com <m.l.wert@gmail.com>; heatheryounker@outlook.com <heatheryounker@outlook.com>; jason@ynkr.org <jason@ynkr.org>; heatheryounker@outlook.com <heatheryounker@outlook.com>; heatheryounker@outlook.com <heatheryounker@outlook.com>; Joseph Hickman <joeyhickman220@gmail.com>
 Subject: generators & pics!
 
 Hi team,

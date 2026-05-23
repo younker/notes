@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
 ---
 
 # ATTENTION: Completed Player Documents

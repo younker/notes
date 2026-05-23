@@ -7,7 +7,6 @@ senders:
 - no-reply@calm.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

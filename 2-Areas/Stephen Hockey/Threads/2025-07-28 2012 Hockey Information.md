@@ -8,7 +8,11 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
+contacts:
+- '[[Kurt]]'
+- '[[Jared Stumm]]'
+- '[[Amanda Athan]]'
 ---
 
 # 2012 Hockey Information
@@ -21,7 +25,7 @@ tags:
 
 Hi Jason,
 
-Kurt Schrank passed along your email to me.  I have sent your contact info
+[[Kurt|Kurt]] Schrank passed along your email to me.  I have sent your contact info
 to the 14UA and the 14UAA Black team coaches and advised if they would like
 to contact you they may.  You are correct that their rosters are set, so it
 will be up to them if they would like to reach out for more information
@@ -32,7 +36,7 @@ for that, and registration will currently be capped at 20 kids until we
 have numbers to field 2 teams.  I have copied our House VP on this email if
 you have any specific questions about the house program at GTHA.
 
-*Amanda Merchant*
+*[[Amanda Athan|Amanda]] Merchant*
 Grand Traverse Hockey Association
 Home of the Traverse City North Stars
 GTHA VP Travel
@@ -60,7 +64,7 @@ On Wed, Jul 23, 2025 at 1:15 PM Kurt Schrank <kschrank@centreice.org> wrote:
 > direction PAHA will take this fall for his age group is unclear and thus we
 > are looking into other options which offer a high level of competition. We
 > understand your rosters are set, and yet I would appreciate the opportunity
-> to chat with Jared Stumm, or perhaps one of the other coaches, to get some
+> to chat with [[Jared Stumm|Jared]] Stumm, or perhaps one of the other coaches, to get some
 > information.
 >
 > Thanks and I look forward to hearing back from you.

@@ -8,9 +8,11 @@ senders:
 type: email-thread
 tags:
 - email
-- health
 contacts:
 - '[[Jason Younker]]'
+- '[[Georgia Browne]]'
+- '[[Derek Shankland]]'
+- '[[Susan Horner]]'
 ---
 
 # The Morning: A C.D.C. about-face
@@ -60,7 +62,7 @@ Begin forwarded message:
 >
 > Other experts worried that encouraging vaccinated people not to wear masks might cause unvaccinated people to shed them too — the so-called slippery-slope argument. It is a common concern whenever health authorities lift behavior restrictions. But history suggests it is often overblown. An absolutist message often fails, Julia Marcus of Harvard Medical School has noted, especially when it urges people to take steps that do not actually protect them.
 >
-> I spoke yesterday afternoon with Senator Susan Collins — the Maine Republican who criticized the C.D.C. during a hearing this week for not hewing to the data — and she argued that the change would lead to safer behavior. “This really matters because if people don’t have confidence in the C.D.C. guidance, if they believe it is driven more by politics than science, then they are likely to disregard the C.D.C. guidelines that we should be following,” Collins said.
+> I spoke yesterday afternoon with Senator [[Susan Horner|Susan]] Collins — the Maine Republican who criticized the C.D.C. during a hearing this week for not hewing to the data — and she argued that the change would lead to safer behavior. “This really matters because if people don’t have confidence in the C.D.C. guidance, if they believe it is driven more by politics than science, then they are likely to disregard the C.D.C. guidelines that we should be following,” Collins said.
 >
 >
 > Diners in Columbia, Mo., last week.Jacob Moscovitch for The New York Times
@@ -120,7 +122,7 @@ Begin forwarded message:
 > ARTS AND IDEAS
 >
 >
-> Barry Jenkins on set in Georgia.Atsushi Nishijima/Amazon Studios
+> Barry Jenkins on set in [[Georgia Browne|Georgia]].Atsushi Nishijima/Amazon Studios
 > The making of ‘The Underground Railroad’
 > The director Barry Jenkins has crafted memorable portraits of tenderness in his films “Moonlight” and “If Beale Street Could Talk.” His new project diverges to more fraught territory — slavery, as depicted in Colson Whitehead’s Pulitzer Prize-winning 2016 novel, “The Underground Railroad.”
 >
@@ -163,7 +165,7 @@ Begin forwarded message:
 >
 > Here’s today’s print front page.
 >
-> “The Daily” is about Dogecoin. “Still Processing” is about the Derek Chauvin trial.
+> “The Daily” is about Dogecoin. “Still Processing” is about the [[Derek Shankland|Derek]] Chauvin trial.
 >
 > Claire Moses, Ian Prasad Philbrick, Tom Wright-Piersanti and Sanam Yar contributed to The Morning. You can reach the team at themorning@nytimes.com.
 >

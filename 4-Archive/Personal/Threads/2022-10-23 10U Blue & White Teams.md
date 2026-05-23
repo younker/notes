@@ -8,11 +8,17 @@ senders:
 - no-reply@mailer.sportsengine.com
 type: email-thread
 tags:
-- church
 - email
-- hockey
+- paha-org
 contacts:
 - '[[Jason Younker]]'
+- '[[Brook Fritz]]'
+- '[[Aiden]]'
+- '[[Owen]]'
+- '[[Jackson Goffinet]]'
+- '[[Judah Cook]]'
+- '[[Hunter Johnachic]]'
+- '[[Morgan Merideth]]'
 ---
 
 # 10U Blue & White Teams
@@ -37,9 +43,9 @@ Scheduler: Sarah Saddison (pahacommunications@gmail.com)
 1. David Bolin
 2. Nolan English
 3. Eion English
-4. Owen English
+4. [[Owen|Owen]] English
 5. Jameson Hoaglund
-6. Hunter Johnacheck
+6. [[Hunter Johnachic|Hunter]] Johnacheck
 7. Isla Marsh
 8. James (JR) Riehl
 9. Miller Sober
@@ -57,16 +63,16 @@ Manager: Joanne Fritz (mossberg2007@yahoo.com)
 
 1. Isaiah Case
 2. Colton Church
-3. Judah Cook
+3. [[Judah Cook|Judah]] Cook
 4. Lachlan David
 5. Angus Eggeman
-6. Brook Fritz
-7. Aiden Imbleau
+6. [[Brook Fritz|Brook]] Fritz
+7. [[Aiden|Aiden]] Imbleau
 8. Blake Kasiborski
 9. Keira Long
-10 Israel Morgan
+10 Israel [[Morgan Merideth|Morgan]]
 11. Annika Rice
-12. Jackson Saddison
+12. [[Jackson Goffinet|Jackson]] Saddison
 
 
 We are currently seeking a manager for the white team. Please reach out to Brent Bolin if interested. His email is above.

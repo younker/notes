@@ -7,8 +7,10 @@ senders:
 - rose.laxsalinas@rateins.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Younker - 234731645 - Guaranteed Rate Insurance Quotes
@@ -17,7 +19,7 @@ tags:
 
 ## 1. 2023-09-26 20:45 — rose.laxsalinas@rateins.com
 
-Hello Heather and Jason,
+Hello [[Heather Younker|Heather]] and Jason,
 I appreciate the opportunity to earn your business.
 I completed your quote and found the best overall policy is with Progressive. After you have time to review the attached quotes, feel free to give me a call so I can answer any questions you may have.
 HOME CORE COVERAGE

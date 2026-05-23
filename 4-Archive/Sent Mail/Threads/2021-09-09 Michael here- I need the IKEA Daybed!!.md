@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Kennedy Wilkinson]]'
 ---
 
 # Michael here- I need the IKEA Daybed!!
@@ -22,7 +23,7 @@ contacts:
 
 Begin forwarded message:
 
-> From: Michael Kennedy <1936b5ce5f0739f88bc4964bb24224f4@reply.craigslist.org>
+> From: Michael [[Kennedy Wilkinson|Kennedy]] <1936b5ce5f0739f88bc4964bb24224f4@reply.craigslist.org>
 > Date: September 9, 2021 at 2:24:32 PM PDT
 > To: 1936b5ce5f0739f88bc4964bb24224f4@sale.craigslist.org
 > Subject: Michael here- I need the IKEA Daybed!!

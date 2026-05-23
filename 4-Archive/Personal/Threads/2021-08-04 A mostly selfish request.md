@@ -1,12 +1,15 @@
 ---
-subject: "A mostly selfish request"
+subject: A mostly selfish request
 message_count: 1
 first: 2021-08-04
 last: 2021-08-04
 senders:
-  - jules.r.rocha@gmail.com
+- jules.r.rocha@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Victoria Louie]]'
 ---
 
 # A mostly selfish request
@@ -55,7 +58,7 @@ On Wed, Aug 4, 2021 at 4:17 PM Jason Younker <jason@ynkr.org> wrote:
 >
 > As for the team, we are all still pretty happy. Tylor ran off to another
 > team and we had 1 guy, Mark (I don’t remember if he started while you were
-> here), who came and went. Me, Victoria, Stu and Mark all still get along
+> here), who came and went. Me, [[Victoria Louie|Victoria]], Stu and Mark all still get along
 > which is good because Moz just got acquired and it has not exactly been a
 > smooth transition. My hope is that the next couple months will smooth out
 > some rough edges around the moz engineering group in general.

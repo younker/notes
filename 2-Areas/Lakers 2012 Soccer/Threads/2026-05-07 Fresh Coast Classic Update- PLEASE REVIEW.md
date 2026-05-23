@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 ---
 
 # Fresh Coast Classic Update: PLEASE REVIEW

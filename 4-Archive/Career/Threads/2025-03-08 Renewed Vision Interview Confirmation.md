@@ -7,8 +7,9 @@ senders:
 - bethany.bagwell@renewedvision.com
 type: email-thread
 tags:
-- career
 - email
+contacts:
+- '[[Bethany Hickner]]'
 ---
 
 # Renewed Vision Interview Confirmation
@@ -24,7 +25,7 @@ Thanks for submitting your availability for the Core Software Engineer | Rust po
 You're confirmed for your interview on:
 
 Date/Time: Mar 10, 2025 5:30pm-6:00pm UTC
-Interviewers: Bethany Bagwell
+Interviewers: [[Bethany Hickner|Bethany]] Bagwell
 
 Google Meet: https://meet.google.com/bgf-zkdc-pin
 

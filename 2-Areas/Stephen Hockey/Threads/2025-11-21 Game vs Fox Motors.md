@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Brandon Cook]]'
+- '[[Carson Fisher]]'
 ---
 
 # Game vs Fox Motors
@@ -26,7 +27,7 @@ Please see the attached
 
 *Subject: Re: Game vs Fox Motors*
 
-Carson’s stats was done on excel and that just means his formulation didn’t match others nearby.
+[[Carson Fisher|Carson]]’s stats was done on excel and that just means his formulation didn’t match others nearby.
 +/- is a measure of someone on the ice when your team scores (+1) or when you are on the ice when scored upon (-1)
     On Friday, November 21, 2025 at 06:01:47 PM EST, Jason Younker <jason@ynkr.org> wrote:
 

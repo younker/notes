@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 ---
 
 # Registration Status for Grand Traverse Hockey Association

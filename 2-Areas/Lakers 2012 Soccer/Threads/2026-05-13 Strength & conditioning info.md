@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Trevor Garbo]]'
 ---
@@ -30,7 +30,7 @@ On Tue, May 12, 2026 at 5:50 PM Jason Younker <jason@ynkr.org> wrote:
 >
 > Jason
 >
-> On May 12, 2026, at 12:44 PM, Trevor Garbo <tgarbo@northmen.org> wrote:
+> On May 12, 2026, at 12:44 PM, [[Trevor Garbo|Trevor]] Garbo <tgarbo@northmen.org> wrote:
 >
 > Let's meet tomorrow (5/13) at 3:30pm. I can meet you somewhere other than
 > the weight room if you'd like? I know traffic might still be hectic around

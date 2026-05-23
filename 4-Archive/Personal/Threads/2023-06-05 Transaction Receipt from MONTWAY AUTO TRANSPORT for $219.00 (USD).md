@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
 ---
 
 # Transaction Receipt from MONTWAY AUTO TRANSPORT for $219.00 (USD)

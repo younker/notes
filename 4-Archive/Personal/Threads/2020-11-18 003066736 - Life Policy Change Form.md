@@ -26,7 +26,7 @@ Please let me know if you have any questions.
 
 Best Regards,
 
-Ehrin Stumpges
+[[Ehrin Stumpges|Ehrin]] Stumpges
 COUNTRY(r) Financial
 22035 SE Wax Road, Suite 2 - Maple Valley, WA 98038
 Phone: 425-413-4580   -   Fax: 425-413-4584

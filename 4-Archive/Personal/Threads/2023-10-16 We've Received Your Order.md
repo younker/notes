@@ -7,8 +7,8 @@ senders:
 - MyAccount@spectrumemails.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 ---
 
 # We've Received Your Order

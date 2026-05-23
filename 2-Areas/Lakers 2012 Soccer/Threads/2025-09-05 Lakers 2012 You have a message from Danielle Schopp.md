@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 ---
 
 # Lakers 2012  You have a message from Danielle Schopp

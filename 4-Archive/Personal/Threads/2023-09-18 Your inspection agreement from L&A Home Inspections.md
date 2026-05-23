@@ -7,8 +7,8 @@ senders:
 - no-reply@internachi.org
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 ---
 
 # Your inspection agreement from L&A Home Inspections

@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
 ---

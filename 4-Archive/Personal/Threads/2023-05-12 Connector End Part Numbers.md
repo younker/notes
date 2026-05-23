@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+- tiffin-rv
 ---
 
 # Connector End Part Numbers

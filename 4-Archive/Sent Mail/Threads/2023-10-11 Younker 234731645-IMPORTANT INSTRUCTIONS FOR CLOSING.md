@@ -7,8 +7,8 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 contacts:
 - '[[Jason Younker]]'
 ---

@@ -8,6 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
+- job-search-2024
 ---
 
 # Thank you for applying to Airbnb!

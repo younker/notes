@@ -7,10 +7,17 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- church
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Kristin Jeffers]]'
+- '[[Emma Baxter]]'
+- '[[Shelley Wald]]'
+- '[[Christy Dorman]]'
+- '[[Jenni Attie]]'
+- '[[Bethany Hickner]]'
+- '[[Kari Skinner]]'
+- '[[Keith Van Eaton]]'
 ---
 
 # CSC Christmas Pageant! Practice THIS Sunday!
@@ -25,7 +32,7 @@ Begin forwarded message:
 
 > From: Kate Pippinger <katepippinger@gmail.com>
 > Date: December 6, 2019 at 11:22:05 AM PST
-> To: sswalley@gmail.com, Barbara Jones <bibflyer@gmail.com>, Ben Long <benblong@gmail.com>, Bethany Hickner <bleehickner@gmail.com>, Carrie Sellers <carriesellers206@gmail.com>, Christy Long <christyelong@gmail.com>, Deby Berkimer <debyberkimer@outlook.com>, Dede Knapp <dede.knapp@hotmail.com>, Dinha Moore <dinhammoore@gmail.com>, Emma Layton <PotterheadTjelleBean07@gmail.com>, erin <erin.wiley@yahoo.com>, Grace Romjue <grace.romjue@gmail.com>, Isaac Sellers <isaacsellers206@gmail.com>, Jenni Komatsu <r.komatsu@gmail.com>, Jillian Bateman <jillianbateman@gmail.com>, joanna wang <joannawang66@gmail.com>, Kari Hare <Kari@bainbridgedisposal.com>, Kathleen Wingerd <kat.wing@sbcglobal.net>, Keith Van Eaton <keithave@yahoo.com>, Kristin Dafoe <kristinsdafoe@yahoo.com>, Laura O'Connell <lauraoc@crosssound.org>, "Layton, Michelle" <layton.md@gmail.com>, Lucy Vo <tlvo@yahoo.com>, Mary Margaret Van Eaton <m_raney@hotmail.com>, Richard Saint Cyr <richardsaintcyr@gmail.com>, Sandy Halbert <sshalbert@gmail.com>, Scarlett Rockway <scarlettrockway@yahoo.com>, shannon roa <Sadelaem@yahoo.com>, Shelley s <shelley379@hotmail.com>, "Tania Scheltens (tschelts68@yahoo.com)" <tschelts68@yahoo.com>, Trina Fowl <trinafowl@gmail.com>, Trish Maguire <cpmetr@msn.com>, Vera Hemphill <verahemphill@gmail.com>, Jamie Brouwer <iwashomeschooled@hotmail.com>, cckf17@yahoo.com, Tara Voss <taravoss16@yahoo.com>, Jamie Telegin <teleginj@gmail.com>, jason@ynkr.org, Joanna <joannalivdahl@gmail.com>, Leigh's <beboba2@aol.com>, yudith.wynne@yahoo.com, Rebecca Allender <raallender@hotmail.com>, Ann Asher <asher.ann@gmail.com>
+> To: sswalley@gmail.com, Barbara Jones <bibflyer@gmail.com>, Ben Long <benblong@gmail.com>, [[Bethany Hickner|Bethany]] Hickner <bleehickner@gmail.com>, Carrie Sellers <carriesellers206@gmail.com>, [[Christy Dorman|Christy]] Long <christyelong@gmail.com>, Deby Berkimer <debyberkimer@outlook.com>, Dede Knapp <dede.knapp@hotmail.com>, Dinha Moore <dinhammoore@gmail.com>, [[Emma Baxter|Emma]] Layton <PotterheadTjelleBean07@gmail.com>, erin <erin.wiley@yahoo.com>, Grace Romjue <grace.romjue@gmail.com>, Isaac Sellers <isaacsellers206@gmail.com>, [[Jenni Attie|Jenni]] Komatsu <r.komatsu@gmail.com>, Jillian Bateman <jillianbateman@gmail.com>, joanna wang <joannawang66@gmail.com>, [[Kari Skinner|Kari]] Hare <Kari@bainbridgedisposal.com>, Kathleen Wingerd <kat.wing@sbcglobal.net>, [[Keith Van Eaton|Keith]] Van Eaton <keithave@yahoo.com>, [[Kristin Jeffers|Kristin]] Dafoe <kristinsdafoe@yahoo.com>, Laura O'Connell <lauraoc@crosssound.org>, "Layton, Michelle" <layton.md@gmail.com>, Lucy Vo <tlvo@yahoo.com>, Mary Margaret Van Eaton <m_raney@hotmail.com>, Richard Saint Cyr <richardsaintcyr@gmail.com>, Sandy Halbert <sshalbert@gmail.com>, Scarlett Rockway <scarlettrockway@yahoo.com>, shannon roa <Sadelaem@yahoo.com>, [[Shelley Wald|Shelley]] s <shelley379@hotmail.com>, "Tania Scheltens (tschelts68@yahoo.com)" <tschelts68@yahoo.com>, Trina Fowl <trinafowl@gmail.com>, Trish Maguire <cpmetr@msn.com>, Vera Hemphill <verahemphill@gmail.com>, Jamie Brouwer <iwashomeschooled@hotmail.com>, cckf17@yahoo.com, Tara Voss <taravoss16@yahoo.com>, Jamie Telegin <teleginj@gmail.com>, jason@ynkr.org, Joanna <joannalivdahl@gmail.com>, Leigh's <beboba2@aol.com>, yudith.wynne@yahoo.com, Rebecca Allender <raallender@hotmail.com>, Ann Asher <asher.ann@gmail.com>
 > Subject: CSC Christmas Pageant! Practice THIS Sunday!
 >
 > ﻿

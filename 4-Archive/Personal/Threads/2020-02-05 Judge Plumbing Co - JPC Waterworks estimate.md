@@ -8,6 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
+- kitsap-septic
 ---
 
 # Judge Plumbing Co / JPC Waterworks estimate

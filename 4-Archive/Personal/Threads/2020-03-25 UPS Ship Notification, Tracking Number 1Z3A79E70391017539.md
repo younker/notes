@@ -7,9 +7,8 @@ senders:
 - pkginfo@ups.com
 type: email-thread
 tags:
-- ship
 - email
-- hunting-outdoors
+- ship
 ---
 
 # UPS Ship Notification, Tracking Number 1Z3A79E70391017539

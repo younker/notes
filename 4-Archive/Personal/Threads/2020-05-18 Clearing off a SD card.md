@@ -18,7 +18,7 @@ contacts:
 
 ## 1. 2020-05-18 23:23 — heathergoffinet@hotmail.com
 
-Heather Younker has shared OneDrive files with you. To view them, click the links below.
+[[Heather Younker|Heather]] Younker has shared OneDrive files with you. To view them, click the links below.
 <https://1drv.ms/u/s!AsL4hItGsFOkguMDmEyokoqKQ4bDnw>
 [https://r1.res.office365.com/owa/prem/images/dc-mpg_20.png]<https://1drv.ms/u/s!AsL4hItGsFOkguMDmEyokoqKQ4bDnw>
 DSCF0030.AVI<https://1drv.ms/u/s!AsL4hItGsFOkguMDmEyokoqKQ4bDnw>

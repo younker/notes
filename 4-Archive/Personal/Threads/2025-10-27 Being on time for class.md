@@ -9,8 +9,10 @@ senders:
 type: email-thread
 tags:
 - email
+- harborlight
 contacts:
 - '[[Heather Younker]]'
+- '[[Clayton Light]]'
 ---
 
 # Being on time for class
@@ -44,7 +46,7 @@ Kelly
 
 *K**elly Dutcher*
 *Administrator at Harbor Light Christian School*
-8333 Clayton Road Harbor Springs, Mi 49740
+8333 [[Clayton Light|Clayton]] Road Harbor Springs, Mi 49740
 231-347-7859|kdutcher@harborlight.org
 ha <http://harborlightchristian.org>rborlightchristian.org
 <http://harborlightchristian.org>
@@ -61,7 +63,7 @@ Thank you for reaching out and bringing this to our attention. We did not realiz
 I called Mrs. Hopkins this morning about moving the Unexcused to Excused for 9/22 and 10/10. I will talk to her about 10/17 as well since we were running late that morning due to another student staying at our house while her family was on a college visit.
 
 We appreciate the heads up!
--Heather
+-[[Heather Younker|Heather]]
 ________________________________
 From: Kelly Dutcher <kdutcher@harborlight.org>
 Sent: Monday, October 27, 2025 4:31 PM

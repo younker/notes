@@ -7,8 +7,8 @@ senders:
 - do_not_reply@payments.intuit.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 ---
 
 # Receipt Confirmation

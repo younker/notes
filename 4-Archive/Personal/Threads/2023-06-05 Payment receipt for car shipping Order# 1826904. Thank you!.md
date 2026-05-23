@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
 ---
 
 # Payment receipt for car shipping Order# 1826904. Thank you!

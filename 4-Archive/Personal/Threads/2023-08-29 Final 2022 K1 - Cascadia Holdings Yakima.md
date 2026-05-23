@@ -7,8 +7,9 @@ senders:
 - mike@cascadiaseniorliving.com
 type: email-thread
 tags:
-- ship
+- cascadia-yakima
 - email
+- ship
 ---
 
 # Final 2022 K1 - Cascadia Holdings Yakima

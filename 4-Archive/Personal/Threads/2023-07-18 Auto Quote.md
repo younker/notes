@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- real-estate
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -24,7 +23,7 @@ contacts:
 ________________________________
 From: Jenny King <jenny@kinginsagency.com>
 Sent: Tuesday, July 18, 2023 12:04 PM
-To: Heather Younker <heatheryounker@outlook.com>
+To: [[Heather Younker|Heather]] Younker <heatheryounker@outlook.com>
 Subject: RE: Auto Quote
 
 

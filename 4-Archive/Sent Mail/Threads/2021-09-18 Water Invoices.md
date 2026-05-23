@@ -11,6 +11,8 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Heather Younker]]'
+- '[[Cheri Thurston]]'
 ---
 
 # Water Invoices
@@ -23,9 +25,9 @@ contacts:
 
 Begin forwarded message:
 
-> From: Cheri Thurston <cherit@wwmsllc.com>
+> From: [[Cheri Thurston|Cheri]] Thurston <cherit@wwmsllc.com>
 > Date: September 17, 2021 at 5:23:12 PM PDT
-> To: Jason Younker <jason@ynkr.org>, Heather Younker <heathergoffinet@hotmail.com>
+> To: Jason Younker <jason@ynkr.org>, [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>
 > Subject: Water Invoices
 >
 > ﻿

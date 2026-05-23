@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Lynn Light]]'
 ---
 
 # crash pad 5'x5' $65 Bainbridge Island
@@ -22,7 +23,7 @@ contacts:
 
 We do. I was just about to refresh the listing. Are you interested?
 
-> On Oct 23, 2021, at 7:23 AM, Lynn Knope <64da1f3dfe703c039287e8d4f0446e96@reply.craigslist.org> wrote:
+> On Oct 23, 2021, at 7:23 AM, [[Lynn Light|Lynn]] Knope <64da1f3dfe703c039287e8d4f0446e96@reply.craigslist.org> wrote:
 >
 
 ---

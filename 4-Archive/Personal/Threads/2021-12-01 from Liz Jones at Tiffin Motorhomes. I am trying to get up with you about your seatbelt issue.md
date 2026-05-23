@@ -7,9 +7,9 @@ senders:
 - liz.jones@tiffinmotorhomes.com
 type: email-thread
 tags:
-- ship
 - email
-- motorhome
+- ship
+- tiffin-rv
 ---
 
 # from Liz Jones at Tiffin Motorhomes. I am trying to get up with you about your seatbelt issue.

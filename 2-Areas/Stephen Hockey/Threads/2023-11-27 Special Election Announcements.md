@@ -8,9 +8,12 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 contacts:
 - '[[Brent Bolin]]'
+- '[[Thom Alpaugh]]'
+- '[[Henry Pfeifer]]'
+- '[[Fedor Fedorov]]'
 ---
 
 # Special Election Announcements
@@ -72,7 +75,7 @@ knowledge of any of that.) I do know that people either love or hate
 Charlie, and he has a strong personality, so while I think he is a good guy
 he may not be who we need on the board right now.
 
-Henry Pfeifer - great guy, I play with him in B League where he is one of
+[[Henry Pfeifer|Henry]] Pfeifer - great guy, I play with him in B League where he is one of
 the guys running the show. He has younger kids and I think could be great
 as someone who could get involved and stay involved for a long time.
 
@@ -140,7 +143,7 @@ with the values and goals of the board.
 was a Mite and have coached for the last 4 years. I'm just looking to share
 the sport I love and help where I can. Thank you for your consideration.
 
-*Fedor Fedorov* - I feel my experience in the sport of hockey would be
+*[[Fedor Fedorov|Fedor]] Fedorov* - I feel my experience in the sport of hockey would be
 beneficial to the parents and players of PAHA. I played professional hockey
 for 17 years before retiring to northern Michigan. I have trained 1000’s of
 players throughout my career as owner of the Fedorov Hockey Academy. The
@@ -207,7 +210,7 @@ safety issues throughout PAHA.  (I was even a Paramedic for the Motor City
 Chiefs hockey team).  I think I could be useful to the PAHA community.
 Thank you for considering me.
 
-*Dave Thom* - David Thom Jr. is a community leader and hockey enthusiast
+*Dave [[Thom Alpaugh|Thom]]* - David Thom Jr. is a community leader and hockey enthusiast
 with a background in forensic psychology and emergency management. He is
 committed to using his experience to help the Petoskey Area Hockey
 Association (PAHA) grow and become an elite hockey program. He believes

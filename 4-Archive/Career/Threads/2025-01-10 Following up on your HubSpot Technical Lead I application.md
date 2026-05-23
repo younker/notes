@@ -1,12 +1,14 @@
 ---
-subject: "Following up on your HubSpot Technical Lead I application"
+subject: Following up on your HubSpot Technical Lead I application
 message_count: 1
 first: 2025-01-10
 last: 2025-01-10
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Following up on your HubSpot Technical Lead I application

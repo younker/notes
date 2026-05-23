@@ -7,8 +7,9 @@ senders:
 - mike@cascadiaseniorliving.com
 type: email-thread
 tags:
-- ship
+- cascadia-yakima
 - email
+- ship
 ---
 
 # K1 - Assisted/Independent Living- Yakima

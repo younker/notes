@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
 ---
 
 # MHSAA: Coach invite - Petoskey

@@ -9,8 +9,10 @@ senders:
 type: email-thread
 tags:
 - email
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
+- '[[Carter]]'
 ---
 
 # 2012 Lakers/Pass Cards/Ref $
@@ -45,7 +47,7 @@ PYSA Club Director
 
 Sounds good. I will see you tomorrow.
 
-Do we have an extra (size M or L)  jersey for Carter Strong and/or info on ordering new kit?
+Do we have an extra (size M or L)  jersey for [[Carter|Carter]] Strong and/or info on ordering new kit?
  Thanks,
 Danielle
 

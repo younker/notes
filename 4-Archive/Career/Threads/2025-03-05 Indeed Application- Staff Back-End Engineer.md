@@ -1,12 +1,14 @@
 ---
-subject: "Indeed Application: Staff Back-End Engineer"
+subject: 'Indeed Application: Staff Back-End Engineer'
 message_count: 1
 first: 2025-03-05
 last: 2025-03-05
 senders:
-  - indeedapply@indeed.com
+- indeedapply@indeed.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Indeed Application: Staff Back-End Engineer

@@ -10,8 +10,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- soccer
+- petoskey-soccer
 ---
 
 # 2012 (birth year) soccer coaching opportunities

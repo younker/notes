@@ -1,12 +1,14 @@
 ---
-subject: "Your Hopper Application"
+subject: Your Hopper Application
 message_count: 1
 first: 2025-01-27
 last: 2025-01-27
 senders:
-  - no-reply@hire.lever.co
+- no-reply@hire.lever.co
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Your Hopper Application

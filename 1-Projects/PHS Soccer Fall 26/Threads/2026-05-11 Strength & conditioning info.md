@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Trevor Garbo]]'
 ---
@@ -43,7 +43,7 @@ On Mon, May 11, 2026 at 9:25 AM Jason Younker <jason@ynkr.org> wrote:
 
 --
 Thank you,
-Trevor Garbo, C.S.C.S
+[[Trevor Garbo|Trevor]] Garbo, C.S.C.S
 
 Go Northmen!
 

@@ -8,8 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- soccer
+- paha-org
 ---
 
 # Open Board Position

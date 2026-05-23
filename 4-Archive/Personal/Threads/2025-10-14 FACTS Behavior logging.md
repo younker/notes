@@ -8,9 +8,11 @@ senders:
 type: email-thread
 tags:
 - email
-- school
+- harborlight
 contacts:
 - '[[Heather Younker]]'
+- '[[Clayton Light]]'
+- '[[Lisa Veurink]]'
 ---
 
 # FACTS Behavior logging
@@ -24,13 +26,13 @@ contacts:
 ________________________________
 From: Kelly Dutcher <kdutcher@harborlight.org>
 Sent: Tuesday, October 14, 2025 9:28 AM
-To: Heather Younker <heatheryounker@outlook.com>
+To: [[Heather Younker|Heather]] Younker <heatheryounker@outlook.com>
 Subject: Re: FACTS Behavior logging
 
 Hi Heather!
 Thanks for reaching out.
 We ask staff any time they need to reach out to parents to take a note of it and record it in FACTS.
-A timeline for when things are logged hasn't been established - just as soon as you are able. The only staff that has access to an individual student should be their teachers and administration (Me, Erin, Lisa.)
+A timeline for when things are logged hasn't been established - just as soon as you are able. The only staff that has access to an individual student should be their teachers and administration (Me, Erin, [[Lisa Veurink|Lisa]].)
 
 Let me know if you have any other questions!
 Kelly
@@ -45,7 +47,7 @@ Hope you have a great day!
 
 Kelly Dutcher
 Administrator at Harbor Light Christian School
-8333 Clayton Road Harbor Springs, Mi 49740
+8333 [[Clayton Light|Clayton]] Road Harbor Springs, Mi 49740
 231-347-7859|kdutcher@harborlight.org<mailto:kdutcher@harborlight.org>
 ha<http://harborlightchristian.org/>rborlightchristian.org<http://harborlightchristian.org/>
 [https://ci3.googleusercontent.com/mail-sig/AIorK4zpT_3QDxZ93umOxEo7c4bEJsmIn5ElRZGdvGMlZ2DrJDJReaJMkMf7E3YlXenEH9QI732NCuIJPRKx]

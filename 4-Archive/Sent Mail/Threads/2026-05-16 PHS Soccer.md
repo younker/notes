@@ -8,10 +8,11 @@ senders:
 type: email-thread
 tags:
 - email
-- school
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Jason Younker]]'
+- '[[Zach Jonker]]'
+- '[[Noah Honaker]]'
 ---
 
 # PHS Soccer
@@ -40,9 +41,9 @@ Jason
 > ﻿
 > Hi Jason,
 >
-> My name is John Lennon. I'm the girls varsity coach at PHS. Congrats on the boys varsity position! The programs have always shared gear and worked together in the past, and I would love to keep that tradition alive. Please reach out if there's anything at all you need as you get started with the boys this fall. I coached both the boys and girls JV programs here with Zach Jonker for close to a decade before I took over the girls program, and I am more than happy to help out.
+> My name is John Lennon. I'm the girls varsity coach at PHS. Congrats on the boys varsity position! The programs have always shared gear and worked together in the past, and I would love to keep that tradition alive. Please reach out if there's anything at all you need as you get started with the boys this fall. I coached both the boys and girls JV programs here with [[Zach Jonker|Zach]] Jonker for close to a decade before I took over the girls program, and I am more than happy to help out.
 >
-> I will be putting together a summer open field plan for the girls program, and I'd love to coordinate with you if you're interested in chatting. I'm also looking at replacing and fixing a lot of our gear over the summer with the funds that we have. I plan on doing an inventory before school is out. I'm sure Noah Honaker, the most recent boys coach, has some more information for you, but last I checked we were both tied to the same boosters bank account at First Community Bank. Again, happy to help coordinate anything you need as you take over the program. I'm a teacher at the high school, and I'm also happy to let you use my class for meetings or film when it works out.
+> I will be putting together a summer open field plan for the girls program, and I'd love to coordinate with you if you're interested in chatting. I'm also looking at replacing and fixing a lot of our gear over the summer with the funds that we have. I plan on doing an inventory before school is out. I'm sure [[Noah Honaker|Noah]] Honaker, the most recent boys coach, has some more information for you, but last I checked we were both tied to the same boosters bank account at First Community Bank. Again, happy to help coordinate anything you need as you take over the program. I'm a teacher at the high school, and I'm also happy to let you use my class for meetings or film when it works out.
 >
 > Looking forward to meeting you, and good luck as things get rolling over the summer! My number is 9893700751 if you need anything as well.
 >

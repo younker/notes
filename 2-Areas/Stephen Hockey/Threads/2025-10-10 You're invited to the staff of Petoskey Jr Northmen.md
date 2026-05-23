@@ -8,8 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- soccer
+- petoskey-soccer
 ---
 
 # You're invited to the staff of Petoskey Jr Northmen

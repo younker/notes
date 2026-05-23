@@ -8,6 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
+- job-search-2024
 ---
 
 # Your application to Senior Software Engineer, Trust at Airbnb

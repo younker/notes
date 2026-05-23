@@ -10,7 +10,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Brian Kasiborski]]'
 - '[[Brent Bolin]]'

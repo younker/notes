@@ -8,7 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
+contacts:
+- '[[Doug Hughes]]'
 ---
 
 # February 19th Clinic
@@ -20,7 +22,7 @@ tags:
 February 19th Ferris State Clinic
 
 Good Morning, PAHA Families-
-Please view the attached flyer for information on a Ferris State Hockey Clinic opportunity for our players. The clinic will take place on Wednesday, February 19th from 6:15-7pm (at Petoskey  Ice Arena).  Players are invited to watch Ferris State's practice beforehand from 5-6:15pm.  This is a free event and no sign-up is needed.  If you have any questions, please contact Doug Nowels or Katie Connolly (info. is on their flyer).
+Please view the attached flyer for information on a Ferris State Hockey Clinic opportunity for our players. The clinic will take place on Wednesday, February 19th from 6:15-7pm (at Petoskey  Ice Arena).  Players are invited to watch Ferris State's practice beforehand from 5-6:15pm.  This is a free event and no sign-up is needed.  If you have any questions, please contact [[Doug Hughes|Doug]] Nowels or Katie Connolly (info. is on their flyer).
 
 Have a great day!
 

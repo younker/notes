@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+- tiffin-rv
 ---
 
 # Tiffin Allegro Red 48KA -- VIN last 4: NN7994 -- part 4

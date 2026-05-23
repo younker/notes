@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Rory Light]]'
 ---
 
 # SportsArt 1200 Treadmill
@@ -20,7 +21,7 @@ contacts:
 
 *Subject: Re: SportsArt 1200 Treadmill*
 
-Hello Rory. Yes, it is available. Pick up tomorrow will work. What time? We have a couple of deliveries (rock, mulch) and so access to the garage could be tricky, but we can make it work.
+Hello [[Rory Light|Rory]]. Yes, it is available. Pick up tomorrow will work. What time? We have a couple of deliveries (rock, mulch) and so access to the garage could be tricky, but we can make it work.
 
 Feel free to text me as I am usually more responsive. 206.795.4418
 

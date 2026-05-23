@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -48,7 +47,7 @@ Jason Younker
 ________________________________
 From: Jason Younker <jason@ynkr.org>
 Sent: Friday, May 30, 2025 11:14 AM
-To: Heather Younker <heathergoffinet@hotmail.com>
+To: [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>
 Subject: Yesterday's Slap Challenge
 
 Thoughts?

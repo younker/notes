@@ -7,8 +7,8 @@ senders:
 - adam.bennett@jobot.com
 type: email-thread
 tags:
-- career
 - email
+- job-search-2024
 ---
 
 # Jobot has reviewed and submitted your profile for Lead software

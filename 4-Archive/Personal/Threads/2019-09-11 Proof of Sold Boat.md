@@ -1,12 +1,15 @@
 ---
-subject: "Proof of Sold Boat"
+subject: Proof of Sold Boat
 message_count: 1
 first: 2019-09-11
 last: 2019-09-11
 senders:
-  - CustomerCare@DOL.WA.GOV
+- CustomerCare@DOL.WA.GOV
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Martin Anderson]]'
 ---
 
 # Proof of Sold Boat
@@ -49,7 +52,7 @@ Subject: Proof of Sold Boat
 
 Hello,
 
-On August 7 2018, I (Jason Younker) transferred the title of a boat I owned to the new owner (Martin Anderson). We were just asked for proof of that transfer and I cannot find anything. How can I go about getting proof of that transfer of ownership?
+On August 7 2018, I (Jason Younker) transferred the title of a boat I owned to the new owner ([[Martin Anderson|Martin]] Anderson). We were just asked for proof of that transfer and I cannot find anything. How can I go about getting proof of that transfer of ownership?
 
 Thank you.
 

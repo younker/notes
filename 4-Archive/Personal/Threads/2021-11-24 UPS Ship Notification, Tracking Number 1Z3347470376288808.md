@@ -7,9 +7,9 @@ senders:
 - pkginfo@ups.com
 type: email-thread
 tags:
-- ship
 - email
-- motorhome
+- ship
+- tiffin-rv
 ---
 
 # UPS Ship Notification, Tracking Number 1Z3347470376288808

@@ -1,13 +1,14 @@
 ---
-subject: "Thank You For Considering Kelly - 11870 - Software Engineer, Talent
- Applications - Virtual in Eastern or Central Time Zone"
+subject: Thank You For Considering Kelly - 11870 - Software Engineer, Talent Applications - Virtual in Eastern or Central Time Zone
 message_count: 1
 first: 2025-03-27
 last: 2025-03-27
 senders:
-  - globalta@kellyservices.com
+- globalta@kellyservices.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thank You For Considering Kelly - 11870 - Software Engineer, Talent

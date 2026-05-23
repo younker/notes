@@ -7,7 +7,6 @@ senders:
 - sarah.paulson@podium.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

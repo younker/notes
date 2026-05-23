@@ -8,9 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Heather Younker]]'
+- '[[Brad Friedman]]'
 ---
 
 # Phantoms Camp Schedule
@@ -36,7 +36,7 @@ Our 2025 Coaching Staff Includes:
 
   *   Justin Demartino – Assistant Coach, Ferris State University (Former Fox Coach, and Head of Development TPH Grand Rapids)
 
-  *   Brad Fast – Assistant Coach, Michigan State University (Head of Skill Development)
+  *   [[Brad Friedman|Brad]] Fast – Assistant Coach, Michigan State University (Head of Skill Development)
 
   *   Greg Wolfe – Assistant Coach, USNTDP (Head ofSkill Development)
 

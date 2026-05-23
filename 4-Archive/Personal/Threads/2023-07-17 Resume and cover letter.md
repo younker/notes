@@ -7,8 +7,8 @@ senders:
 - christopherdelgado1@gmail.com
 type: email-thread
 tags:
-- career
 - email
+- job-search-2024
 ---
 
 # Resume and cover letter

@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
 ---
 
 # NMFC POSITION OFFER - NMFC 2012B

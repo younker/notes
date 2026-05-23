@@ -1,12 +1,14 @@
 ---
-subject: "Thanks for your interest in Honor"
+subject: Thanks for your interest in Honor
 message_count: 1
 first: 2025-01-13
 last: 2025-01-13
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thanks for your interest in Honor

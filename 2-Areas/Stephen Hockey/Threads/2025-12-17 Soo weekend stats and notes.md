@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Brandon Cook]]'
+- '[[Judah Cook]]'
 ---
 
 # Soo weekend stats and notes
@@ -40,7 +41,7 @@ A few notes:
 
 3 – 3 of the 7 goals they scored were from a feed frombehind the goal line.  They had manyother great opportunities too.
 
--         We largely gave up the space behind our own net andcorners and had many turnovers in the process of avoiding getting hit while retrievingthe puck from behind the goal line (Judah was particularly guilty of this)
+-         We largely gave up the space behind our own net andcorners and had many turnovers in the process of avoiding getting hit while retrievingthe puck from behind the goal line ([[Judah Cook|Judah]] was particularly guilty of this)
 
 -         There is confusion between the center and defensemenwhen the Soo had a player behind the goal line as to who should attack thatplayer, when they did, and who should cover the front of the goal
 

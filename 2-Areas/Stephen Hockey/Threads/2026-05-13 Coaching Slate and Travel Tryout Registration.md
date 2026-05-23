@@ -8,7 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+contacts:
+- '[[Jared Stumm]]'
+- '[[Jacek]]'
 ---
 
 # Coaching Slate and Travel Tryout Registration
@@ -21,7 +23,7 @@ Message from Grand Traverse Hockey Association
 
 
 <p><b>Congratulations to the following Girls Tier 2 and Travel Coaches on their head coach selection:</b></p>
-<p>Girls 10U&nbsp;Tier 2: Jacek Wilk</p>
+<p>Girls 10U&nbsp;Tier 2: [[Jacek|Jacek]] Wilk</p>
 <p>Girls 12U Tier 2: Andrew Elliott</p>
 <p>Girls 14U Tier 2:&nbsp; Jim Feeley</p>
 <p>Girls 14U Tier 2: Matt Friess</p>
@@ -30,7 +32,7 @@ Message from Grand Traverse Hockey Association
 <p>12UA:&nbsp; Jason Clark</p>
 <p>12UAA:&nbsp; Jason Basile</p>
 <p>14UA:&nbsp; Eric Mac Intyre</p>
-<p>14UAA:&nbsp; Jared Stumm</p>
+<p>14UAA:&nbsp; [[Jared Stumm|Jared]] Stumm</p>
 <p>16UA:&nbsp; Brooks Holland*</p>
 <p>JV:&nbsp; Brandon Fewins</p>
 <p><i>*10UA and 16UA pending team approval</i></p>

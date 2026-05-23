@@ -7,8 +7,9 @@ senders:
 - investor.relations@cascadiaseniorliving.com
 type: email-thread
 tags:
-- ship
+- cascadia-yakima
 - email
+- ship
 ---
 
 # Draft K1 - 2022 - Cascadia Holdings Yakima

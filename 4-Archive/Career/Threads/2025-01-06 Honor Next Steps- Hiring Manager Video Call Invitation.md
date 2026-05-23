@@ -7,7 +7,6 @@ senders:
 - charlie.bowers@joinhonor.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

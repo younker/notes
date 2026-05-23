@@ -8,7 +8,11 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+contacts:
+- '[[Luke LaRiviere]]'
+- '[[Corey Thomas]]'
+- '[[Lynn Light]]'
+- '[[Kiley Graham]]'
 ---
 
 # 5th - 8th Grade Roster
@@ -17,7 +21,7 @@ tags:
 
 ## 1. 2023-09-01 19:33 — furgeso2@msu.edu
 
-Thank you for volunteering to coach one of the 5th - 8th  Grade soccer teams.  Attached is the roster.  Teresa & Corey will be there on Tuesday to hand out your coach's packet.
+Thank you for volunteering to coach one of the 5th - 8th  Grade soccer teams.  Attached is the roster.  Teresa & [[Corey Thomas|Corey]] will be there on Tuesday to hand out your coach's packet.
 
 If you have any questions, please contact Teresa at 231-340-0995 or the office at 231-582-6232
 
@@ -247,13 +251,13 @@ Daniel Wellert          Therese Paga
 Bradley Wellert         Polly Vallance
 Molli Wellert           Cassidy LaBeth
 Alyssa Reynolds         Lila Bradley
-Emily Younker           Kiley Harwell
+Emily Younker           [[Kiley Graham|Kiley]] Harwell
 Violet Booher           Beckett Delcamp
 Isaac Wasylewski                Ernest Sanchez
-Josh Wasylewski         Tucker Lynn
+Josh Wasylewski         Tucker [[Lynn Light|Lynn]]
 Simon Paga              Jack Craw
 Matthew Mason           Richard Fame
-Gabe Mason              Luke Detcher
+Gabe Mason              [[Luke LaRiviere|Luke]] Detcher
 Stephen Younker         CJ Coblentz Jr.
 Oliver Drenth
 

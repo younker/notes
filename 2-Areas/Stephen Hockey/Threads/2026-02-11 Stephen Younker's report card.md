@@ -8,8 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- school
+- paha-org
+contacts:
+- '[[Emma Baxter]]'
 ---
 
 # Stephen Younker's report card
@@ -22,7 +23,7 @@ tags:
 
 This works! Thank you!
 
-Emma Tuthill
+[[Emma Baxter|Emma]] Tuthill
 PAHA Secretary & Communications Officer
 
 Petoskey Area Hockey Association

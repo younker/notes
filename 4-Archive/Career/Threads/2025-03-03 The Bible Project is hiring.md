@@ -7,7 +7,6 @@ senders:
 - heathergoffinet@hotmail.com
 type: email-thread
 tags:
-- church
 - email
 contacts:
 - '[[Heather Younker]]'

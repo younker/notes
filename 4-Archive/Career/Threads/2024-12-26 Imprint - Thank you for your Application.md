@@ -1,12 +1,14 @@
 ---
-subject: "Imprint | Thank you for your Application"
+subject: Imprint | Thank you for your Application
 message_count: 1
 first: 2024-12-26
 last: 2024-12-26
 senders:
-  - no-reply@ashbyhq.com
+- no-reply@ashbyhq.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Imprint | Thank you for your Application

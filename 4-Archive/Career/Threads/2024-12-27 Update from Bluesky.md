@@ -1,12 +1,14 @@
 ---
-subject: "Update from Bluesky"
+subject: Update from Bluesky
 message_count: 1
 first: 2024-12-27
 last: 2024-12-27
 senders:
-  - no-reply@appreview.gem.com
+- no-reply@appreview.gem.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Update from Bluesky

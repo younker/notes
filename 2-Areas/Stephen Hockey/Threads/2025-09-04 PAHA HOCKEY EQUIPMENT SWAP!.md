@@ -8,7 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
+contacts:
+- '[[Doug Hughes]]'
+- '[[Emma Baxter]]'
 ---
 
 # PAHA HOCKEY EQUIPMENT SWAP!
@@ -34,10 +37,10 @@ Every piece makes a difference!
 
 Stick & Puck will be open to current PAHA players
 
-Questions on equipment? Contact Doug Nowels at dnowels@reopetoskey.com or
+Questions on equipment? Contact [[Doug Hughes|Doug]] Nowels at dnowels@reopetoskey.com or
 pahacommunications@gmail.com
 --
-Emma Tuthill
+[[Emma Baxter|Emma]] Tuthill
 PAHA Secretary & Communications Officer
 
 Petoskey Area Hockey Association

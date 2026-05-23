@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 ---
 
 # [Petoskey Bantam] Bantam parent meeting March 9, 7pm

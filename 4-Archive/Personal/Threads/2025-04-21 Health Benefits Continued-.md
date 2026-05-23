@@ -7,10 +7,11 @@ senders:
 - benefits@ziffdavis.com
 type: email-thread
 tags:
-- career
+- 720-jennings
 - email
-- health
-- real-estate
+- moz
+contacts:
+- '[[Alicia Fettig]]'
 ---
 
 # Health Benefits Continued?
@@ -21,7 +22,7 @@ tags:
 
 *Subject: Fwd: Re: Health Benefits Continued?*
 
-Hi Jason,     Is this still your correct address?  Stephen Younker &amp; Family321 High School Road Northeast D3 #395Bainbridge Island, WA 98110     Your COBRA Specific Rights letter went out to you on 4/7 and the Subsidy Letter went out on 4/8, so you should have received it by now.  I have attached copies.     In order to receive your continued coverage and subsidy, you must register for COBRA.  The registration instructions on in the letter.  Once you register, it can take up to 15 days for you to be in the Cigna system. If you need your prescription before then, please let me know after you complete your COBRA registration and I can ask Cigna to manually enroll you (effective date 4/1/25).     Thanks,  Alicia      On Mon, Apr 21 2:06 PM , Ingrid &lt;ingrid.galvis@moz.com&gt; wrote:   Hello Jason,     Did you receive your COBRA packet in the mail? I&#39;m looping in +ZD Benefits Team for further assistance here.        Warm Regards,  Ingrid --     Ingrid Galvis Hentschel HR Generalist                On Mon, Apr 21, 2025 at 11:49 AM jason@ynkr.org &lt;jason@ynkr.org&gt; wrote:      Hello Ingrid,     After having a prescription claim denied, I went into cigna and found that we are not currently covered by my Moz cigna plan. It says it ended 3/31. My understanding was that we would be covered for the duration of the payout period unless we enrolled in another plan. Can you please help me understand this as I cannot afford to not be covered!      Thank you.     Jason Younker
+Hi Jason,     Is this still your correct address?  Stephen Younker &amp; Family321 High School Road Northeast D3 #395Bainbridge Island, WA 98110     Your COBRA Specific Rights letter went out to you on 4/7 and the Subsidy Letter went out on 4/8, so you should have received it by now.  I have attached copies.     In order to receive your continued coverage and subsidy, you must register for COBRA.  The registration instructions on in the letter.  Once you register, it can take up to 15 days for you to be in the Cigna system. If you need your prescription before then, please let me know after you complete your COBRA registration and I can ask Cigna to manually enroll you (effective date 4/1/25).     Thanks,  [[Alicia Fettig|Alicia]]      On Mon, Apr 21 2:06 PM , Ingrid &lt;ingrid.galvis@moz.com&gt; wrote:   Hello Jason,     Did you receive your COBRA packet in the mail? I&#39;m looping in +ZD Benefits Team for further assistance here.        Warm Regards,  Ingrid --     Ingrid Galvis Hentschel HR Generalist                On Mon, Apr 21, 2025 at 11:49 AM jason@ynkr.org &lt;jason@ynkr.org&gt; wrote:      Hello Ingrid,     After having a prescription claim denied, I went into cigna and found that we are not currently covered by my Moz cigna plan. It says it ended 3/31. My understanding was that we would be covered for the duration of the payout period unless we enrolled in another plan. Can you please help me understand this as I cannot afford to not be covered!      Thank you.     Jason Younker
 
 
 --

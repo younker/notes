@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to Upbound - Job Posting"
+subject: Thank you for applying to Upbound - Job Posting
 message_count: 1
 first: 2024-12-30
 last: 2024-12-30
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thank you for applying to Upbound - Job Posting

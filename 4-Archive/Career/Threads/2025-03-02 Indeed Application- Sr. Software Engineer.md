@@ -1,12 +1,14 @@
 ---
-subject: "Indeed Application: Sr. Software Engineer"
+subject: 'Indeed Application: Sr. Software Engineer'
 message_count: 1
 first: 2025-03-02
 last: 2025-03-02
 senders:
-  - indeedapply@indeed.com
+- indeedapply@indeed.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Indeed Application: Sr. Software Engineer

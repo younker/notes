@@ -7,8 +7,10 @@ senders:
 - ryan@viewpointcapitalllc.com
 type: email-thread
 tags:
-- career
 - email
+- moz
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Contact & Info
@@ -184,7 +186,7 @@ Jason Younker
 
 *Subject: RE: Contact & Info*
 
-Hi Jason and Heather,
+Hi Jason and [[Heather Younker|Heather]],
 
 As promised, attached are the documents to get us started.
 

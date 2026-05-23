@@ -8,9 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Jason Younker]]'
+- '[[Kassie Kennaugh]]'
 ---
 
 # Canada room block
@@ -21,7 +21,7 @@ contacts:
 
 *Subject: Re: Canada room block*
 
-Hey guys!Great job this weekend. It’s tough missing hockey weekends, and this one seemed especially fun. I’m fine with anything and will happily help research, coordinate or whatever is needed. Just let me know what is needed and I’ll get on it when I get back. Having said that, my preference would be to go smaller this year. Falls view was fun but it felt like too much of just about everything. But again, I’m up for whatever and just wanted to share that opinion. Let me know how I can help. See you guys this weekend. Jason On Nov 25, 2025, at 6:52 AM, Brian Kasiborski <bkasiborski@gmail.com> wrote:﻿Guys, The falls view is great, and I would enjoy that again too, I think parking should be a consideration, and all other things being equal, I am a Hilton guy so would prefer one of those properties.  I didn't mind being "downtown" and close to the action, I think that is part of the fun for the kids and families.I am happy to do some research or explore the list of options if that would be helpful.Thanks, Brian On Mon, Nov 24, 2025 at 3:54 PM Chris Firman <cfirman16@gmail.com> wrote:Kassie is more than willing to help set this up. Sheraton Fallsview is unavailable. Which hotel do you guys like? I did rather enjoy the falls view. Would not be disappointed to be away from "downtown" this time.https://app.eventpipe.com/event/259b3d7e-e566-48ae-91ba-33a1d6e06ec0/search/?NumberOfRooms=10&CheckinDate=2026-01-08&CheckoutDate=2026-01-10&externalID=39401Chris FirmanFirman Electric inc.Cell: 231-838-0178Chris@firmanelectric.comwww.Firmanelectric.com
+Hey guys!Great job this weekend. It’s tough missing hockey weekends, and this one seemed especially fun. I’m fine with anything and will happily help research, coordinate or whatever is needed. Just let me know what is needed and I’ll get on it when I get back. Having said that, my preference would be to go smaller this year. Falls view was fun but it felt like too much of just about everything. But again, I’m up for whatever and just wanted to share that opinion. Let me know how I can help. See you guys this weekend. Jason On Nov 25, 2025, at 6:52 AM, Brian Kasiborski <bkasiborski@gmail.com> wrote:﻿Guys, The falls view is great, and I would enjoy that again too, I think parking should be a consideration, and all other things being equal, I am a Hilton guy so would prefer one of those properties.  I didn't mind being "downtown" and close to the action, I think that is part of the fun for the kids and families.I am happy to do some research or explore the list of options if that would be helpful.Thanks, Brian On Mon, Nov 24, 2025 at 3:54 PM Chris Firman <cfirman16@gmail.com> wrote:[[Kassie Kennaugh|Kassie]] is more than willing to help set this up. Sheraton Fallsview is unavailable. Which hotel do you guys like? I did rather enjoy the falls view. Would not be disappointed to be away from "downtown" this time.https://app.eventpipe.com/event/259b3d7e-e566-48ae-91ba-33a1d6e06ec0/search/?NumberOfRooms=10&CheckinDate=2026-01-08&CheckoutDate=2026-01-10&externalID=39401Chris FirmanFirman Electric inc.Cell: 231-838-0178Chris@firmanelectric.comwww.Firmanelectric.com
 
 ---
 

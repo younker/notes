@@ -1,12 +1,14 @@
 ---
-subject: "Tarro | Application Received"
+subject: Tarro | Application Received
 message_count: 1
 first: 2025-01-17
 last: 2025-01-17
 senders:
-  - no-reply@ashbyhq.com
+- no-reply@ashbyhq.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Tarro | Application Received

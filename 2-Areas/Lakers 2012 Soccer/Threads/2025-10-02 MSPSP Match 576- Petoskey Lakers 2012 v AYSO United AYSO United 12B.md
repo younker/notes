@@ -10,9 +10,10 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
+- '[[Owen]]'
 ---
 
 # MSPSP Match 576: Petoskey Lakers 2012 v AYSO United AYSO United 12B
@@ -88,7 +89,7 @@ wrote:
 
 We can do 11AM that day!
 
-On Thu, Oct 2, 2025 at 12:13 PM Wyatt Owen <wyattrowen1008@gmail.com> wrote:
+On Thu, Oct 2, 2025 at 12:13 PM Wyatt [[Owen|Owen]] <wyattrowen1008@gmail.com> wrote:
 
 > Hello!
 >

@@ -7,9 +7,8 @@ senders:
 - ryan.kilroy@jobot.com
 type: email-thread
 tags:
-- career
 - email
-- school
+- job-search-2024
 ---
 
 # Jobot has reviewed and submitted your profile for Software

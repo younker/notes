@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Kennedy Wilkinson]]'
 ---
 
 # PS Mchael I can take the chair too! IKEA Daybed
@@ -22,7 +23,7 @@ contacts:
 
 Begin forwarded message:
 
-> From: Michael Kennedy <ab900799edd339ebacd373872ccb38a0@reply.craigslist.org>
+> From: Michael [[Kennedy Wilkinson|Kennedy]] <ab900799edd339ebacd373872ccb38a0@reply.craigslist.org>
 > Date: September 9, 2021 at 2:29:57 PM PDT
 > To: ab900799edd339ebacd373872ccb38a0@sale.craigslist.org
 > Subject: PS Mchael I can take the chair too! IKEA Daybed

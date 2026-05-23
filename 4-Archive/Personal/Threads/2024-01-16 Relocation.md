@@ -8,8 +8,11 @@ senders:
 - erika.guzman@ziffdavis.com
 type: email-thread
 tags:
-- career
 - email
+- moz
+contacts:
+- '[[Erika Spearing]]'
+- '[[Susan Horner]]'
 ---
 
 # Relocation
@@ -18,10 +21,10 @@ tags:
 
 ## 1. 2024-01-16 13:26 — annette.hernandez@j2.com
 
-Thanks Susan.
+Thanks [[Susan Horner|Susan]].
 
 
-@Erika – I just approved the change.  Please provide Jason with new Tax
+@[[Erika Spearing|Erika]] – I just approved the change.  Please provide Jason with new Tax
 forms for Michigan.
 
 

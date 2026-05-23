@@ -8,6 +8,16 @@ senders:
 type: email-thread
 tags:
 - email
+contacts:
+- '[[Janet Manthei]]'
+- '[[Marie Pence]]'
+- '[[Dylan]]'
+- '[[Allen Fleishel]]'
+- '[[Henry Pfeifer]]'
+- '[[William Gilliland]]'
+- '[[Karl Dights]]'
+- '[[Thomas McElroy]]'
+- '[[Corey Thomas]]'
 ---
 
 # Famous last words
@@ -134,7 +144,7 @@ none of our work is good enough.
 
 "Go on, get out! Last words are for fools who haven't said
 enough!"
-—Karl Marx
+—[[Karl Dights|Karl]] Marx
 
 That's Karl Marx: a funny, lighthearted guy from start to finish.
 
@@ -147,7 +157,7 @@ probably did think he was immortal. But whether it was ironic or
 sincere, his last words packed punch.
 
 "We are all going."
-—President William McKinley
+—President [[William Gilliland|William]] McKinley
 
 The third American president to be assassinated, McKinley was
 reportedly responding to his wife, who exclaimed as he died: "I
@@ -159,27 +169,27 @@ want to go too! I want to go too!"
 Makes sense, I can't imagine Churchill leaving otherwise.
 
 "Pardon me sir. I did not mean to do it."
-—Marie Antoinette
+—[[Marie Pence|Marie]] Antoinette
 
 The French queen supposedly said this to one of her executioners
 on her way to the guillotine. She'd stepped on his foot by
 accident, or so they say.
 
-"I love you, Janet."
+"I love you, [[Janet Manthei|Janet]]."
 —Isaac Asmiov
 
 Asimov prophesied that his last words would reflect his devotion
 to his wifeand they reportedly were.
 
 "I die the king's faithful servant, but God's first."
-—St. Thomas More
+—St. [[Thomas McElroy|Thomas]] More
 
 Short version: More was an English lawyer who refused to sign off
-on English King Henry VIII's divorce, and he wound up convicted
+on English King [[Henry Pfeifer|Henry]] VIII's divorce, and he wound up convicted
 of treason and executed as a result.
 
 "More weight."
-—Giles Corey
+—Giles [[Corey Thomas|Corey]]
 
 Corey, accused of witchcraft in Salem, Mass. in 1692, was pressed
 to death, meaning he was stretched naked while his oppressors
@@ -211,7 +221,7 @@ flights in gliders before one of his designs stalled 50 feet in
 the air and crashed. He ultimately died of his injuries.
 
 "I've had 18 straight whiskies; I think that's the record."
-—Dylan Thomas
+—[[Dylan|Dylan]] Thomas
 
 Okay, this isn't exactly inspiring; maybe it's funny in a black
 humor sort of way. But it is memorable, and it's also our hook to
@@ -287,7 +297,7 @@ network MSNBC for having “broken people’s lives.” (Mediate (
 https://click.convertkit-mail.com/lmunkeq8rzsmh0pp5qgc6h8lwm000bg/owhkhqhr2pzrv0sv/aHR0cHM6Ly93d3cubWVkaWFpdGUuY29tL3R2L3lvdS1wZW9wbGUtc3Vjay1iYW5ub24tdm93cy1kb2otYW5kLWZiaS13aWxsLXBheS10aGUtcHJpY2Utd2hlbi10cnVtcC1yZS10YWtlcy1vZmZpY2UvP2xjdGc9cjNuZWs1cDQ=
 ))
 
-Thanks for reading. Photo credit: Photo by Allen Taylor on
+Thanks for reading. Photo credit: Photo by [[Allen Fleishel|Allen]] Taylor on
 Unsplash. I wrote about some of this before at Inc.com (
 https://click.convertkit-mail.com/lmunkeq8rzsmh0pp5qgc6h8lwm000bg/z2hghnh3qng3vzap/aHR0cHM6Ly93d3cuaW5jLmNvbS9iaWxsLW11cnBoeS1qci8xNy1pbnNwaXJpbmctbGFzdC13b3Jkcy1mcm9tLXN0ZXZlLWpvYnMtYW5kLW90aGVyLWdyZWF0LXBlb3BsZS13aG8tYXJlLWN1cnJlbnRseS5odG1sP2xjdGc9cjNuZWs1cDQ=
 ). See you in the comments!

@@ -8,9 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Heather Younker]]'
+- '[[Karl Dights]]'
 ---
 
 # Stephen’s camp - Grand Rapids Aug 8-10
@@ -33,7 +33,7 @@ Coaches and Scouts Attending:
 
 Ryan Kosoecki, Youngstown Phantoms General Manager
 
-Karl Linden, Youngstown Phantoms Skills and Development Coach
+[[Karl Dights|Karl]] Linden, Youngstown Phantoms Skills and Development Coach
 
 NCAA D1 Coach
 

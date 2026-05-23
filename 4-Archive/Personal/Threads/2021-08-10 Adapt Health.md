@@ -8,6 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
+contacts:
+- '[[Morgan Merideth]]'
+- '[[Nicole Stone]]'
+- '[[Jonas Adams]]'
 ---
 
 # Adapt Health
@@ -31,13 +35,13 @@ Additional Information: Michael Gomez (Yakima RCS) attempted to reach the patien
 
 7/7/2021        7/7/2021 9:58:45 AM     Go, Jeanne (IP-Asset Recovery)  ESCALATION REVIEW : emailed Stef to address this concern to the scheduling/RT team . Signed delivery ticket/set up already uploaded on the account in May.
 7/13/2021       7/13/2021 2:20:24 PM    Pippin, Jessica 7/13/2021 JP got pt over to AR to assist with the current escalation
-7/13/2021       7/13/2021 2:40:35 PM    Salazar, Jonas (IP-Asset Recovery)      206-795-4418 - educate- bill still suspended - - account escalated - we are waiting for update - - he will cb monday - eoc
+7/13/2021       7/13/2021 2:40:35 PM    Salazar, [[Jonas Adams|Jonas]] (IP-Asset Recovery)      206-795-4418 - educate- bill still suspended - - account escalated - we are waiting for update - - he will cb monday - eoc
 7/13/2021       7/13/2021 2:54:30 PM    Cook, Patrisha  Pt cld regarding acct suspension verif it will remain suspended until paid in full or eqpt is returned - decl to speak with asset recovery.
 8/4/2021        8/4/2021 2:56:45 PM     Igot, Joe       pt ci to check the status of the bill from asset recovery/ referred to asset recovery team
 8/4/2021        8/4/2021 3:32:42 PM     Rivera, Izzy (IP-Asset Recovery)        206-795-4418 xfer from joe I. billing/ s/w pt asking if there's any update to his acc. consulted tl Ann P. and as per TL advised pt that acc. is still under review / relayed it to pt and informed him will let someone call him if there's any update. ack . eoc
 8/10/2021       8/10/2021 12:44:55 PM   Belonguel, Mark (IP-Asset Recovery)     206-795-4418 Inbound call // Patient called in wanted to go thru with the notes on his account. Tried to summarize it but he wanted me to detail everything. Told him that we are getting nowhere because his account is still being worked on. He instead asked for a supervisor, transferred call to TL Ann. EOC
-8/10/2021       8/10/2021 1:05:25 PM    Poliquit, Ann (IP-AST)  Informed PT that his account is under review and we haven't received any updates from the higher management (escalation) but he really want an answer asap since his account has been sitting with AR for quite some time now. Tried consulting call to scheduling/RT team assisted with Nicole Codiga and said she will assist the PT. He added to send him a detailed notes on file to jason.ynkr.org. EOC.
-8/10/2021       8/10/2021 1:06:28 PM    Morgan, Jessica This PT should NOT be in Asset Recovery. This has been taken care of. The setup was done, the Pt is using the device and the PTs docs are on file.
+8/10/2021       8/10/2021 1:05:25 PM    Poliquit, Ann (IP-AST)  Informed PT that his account is under review and we haven't received any updates from the higher management (escalation) but he really want an answer asap since his account has been sitting with AR for quite some time now. Tried consulting call to scheduling/RT team assisted with [[Nicole Stone|Nicole]] Codiga and said she will assist the PT. He added to send him a detailed notes on file to jason.ynkr.org. EOC.
+8/10/2021       8/10/2021 1:06:28 PM    [[Morgan Merideth|Morgan]], Jessica This PT should NOT be in Asset Recovery. This has been taken care of. The setup was done, the Pt is using the device and the PTs docs are on file.
 
 
 Nicole Codiga

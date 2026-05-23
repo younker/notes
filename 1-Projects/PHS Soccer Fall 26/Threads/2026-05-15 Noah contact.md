@@ -8,12 +8,13 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Joel Dohm]]'
+- '[[Noah Honaker]]'
 ---
 
-# Noah contact
+# [[Noah Honaker|Noah]] contact
 
 **1 message** on 2026-05-15
 

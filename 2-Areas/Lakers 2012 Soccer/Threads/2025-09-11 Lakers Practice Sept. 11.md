@@ -10,6 +10,12 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Gavin]]'
+- '[[Carter]]'
+- '[[Graham]]'
+- '[[Joey Fonseca]]'
+- '[[Aiden]]'
+- '[[Landon Wilkinson]]'
 ---
 
 # Lakers Practice Sept. 11
@@ -33,10 +39,10 @@ Activation
 I think I usually run these in about a 20x20 (or 25x25) space
 
 Split into 2 teams with pennies (we will use this for the remaining drills)
-A: David, Grayson, Easton, Aiden, Beau, Stephen, Theo
-B: Connor, Weston, Landon, Sean, Graham, Joey
+A: David, Grayson, Easton, [[Aiden|Aiden]], Beau, Stephen, Theo
+B: Connor, Weston, [[Landon Wilkinson|Landon]], Sean, [[Graham|Graham]], [[Joey Fonseca|Joey]]
 
-I think Grayson, Gavin, Ro & Carter are out tonight.
+I think Grayson, [[Gavin|Gavin]], Ro & [[Carter|Carter]] are out tonight.
 
 ￼
 

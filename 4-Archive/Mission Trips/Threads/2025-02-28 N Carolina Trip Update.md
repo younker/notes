@@ -8,6 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
+- genesis-church
+contacts:
+- '[[Lisa Veurink]]'
 ---
 
 # N Carolina Trip Update
@@ -24,7 +27,7 @@ Our trip is coming up quickly and we are getting excited!  A few updates:
   *
 Team Meeting: Our next team meeting will be Sunday, March 9 after the second Gathering in Petoskey. Plan to stay for lunch and a discussion of final details. This meeting is mandatory for all trip participants.
      *
-Desserts needed; If you are willing to make a dessert for our lunch on March 9, please contact Lisa Veurink.   231.838.3769    lmveurink@gmail.com
+Desserts needed; If you are willing to make a dessert for our lunch on March 9, please contact [[Lisa Veurink|Lisa]] Veurink.   231.838.3769    lmveurink@gmail.com
   *
 Prayer & Sendoff: Genesis Petoskey will be doing a prayer and sendoff for our N Carolina trip on Sunday, March 16. This will be at the beginning each Gathering. We would love it if you could be there for the beginning of both Gatherings so we can all go up on stage twice. You won't have to talk, just stand there, smile and get prayed over! If you cannot make it to both Gatherings, that is fine too. 😊
   *

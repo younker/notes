@@ -7,7 +7,6 @@ senders:
 - sejal.sangani@joinhonor.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

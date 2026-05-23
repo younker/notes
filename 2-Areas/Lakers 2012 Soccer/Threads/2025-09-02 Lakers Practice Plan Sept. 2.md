@@ -10,6 +10,11 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Carter]]'
+- '[[Graham]]'
+- '[[Joey Fonseca]]'
+- '[[Aiden]]'
+- '[[Landon Wilkinson]]'
 ---
 
 # Lakers Practice Plan Sept. 2
@@ -31,17 +36,17 @@ Split Up
 
 Corners:
 1st Group
-G: Joey
+G: [[Joey Fonseca|Joey]]
 RS: Ro, Weston
 LS: Baas, David
 9: Stephen/Seth
 
 2nd Group
 G: Stephen
-RS: Aiden, Grayson
-9: Landon/Graham
+RS: [[Aiden|Aiden]], Grayson
+9: [[Landon Wilkinson|Landon]]/[[Graham|Graham]]
 
-Carter for #3 alt version
+[[Carter|Carter]] for #3 alt version
 
 ￼
 

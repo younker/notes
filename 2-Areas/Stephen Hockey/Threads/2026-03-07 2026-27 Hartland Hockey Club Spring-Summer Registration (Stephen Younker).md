@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 ---
 
 # 2026-27 Hartland Hockey Club Spring/Summer Registration (Stephen Younker)

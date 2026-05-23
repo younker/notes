@@ -7,11 +7,10 @@ senders:
 - jroeth@gmail.com
 type: email-thread
 tags:
-- church
 - email
-- motorhome
 contacts:
 - '[[Jon Roeth]]'
+- '[[Rachel Bonner]]'
 ---
 
 # Hello from an old friend
@@ -25,7 +24,7 @@ contacts:
 Hi Jason,
 
 We are pretty busy but doing well. Our daughters are all in college now -
-Rachel graduated from high school in 2019 and Eleanor and Becca in 2021.
+[[Rachel Bonner|Rachel]] graduated from high school in 2019 and Eleanor and Becca in 2021.
 Rachel is taking a break from college to serve a Church mission in Houston,
 Texas for a year and a half - she just started this month so will be doing
 that until about June 2024.

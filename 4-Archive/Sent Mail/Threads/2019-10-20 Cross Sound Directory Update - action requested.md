@@ -7,10 +7,10 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- church
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Kristin Jeffers]]'
 ---
 
 # Cross Sound Directory Update - action requested
@@ -26,7 +26,7 @@ Did you see this?
 
 Begin forwarded message:
 
-> From: Kristin Dafoe <kristin@crosssound.org>
+> From: [[Kristin Jeffers|Kristin]] Dafoe <kristin@crosssound.org>
 > Date: October 15, 2019 at 10:26:37 AM PDT
 > To: jason@ynkr.org
 > Subject: Cross Sound Directory Update - action requested

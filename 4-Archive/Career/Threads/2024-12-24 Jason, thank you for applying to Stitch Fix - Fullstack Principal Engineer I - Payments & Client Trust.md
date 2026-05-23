@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- school
 ---
 
 # Jason, thank you for applying to Stitch Fix | Fullstack Principal Engineer I -

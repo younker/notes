@@ -8,7 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+contacts:
+- '[[Georgia Browne]]'
 ---
 
 # Your Reservation Confirmation # 86909721 at Holiday Inn Express Hotels & Resorts.
@@ -461,7 +462,7 @@ As exchange rates may fluctuate from the time a reservation is made until the ti
 https://click.tx.ihg.com/?qs=8defc17763a7310521df268916bac63543844be6702a2e4e3ce247aa33ea611b933f228879ce5185bd89add8b73697e3d588294fe7743da91ae81f9a771c4929
 Privacy Statement .
 
-(c) 2025 IHG, Three Ravinia Drive, Suite 100, Atlanta, Georgia, 30346-2149 USA.
+(c) 2025 IHG, Three Ravinia Drive, Suite 100, Atlanta, [[Georgia Browne|Georgia]], 30346-2149 USA.
 
 All rights reserved. Most hotels are independently owned and/or operated.
 

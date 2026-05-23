@@ -7,7 +7,6 @@ senders:
 - help@phyliciamasonheimer.com
 type: email-thread
 tags:
-- church
 - email
 ---
 

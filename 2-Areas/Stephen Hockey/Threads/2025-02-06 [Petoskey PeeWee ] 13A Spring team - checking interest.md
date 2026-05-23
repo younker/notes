@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 ---
 
 # [Petoskey PeeWee ] 13A Spring team - checking interest

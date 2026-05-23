@@ -8,6 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
+- genesis-church
+contacts:
+- '[[Deborah]]'
+- '[[Graham]]'
 ---
 
 # Handouts from Sunday
@@ -26,7 +30,7 @@ The list of people going on the trip is so you can see who will be joining us an
 
 By our next meeting we hope to have work teams & projects determined. Matt Fettig will be our work team coordinator.
 
-If you have questions about payment info, please reach out to Deborah Graham at the Genesis Petoskey office: deb@genesispetoskey.com
+If you have questions about payment info, please reach out to [[Deborah|Deborah]] [[Graham|Graham]] at the Genesis Petoskey office: deb@genesispetoskey.com
 
 
 Looking forward to serving with you!

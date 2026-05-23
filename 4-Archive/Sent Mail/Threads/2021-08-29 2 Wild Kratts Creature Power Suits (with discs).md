@@ -11,6 +11,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Amanda Athan]]'
 ---
 
 # 2 Wild Kratts Creature Power Suits (with discs)
@@ -25,7 +26,7 @@ I just got back and Ups is closed on Sunday. I’ll send it off tomorrow. Sorry 
 
 Jason
 
-> On Aug 29, 2021, at 12:22 PM, Amanda Jagelski <575944a5e1513c30a2302e2b76b7193f@reply.craigslist.org> wrote:
+> On Aug 29, 2021, at 12:22 PM, [[Amanda Athan|Amanda]] Jagelski <575944a5e1513c30a2302e2b76b7193f@reply.craigslist.org> wrote:
 >
 > ﻿ Alright, I just sent the money over from my husband's PayPal. Let me know if you didn't get it for any reason. Thanks
 >

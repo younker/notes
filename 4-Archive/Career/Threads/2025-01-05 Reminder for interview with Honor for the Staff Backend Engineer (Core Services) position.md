@@ -7,7 +7,6 @@ senders:
 - no-reply@greenhouse.io
 type: email-thread
 tags:
-- career
 - email
 ---
 

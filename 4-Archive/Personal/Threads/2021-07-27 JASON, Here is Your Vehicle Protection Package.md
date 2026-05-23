@@ -8,7 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+- tiffin-rv
+contacts:
+- '[[Doug Hughes]]'
+- '[[Jordan Lee]]'
 ---
 
 # JASON, Here is Your Vehicle Protection Package
@@ -23,7 +26,7 @@ MenuMetric Email Menu
 
   === Hello Jason, ===
 
- === This is Doug at Bankston Motor Homes. ===
+ === This is [[Doug Hughes|Doug]] at Bankston Motor Homes. ===
 
  ===  In an effort to provide you with the highest level of service and a
 hassle-free experience, I have prepared an instant protection price quote
@@ -44,7 +47,7 @@ Business Manager ===
 <https://app.menumetric.com/imenu/index.php?token=95693469061008468ec28b8-89901158>
 
       ===  *Bankston Motor Homes*
- 2191 Jordan Lane NW
+ 2191 [[Jordan Lee|Jordan]] Lane NW
  Huntsville, AL 35816
  256-533-3100
  leads@bankstonmotorhomes.com

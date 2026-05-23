@@ -8,8 +8,8 @@ senders:
 - mail-service@platform.moxiworks.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -47,7 +47,7 @@ See Comps and Analysis Enclosed
 
 
 
-Hi Heather and Jason. I pulled recent sales and factoring in the absence of the garage, if we were listing this we would have gone with a price of $749k. We would expect to get it or close to it in either direction. See notes within and let me know how we can help. - Alisa
+Hi [[Heather Younker|Heather]] and Jason. I pulled recent sales and factoring in the absence of the garage, if we were listing this we would have gone with a price of $749k. We would expect to get it or close to it in either direction. See notes within and let me know how we can help. - Alisa
 
 
 

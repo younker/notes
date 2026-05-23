@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Nicole Stone]]'
 ---
 
 # Title Returned Due to Bad Address
@@ -22,7 +23,7 @@ contacts:
 
 Begin forwarded message:
 
-> From: Nicole Pino <NPino@myoccu.org>
+> From: [[Nicole Stone|Nicole]] Pino <NPino@myoccu.org>
 > Date: July 27, 2022 at 5:44:29 PM EDT
 > To: jason@ynkr.org
 > Subject: Title Returned Due to Bad Address

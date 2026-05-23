@@ -8,6 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
+contacts:
+- '[[Terry Denoyer]]'
 ---
 
 # Return request confirmed for SNOW DEER Upgraded Rechargeable...
@@ -65,7 +67,7 @@ CategoryListCategory4ImageAlt
 CategoryListCategory5ImageAlt
 
 
-©2025 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 Terry Avenue N., Seattle, WA 98109.
+©2025 Amazon.com, Inc. or its affiliates. Amazon and all related marks are trademarks of Amazon.com, Inc. or its affiliates, Amazon.com, Inc. 410 [[Terry Denoyer|Terry]] Avenue N., Seattle, WA 98109.
 
 Learn more about Our Returns Policy This email was sent from a notification-only address that cannot accept incoming email. Please do not reply to this message.
 

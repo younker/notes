@@ -7,8 +7,9 @@ senders:
 - bethany.bagwell@renewedvision.com
 type: email-thread
 tags:
-- career
 - email
+contacts:
+- '[[Bethany Hickner]]'
 ---
 
 # Renewed Vision Interview Availability
@@ -27,6 +28,6 @@ Enter your availability now > ( https://app8.greenhouse.io/availability/95e5fe1f
 We'll coordinate with our team and confirm a time with you.
 
 Regards,
-Bethany
+[[Bethany Hickner|Bethany]]
 
 ---

@@ -8,6 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
+contacts:
+- '[[Tonya Reeb]]'
 ---
 
 # Booking Confirmation R-05063523 | Niagara Falls Marriott on the Falls | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026
@@ -40,7 +42,7 @@ tags:
 
 
 
- Dear Tonya Reeb,
+ Dear [[Tonya Reeb|Tonya]] Reeb,
 
  Thank you for booking your reservation with SportsHeadz. This email provides a summary of your
  reservation.

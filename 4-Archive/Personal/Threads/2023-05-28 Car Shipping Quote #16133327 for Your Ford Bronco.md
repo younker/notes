@@ -8,7 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+contacts:
+- '[[Nate Sabari]]'
 ---
 
 # Car Shipping Quote #16133327 for Your Ford Bronco
@@ -17,7 +18,7 @@ tags:
 
 ## 1. 2023-05-28 10:07 — quotes@montway.com
 
-*Nate* sent a message
+*[[Nate Sabari|Nate]]* sent a message
 May 28, 10:07am
 Hello there!
 

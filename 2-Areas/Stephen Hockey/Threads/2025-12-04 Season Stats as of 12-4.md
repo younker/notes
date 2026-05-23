@@ -67,7 +67,7 @@ Thanks! He does a great job on these.
 ________________________________
 From: Jason Younker <jason@ynkr.org>
 Sent: Thursday, December 4, 2025 12:27 PM
-To: Heather Younker <heatheryounker@outlook.com>
+To: [[Heather Younker|Heather]] Younker <heatheryounker@outlook.com>
 Subject: Fwd: Season Stats as of 12/4
 
 Yeah, he just sent them out 30 minutes ago.

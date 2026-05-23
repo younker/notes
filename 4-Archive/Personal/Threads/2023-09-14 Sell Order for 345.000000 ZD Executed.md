@@ -8,6 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
+contacts:
+- '[[Morgan Merideth]]'
 ---
 
 # Sell Order for 345.000000 ZD Executed
@@ -65,7 +67,7 @@ Change or manage your alert delivery preferences.
 
 Investment Products - Not FDIC Insured - No Bank Guarantee - May Lose Value
 
-Banking products and services are provided by Morgan Stanley Private Bank, National Association, Member FDIC. Securities products offered by E*TRADE Securities LLC (ETS), Member SIPC or Morgan Stanley Smith Barney LLC (MSSB), Member SIPC. Investment advisory services offered by E*TRADE Capital Management, LLC (ETCM) or MSSB.  All entities are separate but affiliated subsidiaries of Morgan Stanley. Throughout 2023, ETS and ETCM will be transitioning existing clients to MSSB.
+Banking products and services are provided by [[Morgan Merideth|Morgan]] Stanley Private Bank, National Association, Member FDIC. Securities products offered by E*TRADE Securities LLC (ETS), Member SIPC or Morgan Stanley Smith Barney LLC (MSSB), Member SIPC. Investment advisory services offered by E*TRADE Capital Management, LLC (ETCM) or MSSB.  All entities are separate but affiliated subsidiaries of Morgan Stanley. Throughout 2023, ETS and ETCM will be transitioning existing clients to MSSB.
 (c) 2023 E*TRADE from Morgan Stanley. All rights reserved. Important disclosures.
 
 ---

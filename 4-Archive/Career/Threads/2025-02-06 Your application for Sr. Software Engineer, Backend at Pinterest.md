@@ -1,12 +1,14 @@
 ---
-subject: "Your application for Sr. Software Engineer, Backend at Pinterest"
+subject: Your application for Sr. Software Engineer, Backend at Pinterest
 message_count: 1
 first: 2025-02-06
 last: 2025-02-06
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Your application for Sr. Software Engineer, Backend at Pinterest

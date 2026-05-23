@@ -8,8 +8,9 @@ senders:
 - zillah.chen@moz.com
 type: email-thread
 tags:
-- career
+- cascadia-yakima
 - email
+- moz
 contacts:
 - '[[Justin Younker]]'
 ---

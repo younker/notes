@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
 ---
 
 # MSPSP Match #1120 at Portage Soccer Complex 5/16 3:00 PM

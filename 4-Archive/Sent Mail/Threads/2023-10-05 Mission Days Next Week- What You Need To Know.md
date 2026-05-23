@@ -7,10 +7,13 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- church
 - email
+- harborlight
 contacts:
 - '[[Jason Younker]]'
+- '[[Heather Younker]]'
+- '[[Graham]]'
+- '[[Kiley Graham]]'
 ---
 
 # Mission Days Next Week: What You Need To Know
@@ -23,7 +26,7 @@ contacts:
 
 Begin forwarded message:
 
-> From: Kiley Graham <kiley.graham@harborlight.org>
+> From: [[Kiley Graham|Kiley]] [[Graham|Graham]] <kiley.graham@harborlight.org>
 > Date: October 4, 2023 at 9:52:18 AM EDT
 > To: jason@ynkr.org
 > Subject: Mission Days Next Week: What You Need To Know
@@ -52,6 +55,6 @@ Begin forwarded message:
 > We are praying that the students are reminded what a blessing it is to bless others.
 >
 > With love and excitement,
-> Heather Standish and Kiley Graham
+> [[Heather Younker|Heather]] Standish and Kiley Graham
 
 ---

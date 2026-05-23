@@ -8,8 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
+- '[[Traci Wong]]'
 ---
 
 # ATTENTION: Tournament Documents Needed
@@ -22,7 +24,7 @@ contacts:
 
 FYI,
 
-Traci and Danielle, I will see if I can generate a tournament roster for
+[[Traci Wong|Traci]] and Danielle, I will see if I can generate a tournament roster for
 you with the trapped players.
 
 Bryan

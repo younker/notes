@@ -7,7 +7,6 @@ senders:
 - sd@sdsmith.com
 type: email-thread
 tags:
-- church
 - email
 ---
 

@@ -8,7 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+contacts:
+- '[[Aiden]]'
+- '[[Erica Roof]]'
 ---
 
 # Holland Tournament Block
@@ -23,7 +25,7 @@ Hello Jason!
 
 I've just made the adjustment to your reservation and have resent the confirmation so you can see that the changes have been made.
 
-I can swap Scott's reservation for Erica's - I've changed the name, but could you ask her to call the hotel directly so we can add her credit card number and email address?
+I can swap Scott's reservation for [[Erica Roof|Erica]]'s - I've changed the name, but could you ask her to call the hotel directly so we can add her credit card number and email address?
 
 
 Becca Banfill
@@ -65,7 +67,7 @@ Hello Becca,
 
 We are part of the Petoskey 14U Bantam hockey team that will be staying at the Courtyard Holland Downtown during the Great Lakes Midwinter Classic hockey tournament. We have a couple of alteration that need to be made.
 
-First, the reservation for Scott Eggeman needs to be switched to another individual, Erica Roof. Is it possible to simply swap the reservation? However we do it, I want to ensure that Erica and her son, Aiden, room with the team.
+First, the reservation for Scott Eggeman needs to be switched to another individual, Erica Roof. Is it possible to simply swap the reservation? However we do it, I want to ensure that Erica and her son, [[Aiden|Aiden]], room with the team.
 
 Second, my reservation has us checking in on Saturday the 17th. Can we add a day and switch our check in to Friday the 16th?
 

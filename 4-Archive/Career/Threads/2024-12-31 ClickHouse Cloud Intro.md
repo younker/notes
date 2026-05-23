@@ -1,12 +1,15 @@
 ---
-subject: "ClickHouse Cloud Intro"
+subject: ClickHouse Cloud Intro
 message_count: 1
 first: 2024-12-31
 last: 2024-12-31
 senders:
-  - brian@clickhouse.com
+- brian@clickhouse.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Hunter Johnachic]]'
 ---
 
 # ClickHouse Cloud Intro
@@ -25,7 +28,7 @@ Thank you for letting me know how we can help.
 
 Brian
 
-*Brian Hunter*
+*Brian [[Hunter Johnachic|Hunter]]*
 
 ClickHouse, Inc.
 

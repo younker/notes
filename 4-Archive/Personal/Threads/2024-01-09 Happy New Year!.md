@@ -8,7 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
-- real-estate
+contacts:
+- '[[Nathan Craghill]]'
 ---
 
 # Happy New Year!
@@ -36,7 +37,7 @@ As you prepare for tax season, it's important to make sure you have the followin
 We are here for you when you need us! Wishing you only the best in 2024.
 
 
-Nathan
+[[Nathan Craghill|Nathan]]
 
 
 Nathan Steiner

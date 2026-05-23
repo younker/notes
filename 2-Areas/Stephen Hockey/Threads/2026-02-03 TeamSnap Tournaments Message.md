@@ -8,8 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- school
+- paha-org
 contacts:
 - '[[Chris Firman]]'
 ---

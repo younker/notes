@@ -22,7 +22,7 @@ contacts:
 
 Any edits?
 ________________________________
-From: Heather Younker <heathergoffinet@hotmail.com>
+From: [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>
 Sent: Wednesday, December 10, 2025 12:42 PM
 To: Heather Younker <heatheryounker@outlook.com>
 Subject: Petoskey Fundraising Flyer

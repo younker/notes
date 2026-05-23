@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 ---
 
 # PAHA 14UAA Spring Team 2026 Tryout Confirmation

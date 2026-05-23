@@ -7,10 +7,11 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- church
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Heather Younker]]'
+- '[[Kristin Jeffers]]'
 ---
 
 # Men's Hang Out - Tomorrow
@@ -23,7 +24,7 @@ contacts:
 
 Yes, I got this one
 
-> On Nov 6, 2019, at 10:20 AM, Heather Younker <heathergoffinet@hotmail.com> wrote:
+> On Nov 6, 2019, at 10:20 AM, [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com> wrote:
 >
 > ﻿
 >
@@ -31,7 +32,7 @@ Yes, I got this one
 >
 > Begin forwarded message:
 >
->> From: Kristin Dafoe <kristin@crosssound.org>
+>> From: [[Kristin Jeffers|Kristin]] Dafoe <kristin@crosssound.org>
 >> Date: November 6, 2019 at 9:52:07 AM PST
 >> To: <heathergoffinet@hotmail.com>
 >> Subject: Men's Hang Out - Tomorrow

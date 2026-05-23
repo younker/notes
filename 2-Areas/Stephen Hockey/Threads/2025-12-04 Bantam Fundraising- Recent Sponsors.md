@@ -8,7 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
+contacts:
+- '[[Emma Baxter]]'
 ---
 
 # Bantam Fundraising: Recent Sponsors
@@ -26,7 +28,7 @@ will do some digging to see what contacts I can find!
 
 On Thu, Dec 4, 2025 at 11:35 AM Jason Younker <jason@ynkr.org> wrote:
 
-> Hello Emma,
+> Hello [[Emma Baxter|Emma]],
 >
 > We want to start reaching out to previous sponsors and while I see a list
 > on the website <https://www.petoskeyhockey.com/sponsors>, I was curious

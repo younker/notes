@@ -8,9 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- school
-- soccer
+- paha-org
+- petoskey-soccer
 contacts:
 - '[[Joel Dohm]]'
 ---

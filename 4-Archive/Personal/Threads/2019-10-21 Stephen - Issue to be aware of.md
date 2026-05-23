@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- school
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -30,7 +29,7 @@ Thank you for your time last Wednesday. We've added Joelle to this email as well
 This is also a great example of why we are documenting incidents like the below and the incident on the playground. As time passes, it is harder to recall specifics and with so many side conversations happening details sometimes get left out or distorted in the retelling. While we never expected it to be necessary, our current situation proves that keeping proper documentation is imperative in order to protect Stephen and our family and to help resolve the unfortunate situation we currently find ourselves in at Mosaic. Our hope is that in documenting the details of incidents at the time that they occur, we can quickly resolve issues and reduce any misinformation being spread. I believe this is also why Tricia encouraged us to fill out the HIB form as is standard procedure in the District.
 
 We look forward to the time when these measures are no longer necessary and the time we can once again enjoy the warm and welcoming environment we experienced at Mosaic before we spoke up about Stephen being bullied. Again, thank you for your support in helping make Mosaic a physically and emotionally safe place for our kids.
--Heather & Jason
+-[[Heather Younker|Heather]] & Jason
 
 ________________________________
 From: Heather Younker <heathergoffinet@hotmail.com>

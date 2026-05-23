@@ -9,11 +9,11 @@ senders:
 - rose.laxsalinas@rateins.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
-- school
 contacts:
 - '[[Heather Younker]]'
+- '[[Nathan Craghill]]'
 ---
 
 # Younker - 234731645 - Guaranteed Rate Home Insurance
@@ -22,7 +22,7 @@ contacts:
 
 ## 1. 2023-10-02 22:15 — rose.laxsalinas@rateins.com
 
-Team - Please let Jason and Heather know their new monthly mortgage payment, as the new insurance is $1,485/year. Thank you!
+Team - Please let Jason and [[Heather Younker|Heather]] know their new monthly mortgage payment, as the new insurance is $1,485/year. Thank you!
 Hello Jason and Heather,
 Thank you for your business with Guaranteed Rate Insurance, I appreciate our relationship.
 We strive to align you with the top insurance carriers in the business to provide the best coverage at the most affordable price.
@@ -62,7 +62,7 @@ Thank you,
 From: Rose Lax Salinas <rose.laxsalinas@rateins.com>
 Sent: Monday, October 2, 2023 5:16 PM
 To: jason@ynkr.org; heathergoffinet@hotmail.com
-Cc: Nathan Steiner <nathan@rate.com>; Thea Valiga <Thea.Valiga@rate.com>; Chris Lundeen <Chris.Lundeen@rate.com>; Guy McCarthy <Guy.McCarthy@rate.com>
+Cc: [[Nathan Craghill|Nathan]] Steiner <nathan@rate.com>; Thea Valiga <Thea.Valiga@rate.com>; Chris Lundeen <Chris.Lundeen@rate.com>; Guy McCarthy <Guy.McCarthy@rate.com>
 Subject: Younker - 234731645 - Guaranteed Rate Home Insurance
 
 Team – Please let Jason and Heather know their new monthly mortgage payment, as the new insurance is $1,485/year. Thank you!

@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 ---
 
 # Welcome to Grand Traverse Hockey Association!

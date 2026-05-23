@@ -7,12 +7,12 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- career
-- ship
 - email
-- school
+- job-search-2024
+- ship
 contacts:
 - '[[Jason Younker]]'
+- '[[Whitney Wheeler]]'
 ---
 
 # Harris Onboarding Steps
@@ -436,7 +436,7 @@ A Stagwell Company
 
 *Subject: Re: Harris Onboarding Steps*
 
-Thank you Whitney,I appreciate your help with this. Thank you! Do you know what the estimated arrival date is?JasonOn Mar 27, 2025, at 3:55 PM, Whitney Squirewell <Whitney.Squirewell@stagwellgtg.com> wrote:﻿
+Thank you [[Whitney Wheeler|Whitney]],I appreciate your help with this. Thank you! Do you know what the estimated arrival date is?JasonOn Mar 27, 2025, at 3:55 PM, Whitney Squirewell <Whitney.Squirewell@stagwellgtg.com> wrote:﻿
 
 Hey Jason,
 

@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 ---
 
 # PAHA 13UA Spring Team Registration 2025 Confirmation

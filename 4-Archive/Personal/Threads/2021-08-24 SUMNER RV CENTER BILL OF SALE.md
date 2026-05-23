@@ -8,7 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+- tiffin-rv
+contacts:
+- '[[Andy Nelson]]'
 ---
 
 # SUMNER RV CENTER BILL OF SALE
@@ -75,7 +77,7 @@ Good morning Jason,
 Just spoke to Rebecca, a check will be cut and mailed tomorrow.  I will be
 out of the office for a week and a half and if you have any other questions
 regarding the payoff of your unit, please give us a call at the store and
-speak to Andy or Todd.
+speak to [[Andy Nelson|Andy]] or Todd.
 
 
 

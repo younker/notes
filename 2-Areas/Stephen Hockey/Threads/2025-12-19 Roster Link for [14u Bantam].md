@@ -9,7 +9,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Brent Bolin]]'
 - '[[Chris Firman]]'

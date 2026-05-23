@@ -1,15 +1,18 @@
 ---
-subject: "Your Online Police Report T20000309 Has Been Submitted"
+subject: Your Online Police Report T20000309 Has Been Submitted
 message_count: 1
 first: 2020-05-23
 last: 2020-05-23
 senders:
-  - WaBainbridgeIslandPd@coplogic.com
+- WaBainbridgeIslandPd@coplogic.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Police]]'
 ---
 
-# Your Online Police Report T20000309 Has Been Submitted
+# Your Online [[Police|Police]] Report T20000309 Has Been Submitted
 
 **1 message** on 2020-05-23
 

@@ -7,8 +7,8 @@ senders:
 - Tarah.McKay@rateins.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 ---
 
 # Jewelry Follow Up - 2nd Attempt

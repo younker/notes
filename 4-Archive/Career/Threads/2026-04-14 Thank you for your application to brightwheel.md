@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for your application to brightwheel"
+subject: Thank you for your application to brightwheel
 message_count: 1
 first: 2026-04-14
 last: 2026-04-14
 senders:
-  - no-reply@ashbyhq.com
+- no-reply@ashbyhq.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thank you for your application to brightwheel

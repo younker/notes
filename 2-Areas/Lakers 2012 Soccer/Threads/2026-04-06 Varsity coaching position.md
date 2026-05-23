@@ -7,9 +7,8 @@ senders:
 - dohm.jj.m@northmen.org
 type: email-thread
 tags:
-- career
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Joel Dohm]]'
 ---

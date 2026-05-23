@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 ---
 
 # Biggby Coffee Ice Cube - East Lansing Registration Confirmation

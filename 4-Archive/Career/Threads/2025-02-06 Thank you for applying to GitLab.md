@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to GitLab"
+subject: Thank you for applying to GitLab
 message_count: 1
 first: 2025-02-06
 last: 2025-02-06
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thank you for applying to GitLab

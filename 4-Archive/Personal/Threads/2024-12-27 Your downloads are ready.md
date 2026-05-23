@@ -1,12 +1,15 @@
 ---
-subject: "Your downloads are ready"
+subject: Your downloads are ready
 message_count: 1
 first: 2024-12-27
 last: 2024-12-27
 senders:
-  - orders@storywarren.com
+- orders@storywarren.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Your downloads are ready
@@ -15,7 +18,7 @@ tags: [email]
 
 ## 1. 2024-12-27 15:16 — orders@storywarren.com
 
-Hey Heather Younker,
+Hey [[Heather Younker|Heather]] Younker,
 
 Thank you for your purchase! Here are your downloads:
 

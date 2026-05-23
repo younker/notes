@@ -8,6 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
+contacts:
+- '[[Heather Younker]]'
 ---
 
 # Electronic ticket receipt, May 18 for HEATHER YOUNKER
@@ -485,7 +487,7 @@ Itinerary Confirmation
 
 
  Your ticket(s) is/are:
- Heather Younker:
+ [[Heather Younker|Heather]] Younker:
  1732178535081, 1732178535080
 
 

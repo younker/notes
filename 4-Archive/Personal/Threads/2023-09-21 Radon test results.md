@@ -7,8 +7,8 @@ senders:
 - landainspections.mark@gmail.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 ---
 
 # Radon test results

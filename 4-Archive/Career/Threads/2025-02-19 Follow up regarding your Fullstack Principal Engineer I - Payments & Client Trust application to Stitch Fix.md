@@ -7,9 +7,7 @@ senders:
 - no-reply@stitchfix.com
 type: email-thread
 tags:
-- career
 - email
-- school
 ---
 
 # Follow up regarding your Fullstack Principal Engineer I - Payments & Client

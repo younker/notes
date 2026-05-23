@@ -8,8 +8,11 @@ senders:
 type: email-thread
 tags:
 - email
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
+- '[[Traci Wong]]'
+- '[[Julie Boss]]'
 ---
 
 # MSPSP Scheduling Fall 2025, Good Luck!
@@ -25,8 +28,8 @@ message.
 
 2007 Breakers: Joel Smith
 2009 Breakers: Mike Youngs
-2010 Breakers: DJ/Julie Bailey
-2012 Lakers: Traci Wong
+2010 Breakers: DJ/[[Julie Boss|Julie]] Bailey
+2012 Lakers: [[Traci Wong|Traci]] Wong
 2013 Lakers: Katie Frentz/Ryan Ringle
 
 Scheduling is set to go live later today around noon, at that time you will

@@ -8,8 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
+- kitsap-septic
 contacts:
 - '[[Beth Younker]]'
+- '[[Jess Blazok]]'
 ---
 
 # Nushagak River Adventures Lodge (www.fishthenush.com)
@@ -24,7 +26,7 @@ Sent from my iPhone
 
 Begin forwarded message:
 
-> From: Pete von Jess <pete@fishthenush.com>
+> From: Pete von [[Jess Blazok|Jess]] <pete@fishthenush.com>
 > Date: June 12, 2021 at 10:15:40 PM PDT
 > To: dryccpcare@icloud.com
 > Cc: Pete von Jess <fishthenushlodge@gmail.com>, Jean Moore <jean@fishthenush.com>

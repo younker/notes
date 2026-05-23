@@ -7,8 +7,8 @@ senders:
 - jobs+mason.brown@files.com
 type: email-thread
 tags:
-- career
 - email
+- job-search-2024
 ---
 
 # 100% Remote Engineer opportunity at SaaS Platform Files.com

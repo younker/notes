@@ -7,9 +7,9 @@ senders:
 - heatheryounker@outlook.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- hockey
-- real-estate
+- paha-org
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -20,7 +20,7 @@ contacts:
 
 ## 1. 2024-03-12 21:29 — heatheryounker@outlook.com
 
-Heather Younker
+[[Heather Younker|Heather]] Younker
 
 720 Jennings Avenue
 

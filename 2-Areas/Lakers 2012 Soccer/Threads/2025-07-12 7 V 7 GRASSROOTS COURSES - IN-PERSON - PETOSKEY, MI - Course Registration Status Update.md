@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
 ---
 
 # 7 V 7 GRASSROOTS COURSES - IN-PERSON - PETOSKEY, MI - Course

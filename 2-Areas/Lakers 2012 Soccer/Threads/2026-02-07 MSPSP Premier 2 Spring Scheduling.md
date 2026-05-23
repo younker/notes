@@ -10,7 +10,9 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+contacts:
+- '[[Hunter Johnachic]]'
+- '[[Rory Light]]'
 ---
 
 # MSPSP Premier 2 Spring Scheduling
@@ -49,7 +51,7 @@ Just to confirm, are you with the AYSO United BYR 12B Premier?
 
 Best regards,
 
-Rory Brower
+[[Rory Light|Rory]] Brower
 616-366-8624
 
 On Sat, Feb 7, 2026 at 8:29 AM Jason Powell <jasonmpowell@hotmail.com>
@@ -310,7 +312,7 @@ ________________________________
 From: Jason Powell <jasonmpowell@hotmail.com>
 Sent: Saturday, February 7, 2026 8:46 PM
 To: Conor Amick <conor@michiganfutbolacademy.com>
-Cc: Hunter Barone <hunter@michiganfutbolacademy.com>; Kosti Moni <kosti@michiganfutbolacademy.com>; jason@ynkr.org <jason@ynkr.org>; brentcbolin@gmail.com <brentcbolin@gmail.com>; coachjacobarvidson@gmail.com <coachjacobarvidson@gmail.com>; njstyles242@gmail.com <njstyles242@gmail.com>; bob.bishop88@gmail.com <bob.bishop88@gmail.com>; mharve04@gmail.com <mharve04@gmail.com>; danielleschopp@yahoo.com <danielleschopp@yahoo.com>; traci_schultz912@hotmail.com <traci_schultz912@hotmail.com>; karriebushop17@gmail.com <karriebushop17@gmail.com>
+Cc: [[Hunter Johnachic|Hunter]] Barone <hunter@michiganfutbolacademy.com>; Kosti Moni <kosti@michiganfutbolacademy.com>; jason@ynkr.org <jason@ynkr.org>; brentcbolin@gmail.com <brentcbolin@gmail.com>; coachjacobarvidson@gmail.com <coachjacobarvidson@gmail.com>; njstyles242@gmail.com <njstyles242@gmail.com>; bob.bishop88@gmail.com <bob.bishop88@gmail.com>; mharve04@gmail.com <mharve04@gmail.com>; danielleschopp@yahoo.com <danielleschopp@yahoo.com>; traci_schultz912@hotmail.com <traci_schultz912@hotmail.com>; karriebushop17@gmail.com <karriebushop17@gmail.com>
 Subject: Re: MSPSP Premier 2 Spring Scheduling
 
 Just sending an update as the schedule is filling up. These times are the availability of our turf field but options are being taken. If you could look at your schedules and get back to me ASAP so I can secure the field, that would be great.

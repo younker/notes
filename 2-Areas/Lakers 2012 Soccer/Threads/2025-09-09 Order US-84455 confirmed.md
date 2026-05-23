@@ -7,8 +7,8 @@ senders:
 - support@t1tan.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 ---
 
 # Order US-84455 confirmed

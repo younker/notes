@@ -9,7 +9,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -45,7 +45,7 @@ I'll just pay. Honestly, we should make a pro/con list mid season about playing 
 ________________________________
 From: Jason Younker <jason@ynkr.org>
 Sent: Friday, September 5, 2025 9:05 AM
-To: Heather Younker <heathergoffinet@hotmail.com>
+To: [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>
 Subject: Fwd: New payment request from Petoskey Area Hockey Association - pledge 1024
 
 Getting kinda spendy. How do we want to pay this? All at once or payments?

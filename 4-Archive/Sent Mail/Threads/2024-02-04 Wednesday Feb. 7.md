@@ -8,8 +8,11 @@ senders:
 type: email-thread
 tags:
 - email
+- harborlight
 contacts:
 - '[[Jason Younker]]'
+- '[[Cole]]'
+- '[[Chase Needham]]'
 ---
 
 # Wednesday Feb. 7
@@ -22,7 +25,7 @@ contacts:
 
 Begin forwarded message:
 
-> From: Michele Cole <mcole@harborlight.org>
+> From: Michele [[Cole|Cole]] <mcole@harborlight.org>
 > Date: February 4, 2024 at 5:28:47 PM EST
 > To: jason@ynkr.org
 > Subject: Wednesday Feb. 7
@@ -58,7 +61,7 @@ Begin forwarded message:
 > Julia
 > Michaela - professor costume
 > Miles
-> Chase
+> [[Chase Needham|Chase]]
 > Vaughn
 > Charlotte
 > Kate

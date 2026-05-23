@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to Renewed Vision"
+subject: Thank you for applying to Renewed Vision
 message_count: 1
 first: 2025-01-16
 last: 2025-01-16
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thank you for applying to Renewed Vision

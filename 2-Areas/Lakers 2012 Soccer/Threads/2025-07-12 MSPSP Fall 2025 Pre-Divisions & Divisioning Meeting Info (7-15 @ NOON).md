@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
 ---
 
 # MSPSP Fall 2025 Pre-Divisions & Divisioning Meeting Info (7/15 @ NOON)

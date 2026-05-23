@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- school
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -28,7 +27,7 @@ Begin forwarded message:
 
 From: Tricia Corsetti <tcorsetti@bisd303.org<mailto:tcorsetti@bisd303.org>>
 Date: October 3, 2019 at 9:06:07 AM PDT
-To: Heather Younker <heathergoffinet@hotmail.com<mailto:heathergoffinet@hotmail.com>>
+To: [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com<mailto:heathergoffinet@hotmail.com>>
 Subject: Re: observation in my class
 
 The staff want to reassure families that we can supervise, support and monitor student safety. Martha wants to build that trust and support. We also want the kiddos to feel safe. I understand if this is a transition period to ensure your children feeling safe and supervised.

@@ -7,7 +7,6 @@ senders:
 - no-reply@hubspot.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 ---
 
 # PAHA Hockey Season 2023-24 Confirmation

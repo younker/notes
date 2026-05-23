@@ -8,8 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
-- real-estate
+- tiffin-rv
+contacts:
+- '[[Julie Boss]]'
 ---
 
 # From Jason Younker
@@ -27,7 +28,7 @@ Yes we do perform maintenance of all kinds. Which items need to be maintenance? 
 Just let me know so I can update your work order.
 
 Thanks,
-Julie
+[[Julie Boss|Julie]]
 
 From: Jason Younker [mailto:jason@ynkr.org]
 Sent: Thursday, May 4, 2023 7:08 PM

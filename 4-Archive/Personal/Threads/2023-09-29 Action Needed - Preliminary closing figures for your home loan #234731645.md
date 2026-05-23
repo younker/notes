@@ -8,10 +8,11 @@ senders:
 - heatheryounker@outlook.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 contacts:
 - '[[Heather Younker]]'
+- '[[Nathan Craghill]]'
 ---
 
 # Action Needed - Preliminary closing figures for your home loan #234731645
@@ -174,7 +175,7 @@ I will have to look at this afternoon
 
 On Sep 29, 2023, at 10:28 AM, Jason Younker <jason@ynkr.org> wrote:
 
-﻿ Take a look to verify this is what you and Nathan discussed.
+﻿ Take a look to verify this is what you and [[Nathan Craghill|Nathan]] discussed.
 
 Begin forwarded message:
 

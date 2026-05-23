@@ -8,8 +8,12 @@ senders:
 type: email-thread
 tags:
 - email
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
+- '[[Carter]]'
+- '[[Roland]]'
+- '[[Graham]]'
 ---
 
 # Game Observations
@@ -46,12 +50,12 @@ Again, take the best and leave the rest.
    - Tough to build from here with only 3.
    - Need to step up quick as a group to compress space when team
    transitions forward
-   - Would like to see Carter build or play the keeper rather than just
+   - Would like to see [[Carter|Carter]] build or play the keeper rather than just
    play a ball out a couple of times.
 
 *Mids*
 
-   - I believe that Graham W. and Roland W. are two of the stronger players
+   - I believe that [[Graham|Graham]] W. and [[Roland|Roland]] W. are two of the stronger players
    in the group.  They get lost in the number of bodies in the midfielder.
    Lots of bodies and not a lot of space.  Can we create more space for them
    to do their thing?

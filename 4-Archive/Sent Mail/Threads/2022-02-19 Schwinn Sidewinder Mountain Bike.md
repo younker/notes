@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Albert Painter]]'
 ---
 
 # Schwinn Sidewinder Mountain Bike
@@ -24,7 +25,7 @@ Hello. Yes, it is still available. Do you have any questions?
 
 Jason
 
-> On Feb 19, 2022, at 4:17 PM, Albert Angelo <4c47600c00b93e09a2ecf52de65faade@reply.craigslist.org> wrote:
+> On Feb 19, 2022, at 4:17 PM, [[Albert Painter|Albert]] Angelo <4c47600c00b93e09a2ecf52de65faade@reply.craigslist.org> wrote:
 >
 > ﻿
 > Hi:

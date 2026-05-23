@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Jess Blazok]]'
 ---
 
 # Diet Restrictions
@@ -26,7 +27,7 @@ It is almost 11am and we have yet to hear from tikchik adventures. We are stayin
 
 Jason Younker
 
-> On Jun 30, 2021, at 3:06 PM, Pete von Jess <fishthenushlodge@gmail.com> wrote:
+> On Jun 30, 2021, at 3:06 PM, Pete von [[Jess Blazok|Jess]] <fishthenushlodge@gmail.com> wrote:
 >
 > ﻿
 > Hello Jason,  why don’t you plan to bring some snacks of your choosing.

@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Janell Eckhardt]]'
 ---
 
 # Water Bills
@@ -24,7 +25,7 @@ Oh yeah. We have long been curious of her book keeping methods but we just came 
 
 Jason
 
-> On Sep 18, 2021, at 11:13 AM, Janell Eckhardt <dantekimo@hotmail.com> wrote:
+> On Sep 18, 2021, at 11:13 AM, [[Janell Eckhardt|Janell]] Eckhardt <dantekimo@hotmail.com> wrote:
 >
 > ﻿
 > Hi Neighbor's,

@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+- tiffin-rv
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -33,7 +33,7 @@ Subject: Hearthside Grove Reservation Confirmation
 [https://cdn.liverez.com/1/custimages/emaillogos/13790emaillogo.jpg]
 Hearthside Grove Luxury Motorcoach Resort       888-476-8388
 
-Hello Heather & Jason,
+Hello [[Heather Younker|Heather]] & Jason,
 
 Thank you for choosing to visit Hearthside Grove!
 

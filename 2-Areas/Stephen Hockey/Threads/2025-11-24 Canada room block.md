@@ -10,11 +10,12 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 contacts:
 - '[[Brian Kasiborski]]'
 - '[[Chris Firman]]'
 - '[[Jason Younker]]'
+- '[[Kassie Kennaugh]]'
 ---
 
 # Canada room block
@@ -23,7 +24,7 @@ contacts:
 
 ## 1. 2025-11-24 15:53 — cfirman16@gmail.com
 
-Kassie is more than willing to help set this up. Sheraton Fallsview is
+[[Kassie Kennaugh|Kassie]] is more than willing to help set this up. Sheraton Fallsview is
 unavailable. Which hotel do you guys like? I did rather enjoy the falls
 view. Would not be disappointed to be away from "downtown" this time.
 

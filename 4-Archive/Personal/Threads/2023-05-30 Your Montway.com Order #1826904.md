@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
 ---
 
 # Your Montway.com Order #1826904

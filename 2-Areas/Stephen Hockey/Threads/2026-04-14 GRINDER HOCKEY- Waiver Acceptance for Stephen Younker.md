@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 ---
 
 # GRINDER HOCKEY: Waiver Acceptance for Stephen Younker

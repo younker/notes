@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Tonya Reeb]]'
 ---
 
 # Pre-Arrival for Niagara Falls Marriott on the Falls | R-05063523 | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026
@@ -42,7 +43,7 @@ Begin forwarded message:From: SportsHeadz <mailer@eventpipe.com>Date: December 2
  Thu, 01/08/2026 - Sun, 01/11/2026
  Pelham, ON
 
- Dear Tonya Reeb,
+ Dear [[Tonya Reeb|Tonya]] Reeb,
 
  Below is a summary of your hotel reservation including your assigned hotel confirmation number. (Please DO NOT REPLY to this email as this email address is not monitored.)
 

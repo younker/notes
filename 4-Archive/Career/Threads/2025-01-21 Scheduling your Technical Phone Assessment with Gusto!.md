@@ -7,7 +7,6 @@ senders:
 - carren.scialacomo@gusto.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

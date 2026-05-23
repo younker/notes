@@ -7,6 +7,7 @@ senders:
 - service@paypal.com
 type: email-thread
 tags:
+- 720-jennings
 - email
 ---
 

@@ -7,8 +7,8 @@ senders:
 - inspections@tapinspect.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 ---
 
 # Inspection results for 720 Jennings Avenue, Petoskey, MI 49770 have been updated

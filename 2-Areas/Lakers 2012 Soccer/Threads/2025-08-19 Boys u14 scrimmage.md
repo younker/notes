@@ -8,9 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
+- '[[Traci Wong]]'
 ---
 
 # Boys u14 scrimmage
@@ -21,7 +22,7 @@ contacts:
 
 *Subject: Fwd: Boys u14 scrimmage*
 
-Traci and Danielle,
+[[Traci Wong|Traci]] and Danielle,
 
 See the message below.
 

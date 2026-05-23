@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for your application to The Harris Poll"
+subject: Thank you for your application to The Harris Poll
 message_count: 1
 first: 2025-03-14
 last: 2025-03-14
 senders:
-  - no-reply@hire.lever.co
+- no-reply@hire.lever.co
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thank you for your application to The Harris Poll

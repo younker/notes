@@ -7,8 +7,8 @@ senders:
 - Melissa.Deady@ctt.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 ---
 
 # 720 Jennings Ave CONGRATULATIONS!

@@ -7,11 +7,10 @@ senders:
 - heather@phyliciamasonheimer.com
 type: email-thread
 tags:
-- church
 - email
-- school
 contacts:
 - '[[Heather Younker]]'
+- '[[Hillary Bassett Ross]]'
 ---
 
 # Confronting the Lie of Sinless Conservatism
@@ -23,7 +22,7 @@ contacts:
 *Subject: Fwd: Confronting the Lie of Sinless Conservatism*
 
 ---------- Forwarded message ---------
-From: Heather Younker <heather@phyliciamasonheimer.com>
+From: [[Heather Younker|Heather]] Younker <heather@phyliciamasonheimer.com>
 Date: Tue, Apr 14, 2026 at 11:06 AM
 Subject: Fwd: Confronting the Lie of Sinless Conservatism
 To: stephenyounker547@gmail.com <stephenyounker547@gmail.com>
@@ -89,7 +88,7 @@ As the years unfolded and he - to my shock - made it through the primaries,
 I felt trapped. Despite the defense of evangelical leaders, I had a
 creeping feeling Christians were being used. Trump wanted our votes and
 promised to protect our interests, but in no way was he a Christian himself
-(“weak” or otherwise). But with Hillary Clinton on the ballot, I felt I had
+(“weak” or otherwise). But with [[Hillary Bassett Ross|Hillary]] Clinton on the ballot, I felt I had
 no other choice but to vote for him. During the second Trump election, I
 waffled between an independent vote and a Republican one. In the end,
 Kamala Harris’ aggressive pro-abortion stance pushed me over the edge and I

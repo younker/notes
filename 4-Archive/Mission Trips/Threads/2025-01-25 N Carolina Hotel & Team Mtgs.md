@@ -8,6 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
+- genesis-church
 ---
 
 # N Carolina Hotel & Team Mtgs

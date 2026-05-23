@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- school
 ---
 
 # Thank You for applying for 336314 - Principal Golang Developer -

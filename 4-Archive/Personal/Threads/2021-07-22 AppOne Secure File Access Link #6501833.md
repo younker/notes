@@ -1,12 +1,14 @@
 ---
-subject: "AppOne Secure File Access Link #6501833"
+subject: 'AppOne Secure File Access Link #6501833'
 message_count: 1
 first: 2021-07-22
 last: 2021-07-22
 senders:
-  - creditapp@appone.net
+- creditapp@appone.net
 type: email-thread
-tags: [email]
+tags:
+- email
+- tiffin-rv
 ---
 
 # AppOne Secure File Access Link #6501833

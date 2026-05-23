@@ -8,9 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Joel Dohm]]'
+- '[[Noah Honaker]]'
 ---
 
 # Matt Hill - JV Position
@@ -52,7 +53,7 @@ Give me a call at 231-348-2104. I am free for a few minutes.
 
 On Thu, May 14, 2026 at 10:50 AM Jason Younker <jason@ynkr.org> wrote:
 
-> Did you ask Noah about him? Matt mentioned he knew Noah and had played
+> Did you ask [[Noah Honaker|Noah]] about him? Matt mentioned he knew Noah and had played
 > with him a couple of times. And speaking of Noah, could I get his contact
 > info? I would like to call him to just chat a bit about his experience and
 > any thoughts he might have for me going forward.

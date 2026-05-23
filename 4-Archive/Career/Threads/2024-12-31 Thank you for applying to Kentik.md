@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to Kentik"
+subject: Thank you for applying to Kentik
 message_count: 1
 first: 2024-12-31
 last: 2024-12-31
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thank you for applying to Kentik

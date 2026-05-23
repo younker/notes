@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- school
 ---
 
 # Google: We've received your payment for 0584-9651-3226

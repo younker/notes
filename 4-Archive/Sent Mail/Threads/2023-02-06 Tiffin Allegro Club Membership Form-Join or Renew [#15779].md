@@ -8,9 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+- tiffin-rv
 contacts:
 - '[[Jason Younker]]'
+- '[[Heather Younker]]'
 ---
 
 # Tiffin Allegro Club Membership Form-Join or Renew [#15779]
@@ -50,7 +51,7 @@ Begin forwarded message:
 > Primary Membership Date of Birth *
 > Tuesday, July 2, 1974
 > Secondary Membership Name
-> Heather Younker
+> [[Heather Younker|Heather]] Younker
 > Secondary Membership Date of Birth
 > Thursday, August 19, 1976
 > Current Membership Number

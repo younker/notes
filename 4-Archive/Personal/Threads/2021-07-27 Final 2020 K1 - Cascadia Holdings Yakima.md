@@ -8,8 +8,9 @@ senders:
 - investor.relations@cascadiaseniorliving.com
 type: email-thread
 tags:
-- ship
+- cascadia-yakima
 - email
+- ship
 contacts:
 - '[[Heather Younker]]'
 ---

@@ -1,12 +1,14 @@
 ---
-subject: "Update from Coinbase"
+subject: Update from Coinbase
 message_count: 1
 first: 2024-12-10
 last: 2024-12-10
 senders:
-  - no-reply@appreview.gem.com
+- no-reply@appreview.gem.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Update from Coinbase

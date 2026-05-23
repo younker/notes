@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to Ramp!"
+subject: Thank you for applying to Ramp!
 message_count: 1
 first: 2025-01-17
 last: 2025-01-17
 senders:
-  - no-reply@ashbyhq.com
+- no-reply@ashbyhq.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thank you for applying to Ramp!

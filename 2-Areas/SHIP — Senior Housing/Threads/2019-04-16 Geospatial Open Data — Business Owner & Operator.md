@@ -9,8 +9,8 @@ senders:
 - justin@cascadiadevelopment.com
 type: email-thread
 tags:
+- cascadia-yakima
 - email
-- real-estate
 contacts:
 - '[[Justin Younker]]'
 ---

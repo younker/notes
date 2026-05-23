@@ -10,7 +10,7 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
 - '[[Traci Wong]]'
@@ -194,7 +194,7 @@ We do not have a baseball tournament the weekend of May 8-10th because we though
 
 Thanks!
 
-Traci
+[[Traci Wong|Traci]]
 
 Get Outlook for iOS<https://aka.ms/o0ukef>
 ________________________________

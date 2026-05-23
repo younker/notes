@@ -8,9 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 contacts:
 - '[[Jason Younker]]'
+- '[[Emma Baxter]]'
 ---
 
 # PAHA communication to a specific team
@@ -21,7 +22,7 @@ contacts:
 
 *Subject: Re: PAHA communication to a specific team*
 
-Thank you very much! Have a good evening. JasonOn Nov 30, 2025, at 8:15 PM, PAHA Communications <pahacommunications@gmail.com> wrote:﻿Hi! I will send your message out to the 14U team right now! It will send out an email and a sports notification :) On Sun, Nov 30, 2025 at 7:06 PM Jason Younker <jason@ynkr.org> wrote:Hello Emma,
+Thank you very much! Have a good evening. JasonOn Nov 30, 2025, at 8:15 PM, PAHA Communications <pahacommunications@gmail.com> wrote:﻿Hi! I will send your message out to the 14U team right now! It will send out an email and a sports notification :) On Sun, Nov 30, 2025 at 7:06 PM Jason Younker <jason@ynkr.org> wrote:Hello [[Emma Baxter|Emma]],
 
 I need to schedule a parent meeting for tomorrow but only for the Bantam team. I will throw it out on our team channel in sports engine but that usually only gets to about half the families. Is it possible to send a PAHA notification to a specific team? If so, would you be willing to send one to the Bantam team? If it’s a hassle or not possible, no problem! We will send a notification through sports engine. However, if you can, below is the message I would like to send.
 

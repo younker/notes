@@ -9,9 +9,10 @@ senders:
 type: email-thread
 tags:
 - email
-- school
+- harborlight
 contacts:
 - '[[Heather Younker]]'
+- '[[Clayton Light]]'
 ---
 
 # Conflict in class on Friday
@@ -20,7 +21,7 @@ contacts:
 
 ## 1. 2025-10-13 12:17 — kdutcher@harborlight.org
 
-Good afternoon Heather and Jason,
+Good afternoon [[Heather Younker|Heather]] and Jason,
 
 I hope you are having an enjoyable Monday. I wanted to reach out regarding
 an incident that occurred Friday involving Emily. She became upset in class
@@ -51,7 +52,7 @@ Kelly Dutcher
 
 *K**elly Dutcher*
 *Administrator at Harbor Light Christian School*
-8333 Clayton Road Harbor Springs, Mi 49740
+8333 [[Clayton Light|Clayton]] Road Harbor Springs, Mi 49740
 231-347-7859|kdutcher@harborlight.org
 ha <http://harborlightchristian.org>rborlightchristian.org
 <http://harborlightchristian.org>

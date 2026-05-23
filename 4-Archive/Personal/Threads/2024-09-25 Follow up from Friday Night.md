@@ -9,7 +9,7 @@ senders:
 type: email-thread
 tags:
 - email
-- school
+- harborlight
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -32,7 +32,7 @@ Jason and I agree with most of what was said here. The one area that we would li
 We think you have handled this situation beautifully and thoughtfully. The information here is only to provide additional insight from our side. We think it is important to acknowledge and give permission that there is a time to defend yourself and to do it in a way that is appropriate to the situation. We also want to be sure to call out the positive displays of character in this situation.
 
 Thank you for caring about our kids the way you do!
--Heather & Jason
+-[[Heather Younker|Heather]] & Jason
 
 
 ________________________________

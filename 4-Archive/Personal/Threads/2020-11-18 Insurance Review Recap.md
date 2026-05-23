@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Ehrin Stumpges]]'
+- '[[Heather Younker]]'
 ---
 
 # Insurance Review Recap
@@ -18,7 +19,7 @@ contacts:
 
 ## 1. 2020-11-18 21:01 — ehrin.stumpges@countryfinancial.com
 
-Hello Heather and Jason,
+Hello [[Heather Younker|Heather]] and Jason,
 
 Thank you for taking the time to review your insurance with me. Here is a recap of what we covered.
 
@@ -42,7 +43,7 @@ There is a lot here so don't hesitate to call or email with any questions. Thank
 
 Best Regards,
 
-Ehrin Stumpges
+[[Ehrin Stumpges|Ehrin]] Stumpges
 COUNTRY(r) Financial
 22035 SE Wax Road, Suite 2 - Maple Valley, WA 98038
 Phone: 425-413-4580   -   Fax: 425-413-4584

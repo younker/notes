@@ -7,8 +7,8 @@ senders:
 - no-reply@hire.lever.co
 type: email-thread
 tags:
-- career
 - email
+- job-search-2024
 ---
 
 # Thanks, Jason! TeamSnap is super excited to hear from you! 🚀

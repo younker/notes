@@ -9,9 +9,12 @@ senders:
 type: email-thread
 tags:
 - email
-- health
-- hockey
-- soccer
+- petoskey-soccer
+contacts:
+- '[[Carter]]'
+- '[[Aiden]]'
+- '[[Erica Roof]]'
+- '[[Brittany Hixson]]'
 ---
 
 # Expired room block: we need one more reservation
@@ -59,7 +62,7 @@ On Wed, Dec 10, 2025 at 10:41 AM Jason Younker <jason@ynkr.org> wrote:
 >
 
 --
-*Carter Gimblett *
+*[[Carter|Carter]] Gimblett *
 *Customer Experience & Sales Manager*
 *Email: carter@sportsheadz.com <carter@sportsheadz.com>*
 *Web: https://www.sportsheadz.com <https://www.sportsheadz.com>*
@@ -295,7 +298,7 @@ On Thu, Jan 1, 2026 at 9:09 PM Jason Younker <jason@ynkr.org> wrote:
 > I sincerely apologize, but I need to modify the room listing one last
 > time. Our primary goalie, Gus Eggeman, found out Tuesday he will need to
 > undergo emergency heart surgery next Thursday and so we will be using a
-> different goalie, Aiden Roof.
+> different goalie, [[Aiden|Aiden]] Roof.
 >
 > Is it possible to simply switch the name on the reservation? The changes
 > are as follows
@@ -306,7 +309,7 @@ On Thu, Jan 1, 2026 at 9:09 PM Jason Younker <jason@ynkr.org> wrote:
 >   lindsey.bonaeggeman@gmail.com
 >
 > New Reservation:
->   Erica Roof
+>   [[Erica Roof|Erica]] Roof
 >   (419) 957-1240
 >   roof.erica@gmail.com
 >
@@ -455,7 +458,7 @@ On Thu, Jan 1, 2026 at 9:09 PM Jason Younker <jason@ynkr.org> wrote:
 
 --
 
-*Brittany *
+*[[Brittany Hixson|Brittany]] *
 *Accommodations Manager*
 *Email: brittany@sportsheadz.com <brittany@sportsheadz.com>*
 *Web: https://www.sportsheadz.com <https://www.sportsheadz.com>*

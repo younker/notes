@@ -1,12 +1,14 @@
 ---
-subject: "We've received your Software Engineer-Tooling application for Tailscale!"
+subject: We've received your Software Engineer-Tooling application for Tailscale!
 message_count: 1
 first: 2025-02-12
 last: 2025-02-12
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # We've received your Software Engineer-Tooling application for Tailscale!

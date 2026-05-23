@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Luke LaRiviere]]'
 ---
 
 # Office of Ali Rizvi
@@ -44,7 +45,7 @@ Jason
 > Mayra Alvarez
 > Financial Practice Coordinator
 > Ali Rizvi- Senior Partner*
-> Luke Strode- CFP®, Financial Advisor
+> [[Luke LaRiviere|Luke]] Strode- CFP®, Financial Advisor
 >
 >                            North Star Resource Group
 >                            6720 N. Scottsdale Rd. Suite 290, Scottsdale, AZ 85253

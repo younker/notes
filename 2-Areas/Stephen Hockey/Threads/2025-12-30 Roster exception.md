@@ -9,8 +9,7 @@ senders:
 type: email-thread
 tags:
 - email
-- health
-- hockey
+- paha-org
 contacts:
 - '[[Brian Kasiborski]]'
 - '[[Chris Firman]]'

@@ -10,6 +10,7 @@ senders:
 type: email-thread
 tags:
 - email
+- kitsap-septic
 contacts:
 - '[[Heather Younker]]'
 - '[[Paul Wandling]]'
@@ -188,7 +189,7 @@ In the meantime … I will order a new blower.
 From: Jason Younker <jason@ynkr.org>
 Sent: Friday, July 30, 2021 2:28 PM
 To: Kitsap Septic Design & Monitoring, Inc. <kitsap.septic@comcast.net>
-Cc: Heather Younker <heathergoffinet@hotmail.com>
+Cc: [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>
 Subject: Re: Estimate 201971 from Kitsap Septic Design & Monitoring, Inc.
 
 

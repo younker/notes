@@ -24,7 +24,7 @@ contacts:
 Hi Ali,
 I’ve added Jason to this thread. He is available tomorrow and Thursday between 12-1 and after 3:00 to speak with you and Fidelity about the IRA process. Do you have availability then as well?
 Thank you!
-Heather
+[[Heather Younker|Heather]]
 
 > On Mar 22, 2022, at 11:42 AM, Heather Younker <heathergoffinet@hotmail.com> wrote:
 >

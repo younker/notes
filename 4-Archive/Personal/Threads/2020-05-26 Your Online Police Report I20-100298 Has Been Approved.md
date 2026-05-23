@@ -1,15 +1,18 @@
 ---
-subject: "Your Online Police Report I20-100298 Has Been Approved"
+subject: Your Online Police Report I20-100298 Has Been Approved
 message_count: 1
 first: 2020-05-26
 last: 2020-05-26
 senders:
-  - WaBainbridgeIslandPd@coplogic.com
+- WaBainbridgeIslandPd@coplogic.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Police]]'
 ---
 
-# Your Online Police Report I20-100298 Has Been Approved
+# Your Online [[Police|Police]] Report I20-100298 Has Been Approved
 
 **1 message** on 2020-05-26
 

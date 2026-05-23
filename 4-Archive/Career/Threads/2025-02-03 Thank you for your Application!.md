@@ -7,7 +7,6 @@ senders:
 - do-not-reply@jobs.microsoft.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

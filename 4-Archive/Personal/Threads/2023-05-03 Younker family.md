@@ -7,8 +7,8 @@ senders:
 - daveoc@crosssound.org
 type: email-thread
 tags:
-- church
 - email
+- harborlight
 ---
 
 # Younker family

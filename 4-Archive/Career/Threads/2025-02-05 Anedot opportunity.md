@@ -7,7 +7,6 @@ senders:
 - candidate-41cf11bbcb60@anedot.breezy-mail.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

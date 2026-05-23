@@ -8,7 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
+contacts:
+- '[[Emma Baxter]]'
+- '[[Kassie Kennaugh]]'
 ---
 
 # Parent meeting
@@ -87,7 +90,7 @@ you to share.
 
 See you tonight !
 
-Kassie
+[[Kassie Kennaugh|Kassie]]
 
 
 On Sun, Nov 30, 2025 at 9:44 PM Jason Younker <jason@ynkr.org> wrote:
@@ -194,7 +197,7 @@ On Sun, Nov 30, 2025 at 9:44 PM Jason Younker <jason@ynkr.org> wrote:
 > confused so hopefully you can forgive me :)
 >
 > Here is the meeting invite message I planned to send (I actually sent it
-> to Emma T., PAHA communications directory, asking if she could sent it
+> to [[Emma Baxter|Emma]] T., PAHA communications directory, asking if she could sent it
 > thinking it best to have it come from 2 sources given short notice). Also,
 > it’s such short notice primarily because the room block is only good
 > through next weekend so we want the info out asap.

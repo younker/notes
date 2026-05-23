@@ -1,12 +1,14 @@
 ---
-subject: "Information about your application to Files.com"
+subject: Information about your application to Files.com
 message_count: 1
 first: 2025-02-05
 last: 2025-02-05
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Information about your application to Files.com

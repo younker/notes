@@ -7,8 +7,11 @@ senders:
 - Chris.Lundeen@rate.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
+contacts:
+- '[[Heather Younker]]'
+- '[[Nathan Craghill]]'
 ---
 
 # Younker Purchase Loan
@@ -23,9 +26,9 @@ tags:
 Questions? Contact Chris Lundeen * (773) 516-6327 * Chris.Lundeen@rate.com<mailto:chris.lundeen@rate.com>
 
 
-Good news, Jason and Heather!
+Good news, Jason and [[Heather Younker|Heather]]!
 
-Your loan has entered the underwriting department and we expect an approval within a few business days.  Guy McCarthy, another member of Nathan Steiner's team, will reach out to you once the loan is approved with next steps to obtaining final approval, which COULD include a small list of documentation needs the underwriter is requesting. Look out for email correspondence from him in the coming days.
+Your loan has entered the underwriting department and we expect an approval within a few business days.  Guy McCarthy, another member of [[Nathan Craghill|Nathan]] Steiner's team, will reach out to you once the loan is approved with next steps to obtaining final approval, which COULD include a small list of documentation needs the underwriter is requesting. Look out for email correspondence from him in the coming days.
 
 Please let me know if you have any questions.
 

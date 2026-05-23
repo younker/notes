@@ -8,10 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
-- real-estate
+- tiffin-rv
 contacts:
 - '[[Jason Younker]]'
+- '[[Julie Boss]]'
 ---
 
 # From Jason Younker
@@ -34,7 +34,7 @@ contacts:
 
 *Subject: Re: From Jason Younker*
 
-Hello Julie, Yes I did, thank you. I’ll be there at 11 and plan to have the slide work and multipoint inspection. I have one other question: We are getting ready to sell our coach and I was curious if there is such a thing as a buyers inspection when it comes to rvs. Or is that what the multipoint inspection is?JasonOn May 10, 2023, at 4:31 PM, Julie McPheeters <jmcpheeters@generalrv.com> wrote:﻿
+Hello [[Julie Boss|Julie]], Yes I did, thank you. I’ll be there at 11 and plan to have the slide work and multipoint inspection. I have one other question: We are getting ready to sell our coach and I was curious if there is such a thing as a buyers inspection when it comes to rvs. Or is that what the multipoint inspection is?JasonOn May 10, 2023, at 4:31 PM, Julie McPheeters <jmcpheeters@generalrv.com> wrote:﻿
 
 Hi Jason,
 

@@ -19,7 +19,7 @@ contacts:
 
 ## 1. 2022-03-31 18:42 — Ali.Rizvi@northstarfinancial.com
 
-Dear Heather and Jason,
+Dear [[Heather Younker|Heather]] and Jason,
 Your accounts are all set and ready to be funded.
 Kindly let me know when and if we can transfer $350K to your Brokerage and Roth accounts and we can get this handled for you.
 As a recap, of the $350K, 12K will go into your ROTH IRA's and the remainder into your Brokerage Accounts.

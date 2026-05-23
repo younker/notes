@@ -10,9 +10,10 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Heather Younker]]'
 ---
 
-# Heather’s birthday
+# [[Heather Younker|Heather]]’s birthday
 
 **1 message** on 2022-08-18
 

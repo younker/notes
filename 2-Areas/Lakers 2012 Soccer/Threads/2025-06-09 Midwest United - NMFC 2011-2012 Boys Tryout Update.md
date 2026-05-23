@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
 ---
 
 # Midwest United - NMFC 2011-2012 Boys Tryout Update

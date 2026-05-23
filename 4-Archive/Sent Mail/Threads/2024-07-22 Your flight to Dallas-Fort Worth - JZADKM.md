@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Heather Younker]]'
 ---
 
 # Your flight to Dallas/Fort Worth - JZADKM
@@ -20,7 +21,7 @@ contacts:
 
 *Subject: Re: Your flight to Dallas/Fort Worth - JZADKM*
 
-New flight. This is the flight we will be on tonight On Jul 22, 2024, at 10:36 AM, Heather Younker <heathergoffinet@hotmail.com> wrote:﻿
+New flight. This is the flight we will be on tonight On Jul 22, 2024, at 10:36 AM, [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com> wrote:﻿
 
 Not sure if this is for the old flight or the new flight….
 

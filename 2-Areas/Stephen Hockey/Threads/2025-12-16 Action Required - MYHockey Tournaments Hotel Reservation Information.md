@@ -8,8 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- soccer
+- petoskey-soccer
 ---
 
 # Action Required - MYHockey Tournaments Hotel Reservation Information

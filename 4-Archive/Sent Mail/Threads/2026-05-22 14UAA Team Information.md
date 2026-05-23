@@ -8,9 +8,20 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Jason Younker]]'
+- '[[Vanessa Tucker]]'
+- '[[Jess Blazok]]'
+- '[[Carter]]'
+- '[[Whitney Wheeler]]'
+- '[[Julie Boss]]'
+- '[[Terry Denoyer]]'
+- '[[Marie Pence]]'
+- '[[Shelley Wald]]'
+- '[[Theresa Rowell]]'
+- '[[Morgan Merideth]]'
+- '[[Meredith McDonald]]'
+- '[[Jared Stumm]]'
 ---
 
 # 14UAA Team Information
@@ -21,7 +32,7 @@ contacts:
 
 *Subject: Fwd: 14UAA Team Information*
 
-Begin forwarded message:From: Matthew Wheeler <wheeler6415@gmail.com>Date: May 21, 2026 at 10:51:07 PM EDTTo: Jess Blazok <jblazok@gmail.com>, mark blazok <blazokma@yahoo.com>, Julie Boss <boss.julie4boys@yahoo.com>, danielboss@gmail.com, Sarah Brudi <brudisarah@gmail.com>, Josh Brudi <jsbrudi@gmail.com>, Terry Denoyer <209escapeartist@gmail.com>, jendenoyer1@gmail.com, morganlmerideth@gmail.com, jasonhenning16@yahoo.com, Andrew Jefferys <Andrewjefferys@gmail.com>, Jenna.jefferys@gmail.com, Kelly Leipprandt <kellyleipprandt@yahoo.com>, joelleipprandtjr@gmail.com, Meredith McDonald <mere510@gmail.com>, Mike McDonald <thesteeldeal44@gmail.com>, Matt <matthew.earl.myers@gmail.com>, Maria Myers <mariarafferty8@hotmail.com>, Kathleen Pawlanta <kkpawlanta@yahoo.com>, kenpawlanta@icloud.com, Theresa Rowell <rowelltheresa@yahoo.com>, Joe Rowell <ravenozzie@yahoo.com>, Linda Stumm <stumml_@hotmail.com>, Jared Stumm <stumm_@hotmail.com>, Vanessa Tucker <vtucker245@gmail.com>, Nick Tucker <nicktucker24@gmail.com>, Shelley and Derrick <shelleyderrick@gmail.com>, Dirk Wald <dwald73@yahoo.com>, Matthew Wheeler <wheeler6415@gmail.com>, Whitney Wheeler <whitwheeler36@gmail.com>, jason@ynkr.org, Rose Marie Zivkovich <rosezivkovich@gmail.com>, Mark Zivkovich <markzivkovich@gmail.com>Subject: 14UAA Team Information﻿Congratulations to the players and families on making the 14UAA team this season. This is an exciting year, as it is the first season we are eligible for Nationals. We are looking forward to a fun and competitive year where we will continue to play elite-level hockey while also building the friendships and team bonds that can last a lifetime.We are extremely excited to have each of you as part of this team and are looking forward to a great season together.Below you will find some important information, and a few items may require feedback or responses from you.Roster:
+Begin forwarded message:From: Matthew Wheeler <wheeler6415@gmail.com>Date: May 21, 2026 at 10:51:07 PM EDTTo: [[Jess Blazok|Jess]] Blazok <jblazok@gmail.com>, mark blazok <blazokma@yahoo.com>, [[Julie Boss|Julie]] Boss <boss.julie4boys@yahoo.com>, danielboss@gmail.com, Sarah Brudi <brudisarah@gmail.com>, Josh Brudi <jsbrudi@gmail.com>, [[Terry Denoyer|Terry]] Denoyer <209escapeartist@gmail.com>, jendenoyer1@gmail.com, morganlmerideth@gmail.com, jasonhenning16@yahoo.com, Andrew Jefferys <Andrewjefferys@gmail.com>, Jenna.jefferys@gmail.com, Kelly Leipprandt <kellyleipprandt@yahoo.com>, joelleipprandtjr@gmail.com, [[Meredith McDonald|Meredith]] McDonald <mere510@gmail.com>, Mike McDonald <thesteeldeal44@gmail.com>, Matt <matthew.earl.myers@gmail.com>, Maria Myers <mariarafferty8@hotmail.com>, Kathleen Pawlanta <kkpawlanta@yahoo.com>, kenpawlanta@icloud.com, [[Theresa Rowell|Theresa]] Rowell <rowelltheresa@yahoo.com>, Joe Rowell <ravenozzie@yahoo.com>, Linda Stumm <stumml_@hotmail.com>, [[Jared Stumm|Jared]] Stumm <stumm_@hotmail.com>, [[Vanessa Tucker|Vanessa]] Tucker <vtucker245@gmail.com>, Nick Tucker <nicktucker24@gmail.com>, [[Shelley Wald|Shelley]] and Derrick <shelleyderrick@gmail.com>, Dirk Wald <dwald73@yahoo.com>, Matthew Wheeler <wheeler6415@gmail.com>, [[Whitney Wheeler|Whitney]] Wheeler <whitwheeler36@gmail.com>, jason@ynkr.org, Rose [[Marie Pence|Marie]] Zivkovich <rosezivkovich@gmail.com>, Mark Zivkovich <markzivkovich@gmail.com>Subject: 14UAA Team Information﻿Congratulations to the players and families on making the 14UAA team this season. This is an exciting year, as it is the first season we are eligible for Nationals. We are looking forward to a fun and competitive year where we will continue to play elite-level hockey while also building the friendships and team bonds that can last a lifetime.We are extremely excited to have each of you as part of this team and are looking forward to a great season together.Below you will find some important information, and a few items may require feedback or responses from you.Roster:
 
 
 
@@ -115,7 +126,7 @@ First Skate and Parents Meeting:We have a skate scheduled on June 2nd. This will
 
 
  Blazok
- Carter
+ [[Carter|Carter]]
  Jess
  Blazok
  jblazok@gmail.com
@@ -172,7 +183,7 @@ First Skate and Parents Meeting:We have a skate scheduled on June 2nd. This will
 
  Henning
  Bentley
- Morgan
+ [[Morgan Merideth|Morgan]]
  Merideth
  morganlmerideth@gmail.com
  231-631-1781

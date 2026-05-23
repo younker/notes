@@ -7,9 +7,8 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- ship
 - email
-- hunting-outdoors
+- ship
 contacts:
 - '[[Jason Younker]]'
 ---

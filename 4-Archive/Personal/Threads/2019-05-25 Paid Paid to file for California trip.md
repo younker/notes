@@ -40,7 +40,7 @@ On May 25, 2019, at 7:39 PM, Jason Younker <jason@ynkr.org<mailto:jason@ynkr.org
 
 We have 3k total so send me the ranch bill as well. Or, to help buffer the next trip, we could save the remainder. Your call. What was the final bill for the ranch?
 
-On May 25, 2019, at 3:24 PM, Heather Younker <heathergoffinet@hotmail.com<mailto:heathergoffinet@hotmail.com>> wrote:
+On May 25, 2019, at 3:24 PM, [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com<mailto:heathergoffinet@hotmail.com>> wrote:
 
 I can't remember how much we have to claim. Let me know if we have more to claim after these are submitted. 🙂
 

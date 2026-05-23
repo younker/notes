@@ -1,12 +1,15 @@
 ---
-subject: "Match #1135 Scheduling"
+subject: 'Match #1135 Scheduling'
 message_count: 2
 first: 2026-02-07
 last: 2026-02-07
 senders:
-  - rjbrower04@gmail.com
+- rjbrower04@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Rory Light]]'
 ---
 
 # Match #1135 Scheduling
@@ -17,7 +20,7 @@ tags: [email]
 
 Good morning,
 
-This is Rory Brower, head coach for the Lakeshore 2012B Premier team. We
+This is [[Rory Light|Rory]] Brower, head coach for the Lakeshore 2012B Premier team. We
 are scheduled to host your team this spring season.
 
 Below are the dates and times I currently have available. Please let me

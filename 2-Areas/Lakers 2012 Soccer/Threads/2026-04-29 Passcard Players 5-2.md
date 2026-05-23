@@ -8,8 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
+- '[[Derek Shankland]]'
 ---
 
 # Passcard Players 5/2
@@ -23,7 +25,7 @@ Jason,
 I have one decline, one confirmation, and two pending for Saturday. I will
 make sure you have the passcard in hand before the weekend.
 
-Derek can probably ask two of his contacts specific to their interest in
+[[Derek Shankland|Derek]] can probably ask two of his contacts specific to their interest in
 passcarding.
 
 Bryan

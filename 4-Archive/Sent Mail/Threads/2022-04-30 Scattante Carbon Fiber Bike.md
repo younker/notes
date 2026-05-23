@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Jared Stumm]]'
 ---
 
 # Scattante Carbon Fiber Bike
@@ -30,7 +31,7 @@ https://columbus.craigslist.org/bik/d/lewis-center-scattante-carbon-fiber-bike/7
 
 *Subject: Re: Scattante Carbon Fiber Bike*
 
-Sorry Jared, I was searching in the wrong Columbus so you can count me out on this bike.
+Sorry [[Jared Stumm|Jared]], I was searching in the wrong Columbus so you can count me out on this bike.
 
 Jason
 

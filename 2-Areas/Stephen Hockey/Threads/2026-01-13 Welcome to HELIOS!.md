@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -25,7 +24,7 @@ Begin forwarded message:
 
 From: HELIOS Hockey <bill@helioshockey.com>
 Date: January 6, 2026 at 11:29:39 AM EST
-To: Heather Younker <heathergoffinet@hotmail.com>
+To: [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>
 Subject: Welcome to HELIOS!
 Reply-To: support@helioshockey.com
 

@@ -10,9 +10,11 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 contacts:
 - '[[Jason Younker]]'
+- '[[Doug Hughes]]'
+- '[[Henry Pfeifer]]'
 ---
 
 # USA Coaching CEP
@@ -30,7 +32,7 @@ Thanks
 
 --
 
-Henry Pfeifer
+[[Henry Pfeifer|Henry]] Pfeifer
 PAHA Registrar
 
 Petoskey Area Hockey Association Website
@@ -56,7 +58,7 @@ Please excuse typos.  Sent from a frustratingly small phone....
 ________________________________
 From: Petoskey Area Hockey Registration <petoskeyhockeyregistrar@gmail.com>
 Sent: Tuesday, November 18, 2025 7:36:33 PM
-To: Ben Van Dam <ben@vandamboats.com>; Doug Nowels <dnowels@reopetoskey.com>; Ryan Deery <rdeery@gmail.com>; Patrick Barton <pbarton02@gmail.com>; Brian Kasiborski <bkasiborski@gmail.com>; MOOSEMAN03@gmail.com <MOOSEMAN03@gmail.com>; JASON@ynkr.org <JASON@ynkr.org>
+To: Ben Van Dam <ben@vandamboats.com>; [[Doug Hughes|Doug]] Nowels <dnowels@reopetoskey.com>; Ryan Deery <rdeery@gmail.com>; Patrick Barton <pbarton02@gmail.com>; Brian Kasiborski <bkasiborski@gmail.com>; MOOSEMAN03@gmail.com <MOOSEMAN03@gmail.com>; JASON@ynkr.org <JASON@ynkr.org>
 Subject: USA Coaching CEP
 
 USA hockey says your CEP expires 12/31/25.  Please log into your portal and check what needs to be done.  This must be completed before the end of the year because they stop doing them at the end of the year.  Please let me know if you have any questions.

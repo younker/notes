@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hunting-outdoors
 ---
 
 # Alaska Fish and Game license: Order number 2768958

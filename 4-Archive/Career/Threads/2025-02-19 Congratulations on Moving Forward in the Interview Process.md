@@ -8,7 +8,6 @@ senders:
 - no-reply@ats.rippling.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

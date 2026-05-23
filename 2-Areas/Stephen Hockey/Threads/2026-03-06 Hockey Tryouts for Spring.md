@@ -7,11 +7,10 @@ senders:
 - heathergoffinet@hotmail.com
 type: email-thread
 tags:
-- career
 - email
-- hockey
 contacts:
 - '[[Heather Younker]]'
+- '[[Fedor Fedorov]]'
 ---
 
 # Hockey Tryouts for Spring
@@ -107,7 +106,7 @@ Sunday 3/22 1-2:00
 Stephen's Hockey Training (insert stats and highlights) need to list others?
 
   *
-2022-Current Fedor Federov Hockey Academy Training
+2022-Current [[Fedor Fedorov|Fedor]] Federov Hockey Academy Training
   *
 2025 Silver Sticks Tournament, Port Huron, Champion
   *
@@ -138,7 +137,7 @@ A bunch more just got listed here 2026 - 2027 Select/Travel Team Tryout Locator 
 We should figure this out today/tomorrow and register. We should just plan on that week being tryouts - they are all in a general area. He might not be able to attend both tryouts for some teams but if he doesn't have anything on a day, we should see if they will let him tryout  even if he misses a day
 
 ________________________________
-From: Heather Younker <heathergoffinet@hotmail.com>
+From: [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>
 Sent: Friday, March 6, 2026 12:38 PM
 To: Jason Younker <jason@ynkr.org>
 Subject: Hockey Tryouts for Spring

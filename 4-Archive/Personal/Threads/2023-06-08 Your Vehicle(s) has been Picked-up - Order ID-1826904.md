@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
 ---
 
 # Your Vehicle(s) has been Picked-up - Order ID:1826904

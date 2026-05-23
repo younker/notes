@@ -35,7 +35,7 @@ Open this message to review your booking details.       View In Web<http://l.res
 
 
 [Choice Privileges®]<http://l.reservations.choicehotels.com/rts/go2.aspx?h=636070&tp=i-16EB-Iu-6Xp-dYy2QB-1o-8PUPS-1c-YS9T-lCLIYTDaNW-1NqylL&pi=jZP6rWx05AcVQ09ZjfB_PBO5E0Z45tRlIhFVJA1xQ4A&x=EMCHRES%7ccph=%7ci-16EB-Iu-6Xp-dYy2QB-1o-8PUPS-1c-YS9T-lCLIYTDaNW-1NqylL&hp2=588e2667979ff3e5c553c3e483fd61fef597eddc777b906d3c68dc5c7553ab16>
-Heather's Account: #HXY3520
+[[Heather Younker|Heather]]'s Account: #HXY3520
 Membership Level: Member
 View Account ›<http://l.reservations.choicehotels.com/rts/go2.aspx?h=457143&tp=i-16EB-Iu-6Xp-dYy2QB-1o-8PUPS-1c-YS9T-lCLIYTDaNW-1NqylL&pi=jZP6rWx05AcVQ09ZjfB_PBO5E0Z45tRlIhFVJA1xQ4A&x=en-US%7cEMCHRES%7ccph=%7ci-16EB-Iu-6Xp-dYy2QB-1o-8PUPS-1c-YS9T-lCLIYTDaNW-1NqylL&hp2=8c801801c6fb7a400e99f9f33ad436c631b2e2517f285a8111a10179873a9506>
 

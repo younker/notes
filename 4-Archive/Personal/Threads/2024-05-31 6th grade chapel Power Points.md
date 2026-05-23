@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- school
 ---
 
 # 6th grade chapel Power Points

@@ -7,6 +7,7 @@ senders:
 - invoice+statements@mail.anthropic.com
 type: email-thread
 tags:
+- anthropic
 - email
 ---
 

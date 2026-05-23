@@ -7,8 +7,10 @@ senders:
 - benefits@stagwellglobal.com
 type: email-thread
 tags:
-- career
 - email
+- job-search-2024
+contacts:
+- '[[Susan Horner]]'
 ---
 
 # Ticket Updated: INC-7842 - RE: Circling Back
@@ -19,7 +21,7 @@ tags:
 
 *Subject: Re: Ticket Updated: INC-7842 - RE: Circling Back*
 
-Hi Jason,      If you are happy with the $300,000, you can ignore the EOI and it will automatically close out after 6 months.       Sincerely,   Susan Lucas   SVP, Total Rewards M: 813-434-0127  susan.lucas@stagwellglobal.com  Pronouns: she/her  http://www.stagwellglobal.com
+Hi Jason,      If you are happy with the $300,000, you can ignore the EOI and it will automatically close out after 6 months.       Sincerely,   [[Susan Horner|Susan]] Lucas   SVP, Total Rewards M: 813-434-0127  susan.lucas@stagwellglobal.com  Pronouns: she/her  http://www.stagwellglobal.com
          On Fri, 14 Nov 12:17 PM
           ,  Kat &lt;kat.grolle@harrispoll.com&gt;  wrote:
 

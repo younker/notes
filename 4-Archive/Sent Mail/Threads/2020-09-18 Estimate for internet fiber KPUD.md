@@ -10,6 +10,9 @@ tags:
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Janell Eckhardt]]'
+- '[[Susie (Gorman) Stricker]]'
+- '[[Susan Horner]]'
 ---
 
 # Estimate for internet fiber KPUD
@@ -36,11 +39,11 @@ Jason
 >> From: Vivienne <vvalpaugh@aol.com>
 >> Date: September 13, 2020 at 3:25:27 PM PDT
 >> To: Jason Younker <jason@ynkr.org>, DAN TRIPPS <dtripps@comcast.net>
->> Cc: Janell Eckhardt <dantekimo@hotmail.com>, Maria Metzler <maria.metzler@gmail.com>, Susan Stricker <smstricker59@gmail.com>
+>> Cc: [[Janell Eckhardt|Janell]] Eckhardt <dantekimo@hotmail.com>, Maria Metzler <maria.metzler@gmail.com>, [[Susan Horner|Susan]] Stricker <smstricker59@gmail.com>
 >> Subject: Estimate for internet fiber KPUD
 >>
 >> ﻿
->> Dan and Jason (Maria, Janell and Susie- just copying you guys to keep you updated),
+>> Dan and Jason (Maria, Janell and [[Susie (Gorman) Stricker|Susie]]- just copying you guys to keep you updated),
 >> The first step apparently is to get an estimate for pulling fiber down to our houses. I filled out this request for estimate and I recommend you do, as well. It sounds like it will be a few weeks before we hear back with the estimate. I’ll let you know as soon as I hear back.
 >>
 >> Vivienne Alpaugh

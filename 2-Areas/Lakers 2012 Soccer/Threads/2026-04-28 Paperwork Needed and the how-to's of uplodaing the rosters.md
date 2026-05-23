@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- soccer
 ---
 
 # Paperwork Needed and the how-to's of uplodaing the rosters

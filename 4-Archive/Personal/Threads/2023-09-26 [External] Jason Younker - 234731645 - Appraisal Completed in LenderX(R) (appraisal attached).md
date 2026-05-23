@@ -7,8 +7,10 @@ senders:
 - nathan@rate.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
+contacts:
+- '[[Nathan Craghill]]'
 ---
 
 # [External] Jason Younker - 234731645 - Appraisal Completed in LenderX(R) (appraisal attached)
@@ -22,7 +24,7 @@ tags:
 
 Please find attached appraisal. Thanks!!
 
-Nathan Steiner
+[[Nathan Craghill|Nathan]] Steiner
 Producing Branch Mgr/ SVP of Mortgage Lending
 nathan@rate.com
 Apply Now: www.rate.com/nathansteiner

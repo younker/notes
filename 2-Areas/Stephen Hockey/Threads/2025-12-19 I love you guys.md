@@ -8,9 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Chris Firman]]'
+- '[[Vincent Athen]]'
 ---
 
 # I love you guys.
@@ -45,7 +45,7 @@ always will be. I truly care about You, Ashley, and the boys. They're two
 of the best kids I coach. My kids say I love them more than them... I'll
 fight for your kids more than my own. (JIll fights for them, and I dare
 anyone to mess with her;) ) Same with David, Connor, Blake, and Stephen. We
-have a 14U team because of one 14yo, Connor. Which led to Brody, Vincent,
+have a 14U team because of one 14yo, Connor. Which led to Brody, [[Vincent Athen|Vincent]],
 and now Jacob. I couldn't stand the thought of telling Connor "Sorry you
 can't play this year" This team is not about my daughter. It's for all of
 the kids. Not sure where it came from but it's not the "PPP" Please let me

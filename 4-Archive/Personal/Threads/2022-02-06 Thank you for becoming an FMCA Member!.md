@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+- tiffin-rv
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -25,7 +25,7 @@ Begin forwarded message:
 
 From: FMCA noreply <noreply@fmca.com>
 Date: February 1, 2022 at 10:48:26 AM PST
-To: "Younker, Heather" <heathergoffinet@hotmail.com>
+To: "Younker, [[Heather Younker|Heather]]" <heathergoffinet@hotmail.com>
 Subject: Thank you for becoming an FMCA Member!
 
 ﻿ Hello, Heather!

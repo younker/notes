@@ -1,12 +1,14 @@
 ---
-subject: "Your Luna Application - Status Update"
+subject: Your Luna Application - Status Update
 message_count: 1
 first: 2025-03-05
 last: 2025-03-05
 senders:
-  - no-reply@hire.lever.co
+- no-reply@hire.lever.co
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Your Luna Application - Status Update

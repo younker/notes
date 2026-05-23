@@ -7,11 +7,13 @@ senders:
 - hit-reply@dotloop.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
+contacts:
+- '[[William Gilliland]]'
 ---
 
-# William needs you to sign * Purchase Agreement in 720 Jennings Ave, Petoskey MI 49770
+# [[William Gilliland|William]] needs you to sign * Purchase Agreement in 720 Jennings Ave, Petoskey MI 49770
 
 **1 message** on 2023-09-16
 

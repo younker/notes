@@ -9,9 +9,8 @@ senders:
 - kristyn.bradley@harrispoll.com
 type: email-thread
 tags:
-- career
 - email
-- health
+- job-search-2024
 contacts:
 - '[[Jason Younker]]'
 - '[[Kat Grolle]]'

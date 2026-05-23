@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- soccer
 ---
 
 # Petoskey Grassroots Courses 7v7 and 11v11

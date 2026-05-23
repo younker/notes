@@ -1,12 +1,14 @@
 ---
-subject: "Jason - Smartcar Update"
+subject: Jason - Smartcar Update
 message_count: 1
 first: 2024-12-12
 last: 2024-12-12
 senders:
-  - no-reply@hire.lever.co
+- no-reply@hire.lever.co
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Jason - Smartcar Update

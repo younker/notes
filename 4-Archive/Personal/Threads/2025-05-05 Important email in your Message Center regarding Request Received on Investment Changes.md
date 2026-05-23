@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- school
 ---
 
 # Important email in your Message Center regarding Request Received on Investment Changes

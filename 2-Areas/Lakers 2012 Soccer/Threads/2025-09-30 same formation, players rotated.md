@@ -10,6 +10,8 @@ tags:
 - email
 contacts:
 - '[[Brent Bolin]]'
+- '[[Gavin]]'
+- '[[Graham]]'
 ---
 
 # same formation, players rotated
@@ -18,7 +20,7 @@ contacts:
 
 ## 1. 2025-09-30 16:05 — brentcbolin@gmail.com
 
-Keeps 3-1-4-2, moves Gavin to the 6, Graham to the 8, and Ro to a 9. Gives
+Keeps 3-1-4-2, moves [[Gavin|Gavin]] to the 6, [[Graham|Graham]] to the 8, and Ro to a 9. Gives
 Gavin more space to run around in and gets Graham and Ro both higher up the
 pitch and also hopefully into more space.
 

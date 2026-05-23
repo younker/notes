@@ -7,9 +7,8 @@ senders:
 - charles@landtrust.org
 type: email-thread
 tags:
+- 720-jennings
 - email
-- hunting-outdoors
-- real-estate
 ---
 
 # Jason Younker Hunting Permission - Little Traverse Conservancy

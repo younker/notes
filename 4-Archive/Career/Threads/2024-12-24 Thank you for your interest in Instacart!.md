@@ -7,7 +7,6 @@ senders:
 - no-reply@instacart.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

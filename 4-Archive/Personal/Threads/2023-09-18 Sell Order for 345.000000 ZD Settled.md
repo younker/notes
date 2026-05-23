@@ -1,12 +1,15 @@
 ---
-subject: "Sell Order for 345.000000 ZD Settled"
+subject: Sell Order for 345.000000 ZD Settled
 message_count: 1
 first: 2023-09-18
 last: 2023-09-18
 senders:
-  - E-tradeAlerts-DoNotReply@etrade.com
+- E-tradeAlerts-DoNotReply@etrade.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Morgan Merideth]]'
 ---
 
 # Sell Order for 345.000000 ZD Settled
@@ -61,6 +64,6 @@ To learn more about stock plan benefits, see our extensive library of online art
 
 
 Change or manage your alert delivery preferences.
-(c) 2023 Securities products offered by E*TRADE Securities LLC (ETS), Member SIPC or Morgan Stanley Smith Barney LLC (MSSB), Member SIPC. Both entities are separate but affiliated subsidiaries of Morgan Stanley. Throughout 2023, ETS will be transitioning existing clients to MSSB. Important disclosures.
+(c) 2023 Securities products offered by E*TRADE Securities LLC (ETS), Member SIPC or [[Morgan Merideth|Morgan]] Stanley Smith Barney LLC (MSSB), Member SIPC. Both entities are separate but affiliated subsidiaries of Morgan Stanley. Throughout 2023, ETS will be transitioning existing clients to MSSB. Important disclosures.
 
 ---

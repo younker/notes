@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 ---
 
 # Reservation Confirmation #84936350 for Courtyard by Marriott Holland Downtown

@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+- tiffin-rv
 ---
 
 # Vehicle Report of Sale Confirmation Number: 0-049-003-729

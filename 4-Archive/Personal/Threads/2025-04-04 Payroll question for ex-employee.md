@@ -7,8 +7,8 @@ senders:
 - sara.laurencic@moz.com
 type: email-thread
 tags:
-- career
 - email
+- moz
 ---
 
 # Payroll question for ex-employee

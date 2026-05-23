@@ -7,7 +7,6 @@ senders:
 - noreply@zohocalendar.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

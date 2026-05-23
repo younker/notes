@@ -1,12 +1,16 @@
 ---
-subject: "Helius - Intro Call"
+subject: Helius - Intro Call
 message_count: 1
 first: 2026-04-21
 last: 2026-04-21
 senders:
-  - k.devaldivielso@helius.xyz
+- k.devaldivielso@helius.xyz
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
+contacts:
+- '[[Kyle Lieberman]]'
 ---
 
 # Helius - Intro Call
@@ -30,6 +34,6 @@ In the meantime, I encourage you to check out our website
 any questions that come up!
 
 Looking forward to connecting,
-Kyle
+[[Kyle Lieberman|Kyle]]
 
 ---

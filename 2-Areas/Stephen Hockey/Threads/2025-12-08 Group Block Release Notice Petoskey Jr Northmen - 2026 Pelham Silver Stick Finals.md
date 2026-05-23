@@ -9,7 +9,7 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Chris Firman]]'
 ---

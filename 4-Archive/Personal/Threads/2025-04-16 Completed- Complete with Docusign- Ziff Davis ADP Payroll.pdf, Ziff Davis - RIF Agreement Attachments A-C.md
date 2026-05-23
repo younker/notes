@@ -8,8 +8,8 @@ senders:
 - sara.laurencic@moz.com
 type: email-thread
 tags:
-- career
 - email
+- moz
 ---
 
 # Completed: Complete with Docusign: Ziff Davis ADP Payroll.pdf, Ziff Davis - RIF Agreement Attachments A-C....

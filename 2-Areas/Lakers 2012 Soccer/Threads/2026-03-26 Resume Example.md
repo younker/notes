@@ -7,8 +7,8 @@ senders:
 - bryan@petoskeysoccer.com
 type: email-thread
 tags:
-- career
 - email
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
 ---

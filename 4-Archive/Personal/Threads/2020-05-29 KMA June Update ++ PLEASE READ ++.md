@@ -7,7 +7,6 @@ senders:
 - brian@kitsapmartialarts.com
 type: email-thread
 tags:
-- church
 - email
 contacts:
 - '[[Brian Church]]'

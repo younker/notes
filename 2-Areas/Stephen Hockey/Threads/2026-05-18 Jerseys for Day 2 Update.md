@@ -9,7 +9,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Heather Younker]]'
 - '[[Matthew Wheeler]]'
@@ -53,7 +52,7 @@ Which team was their strong team last year? How are you interpreting his placeme
 ________________________________
 From: Jason Younker <jason@ynkr.org>
 Sent: Tuesday, May 19, 2026 2:35 PM
-To: Heather Younker <heathergoffinet@hotmail.com>
+To: [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>
 Subject: Fwd: Jerseys for Day 2 Update
 
 This is for today. He is red again. In his group…

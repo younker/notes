@@ -7,8 +7,11 @@ senders:
 - Chris.Lundeen@rate.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
+contacts:
+- '[[Heather Younker]]'
+- '[[Nathan Craghill]]'
 ---
 
 # [External] Welcome Letter and Important Information - Younker - Purchase/Full Appraisal - Closing 10/13/2023
@@ -25,7 +28,7 @@ That should be fine.  We will review and give you an update.
 From: Jason Younker <jason@ynkr.org>
 Sent: Friday, September 22, 2023 10:28 AM
 To: Chris Lundeen <Chris.Lundeen@rate.com>
-Cc: Thea Valiga <Thea.Valiga@rate.com>; Heather Younker <heathergoffinet@hotmail.com>; Nathan Steiner <nathan@rate.com>
+Cc: Thea Valiga <Thea.Valiga@rate.com>; [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>; [[Nathan Craghill|Nathan]] Steiner <nathan@rate.com>
 Subject: Re: [External] Welcome Letter and Important Information - Younker - Purchase/Full Appraisal - Closing 10/13/2023
 
 Hello Chris,

@@ -7,8 +7,8 @@ senders:
 - noreply@aditiconsulting.com
 type: email-thread
 tags:
-- career
 - email
+- job-search-2024
 ---
 
 # A New Way to Connect with Aditi Consulting Careers

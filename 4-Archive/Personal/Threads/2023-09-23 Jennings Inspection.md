@@ -55,6 +55,6 @@ Concession of $12,000 to handle the following items:
 Let me know if we need to discuss.
 Thank you for your continued efforts on our behalf!
 We appreciate you,
-Heather & Jason
+[[Heather Younker|Heather]] & Jason
 
 ---

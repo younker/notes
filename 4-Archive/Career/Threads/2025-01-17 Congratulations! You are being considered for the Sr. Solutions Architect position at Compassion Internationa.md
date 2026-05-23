@@ -7,7 +7,6 @@ senders:
 - compassion@myworkday.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

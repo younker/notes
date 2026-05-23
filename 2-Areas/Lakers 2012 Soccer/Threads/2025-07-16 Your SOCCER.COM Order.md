@@ -7,10 +7,9 @@ senders:
 - custserv@sportsendeavors.com
 type: email-thread
 tags:
-- ship
+- 720-jennings
 - email
-- real-estate
-- soccer
+- ship
 ---
 
 # Your SOCCER.COM Order

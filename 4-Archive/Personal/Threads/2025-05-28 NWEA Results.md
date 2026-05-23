@@ -1,12 +1,14 @@
 ---
-subject: "NWEA Results"
+subject: NWEA Results
 message_count: 1
 first: 2025-05-28
 last: 2025-05-28
 senders:
-  - ebarnes@harborlight.org
+- ebarnes@harborlight.org
 type: email-thread
-tags: [email]
+tags:
+- email
+- harborlight
 ---
 
 # NWEA Results

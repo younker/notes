@@ -1,12 +1,14 @@
 ---
-subject: "Your application to Astronomer"
+subject: Your application to Astronomer
 message_count: 1
 first: 2024-12-14
 last: 2024-12-14
 senders:
-  - no-reply@ashbyhq.com
+- no-reply@ashbyhq.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Your application to Astronomer

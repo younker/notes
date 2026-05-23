@@ -10,10 +10,10 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Brandon Cook]]'
+- '[[Amanda Athan]]'
 ---
 
 # Stay to Play restrictions
@@ -123,7 +123,7 @@ On Tue, Dec 16, 2025 at 10:45 AM Jason Younker <jason@ynkr.org> wrote:
 > Chris Firman, cfirman16@gmail.com, 2, 3
 > Brian Kasiborski, bkasiborski@gmail.com, 1, 2
 > Danielle Schopp, danielleschopp@yahoo.com, 2, 1
-> Amanda Athan, awood@lssu.edu, 1, 1
+> [[Amanda Athan|Amanda]] Athan, awood@lssu.edu, 1, 1
 > Cathryn Needham, run.needham@comcast.net, 1, 1
 > Scott Eggeman, scotteggeman@gmail.com, 1, 1
 > Jason Reeb, reebjason@gmail.com, 1, 1

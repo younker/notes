@@ -8,9 +8,12 @@ senders:
 type: email-thread
 tags:
 - email
-- school
+- harborlight
 contacts:
 - '[[Jason Younker]]'
+- '[[Cole]]'
+- '[[Tracy]]'
+- '[[Susan Horner]]'
 ---
 
 # Parent meeting! and audition info
@@ -23,7 +26,7 @@ contacts:
 
 Begin forwarded message:
 
-> From: Michele Cole <mcole@harborlight.org>
+> From: Michele [[Cole|Cole]] <mcole@harborlight.org>
 > Date: August 16, 2023 at 1:52:28 PM EDT
 > To: jason@ynkr.org
 > Subject: Parent meeting! and audition info
@@ -61,10 +64,10 @@ Begin forwarded message:
 > Audition Dates: 8/21 & 8/22
 > 6:30pm Crooked Tree Arts Center Stage
 > Show Dates: 11/2-11/5 & 11/9- 11/11
-> Director: Tracy Ulrich
+> Director: [[Tracy|Tracy]] Ulrich
 > Casting: 2 Male, 2 Female, 12+ roles for either (all ages)
 >
-> This dramatization of C.S. Lewis' classic work faithfully recreates the magic and mystery of Aslan, the great lion, his struggle with the White Witch, and the adventures of four children who inadvertently wander from an old wardrobe into the exciting, never-to-be-forgotten Narnia. The intense action features chases, duels and escapes as the witch is determined to keep Narnia in her possession and to end the reign of Aslan. All the memorable episodes from the story are represented in this exciting dramatization: the temptation of Edmund by the witch, the slaying of the evil wolf by Peter, the witnessing of Aslan's resurrection by Susan and Lucy, the crowing of the four new rulers of Narnia, and more. The supporting characters are also here: the unicorn, the centaur and other forest animals, along with Father Christmas, Mr. and Mrs. Beaver and Tumnus the Faun. This story of love, faith, courage and giving, with its triumph of good over evil, is a true celebration of life.
+> This dramatization of C.S. Lewis' classic work faithfully recreates the magic and mystery of Aslan, the great lion, his struggle with the White Witch, and the adventures of four children who inadvertently wander from an old wardrobe into the exciting, never-to-be-forgotten Narnia. The intense action features chases, duels and escapes as the witch is determined to keep Narnia in her possession and to end the reign of Aslan. All the memorable episodes from the story are represented in this exciting dramatization: the temptation of Edmund by the witch, the slaying of the evil wolf by Peter, the witnessing of Aslan's resurrection by [[Susan Horner|Susan]] and Lucy, the crowing of the four new rulers of Narnia, and more. The supporting characters are also here: the unicorn, the centaur and other forest animals, along with Father Christmas, Mr. and Mrs. Beaver and Tumnus the Faun. This story of love, faith, courage and giving, with its triumph of good over evil, is a true celebration of life.
 >
 > Rehearsal Schedule will be determined after casting and will be 3-4 nights per week for main characters.
 >

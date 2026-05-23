@@ -7,8 +7,8 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- career
 - email
+- moz
 contacts:
 - '[[Jason Younker]]'
 ---

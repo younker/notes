@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -25,7 +24,7 @@ Begin forwarded message:
 
 From: "Furgeson, Tasha" <furgeso2@msu.edu>
 Date: August 8, 2023 at 10:33:55 AM EDT
-To: Heather Younker <heatheryounker@outlook.com>
+To: [[Heather Younker|Heather]] Younker <heatheryounker@outlook.com>
 Subject: Re: 7 Days left for Boyne Area Soccer Sign Up
 
 ﻿

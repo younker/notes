@@ -8,6 +8,7 @@ senders:
 - wongma@dshs.wa.gov
 type: email-thread
 tags:
+- cascadia-yakima
 - email
 contacts:
 - '[[Justin Younker]]'

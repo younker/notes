@@ -8,9 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
 contacts:
 - '[[Heather Younker]]'
+- '[[Jeremy Barker]]'
+- '[[Alicia Fettig]]'
 ---
 
 # Hockey Info I could find for scheduling....
@@ -43,7 +44,7 @@ Phone: 231-564-8676
 They have registration open for 14U but couldn't find any info. Here is the board contact info KAHA Board Members<https://www.kalkaskahockey.org/contact>
 
 Alpena
-Jeremy Sims
+[[Jeremy Barker|Jeremy]] Sims
 Alpena Hockey Association
 Phone: 720-987-6532
 Looks like they will have 14U House team, they are on the practice schedule. Here is last years info to track down contact Alpena Hockey Association | 14U Bantams | Recreational Hockey Season | AHA 2024-25 Registration<https://www.alpenahockey.org/team/76211>
@@ -53,7 +54,7 @@ ChrisPiskor
 Cadillac Hockey Association
 Phone: 231-920-2428
 14U Head Coach: Zak Beckhardt?
-Alicia Throop<https://www.cadillachockey.com/about/board-members/103498>, CAHA Scheduler
+[[Alicia Fettig|Alicia]] Throop<https://www.cadillachockey.com/about/board-members/103498>, CAHA Scheduler
 This is the only other phone number I see listed on their page, Will Lizenby, CAHA Equipment Director, (231) 878-4853
 Tournament option: Fall Freeze<https://www.cadillachockey.com/program/fall-freeze-tournament/26842> Nov 28-30
 

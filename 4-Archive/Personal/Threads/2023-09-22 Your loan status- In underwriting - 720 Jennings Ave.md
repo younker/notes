@@ -7,8 +7,10 @@ senders:
 - nathan@rate.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
+contacts:
+- '[[Nathan Craghill]]'
 ---
 
 # Your loan status: In underwriting - 720 Jennings Ave
@@ -71,7 +73,7 @@ Contact me directly with any questions!
 
 
 
- Nathan Steiner
+ [[Nathan Craghill|Nathan]] Steiner
  Producing Branch Manager/SVP of Mortgage Lending
  nathan@rate.com
  rate.com/nathansteiner

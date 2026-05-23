@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to Assembled"
+subject: Thank you for applying to Assembled
 message_count: 2
 first: 2025-01-06
 last: 2025-01-13
 senders:
-  - no-reply@ashbyhq.com
+- no-reply@ashbyhq.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thank you for applying to Assembled

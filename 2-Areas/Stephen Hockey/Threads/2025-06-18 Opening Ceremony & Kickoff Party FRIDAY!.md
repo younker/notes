@@ -10,6 +10,7 @@ tags:
 - email
 contacts:
 - '[[Heather Younker]]'
+- '[[Kendra Hanses]]'
 ---
 
 # Opening Ceremony & Kickoff Party FRIDAY!
@@ -56,7 +57,7 @@ Kickoff Party
   *   Food trucks
   *   Beer tent
   *   Raffle
-     *   The Lumineers tickets, Bert Kreischer tickets, Kendra Scott, West Michigan Whitecaps tickets, and more available!
+     *   The Lumineers tickets, Bert Kreischer tickets, [[Kendra Hanses|Kendra]] Scott, West Michigan Whitecaps tickets, and more available!
 Click to view all prizes.<https://82jqu.r.a.d.sendibm1.com/mk/cl/f/sh/1t6Af4OiGsE8LIkmYefY5fOYbXBn3U/uV2l5Q23uUg_>
   *   Games and activities brought to you by Meijer and Battle GR
   *   Free charm for first 200 people at the champion bracelet station

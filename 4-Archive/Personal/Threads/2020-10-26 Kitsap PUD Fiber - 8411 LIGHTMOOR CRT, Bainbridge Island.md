@@ -10,6 +10,8 @@ tags:
 - email
 contacts:
 - '[[Vivian Alpaugh]]'
+- '[[Heather Younker]]'
+- '[[Allison Fly]]'
 ---
 
 # Kitsap PUD Fiber - 8411 LIGHTMOOR CRT, Bainbridge Island
@@ -40,7 +42,7 @@ Perfect! Thanks!
 On Oct 19, 2020, at 1:25 PM, Jason Younker <jason@ynkr.org> wrote:
 
 
-﻿Me and Heather will chat about it tonight and we will get back to you soon.
+﻿Me and [[Heather Younker|Heather]] will chat about it tonight and we will get back to you soon.
 Jason
 
 
@@ -78,7 +80,7 @@ Begin forwarded message:
 From: Maria Bezushko <mbezushko@kpud.org>
 Date: October 9, 2020 at 2:08:44 PM PDT
 To: Vivienne <vvalpaugh@aol.com>
-Cc: Allison Cotner <acotner@kpud.org>
+Cc: [[Allison Fly|Allison]] Cotner <acotner@kpud.org>
 Subject: RE:  Kitsap PUD Fiber - 8411 LIGHTMOOR CRT, Bainbridge Island
 
 

@@ -7,8 +7,8 @@ senders:
 - jessica.boone@rateins.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
 ---
 
 # UPDATED AUTO POLICY AND ID CARD

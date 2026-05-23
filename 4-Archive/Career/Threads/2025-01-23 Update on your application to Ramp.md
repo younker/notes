@@ -1,12 +1,14 @@
 ---
-subject: "Update on your application to Ramp"
+subject: Update on your application to Ramp
 message_count: 1
 first: 2025-01-23
 last: 2025-01-23
 senders:
-  - no-reply@ashbyhq.com
+- no-reply@ashbyhq.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Update on your application to Ramp

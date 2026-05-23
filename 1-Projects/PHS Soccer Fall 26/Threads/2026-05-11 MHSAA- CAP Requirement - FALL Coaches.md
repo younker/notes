@@ -8,7 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+contacts:
+- '[[Kathy Cooper]]'
 ---
 
 # MHSAA: CAP Requirement - FALL Coaches
@@ -38,7 +39,7 @@ Best regards,
 
 Sent by Kiersten Anstead on behalf of:
 
-Kathy Vruggink Westdorp
+[[Kathy Cooper|Kathy]] Vruggink Westdorp
 Senior Assistant Director
 Michigan High School Athletic Association
 1661 Ramblewood Drive<https://link.edgepilot.com/s/cbaac44e/BMV37Xk8ZEmq_S9CES7h0w?u=https://mandrillapp.com/track/click/30936621/link.edgepilot.com?p=eyJzIjoiZ0x4Vjh4ak9CeENiSy12VGFwRHQxemdGaXFzIiwidiI6MSwicCI6IntcInVcIjozMDkzNjYyMSxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2xpbmsuZWRnZXBpbG90LmNvbVxcXC9zXFxcLzllYmYyOTM4XFxcL0ZXWjB5UURLZ0UyTWlPZFNhNTM3RkE_dT1odHRwczpcXFwvXFxcL3d3dy5nb29nbGUuY29tXFxcL21hcHNcXFwvc2VhcmNoXFxcLzE2NjElMkJSYW1ibGV3b29kJTJCRHJpdmUlMkIlMjUwRCUyNTBBRWFzdCUyQkxhbnNpbmclMkMlMkJNaWNoaWdhbiUyQjQ4ODIzP2VudHJ5PWdtYWlsJTI2c291cmNlPWdcIixcImlkXCI6XCJmNTFkYzQ4YWQwNTY0YTQ1YTBkMGY4NzRiYWEwNzYwYVwiLFwidXJsX2lkc1wiOltcIjcxOTQzODRmMDQyOTE4MDM1OTNmN2NmZjc2NzhmYTlkMmMwMWNlNzNcIl19In0>

@@ -7,7 +7,6 @@ senders:
 - hit-reply@linkedin.com
 type: email-thread
 tags:
-- career
 - email
 ---
 

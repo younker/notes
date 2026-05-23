@@ -7,9 +7,11 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
+- cascadia-yakima
 - email
 contacts:
 - '[[Jason Younker]]'
+- '[[Pierce]]'
 ---
 
 # API Access to Operator Data
@@ -57,7 +59,7 @@ Begin forwarded message:
 > Spokane, WA
 > The geographic footprints of each can be visualized via the metro market coverage link below:
 > https://www.nic.org/nic-map/senior-living-properties-metro-coverage-map/
-> The fee to access a single market via our Local subscription offering, which provides current inventory counts with operator, competitive set characteristics, construction pipeline, data, and more, this can be provided for $3,000/annual, providing for updated data sets on a quarterly basis.   The Seattle, WA will provide data for King County, Pierce County and Snohomish County.
+> The fee to access a single market via our Local subscription offering, which provides current inventory counts with operator, competitive set characteristics, construction pipeline, data, and more, this can be provided for $3,000/annual, providing for updated data sets on a quarterly basis.   The Seattle, WA will provide data for King County, [[Pierce|Pierce]] County and Snohomish County.
 > I’ve attached some sample outputs for your review (data redacted).
 > Please let me know if I can be of additional assistance or if you’d like to further discuss best next steps and timing for accessing the data sets.
 > Thanks Jason.

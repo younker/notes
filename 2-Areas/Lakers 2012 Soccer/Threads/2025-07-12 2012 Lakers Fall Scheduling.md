@@ -8,9 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
+- '[[Traci Wong]]'
 ---
 
 # 2012 Lakers Fall Scheduling
@@ -21,7 +22,7 @@ contacts:
 
 2012 Lakers Staff,
 
-Danielle and Traci, thank you for your willingness to co-manage the team
+Danielle and [[Traci Wong|Traci]], thank you for your willingness to co-manage the team
 for the fall season.
 
 Jason and Brent, thank you for your willingness to coach the team and work

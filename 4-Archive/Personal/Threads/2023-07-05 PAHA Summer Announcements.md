@@ -9,7 +9,7 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
 contacts:
 - '[[Heather Younker]]'
 ---
@@ -76,7 +76,7 @@ Begin forwarded message:
 
 From: Jason Younker <jason@ynkr.org>
 Date: July 5, 2023 at 11:51:43 PM EDT
-To: Heather Younker <heathergoffinet@hotmail.com>
+To: [[Heather Younker|Heather]] Younker <heathergoffinet@hotmail.com>
 Subject: Fwd: PAHA Summer Announcements
 
 ﻿

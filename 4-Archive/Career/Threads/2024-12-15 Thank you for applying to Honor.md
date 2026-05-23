@@ -1,12 +1,14 @@
 ---
-subject: "Thank you for applying to Honor"
+subject: Thank you for applying to Honor
 message_count: 1
 first: 2024-12-15
 last: 2024-12-15
 senders:
-  - no-reply@us.greenhouse-mail.io
+- no-reply@us.greenhouse-mail.io
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Thank you for applying to Honor

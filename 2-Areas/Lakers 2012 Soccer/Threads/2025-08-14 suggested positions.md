@@ -10,6 +10,11 @@ tags:
 - email
 contacts:
 - '[[Brent Bolin]]'
+- '[[Gavin]]'
+- '[[Carter]]'
+- '[[Graham]]'
+- '[[Aiden]]'
+- '[[Landon Wilkinson]]'
 ---
 
 # suggested positions
@@ -23,10 +28,10 @@ interested to hear what you picked up about some of the kids we don't know
 as well.
 
 Here's how I would start the 3-1-4-2:
-9 - Stephen  9 - Aiden
-11 - David  8 - Landon  10 - Ro  7 - G Broughman
-6 - Graham
-3 - Theo  4 - Carter  2 - Gavin
+9 - Stephen  9 - [[Aiden|Aiden]]
+11 - David  8 - [[Landon Wilkinson|Landon]]  10 - Ro  7 - G Broughman
+6 - [[Graham|Graham]]
+3 - Theo  4 - [[Carter|Carter]]  2 - [[Gavin|Gavin]]
 I think Graham and the back line are pretty much set, although last night
 Theo and Gavin wanted to switch sides from what I had originally so I've
 placed them their way.

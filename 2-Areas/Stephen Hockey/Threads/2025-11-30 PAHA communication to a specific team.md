@@ -8,7 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
+- paha-org
+contacts:
+- '[[Emma Baxter]]'
 ---
 
 # PAHA communication to a specific team
@@ -24,7 +26,7 @@ out an email and a sports notification :)
 
 On Sun, Nov 30, 2025 at 7:06 PM Jason Younker <jason@ynkr.org> wrote:
 
-> Hello Emma,
+> Hello [[Emma Baxter|Emma]],
 >
 > I need to schedule a parent meeting for tomorrow but only for the Bantam
 > team. I will throw it out on our team channel in sports engine but that

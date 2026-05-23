@@ -1,12 +1,15 @@
 ---
-subject: "[Washington State Library] Access to ALF Operator License Info"
+subject: '[Washington State Library] Access to ALF Operator License Info'
 message_count: 3
 first: 2021-11-17
 last: 2021-11-23
 senders:
-  - WashingtonStateLibrary@askwa.libanswers.com
+- WashingtonStateLibrary@askwa.libanswers.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Kathryn Rust]]'
 ---
 
 # [Washington State Library] Access to ALF Operator License Info
@@ -18,7 +21,7 @@ tags: [email]
 --# Type your reply above this line #--
 ------------------
 
-Kathryn Devine
+[[Kathryn Rust|Kathryn]] Devine
 
 Nov 17 2021, 09:06am via System
 

@@ -7,8 +7,8 @@ senders:
 - jeff.dunn@gusto.com
 type: email-thread
 tags:
-- career
 - email
+- job-search-2024
 ---
 
 # Opportunities at Gusto

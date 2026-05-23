@@ -7,11 +7,11 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- career
-- church
 - email
+- harborlight
 contacts:
 - '[[Jason Younker]]'
+- '[[Lisa Veurink]]'
 ---
 
 # Enrollment for 2023-2024 at Harbor Light Christian School
@@ -39,7 +39,7 @@ Welcome! Congratulations, Stephen has been admitted to Harbor Light Christian Sc
 
 We are thankful you are seeking to join a school that will match the philosophy of education that you desire for your family.  Harbor Light seeks to be a Christ-centered school that utilizes God's gifts to support and guide children's education.  We strive, by God's grace, to be a school that inpacts the entire family and encourages each student to follow God's calling in their lives.
 
-Just a reminder that the pastor recomendation as well as the referral will need to be completed and emailed back to HLCS before we can finalize acceptance into HLCS.  Please check with Lisa when you call the office for the final interview to make sure all paperwork is in.
+Just a reminder that the pastor recomendation as well as the referral will need to be completed and emailed back to HLCS before we can finalize acceptance into HLCS.  Please check with [[Lisa Veurink|Lisa]] when you call the office for the final interview to make sure all paperwork is in.
 
 The steps for our enrollment process is to complete the following for Stephen.
 

@@ -7,8 +7,8 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- career
 - email
+- job-search-2024
 contacts:
 - '[[Jason Younker]]'
 ---

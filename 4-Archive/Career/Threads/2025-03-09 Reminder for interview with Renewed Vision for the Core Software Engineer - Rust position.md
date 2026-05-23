@@ -7,8 +7,9 @@ senders:
 - no-reply@greenhouse.io
 type: email-thread
 tags:
-- career
 - email
+contacts:
+- '[[Bethany Hickner]]'
 ---
 
 # Reminder for interview with Renewed Vision for the Core Software
@@ -23,7 +24,7 @@ Hi Jason,
 As a reminder, here is more information about your interview:
 
 Initial Interview
-  Bethany Bagwell
+  [[Bethany Hickner|Bethany]] Bagwell
 March 10, 2025
 5:30pm UTC
 https://meet.google.com/bgf-zkdc-pin

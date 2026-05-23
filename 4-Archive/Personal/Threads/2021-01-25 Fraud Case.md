@@ -7,8 +7,8 @@ senders:
 - ESDFRAUD@ESD.WA.GOV
 type: email-thread
 tags:
-- career
 - email
+- moz
 ---
 
 # Fraud Case

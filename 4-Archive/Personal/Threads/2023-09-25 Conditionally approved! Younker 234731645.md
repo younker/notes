@@ -7,8 +7,10 @@ senders:
 - Guy.McCarthy@rate.com
 type: email-thread
 tags:
+- 720-jennings
 - email
-- real-estate
+contacts:
+- '[[Nathan Craghill]]'
 ---
 
 # Conditionally approved! Younker 234731645
@@ -22,7 +24,7 @@ tags:
 
 Hi Jason,
 
-Nice to meet you! I work with Nathan and I'll be the Loan Coordinator helping to coordinate your final underwriting approval.
+Nice to meet you! I work with [[Nathan Craghill|Nathan]] and I'll be the Loan Coordinator helping to coordinate your final underwriting approval.
 
 You can review and download your Conditional Approval Letter from the documents tab in your account<https://my.guaranteedrate.com/registration>. This document is for your records, so you do not need to sign it.
 

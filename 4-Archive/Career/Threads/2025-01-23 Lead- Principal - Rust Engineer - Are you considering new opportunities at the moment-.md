@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- school
 ---
 
 # Lead/ Principal - Rust Engineer - Are you considering new

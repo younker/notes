@@ -8,6 +8,8 @@ senders:
 type: email-thread
 tags:
 - email
+contacts:
+- '[[Luke LaRiviere]]'
 ---
 
 # Office of Ali Rizvi
@@ -30,7 +32,7 @@ Kind regards,
 [cid:image002.jpg@01D84E55.0560B440]<http://www.northstarfinancial.com/>Mayra Alvarez
 Financial Practice Coordinator
 Ali Rizvi- Senior Partner*
-Luke Strode- CFP(r), Financial Advisor
+[[Luke LaRiviere|Luke]] Strode- CFP(r), Financial Advisor
 
                            North Star Resource Group
                            6720 N. Scottsdale Rd. Suite 290, Scottsdale, AZ 85253

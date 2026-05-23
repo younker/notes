@@ -8,9 +8,10 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'
+- '[[Traci Wong]]'
 ---
 
 # shorts & divisions
@@ -62,7 +63,7 @@ On Mon, Jul 14, 2025 at 5:19 PM Jason Younker <jason@ynkr.org> wrote:
 > Second, looking at the Male U13 divisions on
 > <https://system.gotsport.com/org_event/events/45649/teams?utf8=%E2%9C%93&search%5Bgroup%5D=m_13&showall=groups&commit=Search>
 > gotsport.com, I see different teams in the Premier 2 West division than
-> what was mentioned in your Saturday email to Danielle, Brent, Traci and
+> what was mentioned in your Saturday email to Danielle, Brent, [[Traci Wong|Traci]] and
 > myself. Most notably, we are not in the Premier 2 West division but rather
 > in the Classic 2 North division. Which is correct?
 >

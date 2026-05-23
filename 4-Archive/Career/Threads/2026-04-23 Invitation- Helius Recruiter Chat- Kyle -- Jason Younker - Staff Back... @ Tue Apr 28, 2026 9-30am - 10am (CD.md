@@ -7,11 +7,13 @@ senders:
 - k.devaldivielso@helius.xyz
 type: email-thread
 tags:
-- career
 - email
+- job-search-2024
+contacts:
+- '[[Kyle Lieberman]]'
 ---
 
-# Invitation: Helius Recruiter Chat: Kyle <> Jason Younker - Staff
+# Invitation: Helius Recruiter Chat: [[Kyle Lieberman|Kyle]] <> Jason Younker - Staff
  Back... @ Tue Apr 28, 2026 9:30am - 10am (CDT) (jason@ynkr.org)
 
 **2 messages** from 2026-04-23 to 2026-04-28

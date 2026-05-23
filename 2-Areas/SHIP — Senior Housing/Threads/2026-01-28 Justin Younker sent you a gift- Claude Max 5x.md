@@ -1,12 +1,14 @@
 ---
-subject: "Justin Younker sent you a gift: Claude Max 5x"
+subject: 'Justin Younker sent you a gift: Claude Max 5x'
 message_count: 1
 first: 2026-01-28
 last: 2026-01-28
 senders:
-  - no-reply-0whH6i7Ph_Y-nDvHIwVR2g@mail.anthropic.com
+- no-reply-0whH6i7Ph_Y-nDvHIwVR2g@mail.anthropic.com
 type: email-thread
-tags: [email]
+tags:
+- anthropic
+- email
 ---
 
 # Justin Younker sent you a gift: Claude Max 5x

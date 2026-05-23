@@ -7,9 +7,8 @@ senders:
 - bill.taylor@dnr.wa.gov
 type: email-thread
 tags:
-- ship
 - email
-- hunting-outdoors
+- ship
 ---
 
 # Remainder of order

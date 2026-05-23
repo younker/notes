@@ -1,12 +1,15 @@
 ---
-subject: "Sunday vs Petoskey"
+subject: Sunday vs Petoskey
 message_count: 1
 first: 2026-05-19
 last: 2026-05-19
 senders:
-  - rjbrower04@gmail.com
+- rjbrower04@gmail.com
 type: email-thread
-tags: [email]
+tags:
+- email
+contacts:
+- '[[Rory Light]]'
 ---
 
 # Sunday vs Petoskey
@@ -27,7 +30,7 @@ play the game the right way. It was nice to have a game with very few
 penalties and just allow the boys to play. Good luck with the rest of your
 season.
 
-Rory
+[[Rory Light|Rory]]
 
 On Tue, May 19, 2026, 1:17 PM Jason Younker <jason@ynkr.org> wrote:
 

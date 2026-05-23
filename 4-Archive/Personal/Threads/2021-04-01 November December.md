@@ -25,7 +25,7 @@ Happy New Year!
 
 Best Regards,
 
-Cheri Thurston, Owner
+[[Cheri Thurston|Cheri]] Thurston, Owner
 Water and Wastewater Management Service, LLC
 *cell- (360) 301-1967
 *office-(360) 437-0540

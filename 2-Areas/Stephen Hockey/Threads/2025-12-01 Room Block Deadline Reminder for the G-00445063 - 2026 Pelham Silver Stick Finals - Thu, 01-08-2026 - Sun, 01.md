@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
+- petoskey-soccer
 ---
 
 # Room Block Deadline Reminder for the G-00445063 | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026

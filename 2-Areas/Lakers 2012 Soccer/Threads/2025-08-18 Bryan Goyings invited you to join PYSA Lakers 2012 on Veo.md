@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- soccer
 ---
 
 # Bryan Goyings invited you to join PYSA Lakers 2012 on Veo

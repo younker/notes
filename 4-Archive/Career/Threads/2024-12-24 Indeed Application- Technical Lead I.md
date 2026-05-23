@@ -1,12 +1,14 @@
 ---
-subject: "Indeed Application: Technical Lead I"
+subject: 'Indeed Application: Technical Lead I'
 message_count: 1
 first: 2024-12-24
 last: 2024-12-24
 senders:
-  - indeedapply@indeed.com
+- indeedapply@indeed.com
 type: email-thread
-tags: [email]
+tags:
+- email
+- job-search-2024
 ---
 
 # Indeed Application: Technical Lead I

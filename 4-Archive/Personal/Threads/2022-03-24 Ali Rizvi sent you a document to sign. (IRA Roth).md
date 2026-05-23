@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- school
 ---
 
 # Ali Rizvi sent you a document to sign. (IRA Roth)

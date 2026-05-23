@@ -8,8 +8,6 @@ senders:
 type: email-thread
 tags:
 - email
-- hockey
-- school
 ---
 
 # USA Hockey Registration Confirmation

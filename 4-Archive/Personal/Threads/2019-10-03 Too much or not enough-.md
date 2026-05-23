@@ -8,9 +8,9 @@ senders:
 type: email-thread
 tags:
 - email
-- school
 contacts:
 - '[[Heather Younker]]'
+- '[[Susan Horner]]'
 ---
 
 # Too much or not enough?
@@ -22,7 +22,7 @@ contacts:
 Tricia,
 Thank you for the reply. However, we are disappointed with the response. Frankly, it's not enough and leaves us feeling even more strongly that the school is not taking this situation seriously.
 
-You suggest that we should continue to problem solve and monitor behavior. The only monitoring I have witnessed is when you were popping in classes and lunch throughout the day the week of Sept 17. Yes, we appreciate that you took the time to do this, but it was a snapshot in time, not a longer-term effort. The monitoring by the school at present consists of Susan's recess duty. Therefore, the only person the school is having monitor the situation to ensure our children's safety on a daily basis has plainly stated that she does not believe there is an issue, has minimized our concerns for the safety of our son, even after given the witness of a real possibility of immediate danger during recess, and has even ridiculed our taking Rohan's threats seriously. This is not a solution.
+You suggest that we should continue to problem solve and monitor behavior. The only monitoring I have witnessed is when you were popping in classes and lunch throughout the day the week of Sept 17. Yes, we appreciate that you took the time to do this, but it was a snapshot in time, not a longer-term effort. The monitoring by the school at present consists of [[Susan Horner|Susan]]'s recess duty. Therefore, the only person the school is having monitor the situation to ensure our children's safety on a daily basis has plainly stated that she does not believe there is an issue, has minimized our concerns for the safety of our son, even after given the witness of a real possibility of immediate danger during recess, and has even ridiculed our taking Rohan's threats seriously. This is not a solution.
 
 Yes, we understand that recess can be a difficult time to monitor interactions. That is why I am at every recess, circle time, lunch and any other time Rohan is with Stephen. This incident at recess occurred in front of the two adults monitoring recess. Despite this, I still had to press Susan to intervene and handle the concern. Interactions at recess are not difficult to monitor if the adult in charge is taking their responsibility of monitoring a threatening situation seriously. Without any additional information or details, if the person designated by the school to monitor the boys only has even the most basic info - Rohan threatening to bring a knife to school and kill Stephen and then Rohan being seen sharpening a sharp object on a stone and approaching Stephen from behind, then making obvious efforts to conceal the object more than once from the adult on duty - there is an obvious intervention that must happen to ensure the safety of not only Stephen but other children at recess. It is alarming that all of this played out WITH me right there. Imagine the possible outcomes had I not been there?
 
@@ -40,7 +40,7 @@ With the exception of our initial meeting on Sept 17th, we have felt that our so
 
 Again, we would like to request a meeting to discuss options to address this issue and ensure the safety of our children.
 We look forward to your thoughtful response and proposed next step.
--Heather and Jason Younker
+-[[Heather Younker|Heather]] and Jason Younker
 
 ---
 

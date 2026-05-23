@@ -8,7 +8,7 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+- tiffin-rv
 ---
 
 # Automatic reply: Fwd: INVOICE #1916: Toilet does not refill after being flushed

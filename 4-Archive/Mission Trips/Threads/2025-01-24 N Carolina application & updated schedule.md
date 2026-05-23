@@ -7,8 +7,11 @@ senders:
 - kmolmsted@gmail.com
 type: email-thread
 tags:
-- church
 - email
+- genesis-church
+contacts:
+- '[[Heather Younker]]'
+- '[[Kathy Cooper]]'
 ---
 
 # N Carolina application & updated schedule
@@ -19,7 +22,7 @@ tags:
 
 *Subject: Fwd: N Carolina application & updated schedule*
 
-Heather:
+[[Heather Younker|Heather]]:
 
 This is the original email from Andrea that has links for both the
 application and background check.  I did check the church database and they
@@ -27,7 +30,7 @@ do have the correct emails listed for you and Jason.  I really don't know
 what happened with you not getting any emails.  Let me know if you have any
 further issues.  I'll let Andrea know what's been happening.
 
-Kathy
+[[Kathy Cooper|Kathy]]
 
 ---------- Forwarded message ---------
 From: Andrea Schuitema <Andrea@genesischurchmi.com>

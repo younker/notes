@@ -7,10 +7,11 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- career
 - email
+- moz
 contacts:
 - '[[Jason Younker]]'
+- '[[Susan Horner]]'
 ---
 
 # Sensitive Area Regs
@@ -23,7 +24,7 @@ contacts:
 
 Begin forwarded message:
 
-> From: Susan Stricker <smstricker59@gmail.com>
+> From: [[Susan Horner|Susan]] Stricker <smstricker59@gmail.com>
 > Date: August 9, 2020 at 11:48:43 AM PDT
 > To: Jason Yonker <jason@ynkr.org>, Jason Yonker <jason@moz.com>
 > Subject: Fwd:  Sensitive Area Regs

@@ -7,9 +7,7 @@ senders:
 - email@renweb.com
 type: email-thread
 tags:
-- church
 - email
-- school
 ---
 
 # Follow up on First Hour Classroom Visit Today

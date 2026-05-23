@@ -7,8 +7,8 @@ senders:
 - no-reply@ashbyhq.com
 type: email-thread
 tags:
-- career
 - email
+- job-search-2024
 ---
 
 # Thank you for applying with Stream!

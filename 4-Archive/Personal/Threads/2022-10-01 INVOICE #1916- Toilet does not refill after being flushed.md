@@ -9,7 +9,9 @@ senders:
 type: email-thread
 tags:
 - email
-- motorhome
+- tiffin-rv
+contacts:
+- '[[Amanda Athan]]'
 ---
 
 # INVOICE #1916: Toilet does not refill after being flushed
@@ -65,7 +67,7 @@ Hey Jason can you give me the correct address that you would like your reimburse
 
 Thanks Kiowa,
 
-From: Young, Amanda <amanda.young@tiffinmotorhomes.com>
+From: Young, [[Amanda Athan|Amanda]] <amanda.young@tiffinmotorhomes.com>
 Sent: Tuesday, October 4, 2022 2:08 PM
 To: Service <Service@tiffinmotorhomes.com>
 Subject: RE: Fwd: INVOICE #1916: Toilet does not refill after being flushed

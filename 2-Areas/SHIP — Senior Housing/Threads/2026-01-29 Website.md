@@ -7,8 +7,9 @@ senders:
 - justin@cascadiadevelopment.com
 type: email-thread
 tags:
-- ship
+- cascadia-yakima
 - email
+- ship
 contacts:
 - '[[Justin Younker]]'
 ---
