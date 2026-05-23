@@ -1,12 +1,13 @@
 ---
-name: "Scott Moran"
-first_name: "Scott"
-last_name: "Moran"
+name: Scott Moran
+first_name: Scott
+last_name: Moran
 phones:
-  - "(206) 850-9580"
+- (206) 850-9580
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Scott Moran

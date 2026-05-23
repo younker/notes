@@ -1,13 +1,14 @@
 ---
-name: "Landon Wilkinson"
-first_name: "Landon"
-last_name: "Wilkinson"
-organization: "Painting"
+name: Landon Wilkinson
+first_name: Landon
+last_name: Wilkinson
+organization: Painting
 phones:
-  - "+15096545667"
+- '+15096545667'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Landon Wilkinson

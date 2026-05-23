@@ -1,13 +1,14 @@
 ---
-name: "Jeff Wise"
-first_name: "Jeff"
-last_name: "Wise"
-organization: "His Home Inspections"
+name: Jeff Wise
+first_name: Jeff
+last_name: Wise
+organization: His Home Inspections
 phones:
-  - "1 (509) 966-6841"
+- 1 (509) 966-6841
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Jeff Wise

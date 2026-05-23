@@ -7,8 +7,7 @@ senders:
 - receipt@usahockeyemails.com
 - registration@usahockey.org
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # USA Hockey Registration Confirmation

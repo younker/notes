@@ -1,12 +1,12 @@
 ---
-subject: "Completed: Please Review Clear to Close-Younker"
+subject: 'Completed: Please Review Clear to Close-Younker'
 message_count: 1
 first: 2023-10-02
 last: 2023-10-02
 senders:
-  - dse@docusign.net
+- dse@docusign.net
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Completed: Please Review Clear to Close-Younker

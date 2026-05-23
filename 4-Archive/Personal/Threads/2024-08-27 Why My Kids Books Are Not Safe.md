@@ -6,8 +6,7 @@ last: 2024-08-27
 senders:
 - sd@sdsmith.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Why My Kids Books Are Not Safe

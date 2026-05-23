@@ -1,12 +1,12 @@
 ---
-subject: "AT&T Mobile Business Agreement: Active (86653814)"
+subject: 'AT&T Mobile Business Agreement: Active (86653814)'
 message_count: 1
 first: 2022-02-12
 last: 2022-02-12
 senders:
-  - buscontractsnoreply@att.com
+- buscontractsnoreply@att.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # AT&T Mobile Business Agreement: Active (86653814)

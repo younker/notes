@@ -1,9 +1,10 @@
 ---
-name: "Alaska Airlines"
-organization: "Alaska Airlines"
+name: Alaska Airlines
+organization: Alaska Airlines
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Alaska Airlines

@@ -6,8 +6,7 @@ last: 2025-01-05
 senders:
 - no-reply@greenhouse.io
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Reminder for interview with Honor for the Staff Backend Engineer

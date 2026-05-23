@@ -1,15 +1,16 @@
 ---
-name: "Lars Hanson"
-first_name: "Lars"
-last_name: "Hanson"
+name: Lars Hanson
+first_name: Lars
+last_name: Hanson
 phones:
-  - "(509) 248-1970"
-  - "(509) 952-7147"
+- (509) 248-1970
+- (509) 952-7147
 emails:
-  - "Larsh@johnlscott.com"
+- Larsh@johnlscott.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Lars Hanson

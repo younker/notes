@@ -1,14 +1,15 @@
 ---
-name: "Josh Meisel"
-first_name: "Josh"
-last_name: "Meisel"
-nickname: "Amazon.com"
+name: Josh Meisel
+first_name: Josh
+last_name: Meisel
+nickname: Amazon.com
 phones:
-  - "206-266-0685"
-  - "760-521-3332"
+- 206-266-0685
+- 760-521-3332
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Josh Meisel

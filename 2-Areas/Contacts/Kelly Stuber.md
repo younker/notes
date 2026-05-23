@@ -1,12 +1,13 @@
 ---
-name: "Kelly Stuber"
-first_name: "Kelly"
-last_name: "Stuber"
+name: Kelly Stuber
+first_name: Kelly
+last_name: Stuber
 phones:
-  - "(509) 965-9250"
+- (509) 965-9250
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kelly Stuber

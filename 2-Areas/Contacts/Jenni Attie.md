@@ -1,12 +1,13 @@
 ---
-name: "Jenni Attie"
-first_name: "Jenni"
-last_name: "Attie"
+name: Jenni Attie
+first_name: Jenni
+last_name: Attie
 phones:
-  - "1 (231) 838-4557"
+- 1 (231) 838-4557
 created: 2026-05-18
 modified: 2026-05-18
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jenni Attie

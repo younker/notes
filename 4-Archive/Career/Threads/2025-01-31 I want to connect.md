@@ -1,12 +1,12 @@
 ---
-subject: "I want to connect"
+subject: I want to connect
 message_count: 1
 first: 2025-01-31
 last: 2025-01-31
 senders:
-  - invitations@linkedin.com
+- invitations@linkedin.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # I want to connect

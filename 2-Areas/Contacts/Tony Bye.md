@@ -1,16 +1,17 @@
 ---
-name: "Tony Bye"
-first_name: "Tony"
-last_name: "Bye"
-organization: "Moz"
+name: Tony Bye
+first_name: Tony
+last_name: Bye
+organization: Moz
 phones:
-  - "317.495.0370"
+- 317.495.0370
 emails:
-  - "tony.bye@moz.com"
-  - "tony@moz.com"
+- tony.bye@moz.com
+- tony@moz.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Tony Bye

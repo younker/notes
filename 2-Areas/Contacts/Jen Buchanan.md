@@ -1,12 +1,13 @@
 ---
-name: "Jen Buchanan"
-first_name: "Jen"
-last_name: "Buchanan"
+name: Jen Buchanan
+first_name: Jen
+last_name: Buchanan
 phones:
-  - "(704) 892-0060"
+- (704) 892-0060
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jen Buchanan

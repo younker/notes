@@ -1,15 +1,16 @@
 ---
-name: "Brian Slettvet"
-first_name: "Brian"
-last_name: "Slettvet"
-nickname: "Slettvet"
+name: Brian Slettvet
+first_name: Brian
+last_name: Slettvet
+nickname: Slettvet
 phones:
-  - "206-999-4723"
-  - "briansl@microsoft.com"
-  - "206-200-6957"
+- 206-999-4723
+- briansl@microsoft.com
+- 206-200-6957
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Brian Slettvet

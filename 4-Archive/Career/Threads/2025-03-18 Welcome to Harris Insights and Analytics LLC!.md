@@ -6,8 +6,7 @@ last: 2025-03-18
 senders:
 - noreply@ultimatesoftware.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Welcome to Harris Insights and Analytics LLC!

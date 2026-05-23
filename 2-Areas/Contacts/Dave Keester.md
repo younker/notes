@@ -1,12 +1,13 @@
 ---
-name: "Dave Keester"
-first_name: "Dave"
-last_name: "Keester"
+name: Dave Keester
+first_name: Dave
+last_name: Keester
 phones:
-  - "(206) 518-7672"
+- (206) 518-7672
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Dave Keester

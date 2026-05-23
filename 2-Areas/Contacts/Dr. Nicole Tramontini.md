@@ -1,12 +1,13 @@
 ---
-name: "Dr. Nicole Tramontini"
-first_name: "Dr. Nicole"
-last_name: "Tramontini"
+name: Dr. Nicole Tramontini
+first_name: Dr. Nicole
+last_name: Tramontini
 phones:
-  - "(231) 935-2525"
+- (231) 935-2525
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Dr. Nicole Tramontini

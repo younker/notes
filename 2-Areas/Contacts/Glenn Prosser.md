@@ -1,13 +1,14 @@
 ---
-name: "Glenn Prosser"
-first_name: "Glenn"
-last_name: "Prosser"
-organization: "Prosser Paint"
+name: Glenn Prosser
+first_name: Glenn
+last_name: Prosser
+organization: Prosser Paint
 phones:
-  - "+13607106138"
+- '+13607106138'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Glenn Prosser

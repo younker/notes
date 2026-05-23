@@ -1,14 +1,15 @@
 ---
-name: "Connor Kasiborski"
-first_name: "Connor"
-last_name: "Kasiborski"
+name: Connor Kasiborski
+first_name: Connor
+last_name: Kasiborski
 phones:
-  - "+12313304126"
+- '+12313304126'
 emails:
-  - "connor.kasiborski@icloud.com"
+- connor.kasiborski@icloud.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Connor Kasiborski

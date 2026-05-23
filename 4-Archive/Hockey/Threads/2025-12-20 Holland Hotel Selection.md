@@ -1,12 +1,12 @@
 ---
-subject: "Holland Hotel Selection"
+subject: Holland Hotel Selection
 message_count: 2
 first: 2025-12-20
 last: 2025-12-23
 senders:
-  - pbarton02@gmail.com
+- pbarton02@gmail.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Holland Hotel Selection

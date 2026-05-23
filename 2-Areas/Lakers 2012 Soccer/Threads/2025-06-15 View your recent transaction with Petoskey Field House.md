@@ -6,8 +6,7 @@ last: 2025-06-15
 senders:
 - dash@dashplatform.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # View your recent transaction with Petoskey Field House

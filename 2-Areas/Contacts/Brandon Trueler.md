@@ -1,14 +1,15 @@
 ---
-name: "Brandon Trueler"
-first_name: "Brandon"
-last_name: "Trueler"
-organization: "The Advisors"
+name: Brandon Trueler
+first_name: Brandon
+last_name: Trueler
+organization: The Advisors
 phones:
-  - "(509) 930-2518"
-  - "(509) 457-6552"
+- (509) 930-2518
+- (509) 457-6552
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Brandon Trueler

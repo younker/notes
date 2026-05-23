@@ -1,12 +1,13 @@
 ---
-name: "Dana Boks"
-first_name: "Dana"
-last_name: "Boks"
+name: Dana Boks
+first_name: Dana
+last_name: Boks
 phones:
-  - "+19892051389"
+- '+19892051389'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Dana Boks

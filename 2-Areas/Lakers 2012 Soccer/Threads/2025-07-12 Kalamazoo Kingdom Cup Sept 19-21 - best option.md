@@ -1,12 +1,12 @@
 ---
-subject: "Kalamazoo Kingdom Cup Sept 19-21 * best option"
+subject: Kalamazoo Kingdom Cup Sept 19-21 * best option
 message_count: 1
 first: 2025-07-12
 last: 2025-07-12
 senders:
-  - chris-kicsports.net@shared1.ccsend.com
+- chris-kicsports.net@shared1.ccsend.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Kalamazoo Kingdom Cup Sept 19-21 * best option

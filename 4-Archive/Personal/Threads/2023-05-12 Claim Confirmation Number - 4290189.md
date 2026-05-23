@@ -1,12 +1,12 @@
 ---
-subject: "Claim Confirmation Number - 4290189"
+subject: Claim Confirmation Number - 4290189
 message_count: 1
 first: 2023-05-12
 last: 2023-05-12
 senders:
-  - notice@pnclassaction.com
+- notice@pnclassaction.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Claim Confirmation Number - 4290189

@@ -1,14 +1,15 @@
 ---
-name: "Twila St. George"
-first_name: "Twila"
-last_name: "St. George"
+name: Twila St. George
+first_name: Twila
+last_name: St. George
 phones:
-  - "(425) 870-1780"
+- (425) 870-1780
 emails:
-  - "twilastgeorge@verizon.com"
+- twilastgeorge@verizon.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Twila St. George

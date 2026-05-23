@@ -1,12 +1,12 @@
 ---
-subject: "SeniorAdvisor API account confirmation"
+subject: SeniorAdvisor API account confirmation
 message_count: 1
 first: 2026-03-24
 last: 2026-03-24
 senders:
-  - no-reply@3scale.redhat.com
+- no-reply@3scale.redhat.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # SeniorAdvisor API account confirmation

@@ -1,12 +1,13 @@
 ---
-name: "Sara McGuire"
-first_name: "Sara"
-last_name: "McGuire"
+name: Sara McGuire
+first_name: Sara
+last_name: McGuire
 phones:
-  - "+1 (206) 794-2077"
+- +1 (206) 794-2077
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Sara McGuire

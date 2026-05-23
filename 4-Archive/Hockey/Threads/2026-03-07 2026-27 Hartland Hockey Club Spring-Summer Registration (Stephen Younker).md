@@ -6,8 +6,7 @@ last: 2026-03-07
 senders:
 - notifications@hartlandhockey.club
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # 2026-27 Hartland Hockey Club Spring/Summer Registration (Stephen Younker)

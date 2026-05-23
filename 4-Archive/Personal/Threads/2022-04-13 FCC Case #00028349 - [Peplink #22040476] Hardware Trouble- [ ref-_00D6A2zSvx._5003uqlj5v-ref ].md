@@ -1,13 +1,13 @@
 ---
-subject: "FCC Case #00028349 | [Peplink #22040476] Hardware Trouble? [ ref:_00D6A2zSvx._5003uqlj5v:ref ]"
+subject: 'FCC Case #00028349 | [Peplink #22040476] Hardware Trouble? [ ref:_00D6A2zSvx._5003uqlj5v:ref ]'
 message_count: 8
 first: 2022-04-13
 last: 2022-04-14
 senders:
-  - peplinksupport@frontierus.com
-  - support@mobilemusthave.com
+- peplinksupport@frontierus.com
+- support@mobilemusthave.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # FCC Case #00028349 | [Peplink #22040476] Hardware Trouble? [ ref:_00D6A2zSvx._5003uqlj5v:ref ]

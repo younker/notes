@@ -1,15 +1,16 @@
 ---
-name: "Theresa Rowell"
-first_name: "Theresa"
-last_name: "Rowell"
-job_title: "TC Red AA 14U"
+name: Theresa Rowell
+first_name: Theresa
+last_name: Rowell
+job_title: TC Red AA 14U
 phones:
-  - "231-564-1390"
+- 231-564-1390
 emails:
-  - "rowelltheresa@yahoo.com"
+- rowelltheresa@yahoo.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Theresa Rowell

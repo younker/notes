@@ -6,8 +6,7 @@ last: 2025-12-17
 senders:
 - blcook6383@aol.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Brandon Cook]]'
 - '[[Judah Cook]]'

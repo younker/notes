@@ -1,12 +1,13 @@
 ---
-name: "Tony"
-first_name: "Tony"
-organization: "Tony's Painting"
+name: Tony
+first_name: Tony
+organization: Tony's Painting
 phones:
-  - "5098332024"
+- '5098332024'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Tony

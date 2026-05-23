@@ -1,12 +1,12 @@
 ---
-subject: "Your Invite to 2012 HHC Silver is Waiting – Join Melissa Wrathell and More Now"
+subject: Your Invite to 2012 HHC Silver is Waiting – Join Melissa Wrathell and More Now
 message_count: 1
 first: 2026-03-23
 last: 2026-03-23
 senders:
-  - donotreply@email.teamsnap.com
+- donotreply@email.teamsnap.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Your Invite to 2012 HHC Silver is Waiting – Join Melissa Wrathell and More Now

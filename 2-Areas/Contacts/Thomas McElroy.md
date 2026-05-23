@@ -1,14 +1,15 @@
 ---
-name: "Thomas McElroy"
-first_name: "Thomas"
-last_name: "McElroy"
+name: Thomas McElroy
+first_name: Thomas
+last_name: McElroy
 phones:
-  - "9192444938"
+- '9192444938'
 emails:
-  - "thomas@moz.com"
+- thomas@moz.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Thomas McElroy

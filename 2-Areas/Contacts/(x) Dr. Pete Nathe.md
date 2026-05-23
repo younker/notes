@@ -1,13 +1,14 @@
 ---
-name: "(x) Dr. Pete Nathe"
-first_name: "(x) Dr. Pete"
-last_name: "Nathe"
+name: (x) Dr. Pete Nathe
+first_name: (x) Dr. Pete
+last_name: Nathe
 phones:
-  - "+1 509-965-7909"
-  - "429-47"
+- +1 509-965-7909
+- 429-47
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # (x) Dr. Pete Nathe

@@ -1,15 +1,16 @@
 ---
-name: "Linda Stumm"
-first_name: "Linda"
-last_name: "Stumm"
-job_title: "TC Red AA 14U"
+name: Linda Stumm
+first_name: Linda
+last_name: Stumm
+job_title: TC Red AA 14U
 phones:
-  - "231-392-3036"
+- 231-392-3036
 emails:
-  - "stumml_@hotmail.com"
+- stumml_@hotmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Linda Stumm

@@ -7,7 +7,6 @@ senders:
 - Andrea@genesischurchmi.com
 type: email-thread
 tags:
-- email
 - genesis-church
 ---
 

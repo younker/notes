@@ -1,11 +1,12 @@
 ---
-name: "Mercedes & Family Food To Go"
-organization: "Mercedes & Family Food To Go"
+name: Mercedes & Family Food To Go
+organization: Mercedes & Family Food To Go
 phones:
-  - "+1 (509) 965-9193"
+- +1 (509) 965-9193
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Mercedes & Family Food To Go

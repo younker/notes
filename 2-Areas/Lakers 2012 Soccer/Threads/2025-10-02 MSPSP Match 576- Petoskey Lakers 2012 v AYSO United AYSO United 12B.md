@@ -9,7 +9,6 @@ senders:
 - wyattrowen1008@gmail.com
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'

@@ -1,12 +1,12 @@
 ---
-subject: "Stephen Notes"
+subject: Stephen Notes
 message_count: 2
 first: 2026-04-15
 last: 2026-04-16
 senders:
-  - 2012hhcsilver@gmail.com
+- 2012hhcsilver@gmail.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Stephen Notes

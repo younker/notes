@@ -1,13 +1,14 @@
 ---
-name: "Sara Brazeau"
-first_name: "Sara"
-last_name: "Brazeau"
-organization: "Lila June Spas"
+name: Sara Brazeau
+first_name: Sara
+last_name: Brazeau
+organization: Lila June Spas
 phones:
-  - "1 (509) 833-1046"
+- 1 (509) 833-1046
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Sara Brazeau

@@ -6,8 +6,7 @@ last: 2026-03-15
 senders:
 - notifications@hartlandhockey.club
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Lars Hanson]]'
 - '[[Kyle Lieberman]]'

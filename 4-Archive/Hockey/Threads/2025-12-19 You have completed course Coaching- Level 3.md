@@ -1,12 +1,12 @@
 ---
-subject: "You have completed course Coaching: Level 3"
+subject: 'You have completed course Coaching: Level 3'
 message_count: 1
 first: 2025-12-19
 last: 2025-12-19
 senders:
-  - postmaster@usahockeylearningcenter.com
+- postmaster@usahockeylearningcenter.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # You have completed course Coaching: Level 3

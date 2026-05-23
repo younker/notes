@@ -6,8 +6,7 @@ last: 2026-05-04
 senders:
 - mailer@leagueapps.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Grand Traverse Hockey Association Invoice Receipt

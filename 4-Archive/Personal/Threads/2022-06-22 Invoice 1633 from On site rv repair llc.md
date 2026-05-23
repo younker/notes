@@ -6,8 +6,7 @@ last: 2022-06-22
 senders:
 - quickbooks@notification.intuit.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Invoice 1633 from On site rv repair llc

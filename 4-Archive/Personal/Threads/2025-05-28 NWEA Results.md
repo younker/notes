@@ -7,7 +7,6 @@ senders:
 - ebarnes@harborlight.org
 type: email-thread
 tags:
-- email
 - harborlight
 ---
 

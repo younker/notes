@@ -7,7 +7,6 @@ senders:
 - notifications@mqtjrhockey.org
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 ---
 

@@ -1,14 +1,15 @@
 ---
-name: "Travis Henkel"
-first_name: "Travis"
-last_name: "Henkel"
+name: Travis Henkel
+first_name: Travis
+last_name: Henkel
 phones:
-  - "425-681-7505"
+- 425-681-7505
 emails:
-  - "travishenkel@msn.com"
+- travishenkel@msn.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Travis Henkel

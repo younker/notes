@@ -1,12 +1,12 @@
 ---
-subject: "Broken mirror replacement"
+subject: Broken mirror replacement
 message_count: 1
 first: 2023-04-03
 last: 2023-04-03
 senders:
-  - marthadesertnative@yahoo.com
+- marthadesertnative@yahoo.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Broken mirror replacement

@@ -6,8 +6,7 @@ last: 2025-06-09
 senders:
 - soccer@northernmichiganfc.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Midwest United - NMFC 2011-2012 Boys Tryout Update

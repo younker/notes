@@ -1,15 +1,16 @@
 ---
-name: "Mark Zivkovich"
-first_name: "Mark"
-last_name: "Zivkovich"
-job_title: "TC Red AA 14U"
+name: Mark Zivkovich
+first_name: Mark
+last_name: Zivkovich
+job_title: TC Red AA 14U
 phones:
-  - "586-491-3787"
+- 586-491-3787
 emails:
-  - "markzivkovich@gmail.com"
+- markzivkovich@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mark Zivkovich

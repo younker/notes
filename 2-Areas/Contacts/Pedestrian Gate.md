@@ -1,9 +1,10 @@
 ---
-name: "Pedestrian Gate"
-organization: "Pedestrian Gate"
+name: Pedestrian Gate
+organization: Pedestrian Gate
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Pedestrian Gate

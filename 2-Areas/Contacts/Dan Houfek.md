@@ -1,13 +1,14 @@
 ---
-name: "Dan Houfek"
-first_name: "Dan"
-last_name: "Houfek"
-organization: "Fishing"
+name: Dan Houfek
+first_name: Dan
+last_name: Houfek
+organization: Fishing
 phones:
-  - "(509) 965-1721"
+- (509) 965-1721
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Dan Houfek

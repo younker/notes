@@ -1,13 +1,14 @@
 ---
-name: "Robin Moeur"
-first_name: "Robin"
-last_name: "Moeur"
-organization: "Piper Water System"
+name: Robin Moeur
+first_name: Robin
+last_name: Moeur
+organization: Piper Water System
 phones:
-  - "+14252832798"
+- '+14252832798'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Robin Moeur

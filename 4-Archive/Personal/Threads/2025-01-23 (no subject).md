@@ -6,8 +6,7 @@ last: 2025-01-23
 senders:
 - email@renweb.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # (no subject)

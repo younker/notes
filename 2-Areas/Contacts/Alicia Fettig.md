@@ -1,12 +1,13 @@
 ---
-name: "Alicia Fettig"
-first_name: "Alicia"
-last_name: "Fettig"
+name: Alicia Fettig
+first_name: Alicia
+last_name: Fettig
 phones:
-  - "+15129642751"
+- '+15129642751'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Alicia Fettig

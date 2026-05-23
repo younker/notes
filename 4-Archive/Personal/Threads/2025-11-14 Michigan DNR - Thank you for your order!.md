@@ -6,8 +6,7 @@ last: 2025-11-14
 senders:
 - DNR-NoReply@mail.michigan.gov
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Michigan DNR - Thank you for your order!

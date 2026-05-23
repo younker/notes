@@ -1,12 +1,12 @@
 ---
-subject: "Thank You for Applying at Remote"
+subject: Thank You for Applying at Remote
 message_count: 1
 first: 2025-01-16
 last: 2025-01-16
 senders:
-  - shi+autoreply@talent.icims.com
+- shi+autoreply@talent.icims.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank You for Applying at Remote

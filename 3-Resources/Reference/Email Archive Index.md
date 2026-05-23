@@ -4,7 +4,9 @@ created: 2026-05-22
 source: ~/email-to-obsidian (8 mbox files)
 total_messages: 1253
 total_threads: 893
-tags: [email, index, reference]
+tags:
+- index
+- reference
 ---
 
 # Email Archive Index

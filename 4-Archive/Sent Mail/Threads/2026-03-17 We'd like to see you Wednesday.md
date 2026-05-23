@@ -6,8 +6,7 @@ last: 2026-03-17
 senders:
 - jason@ynkr.org
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Jason Younker]]'
 ---

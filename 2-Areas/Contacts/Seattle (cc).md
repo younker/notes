@@ -1,11 +1,12 @@
 ---
-name: "Seattle (cc)"
-organization: "Seattle (cc)"
+name: Seattle (cc)
+organization: Seattle (cc)
 phones:
-  - "1 (206)"
+- 1 (206)
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Seattle (cc)

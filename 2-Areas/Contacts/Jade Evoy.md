@@ -1,12 +1,13 @@
 ---
-name: "Jade Evoy"
-first_name: "Jade"
-last_name: "Evoy"
+name: Jade Evoy
+first_name: Jade
+last_name: Evoy
 phones:
-  - "+12313307250"
+- '+12313307250'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jade Evoy

@@ -1,13 +1,14 @@
 ---
-name: "Ryan Brewer"
-first_name: "Ryan"
-last_name: "Brewer"
+name: Ryan Brewer
+first_name: Ryan
+last_name: Brewer
 phones:
-  - "(509) 952-6698"
-  - "(509) 949-0752"
+- (509) 952-6698
+- (509) 949-0752
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Ryan Brewer

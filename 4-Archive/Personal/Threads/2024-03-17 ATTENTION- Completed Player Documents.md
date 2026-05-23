@@ -6,8 +6,7 @@ last: 2024-03-17
 senders:
 - MMYSL@sportsforms.net
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # ATTENTION: Completed Player Documents

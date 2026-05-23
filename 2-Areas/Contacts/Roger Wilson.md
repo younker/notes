@@ -1,13 +1,14 @@
 ---
-name: "Roger Wilson"
-first_name: "Roger"
-last_name: "Wilson"
+name: Roger Wilson
+first_name: Roger
+last_name: Wilson
 phones:
-  - "(509) 728-0654"
-  - "(509) 453-1258"
+- (509) 728-0654
+- (509) 453-1258
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Roger Wilson

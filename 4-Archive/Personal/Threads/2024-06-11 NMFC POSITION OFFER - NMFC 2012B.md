@@ -6,8 +6,7 @@ last: 2024-06-11
 senders:
 - soccer@northernmichiganfc.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # NMFC POSITION OFFER - NMFC 2012B

@@ -1,15 +1,16 @@
 ---
-name: "Shelly Matsudaira"
-first_name: "Shelly"
-last_name: "Matsudaira"
-organization: "SEOmoz"
+name: Shelly Matsudaira
+first_name: Shelly
+last_name: Matsudaira
+organization: SEOmoz
 phones:
-  - "+12063724500"
+- '+12063724500'
 emails:
-  - "shelly@seomoz.org"
+- shelly@seomoz.org
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Shelly Matsudaira

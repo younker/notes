@@ -7,7 +7,6 @@ senders:
 - heathergoffinet@hotmail.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Heather Younker]]'

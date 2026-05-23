@@ -7,7 +7,6 @@ senders:
 - christopherdelgado1@gmail.com
 type: email-thread
 tags:
-- email
 - job-search-2024
 ---
 

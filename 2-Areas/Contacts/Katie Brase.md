@@ -1,14 +1,15 @@
 ---
-name: "Katie Brase"
-first_name: "Katie"
-last_name: "Brase"
-organization: "Young Life Donations"
+name: Katie Brase
+first_name: Katie
+last_name: Brase
+organization: Young Life Donations
 phones:
-  - "1 (206) 842-3323"
-  - "1 (206) 790-4994"
+- 1 (206) 842-3323
+- 1 (206) 790-4994
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Katie Brase

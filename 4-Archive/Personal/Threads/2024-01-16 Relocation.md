@@ -8,7 +8,6 @@ senders:
 - erika.guzman@ziffdavis.com
 type: email-thread
 tags:
-- email
 - moz
 contacts:
 - '[[Erika Spearing]]'

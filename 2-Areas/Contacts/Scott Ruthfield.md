@@ -1,16 +1,17 @@
 ---
-name: "Scott Ruthfield"
-first_name: "Scott"
-last_name: "Ruthfield"
-organization: "Rooster Park"
+name: Scott Ruthfield
+first_name: Scott
+last_name: Ruthfield
+organization: Rooster Park
 phones:
-  - "(206) 356-5881"
-  - "(206) 801-0189"
+- (206) 356-5881
+- (206) 801-0189
 emails:
-  - "scott@roosterpark.com"
+- scott@roosterpark.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Scott Ruthfield

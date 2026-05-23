@@ -6,8 +6,7 @@ last: 2025-02-19
 senders:
 - no-reply@stitchfix.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Follow up regarding your Fullstack Principal Engineer I - Payments & Client

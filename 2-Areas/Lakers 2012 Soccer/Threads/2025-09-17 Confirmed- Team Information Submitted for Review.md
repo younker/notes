@@ -1,12 +1,12 @@
 ---
-subject: "Confirmed:  Team Information Submitted for Review"
+subject: 'Confirmed:  Team Information Submitted for Review'
 message_count: 1
 first: 2025-09-17
 last: 2025-09-17
 senders:
-  - Autumn_Classic@sportsforms.net
+- Autumn_Classic@sportsforms.net
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Confirmed:  Team Information Submitted for Review

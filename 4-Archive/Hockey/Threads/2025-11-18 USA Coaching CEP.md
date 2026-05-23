@@ -9,7 +9,6 @@ senders:
 - petoskeyhockeyregistrar@gmail.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Jason Younker]]'

@@ -6,8 +6,7 @@ last: 2025-07-29
 senders:
 - stumm_@hotmail.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Jared Stumm]]'
 ---

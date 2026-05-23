@@ -1,12 +1,12 @@
 ---
-subject: "Thank you for joining AT&T for your wireless needs"
+subject: Thank you for joining AT&T for your wireless needs
 message_count: 1
 first: 2022-02-12
 last: 2022-02-12
 senders:
-  - buscontractsnoreply@att.com
+- buscontractsnoreply@att.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank you for joining AT&T for your wireless needs

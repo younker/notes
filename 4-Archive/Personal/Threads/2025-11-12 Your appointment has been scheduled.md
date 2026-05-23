@@ -1,12 +1,12 @@
 ---
-subject: "Your appointment has been scheduled"
+subject: Your appointment has been scheduled
 message_count: 1
 first: 2025-11-12
 last: 2025-11-12
 senders:
-  - noreply-MDOS-Services@mail.michigan.gov
+- noreply-MDOS-Services@mail.michigan.gov
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Your appointment has been scheduled

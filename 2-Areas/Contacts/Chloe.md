@@ -1,12 +1,13 @@
 ---
-name: "Chloe"
-first_name: "Chloe"
-organization: "Pencil Drawings"
+name: Chloe
+first_name: Chloe
+organization: Pencil Drawings
 phones:
-  - "+12066962081"
+- '+12066962081'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Chloe

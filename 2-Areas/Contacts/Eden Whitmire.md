@@ -1,14 +1,15 @@
 ---
-name: "Eden Whitmire"
-first_name: "Eden"
-last_name: "Whitmire"
+name: Eden Whitmire
+first_name: Eden
+last_name: Whitmire
 phones:
-  - "(206) 265-2438"
+- (206) 265-2438
 emails:
-  - "edenwhitmire@yahoo.com"
+- edenwhitmire@yahoo.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Eden Whitmire

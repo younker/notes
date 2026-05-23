@@ -1,11 +1,12 @@
 ---
-name: "Harbor Piblic House"
-organization: "Harbor Piblic House"
+name: Harbor Piblic House
+organization: Harbor Piblic House
 phones:
-  - "(252) 544-5321"
+- (252) 544-5321
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Harbor Piblic House

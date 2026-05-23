@@ -1,15 +1,16 @@
 ---
-name: "Meredith McDonald"
-first_name: "Meredith"
-last_name: "McDonald"
-job_title: "TC Red AA 14U"
+name: Meredith McDonald
+first_name: Meredith
+last_name: McDonald
+job_title: TC Red AA 14U
 phones:
-  - "231-349-2431"
+- 231-349-2431
 emails:
-  - "mere510@gmail.com"
+- mere510@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Meredith McDonald

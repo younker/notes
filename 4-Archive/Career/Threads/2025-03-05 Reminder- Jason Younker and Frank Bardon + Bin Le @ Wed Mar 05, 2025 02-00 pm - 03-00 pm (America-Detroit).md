@@ -1,13 +1,12 @@
 ---
-subject: "Reminder: Jason Younker and Frank Bardon + Bin Le @ Wed Mar 05,
- 2025 02:00 pm - 03:00 pm (America/Detroit)"
+subject: 'Reminder: Jason Younker and Frank Bardon + Bin Le @ Wed Mar 05, 2025 02:00 pm - 03:00 pm (America/Detroit)'
 message_count: 1
 first: 2025-03-05
 last: 2025-03-05
 senders:
-  - noreply@zohocalendar.com
+- noreply@zohocalendar.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Reminder: Jason Younker and Frank Bardon + Bin Le @ Wed Mar 05,

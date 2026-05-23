@@ -1,12 +1,13 @@
 ---
-name: "Tammy Slettvet"
-first_name: "Tammy"
-last_name: "Slettvet"
+name: Tammy Slettvet
+first_name: Tammy
+last_name: Slettvet
 phones:
-  - "4259994723"
+- '4259994723'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Tammy Slettvet

@@ -1,12 +1,12 @@
 ---
-subject: "[SECURE] DSHS PD Request #202111-PRR-307 - Fee Letter"
+subject: '[SECURE] DSHS PD Request #202111-PRR-307 - Fee Letter'
 message_count: 1
 first: 2022-02-22
 last: 2022-02-22
 senders:
-  - natasha.motley@dshs.wa.gov
+- natasha.motley@dshs.wa.gov
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # [SECURE] DSHS PD Request #202111-PRR-307 - Fee Letter

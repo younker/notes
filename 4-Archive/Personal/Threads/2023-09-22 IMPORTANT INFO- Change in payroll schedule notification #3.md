@@ -6,8 +6,7 @@ last: 2023-09-22
 senders:
 - liz.white@ziffdavis.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # IMPORTANT INFO- Change in payroll schedule notification #3

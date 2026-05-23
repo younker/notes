@@ -8,7 +8,6 @@ senders:
 - kdutcher@harborlight.org
 type: email-thread
 tags:
-- email
 - harborlight
 contacts:
 - '[[Heather Younker]]'

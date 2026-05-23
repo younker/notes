@@ -1,12 +1,12 @@
 ---
-subject: "AT&T Post Call Notification Summary of Change(s) to Your Account"
+subject: AT&T Post Call Notification Summary of Change(s) to Your Account
 message_count: 1
 first: 2022-12-06
 last: 2022-12-06
 senders:
-  - update@emaildl.att-mail.com
+- update@emaildl.att-mail.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # AT&T Post Call Notification Summary of Change(s) to Your Account

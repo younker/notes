@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - cascadia-yakima
-- email
 - ship
 ---
 

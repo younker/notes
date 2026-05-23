@@ -1,14 +1,15 @@
 ---
-name: "Jeff Wells"
-first_name: "Jeff"
-last_name: "Wells"
+name: Jeff Wells
+first_name: Jeff
+last_name: Wells
 phones:
-  - "509-895-4292"
+- 509-895-4292
 emails:
-  - "jwells2092@charter.net"
+- jwells2092@charter.net
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jeff Wells

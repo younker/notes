@@ -1,12 +1,13 @@
 ---
-name: "Jeff Bruney"
-first_name: "Jeff"
-last_name: "Bruney"
+name: Jeff Bruney
+first_name: Jeff
+last_name: Bruney
 phones:
-  - "+12313305967"
+- '+12313305967'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jeff Bruney

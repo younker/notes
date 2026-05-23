@@ -6,8 +6,7 @@ last: 2025-09-16
 senders:
 - service@paypal.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # ZOHO DISTRIBUTION CO...: $6.97 USD

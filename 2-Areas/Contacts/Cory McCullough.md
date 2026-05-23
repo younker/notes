@@ -1,14 +1,15 @@
 ---
-name: "Cory McCullough"
-first_name: "Cory"
-last_name: "McCullough"
+name: Cory McCullough
+first_name: Cory
+last_name: McCullough
 phones:
-  - "+19893143139"
+- '+19893143139'
 emails:
-  - "Corymccullough16@gmail.com"
+- Corymccullough16@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Cory McCullough

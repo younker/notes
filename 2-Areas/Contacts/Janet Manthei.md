@@ -1,14 +1,15 @@
 ---
-name: "Janet Manthei"
-first_name: "Janet"
-last_name: "Manthei"
+name: Janet Manthei
+first_name: Janet
+last_name: Manthei
 phones:
-  - "+1 (231) 675-4329"
+- +1 (231) 675-4329
 emails:
-  - "janetrules007@hotmail.com"
+- janetrules007@hotmail.com
 created: 2026-05-08
 modified: 2026-05-08
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Janet Manthei

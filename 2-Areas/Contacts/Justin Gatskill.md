@@ -1,13 +1,14 @@
 ---
-name: "Justin Gatskill"
-first_name: "Justin"
-last_name: "Gatskill"
-organization: "Mason"
+name: Justin Gatskill
+first_name: Justin
+last_name: Gatskill
+organization: Mason
 phones:
-  - "(509) 952-7509"
+- (509) 952-7509
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Justin Gatskill

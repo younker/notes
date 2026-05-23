@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - ship
-- email
 ---
 
 # Your Dyson order confirmation

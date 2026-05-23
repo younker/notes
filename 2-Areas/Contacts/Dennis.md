@@ -1,12 +1,13 @@
 ---
-name: "Dennis"
-first_name: "Dennis"
-organization: "Soccer"
+name: Dennis
+first_name: Dennis
+organization: Soccer
 phones:
-  - "+12067692731"
+- '+12067692731'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Dennis

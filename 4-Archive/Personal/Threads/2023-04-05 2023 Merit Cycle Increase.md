@@ -7,7 +7,6 @@ senders:
 - victoria.louie@moz.com
 type: email-thread
 tags:
-- email
 - moz
 contacts:
 - '[[Victoria Louie]]'

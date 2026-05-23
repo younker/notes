@@ -6,8 +6,7 @@ last: 2023-05-30
 senders:
 - info@montway.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Your Montway.com Order #1826904

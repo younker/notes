@@ -6,8 +6,7 @@ last: 2025-12-01
 senders:
 - receipt@membership.usahockey.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # USA Hockey Forgot Username Request

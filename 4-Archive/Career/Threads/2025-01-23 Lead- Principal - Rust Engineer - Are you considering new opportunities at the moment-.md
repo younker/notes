@@ -6,8 +6,7 @@ last: 2025-01-23
 senders:
 - inmail-hit-reply@linkedin.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Lead/ Principal - Rust Engineer - Are you considering new

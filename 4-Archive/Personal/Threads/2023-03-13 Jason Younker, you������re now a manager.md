@@ -1,12 +1,12 @@
 ---
-subject: "Jason Younker, you������re now a manager"
+subject: Jason Younker, you������re now a manager
 message_count: 1
 first: 2023-03-13
 last: 2023-03-13
 senders:
-  - businessprofile-noreply@google.com
+- businessprofile-noreply@google.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Jason Younker, you������re now a manager

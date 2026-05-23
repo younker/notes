@@ -1,12 +1,12 @@
 ---
-subject: "Thank you for your application to HashiCorp!"
+subject: Thank you for your application to HashiCorp!
 message_count: 1
 first: 2024-12-12
 last: 2024-12-12
 senders:
-  - no-reply@hashicorp.com
+- no-reply@hashicorp.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank you for your application to HashiCorp!

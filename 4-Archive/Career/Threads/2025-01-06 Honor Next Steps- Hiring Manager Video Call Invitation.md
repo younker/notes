@@ -6,8 +6,7 @@ last: 2025-01-06
 senders:
 - charlie.bowers@joinhonor.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Honor Next Steps: Hiring Manager Video Call Invitation

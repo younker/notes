@@ -1,12 +1,12 @@
 ---
-subject: "Confirmed: Call with Jeff Dunn from Gusto on Tuesday, January 14, 2025 01:00PM (EST)"
+subject: 'Confirmed: Call with Jeff Dunn from Gusto on Tuesday, January 14, 2025 01:00PM (EST)'
 message_count: 2
 first: 2025-01-08
 last: 2025-01-14
 senders:
-  - stephanie.lopez@gusto.com
+- stephanie.lopez@gusto.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Confirmed: Call with Jeff Dunn from Gusto on Tuesday, January 14, 2025 01:00PM (EST)

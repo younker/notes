@@ -6,8 +6,7 @@ last: 2024-12-31
 senders:
 - brian@clickhouse.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Hunter Johnachic]]'
 ---

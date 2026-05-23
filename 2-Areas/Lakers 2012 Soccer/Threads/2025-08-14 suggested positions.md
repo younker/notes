@@ -6,8 +6,7 @@ last: 2025-08-14
 senders:
 - brentcbolin@gmail.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Brent Bolin]]'
 - '[[Gavin]]'

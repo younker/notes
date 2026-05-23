@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - 720-jennings
-- email
 ---
 
 # Order US-84455 confirmed

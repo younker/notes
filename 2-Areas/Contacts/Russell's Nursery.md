@@ -1,11 +1,12 @@
 ---
-name: "Russell's Nursery"
-organization: "Russell's Nursery"
+name: Russell's Nursery
+organization: Russell's Nursery
 phones:
-  - "+1 509-966-0698"
+- +1 509-966-0698
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Russell's Nursery

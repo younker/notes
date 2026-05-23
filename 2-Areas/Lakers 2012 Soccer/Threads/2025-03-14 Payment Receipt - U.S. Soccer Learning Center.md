@@ -6,8 +6,7 @@ last: 2026-04-06
 senders:
 - notifications@learning.ussoccer.org
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Payment Receipt - U.S. Soccer Learning Center

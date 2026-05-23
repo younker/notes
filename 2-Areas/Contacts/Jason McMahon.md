@@ -1,12 +1,13 @@
 ---
-name: "Jason McMahon"
-first_name: "Jason"
-last_name: "McMahon"
+name: Jason McMahon
+first_name: Jason
+last_name: McMahon
 phones:
-  - "+12063758752"
+- '+12063758752'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jason McMahon

@@ -1,12 +1,13 @@
 ---
-name: "(x) Dr. J Malyon"
-first_name: "(x) Dr. J"
-last_name: "Malyon"
+name: (x) Dr. J Malyon
+first_name: (x) Dr. J
+last_name: Malyon
 phones:
-  - "(425) 746-5929"
+- (425) 746-5929
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # (x) Dr. J Malyon

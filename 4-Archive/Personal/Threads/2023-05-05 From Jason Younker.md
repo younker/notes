@@ -7,7 +7,6 @@ senders:
 - jmcpheeters@GeneralRv.com
 type: email-thread
 tags:
-- email
 - tiffin-rv
 contacts:
 - '[[Julie Boss]]'

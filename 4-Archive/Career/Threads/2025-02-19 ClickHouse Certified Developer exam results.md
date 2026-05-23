@@ -6,8 +6,7 @@ last: 2025-02-19
 senders:
 - certification@clickhouse.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Rich Perlot]]'
 ---

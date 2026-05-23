@@ -1,12 +1,12 @@
 ---
-subject: "General Information and Suggestion"
+subject: General Information and Suggestion
 message_count: 1
 first: 2025-07-31
 last: 2025-07-31
 senders:
-  - web-inform@otsuka-shokai.co.jp
+- web-inform@otsuka-shokai.co.jp
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # General Information and Suggestion

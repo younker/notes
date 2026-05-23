@@ -6,8 +6,7 @@ last: 2025-01-06
 senders:
 - quickbooks@notification.intuit.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Payment confirmation: Invoice #1897-(Firman Electric, inc)

@@ -6,8 +6,7 @@ last: 2023-05-28
 senders:
 - quotes@montway.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Nate Sabari]]'
 ---

@@ -1,12 +1,13 @@
 ---
-name: "Scott Veurink"
-first_name: "Scott"
-last_name: "Veurink"
+name: Scott Veurink
+first_name: Scott
+last_name: Veurink
 phones:
-  - "+12318380874"
+- '+12318380874'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Scott Veurink

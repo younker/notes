@@ -1,12 +1,13 @@
 ---
-name: "Daniel Erwin"
-first_name: "Daniel"
-last_name: "Erwin"
+name: Daniel Erwin
+first_name: Daniel
+last_name: Erwin
 phones:
-  - "+14794458734"
+- '+14794458734'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Daniel Erwin

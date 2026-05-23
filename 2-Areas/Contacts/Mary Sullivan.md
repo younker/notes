@@ -1,12 +1,13 @@
 ---
-name: "Mary Sullivan"
-first_name: "Mary"
-last_name: "Sullivan"
+name: Mary Sullivan
+first_name: Mary
+last_name: Sullivan
 phones:
-  - "+1 (630) 550-7176"
+- +1 (630) 550-7176
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mary Sullivan

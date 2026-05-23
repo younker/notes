@@ -1,19 +1,20 @@
 ---
-name: "Luke LaRiviere"
-first_name: "Luke"
-last_name: "LaRiviere"
+name: Luke LaRiviere
+first_name: Luke
+last_name: LaRiviere
 birthday: 1974-04-07
 phones:
-  - "(206) 805-2712"
-  - "425-985-6186"
-  - "(206)224-9818"
-  - "(206)623-6923"
+- (206) 805-2712
+- 425-985-6186
+- (206)224-9818
+- (206)623-6923
 emails:
-  - "rivlm@hotmail.com"
-  - "llariviere@ydnlaw.com"
+- rivlm@hotmail.com
+- llariviere@ydnlaw.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Luke LaRiviere

@@ -1,11 +1,12 @@
 ---
-name: "Driveway Gravel / Crushed Granite"
-organization: "Driveway Gravel / Crushed Granite"
+name: Driveway Gravel / Crushed Granite
+organization: Driveway Gravel / Crushed Granite
 phones:
-  - "+1 (360) 689-2260"
+- +1 (360) 689-2260
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Driveway Gravel / Crushed Granite

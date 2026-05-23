@@ -1,13 +1,14 @@
 ---
-name: "Gary Campbell"
-first_name: "Gary"
-last_name: "Campbell"
-organization: "Transportation Director Alanson School District"
+name: Gary Campbell
+first_name: Gary
+last_name: Campbell
+organization: Transportation Director Alanson School District
 phones:
-  - "+12312034103"
+- '+12312034103'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Gary Campbell

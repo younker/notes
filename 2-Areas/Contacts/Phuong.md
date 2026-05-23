@@ -1,11 +1,12 @@
 ---
-name: "Phuong"
-first_name: "Phuong"
+name: Phuong
+first_name: Phuong
 phones:
-  - "+17313949004"
+- '+17313949004'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Phuong

@@ -1,13 +1,14 @@
 ---
-name: "Brielle Manthei"
-first_name: "Brielle"
-last_name: "Manthei"
+name: Brielle Manthei
+first_name: Brielle
+last_name: Manthei
 birthday: 2011-03-31
 phones:
-  - "1 (231) 459-9100"
+- 1 (231) 459-9100
 created: 2026-01-24
 modified: 2026-04-26
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Brielle Manthei

@@ -1,15 +1,16 @@
 ---
-name: "Andreas Heim"
-first_name: "Andreas"
-last_name: "Heim"
-organization: "Moz"
+name: Andreas Heim
+first_name: Andreas
+last_name: Heim
+organization: Moz
 phones:
-  - "+12063846449"
+- '+12063846449'
 emails:
-  - "andreas@moz.com"
+- andreas@moz.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Andreas Heim

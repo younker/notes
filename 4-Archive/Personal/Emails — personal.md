@@ -5,7 +5,8 @@ thread_count: 292
 message_count: 442
 date_range: 2019-04-28 to 2026-04-17
 type: email-index
-tags: [email, index]
+tags:
+- index
 ---
 
 # Email Index — personal

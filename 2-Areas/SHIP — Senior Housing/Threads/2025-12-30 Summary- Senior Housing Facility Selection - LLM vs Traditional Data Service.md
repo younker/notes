@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - ship
-- email
 contacts:
 - '[[Jason Younker]]'
 ---

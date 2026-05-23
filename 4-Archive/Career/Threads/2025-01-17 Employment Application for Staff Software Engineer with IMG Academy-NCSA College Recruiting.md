@@ -1,13 +1,12 @@
 ---
-subject: "Employment Application for Staff Software Engineer with IMG
- Academy/NCSA College Recruiting"
+subject: Employment Application for Staff Software Engineer with IMG Academy/NCSA College Recruiting
 message_count: 1
 first: 2025-01-17
 last: 2025-01-17
 senders:
-  - notify@dayforce.com
+- notify@dayforce.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Employment Application for Staff Software Engineer with IMG

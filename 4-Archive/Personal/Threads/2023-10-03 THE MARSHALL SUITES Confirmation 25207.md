@@ -1,12 +1,12 @@
 ---
-subject: "THE MARSHALL SUITES Confirmation 25207"
+subject: THE MARSHALL SUITES Confirmation 25207
 message_count: 1
 first: 2023-10-03
 last: 2023-10-03
 senders:
-  - guestservices@marshallsuites.com
+- guestservices@marshallsuites.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # THE MARSHALL SUITES Confirmation 25207

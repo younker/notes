@@ -6,8 +6,7 @@ last: 2025-06-17
 senders:
 - suffolk@me.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # 2012-11 Boys Midwest United NMFC

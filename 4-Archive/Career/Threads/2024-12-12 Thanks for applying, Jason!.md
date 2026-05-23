@@ -1,12 +1,12 @@
 ---
-subject: "Thanks for applying, Jason!"
+subject: Thanks for applying, Jason!
 message_count: 1
 first: 2024-12-12
 last: 2024-12-12
 senders:
-  - no-reply@dropbox.com
+- no-reply@dropbox.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thanks for applying, Jason!

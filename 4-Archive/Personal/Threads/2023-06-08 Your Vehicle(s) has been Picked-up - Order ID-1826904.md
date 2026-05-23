@@ -6,8 +6,7 @@ last: 2023-06-08
 senders:
 - info@montway.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Your Vehicle(s) has been Picked-up - Order ID:1826904

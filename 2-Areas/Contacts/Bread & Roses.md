@@ -1,12 +1,13 @@
 ---
-name: "Bread & Roses"
-organization: "Bread & Roses"
+name: Bread & Roses
+organization: Bread & Roses
 phones:
-  - "+1 (586) 697-5781"
-  - "+1 (831) 480-9878"
+- +1 (586) 697-5781
+- +1 (831) 480-9878
 created: 2026-05-03
 modified: 2026-05-03
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Bread & Roses

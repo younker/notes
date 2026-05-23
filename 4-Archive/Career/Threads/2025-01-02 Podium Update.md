@@ -1,12 +1,12 @@
 ---
-subject: "Podium Update"
+subject: Podium Update
 message_count: 1
 first: 2025-01-02
 last: 2025-01-02
 senders:
-  - thursday.carreon@podium.com
+- thursday.carreon@podium.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Podium Update

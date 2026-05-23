@@ -7,7 +7,6 @@ senders:
 - cfirman16@gmail.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Chris Firman]]'

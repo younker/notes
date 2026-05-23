@@ -9,7 +9,6 @@ senders:
 type: email-thread
 tags:
 - 720-jennings
-- email
 contacts:
 - '[[Heather Younker]]'
 - '[[Nathan Craghill]]'

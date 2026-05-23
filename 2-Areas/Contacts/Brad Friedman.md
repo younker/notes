@@ -1,15 +1,16 @@
 ---
-name: "Brad Friedman"
-first_name: "Brad"
-last_name: "Friedman"
-organization: "Moz"
+name: Brad Friedman
+first_name: Brad
+last_name: Friedman
+organization: Moz
 phones:
-  - "267-994-7382"
+- 267-994-7382
 emails:
-  - "brad@moz.com"
+- brad@moz.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Brad Friedman

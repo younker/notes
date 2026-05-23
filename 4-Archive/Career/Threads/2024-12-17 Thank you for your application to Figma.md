@@ -1,12 +1,12 @@
 ---
-subject: "Thank you for your application to Figma"
+subject: Thank you for your application to Figma
 message_count: 1
 first: 2024-12-17
 last: 2024-12-17
 senders:
-  - no-reply@figma.com
+- no-reply@figma.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank you for your application to Figma

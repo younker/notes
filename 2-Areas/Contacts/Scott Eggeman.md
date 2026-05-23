@@ -1,12 +1,13 @@
 ---
-name: "Scott Eggeman"
-first_name: "Scott"
-last_name: "Eggeman"
+name: Scott Eggeman
+first_name: Scott
+last_name: Eggeman
 phones:
-  - "+14065316759"
+- '+14065316759'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Scott Eggeman

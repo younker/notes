@@ -1,12 +1,12 @@
 ---
-subject: "Application key has been created"
+subject: Application key has been created
 message_count: 1
 first: 2026-03-24
 last: 2026-03-24
 senders:
-  - no-reply@3scale.redhat.com
+- no-reply@3scale.redhat.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Application key has been created

@@ -1,12 +1,13 @@
 ---
-name: "Matt Wertman"
-first_name: "Matt"
-last_name: "Wertman"
+name: Matt Wertman
+first_name: Matt
+last_name: Wertman
 phones:
-  - "+12313133595"
+- '+12313133595'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Matt Wertman

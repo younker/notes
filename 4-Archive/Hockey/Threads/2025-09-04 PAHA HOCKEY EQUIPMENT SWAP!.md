@@ -7,7 +7,6 @@ senders:
 - pahacommunications@gmail.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Doug Hughes]]'

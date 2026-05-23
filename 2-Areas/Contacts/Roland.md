@@ -1,11 +1,12 @@
 ---
-name: "Roland"
-first_name: "Roland"
+name: Roland
+first_name: Roland
 phones:
-  - "+12316221114"
+- '+12316221114'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Roland

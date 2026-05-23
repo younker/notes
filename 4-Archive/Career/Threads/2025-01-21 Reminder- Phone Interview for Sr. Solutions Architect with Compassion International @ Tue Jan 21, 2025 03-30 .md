@@ -6,8 +6,7 @@ last: 2025-01-21
 senders:
 - noreply@zohocalendar.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Reminder: Phone Interview for Sr. Solutions Architect with

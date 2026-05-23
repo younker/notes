@@ -1,12 +1,13 @@
 ---
-name: "AAA"
-organization: "AAA"
+name: AAA
+organization: AAA
 phones:
-  - "1 (800) 222-4357"
-  - "1 (800) 562-2582"
+- 1 (800) 222-4357
+- 1 (800) 562-2582
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # AAA

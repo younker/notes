@@ -1,11 +1,12 @@
 ---
-name: "Will"
-first_name: "Will"
+name: Will
+first_name: Will
 emails:
-  - "vargowill@gmail.com"
+- vargowill@gmail.com
 created: 2026-04-24
 modified: 2026-04-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Will

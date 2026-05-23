@@ -1,14 +1,15 @@
 ---
-name: "Joshua Williams"
-first_name: "Joshua"
-last_name: "Williams"
+name: Joshua Williams
+first_name: Joshua
+last_name: Williams
 phones:
-  - "+12313423367"
+- '+12313423367'
 emails:
-  - "willibean82@gmail.com"
+- willibean82@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Joshua Williams

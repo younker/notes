@@ -1,12 +1,13 @@
 ---
-name: "Kenny Freiz"
-first_name: "Kenny"
-last_name: "Freiz"
+name: Kenny Freiz
+first_name: Kenny
+last_name: Freiz
 emails:
-  - "kennethfreiz@yahoo.com"
+- kennethfreiz@yahoo.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kenny Freiz

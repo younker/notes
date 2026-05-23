@@ -1,16 +1,17 @@
 ---
-name: "Stefanie Riehle"
-first_name: "Stefanie"
-last_name: "Riehle"
+name: Stefanie Riehle
+first_name: Stefanie
+last_name: Riehle
 phones:
-  - "206.602.2055"
-  - "206.707.9935"
+- 206.602.2055
+- 206.707.9935
 emails:
-  - "stefanie@moz.com"
-  - "stefanie.riehle@moz.com"
+- stefanie@moz.com
+- stefanie.riehle@moz.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Stefanie Riehle

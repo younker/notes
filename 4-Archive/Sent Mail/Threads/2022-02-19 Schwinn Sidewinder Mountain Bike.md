@@ -6,8 +6,7 @@ last: 2022-02-20
 senders:
 - jason@ynkr.org
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Jason Younker]]'
 - '[[Albert Painter]]'

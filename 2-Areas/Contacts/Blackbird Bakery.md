@@ -1,11 +1,12 @@
 ---
-name: "Blackbird Bakery"
-organization: "Blackbird Bakery"
+name: Blackbird Bakery
+organization: Blackbird Bakery
 phones:
-  - "+12067801322"
+- '+12067801322'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Blackbird Bakery

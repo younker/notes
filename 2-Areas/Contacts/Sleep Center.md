@@ -1,11 +1,12 @@
 ---
-name: "Sleep Center"
-organization: "Sleep Center"
+name: Sleep Center
+organization: Sleep Center
 phones:
-  - "+13607825700"
+- '+13607825700'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Sleep Center

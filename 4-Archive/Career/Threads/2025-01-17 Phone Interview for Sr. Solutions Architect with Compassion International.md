@@ -6,8 +6,7 @@ last: 2025-01-17
 senders:
 - SaPark@us.ci.org
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Phone Interview for Sr. Solutions Architect with Compassion

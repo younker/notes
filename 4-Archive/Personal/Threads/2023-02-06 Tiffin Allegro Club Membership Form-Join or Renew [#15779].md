@@ -7,7 +7,6 @@ senders:
 - allegroclub@tiffinmotorhomes.com
 type: email-thread
 tags:
-- email
 - tiffin-rv
 contacts:
 - '[[Heather Younker]]'

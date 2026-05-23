@@ -1,12 +1,12 @@
 ---
-subject: "We've sent your wire"
+subject: We've sent your wire
 message_count: 1
 first: 2025-05-05
 last: 2025-05-05
 senders:
-  - onlinebanking@ealerts.bankofamerica.com
+- onlinebanking@ealerts.bankofamerica.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # We've sent your wire

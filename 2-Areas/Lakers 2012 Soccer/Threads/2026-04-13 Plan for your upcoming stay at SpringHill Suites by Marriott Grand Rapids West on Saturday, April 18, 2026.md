@@ -6,8 +6,7 @@ last: 2026-04-13
 senders:
 - reservations@res-marriott.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Plan for your upcoming stay at SpringHill Suites by Marriott Grand

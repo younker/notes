@@ -7,7 +7,6 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- email
 - tiffin-rv
 contacts:
 - '[[Jason Younker]]'

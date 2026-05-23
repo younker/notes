@@ -6,8 +6,7 @@ last: 2023-07-07
 senders:
 - receipt@hilton.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # We hope you enjoyed your stay at the HILTON-VANCOUVER DOWNTOWN, BRITISH COLUMBIA, CA - come again soon!

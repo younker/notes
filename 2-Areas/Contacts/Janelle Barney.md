@@ -1,12 +1,13 @@
 ---
-name: "Janelle Barney"
-first_name: "Janelle"
-last_name: "Barney"
+name: Janelle Barney
+first_name: Janelle
+last_name: Barney
 phones:
-  - "+12319398024"
+- '+12319398024'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Janelle Barney

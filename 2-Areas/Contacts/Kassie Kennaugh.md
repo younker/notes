@@ -1,12 +1,13 @@
 ---
-name: "Kassie Kennaugh"
-first_name: "Kassie"
-last_name: "Kennaugh"
+name: Kassie Kennaugh
+first_name: Kassie
+last_name: Kennaugh
 phones:
-  - "+12314970158"
+- '+12314970158'
 created: 2026-01-24
 modified: 2026-01-25
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kassie Kennaugh

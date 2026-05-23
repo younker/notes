@@ -1,11 +1,12 @@
 ---
-name: "Nick's Grill"
-organization: "Nick's Grill"
+name: Nick's Grill
+organization: Nick's Grill
 phones:
-  - "+1 (425) 820-9870"
+- +1 (425) 820-9870
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Nick's Grill

@@ -1,11 +1,12 @@
 ---
-name: "Bremerton Ice Arena"
-organization: "Bremerton Ice Arena"
+name: Bremerton Ice Arena
+organization: Bremerton Ice Arena
 phones:
-  - "+13604797465"
+- '+13604797465'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Bremerton Ice Arena

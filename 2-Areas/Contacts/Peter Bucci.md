@@ -1,12 +1,13 @@
 ---
-name: "Peter Bucci"
-first_name: "Peter"
-last_name: "Bucci"
+name: Peter Bucci
+first_name: Peter
+last_name: Bucci
 phones:
-  - "+12318381973"
+- '+12318381973'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Peter Bucci

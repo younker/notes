@@ -1,12 +1,13 @@
 ---
-name: "Kelly Conn"
-first_name: "Kelly"
-last_name: "Conn"
+name: Kelly Conn
+first_name: Kelly
+last_name: Conn
 phones:
-  - "423-421-3006"
+- 423-421-3006
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kelly Conn

@@ -7,7 +7,6 @@ senders:
 - director@petoskeysoccer.com
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 contacts:
 - '[[Tonya Reeb]]'

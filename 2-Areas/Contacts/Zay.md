@@ -1,11 +1,12 @@
 ---
-name: "Zay"
-first_name: "Zay"
+name: Zay
+first_name: Zay
 phones:
-  - "+12315501123"
+- '+12315501123'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Zay

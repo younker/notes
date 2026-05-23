@@ -1,12 +1,12 @@
 ---
-subject: "Thank You for Your Application!"
+subject: Thank You for Your Application!
 message_count: 1
 first: 2025-02-07
 last: 2025-02-07
 senders:
-  - candidate-e1e0bc2b84f9@sosha.breezy-mail.com
+- candidate-e1e0bc2b84f9@sosha.breezy-mail.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank You for Your Application!

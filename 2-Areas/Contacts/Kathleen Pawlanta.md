@@ -1,15 +1,16 @@
 ---
-name: "Kathleen Pawlanta"
-first_name: "Kathleen"
-last_name: "Pawlanta"
-job_title: "TC Red AA 14U"
+name: Kathleen Pawlanta
+first_name: Kathleen
+last_name: Pawlanta
+job_title: TC Red AA 14U
 phones:
-  - "989-370-0342"
+- 989-370-0342
 emails:
-  - "kkpawlanta@yahoo.com"
+- kkpawlanta@yahoo.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kathleen Pawlanta

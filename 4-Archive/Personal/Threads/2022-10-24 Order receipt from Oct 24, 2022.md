@@ -6,8 +6,7 @@ last: 2022-10-24
 senders:
 - support@nordaccount.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Order receipt from Oct 24, 2022

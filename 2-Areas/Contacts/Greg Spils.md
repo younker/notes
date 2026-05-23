@@ -1,14 +1,15 @@
 ---
-name: "Greg Spils"
-first_name: "Greg"
-last_name: "Spils"
+name: Greg Spils
+first_name: Greg
+last_name: Spils
 phones:
-  - "2069798172"
+- '2069798172'
 emails:
-  - "gregspils@gmail.com"
+- gregspils@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Greg Spils

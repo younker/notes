@@ -6,8 +6,7 @@ last: 2025-03-07
 senders:
 - bethany.bagwell@renewedvision.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Bethany Hickner]]'
 ---

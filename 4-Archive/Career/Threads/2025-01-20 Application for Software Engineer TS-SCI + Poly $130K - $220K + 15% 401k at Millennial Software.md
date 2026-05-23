@@ -7,7 +7,6 @@ senders:
 - noreply@indeed.com
 type: email-thread
 tags:
-- email
 - job-search-2024
 ---
 

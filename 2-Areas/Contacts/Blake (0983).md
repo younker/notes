@@ -1,11 +1,12 @@
 ---
-name: "Blake"
-first_name: "Blake"
+name: Blake
+first_name: Blake
 phones:
-  - "+12486480983"
+- '+12486480983'
 created: 2026-05-01
 modified: 2026-05-01
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Blake

@@ -1,12 +1,13 @@
 ---
-name: "Katy Hanes"
-first_name: "Katy"
-last_name: "Hanes"
+name: Katy Hanes
+first_name: Katy
+last_name: Hanes
 phones:
-  - "+12313304063"
+- '+12313304063'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Katy Hanes

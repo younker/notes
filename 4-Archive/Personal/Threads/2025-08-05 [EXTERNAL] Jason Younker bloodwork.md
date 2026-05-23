@@ -6,8 +6,7 @@ last: 2025-08-05
 senders:
 - bpriest@mhc.net
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # [EXTERNAL] Jason Younker bloodwork

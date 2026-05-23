@@ -1,13 +1,14 @@
 ---
-name: "Eric Lozano"
-first_name: "Eric"
-last_name: "Lozano"
-organization: "Carpenter"
+name: Eric Lozano
+first_name: Eric
+last_name: Lozano
+organization: Carpenter
 phones:
-  - "(360) 286-5271"
+- (360) 286-5271
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Eric Lozano

@@ -1,12 +1,13 @@
 ---
-name: "Mark Drovdahl"
-first_name: "Mark"
-last_name: "Drovdahl"
+name: Mark Drovdahl
+first_name: Mark
+last_name: Drovdahl
 phones:
-  - "2068496248"
+- '2068496248'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mark Drovdahl

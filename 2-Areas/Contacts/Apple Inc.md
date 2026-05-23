@@ -1,11 +1,12 @@
 ---
-name: "Apple Inc."
-organization: "Apple Inc."
+name: Apple Inc.
+organization: Apple Inc.
 phones:
-  - "1-800-MY-APPLE"
+- 1-800-MY-APPLE
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Apple Inc.

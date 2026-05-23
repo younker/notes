@@ -6,8 +6,7 @@ last: 2025-01-29
 senders:
 - SaPark@us.ci.org
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Samuel Erwin]]'
 ---

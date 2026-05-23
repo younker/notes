@@ -10,7 +10,6 @@ senders:
 - heatheryounker@outlook.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Brandon Cook]]'

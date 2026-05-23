@@ -1,13 +1,14 @@
 ---
-name: "Aaron Jacobs"
-first_name: "Aaron"
-last_name: "Jacobs"
+name: Aaron Jacobs
+first_name: Aaron
+last_name: Jacobs
 phones:
-  - "509-930-2477"
-  - "509-248-0711"
+- 509-930-2477
+- 509-248-0711
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Aaron Jacobs

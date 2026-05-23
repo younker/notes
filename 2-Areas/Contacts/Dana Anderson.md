@@ -1,14 +1,15 @@
 ---
-name: "Dana Anderson"
-first_name: "Dana"
-last_name: "Anderson"
+name: Dana Anderson
+first_name: Dana
+last_name: Anderson
 phones:
-  - "(618) 294-3340"
+- (618) 294-3340
 emails:
-  - "andersonholdings@gmail.com"
+- andersonholdings@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Dana Anderson

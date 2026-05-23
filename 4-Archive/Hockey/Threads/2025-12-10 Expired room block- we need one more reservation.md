@@ -8,7 +8,6 @@ senders:
 - carter@sportsheadz.com
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 contacts:
 - '[[Carter]]'

@@ -1,12 +1,12 @@
 ---
-subject: "MHSAA New User Registration"
+subject: MHSAA New User Registration
 message_count: 1
 first: 2026-05-05
 last: 2026-05-05
 senders:
-  - info@mhsaa.com
+- info@mhsaa.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # MHSAA New User Registration

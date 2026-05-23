@@ -1,11 +1,12 @@
 ---
-name: "Installation Specialists"
-organization: "Installation Specialists"
+name: Installation Specialists
+organization: Installation Specialists
 phones:
-  - "+12318813667"
+- '+12318813667'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Installation Specialists

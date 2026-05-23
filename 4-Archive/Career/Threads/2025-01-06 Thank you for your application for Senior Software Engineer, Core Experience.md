@@ -1,13 +1,12 @@
 ---
-subject: "Thank you for your application for Senior Software Engineer, Core
- Experience"
+subject: Thank you for your application for Senior Software Engineer, Core Experience
 message_count: 1
 first: 2025-01-06
 last: 2025-01-06
 senders:
-  - no-reply@instacart.com
+- no-reply@instacart.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank you for your application for Senior Software Engineer, Core

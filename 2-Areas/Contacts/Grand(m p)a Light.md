@@ -1,15 +1,16 @@
 ---
-name: "Grand(m|p)a Light"
-first_name: "Grand(m|p)a"
-last_name: "Light"
+name: Grand(m|p)a Light
+first_name: Grand(m|p)a
+last_name: Light
 phones:
-  - "(509) 820-6680"
-  - "(509) 972-7998"
+- (509) 820-6680
+- (509) 972-7998
 emails:
-  - "morrisandbetty2@charter.net"
+- morrisandbetty2@charter.net
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Grand(m|p)a Light

@@ -7,8 +7,7 @@ senders:
 - bonham@planningcenter.com
 - no-reply@ats.rippling.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Congratulations on Moving Forward in the Interview Process

@@ -1,15 +1,16 @@
 ---
-name: "Dan Polleys"
-first_name: "Dan"
-last_name: "Polleys"
-organization: "State Farm Insurance"
+name: Dan Polleys
+first_name: Dan
+last_name: Polleys
+organization: State Farm Insurance
 phones:
-  - "+12314594800"
+- '+12314594800'
 emails:
-  - "dpolley@fbinsmi.com"
+- dpolley@fbinsmi.com
 created: 2026-05-04
 modified: 2026-05-22
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Dan Polleys

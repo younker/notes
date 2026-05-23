@@ -7,7 +7,6 @@ senders:
 - no-reply@hire.lever.co
 type: email-thread
 tags:
-- email
 - job-search-2024
 ---
 

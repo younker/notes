@@ -1,11 +1,12 @@
 ---
-name: "Andrew"
-first_name: "Andrew"
+name: Andrew
+first_name: Andrew
 phones:
-  - "+19898218776"
+- '+19898218776'
 created: 2026-05-01
 modified: 2026-05-01
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Andrew

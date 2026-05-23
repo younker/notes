@@ -7,7 +7,6 @@ senders:
 - jeff.dunn@gusto.com
 type: email-thread
 tags:
-- email
 - job-search-2024
 ---
 

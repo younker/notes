@@ -1,12 +1,13 @@
 ---
-name: "Mikey Thompson"
-first_name: "Mikey"
-last_name: "Thompson"
+name: Mikey Thompson
+first_name: Mikey
+last_name: Thompson
 phones:
-  - "(586) 522-8259"
+- (586) 522-8259
 created: 2026-04-16
 modified: 2026-04-16
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mikey Thompson

@@ -6,8 +6,7 @@ last: 2026-05-12
 senders:
 - notify@mhsaa.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # MHSAA Event Payment Required

@@ -1,16 +1,17 @@
 ---
-name: "Stephen Goffinet"
-first_name: "Stephen"
-last_name: "Goffinet"
+name: Stephen Goffinet
+first_name: Stephen
+last_name: Goffinet
 birthday: 1950-08-09
 phones:
-  - "(812) 376-9684"
-  - "(812) 343-1640"
+- (812) 376-9684
+- (812) 343-1640
 emails:
-  - "swgoffinet@sbcglobal.net"
+- swgoffinet@sbcglobal.net
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Stephen Goffinet

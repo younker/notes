@@ -1,15 +1,16 @@
 ---
-name: "Travis Stoker"
-first_name: "Travis"
-last_name: "Stoker"
-organization: "Cedar Swamp Sporting Goods"
+name: Travis Stoker
+first_name: Travis
+last_name: Stoker
+organization: Cedar Swamp Sporting Goods
 phones:
-  - "+12313403855"
+- '+12313403855'
 emails:
-  - "stoker.travis@yahoo.com"
+- stoker.travis@yahoo.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Travis Stoker

@@ -1,11 +1,12 @@
 ---
-name: "Grant"
-first_name: "Grant"
+name: Grant
+first_name: Grant
 phones:
-  - "+17346011408"
+- '+17346011408'
 created: 2026-05-12
 modified: 2026-05-12
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Grant

@@ -6,8 +6,7 @@ last: 2025-01-28
 senders:
 - no-reply@interviews.modernloop.io
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Reminder: You have an upcoming interview with Gusto

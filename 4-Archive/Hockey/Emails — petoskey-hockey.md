@@ -5,7 +5,8 @@ thread_count: 135
 message_count: 209
 date_range: 2023-11-27 to 2026-05-22
 type: email-index
-tags: [email, index]
+tags:
+- index
 ---
 
 # Email Index — petoskey-hockey

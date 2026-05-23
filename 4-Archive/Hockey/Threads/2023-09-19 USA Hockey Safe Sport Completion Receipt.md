@@ -6,8 +6,7 @@ last: 2023-09-19
 senders:
 - receipt@membership.usahockey.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # USA Hockey Safe Sport Completion Receipt

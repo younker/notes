@@ -1,14 +1,15 @@
 ---
-name: "Jeff Laughlin"
-first_name: "Jeff"
-last_name: "Laughlin"
+name: Jeff Laughlin
+first_name: Jeff
+last_name: Laughlin
 phones:
-  - "6463731045"
+- '6463731045'
 emails:
-  - "jefflaughlin22@gmail.com"
+- jefflaughlin22@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jeff Laughlin

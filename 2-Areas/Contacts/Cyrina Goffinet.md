@@ -1,12 +1,13 @@
 ---
-name: "Cyrina Goffinet"
-first_name: "Cyrina"
-last_name: "Goffinet"
+name: Cyrina Goffinet
+first_name: Cyrina
+last_name: Goffinet
 phones:
-  - "266"
+- '266'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Cyrina Goffinet

@@ -6,8 +6,7 @@ last: 2025-04-25
 senders:
 - no-reply@cribl.io
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Thank you for applying to Cribl

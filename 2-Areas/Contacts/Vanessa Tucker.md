@@ -1,15 +1,16 @@
 ---
-name: "Vanessa Tucker"
-first_name: "Vanessa"
-last_name: "Tucker"
-job_title: "TC Red AA 14U"
+name: Vanessa Tucker
+first_name: Vanessa
+last_name: Tucker
+job_title: TC Red AA 14U
 phones:
-  - "231-360-1812"
+- 231-360-1812
 emails:
-  - "vtucker245@gmail.com"
+- vtucker245@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Vanessa Tucker

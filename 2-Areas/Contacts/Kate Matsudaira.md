@@ -1,14 +1,15 @@
 ---
-name: "Kate Matsudaira"
-first_name: "Kate"
-last_name: "Matsudaira"
+name: Kate Matsudaira
+first_name: Kate
+last_name: Matsudaira
 phones:
-  - "+1 (206) 992-8580"
+- +1 (206) 992-8580
 emails:
-  - "kate@seomoz.org"
+- kate@seomoz.org
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kate Matsudaira

@@ -1,17 +1,18 @@
 ---
-name: "Brian Conn"
-first_name: "Brian"
-last_name: "Conn"
+name: Brian Conn
+first_name: Brian
+last_name: Conn
 birthday: 1973-05-13
 phones:
-  - "423-614-8621"
-  - "423-421-3004"
+- 423-614-8621
+- 423-421-3004
 emails:
-  - "bconn@leeuniversity.edu"
-  - "brian.conn.7@hotmail.com"
+- bconn@leeuniversity.edu
+- brian.conn.7@hotmail.com
 created: 2026-01-24
 modified: 2026-03-26
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Brian Conn

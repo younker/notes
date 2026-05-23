@@ -6,8 +6,7 @@ last: 2025-01-17
 senders:
 - compassion@myworkday.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Congratulations!  You are being considered for the Sr. Solutions

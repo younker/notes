@@ -1,11 +1,12 @@
 ---
-name: "Pauls Taxi (airport)"
-organization: "Pauls Taxi (airport)"
+name: Pauls Taxi (airport)
+organization: Pauls Taxi (airport)
 phones:
-  - "12062443800"
+- '12062443800'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Pauls Taxi (airport)

@@ -1,11 +1,12 @@
 ---
-name: "K 9 Country Club"
-organization: "K 9 Country Club"
+name: K 9 Country Club
+organization: K 9 Country Club
 phones:
-  - "+1 (509) 453-9663"
+- +1 (509) 453-9663
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # K 9 Country Club

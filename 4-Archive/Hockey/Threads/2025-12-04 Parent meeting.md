@@ -7,7 +7,6 @@ senders:
 - kassiewalters22@gmail.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Emma Baxter]]'

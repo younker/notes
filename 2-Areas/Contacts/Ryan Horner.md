@@ -1,20 +1,21 @@
 ---
-name: "Ryan Horner"
-first_name: "Ryan"
-last_name: "Horner"
-organization: "PegLeg Pictures"
+name: Ryan Horner
+first_name: Ryan
+last_name: Horner
+organization: PegLeg Pictures
 birthday: 1974-05-23
 phones:
-  - "425-629-3341"
-  - "(425) 283-9396"
-  - "(206) 420-4036"
+- 425-629-3341
+- (425) 283-9396
+- (206) 420-4036
 emails:
-  - "peglegpictures@me.com"
-  - "ryanhorner@me.com"
-  - "peglegpictures@mac.com"
+- peglegpictures@me.com
+- ryanhorner@me.com
+- peglegpictures@mac.com
 created: 2026-01-24
 modified: 2026-05-18
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Ryan Horner

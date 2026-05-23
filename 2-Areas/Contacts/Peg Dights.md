@@ -1,13 +1,14 @@
 ---
-name: "Peg Dights"
-first_name: "Peg"
-last_name: "Dights"
-organization: "RV Storage"
+name: Peg Dights
+first_name: Peg
+last_name: Dights
+organization: RV Storage
 phones:
-  - "+12063101319"
+- '+12063101319'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Peg Dights

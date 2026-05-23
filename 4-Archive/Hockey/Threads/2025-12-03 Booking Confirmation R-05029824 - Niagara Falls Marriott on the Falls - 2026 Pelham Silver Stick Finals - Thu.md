@@ -6,8 +6,7 @@ last: 2025-12-03
 senders:
 - mailer@eventpipe.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Booking Confirmation R-05029824 | Niagara Falls Marriott on the Falls | 2026 Pelham Silver Stick Finals | Thu, 01/08/2026 - Sun, 01/11/2026

@@ -6,8 +6,7 @@ last: 2022-11-08
 senders:
 - receipt@usahockeyemails.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Coaching Clinic Registration Payment Receipt and Clinic Details

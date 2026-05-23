@@ -6,8 +6,7 @@ last: 2023-09-11
 senders:
 - furgeso2@msu.edu
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Nicole Stone]]'
 - '[[Heather Younker]]'

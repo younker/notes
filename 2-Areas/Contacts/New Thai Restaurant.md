@@ -1,11 +1,12 @@
 ---
-name: "New Thai Restaurant"
-organization: "New Thai Restaurant"
+name: New Thai Restaurant
+organization: New Thai Restaurant
 phones:
-  - "+1 (509) 966-9730"
+- +1 (509) 966-9730
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # New Thai Restaurant

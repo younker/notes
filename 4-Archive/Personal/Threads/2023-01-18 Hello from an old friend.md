@@ -6,8 +6,7 @@ last: 2023-01-18
 senders:
 - jroeth@gmail.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Jon Roeth]]'
 - '[[Rachel Bonner]]'

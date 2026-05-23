@@ -8,8 +8,7 @@ senders:
 - jasonmpowell@hotmail.com
 - rjbrower04@gmail.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Hunter Johnachic]]'
 - '[[Rory Light]]'

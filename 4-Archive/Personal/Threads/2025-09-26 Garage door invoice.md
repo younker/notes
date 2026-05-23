@@ -6,8 +6,7 @@ last: 2025-09-26
 senders:
 - installationspecservices@gmail.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Garage door invoice

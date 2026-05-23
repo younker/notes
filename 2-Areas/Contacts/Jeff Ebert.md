@@ -1,15 +1,16 @@
 ---
-name: "Jeff Ebert"
-first_name: "Jeff"
-last_name: "Ebert"
+name: Jeff Ebert
+first_name: Jeff
+last_name: Ebert
 phones:
-  - "(812) 639-0347"
-  - "(812) 639-0924"
+- (812) 639-0347
+- (812) 639-0924
 emails:
-  - "ebertfarmsllc@plantpioneer.com"
+- ebertfarmsllc@plantpioneer.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jeff Ebert

@@ -1,13 +1,14 @@
 ---
-name: "Nate Sabari"
-first_name: "Nate"
-last_name: "Sabari"
+name: Nate Sabari
+first_name: Nate
+last_name: Sabari
 phones:
-  - "(509) 225-9659"
-  - "(509) 452-8247"
+- (509) 225-9659
+- (509) 452-8247
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Nate Sabari

@@ -1,14 +1,15 @@
 ---
-name: "Kenny Matanane"
-first_name: "Kenny"
-last_name: "Matanane"
+name: Kenny Matanane
+first_name: Kenny
+last_name: Matanane
 phones:
-  - "206-235-7485"
+- 206-235-7485
 emails:
-  - "kmatanane@hotmail.com"
+- kmatanane@hotmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kenny Matanane

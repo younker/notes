@@ -1,12 +1,13 @@
 ---
-name: "Craig Kern"
-first_name: "Craig"
-last_name: "Kern"
+name: Craig Kern
+first_name: Craig
+last_name: Kern
 phones:
-  - "+19703091419"
+- '+19703091419'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Craig Kern

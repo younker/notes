@@ -1,12 +1,13 @@
 ---
-name: "George Light"
-first_name: "George"
-last_name: "Light"
+name: George Light
+first_name: George
+last_name: Light
 phones:
-  - "5094060701"
+- '5094060701'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # George Light

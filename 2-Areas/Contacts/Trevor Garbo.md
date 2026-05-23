@@ -11,7 +11,6 @@ created: 2026-05-13
 modified: 2026-05-13
 tags:
 - contact
-- contact/person
 ---
 
 # Trevor Garbo

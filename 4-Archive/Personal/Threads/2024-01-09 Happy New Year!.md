@@ -6,8 +6,7 @@ last: 2024-01-09
 senders:
 - nathan@rate.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Nathan Craghill]]'
 ---

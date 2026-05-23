@@ -1,12 +1,13 @@
 ---
-name: "(x) Dr. Peter Mandt"
-first_name: "(x) Dr. Peter"
-last_name: "Mandt"
+name: (x) Dr. Peter Mandt
+first_name: (x) Dr. Peter
+last_name: Mandt
 phones:
-  - "425-455-3600"
+- 425-455-3600
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # (x) Dr. Peter Mandt

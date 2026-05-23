@@ -6,8 +6,7 @@ last: 2023-09-18
 senders:
 - E-tradeAlerts-DoNotReply@etrade.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Morgan Merideth]]'
 ---

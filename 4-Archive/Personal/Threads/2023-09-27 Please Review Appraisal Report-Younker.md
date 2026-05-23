@@ -6,8 +6,7 @@ last: 2023-09-27
 senders:
 - dse@docusign.net
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Please Review Appraisal Report-Younker

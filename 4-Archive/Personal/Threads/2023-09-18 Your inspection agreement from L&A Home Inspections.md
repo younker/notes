@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - 720-jennings
-- email
 ---
 
 # Your inspection agreement from L&A Home Inspections

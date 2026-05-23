@@ -5,7 +5,8 @@ thread_count: 82
 message_count: 112
 date_range: 2025-03-07 to 2026-05-19
 type: email-index
-tags: [email, index]
+tags:
+- index
 ---
 
 # Email Index — soccer-emails.rtfd

@@ -6,8 +6,7 @@ last: 2025-02-14
 senders:
 - no-reply@calm.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Thank you for applying to Calm!

@@ -6,8 +6,7 @@ last: 2024-12-24
 senders:
 - no-reply@hubspot.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Thank you for applying to HubSpot!

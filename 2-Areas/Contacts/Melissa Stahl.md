@@ -1,12 +1,13 @@
 ---
-name: "Melissa Stahl"
-first_name: "Melissa"
-last_name: "Stahl"
+name: Melissa Stahl
+first_name: Melissa
+last_name: Stahl
 phones:
-  - "+12318817707"
+- '+12318817707'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Melissa Stahl

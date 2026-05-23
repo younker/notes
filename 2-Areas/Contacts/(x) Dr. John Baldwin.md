@@ -1,14 +1,15 @@
 ---
-name: "(x) Dr. John Baldwin"
-first_name: "(x) Dr. John"
-last_name: "Baldwin"
-organization: "Rheumatologist"
+name: (x) Dr. John Baldwin
+first_name: (x) Dr. John
+last_name: Baldwin
+organization: Rheumatologist
 phones:
-  - "(425) 451-3560"
-  - "425-453-0766"
+- (425) 451-3560
+- 425-453-0766
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # (x) Dr. John Baldwin

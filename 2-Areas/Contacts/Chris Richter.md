@@ -1,15 +1,16 @@
 ---
-name: "Chris Richter"
-first_name: "Chris"
-last_name: "Richter"
-organization: "eHouseOffers.com"
+name: Chris Richter
+first_name: Chris
+last_name: Richter
+organization: eHouseOffers.com
 phones:
-  - "2064501190"
+- '2064501190'
 emails:
-  - "chris@richternorthwest.com"
+- chris@richternorthwest.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Chris Richter

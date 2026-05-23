@@ -6,8 +6,7 @@ last: 2022-03-29
 senders:
 - donotreply@ipipeline.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Action Required on your Securian Financial Application - DO NOT REPLY

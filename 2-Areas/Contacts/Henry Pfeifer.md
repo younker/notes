@@ -1,12 +1,13 @@
 ---
-name: "Henry Pfeifer"
-first_name: "Henry"
-last_name: "Pfeifer"
+name: Henry Pfeifer
+first_name: Henry
+last_name: Pfeifer
 phones:
-  - "+12313421567"
+- '+12313421567'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Henry Pfeifer

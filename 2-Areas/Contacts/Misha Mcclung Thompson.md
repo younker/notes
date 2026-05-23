@@ -1,12 +1,13 @@
 ---
-name: "Misha Mcclung Thompson"
-first_name: "Misha"
-last_name: "Mcclung Thompson"
+name: Misha Mcclung Thompson
+first_name: Misha
+last_name: Mcclung Thompson
 phones:
-  - "(360) 383-7411"
+- (360) 383-7411
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Misha Mcclung Thompson

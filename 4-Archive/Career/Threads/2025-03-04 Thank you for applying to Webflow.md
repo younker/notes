@@ -1,12 +1,12 @@
 ---
-subject: "Thank you for applying to Webflow"
+subject: Thank you for applying to Webflow
 message_count: 1
 first: 2025-03-04
 last: 2025-03-04
 senders:
-  - no-reply@webflow.com
+- no-reply@webflow.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank you for applying to Webflow

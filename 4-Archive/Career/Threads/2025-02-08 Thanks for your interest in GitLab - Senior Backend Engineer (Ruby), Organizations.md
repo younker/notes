@@ -1,13 +1,12 @@
 ---
-subject: "Thanks for your interest in GitLab - Senior Backend Engineer (Ruby),
- Organizations"
+subject: Thanks for your interest in GitLab - Senior Backend Engineer (Ruby), Organizations
 message_count: 1
 first: 2025-02-08
 last: 2025-02-08
 senders:
-  - aquadri@gitlab.com
+- aquadri@gitlab.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thanks for your interest in GitLab - Senior Backend Engineer (Ruby),

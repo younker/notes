@@ -1,12 +1,12 @@
 ---
-subject: "Compassion International Job Application Status Update"
+subject: Compassion International Job Application Status Update
 message_count: 1
 first: 2025-02-28
 last: 2025-02-28
 senders:
-  - compassion@myworkday.com
+- compassion@myworkday.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Compassion International Job Application Status Update

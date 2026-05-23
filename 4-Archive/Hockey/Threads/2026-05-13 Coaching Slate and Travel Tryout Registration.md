@@ -6,8 +6,7 @@ last: 2026-05-13
 senders:
 - tchockey.mailer@leagueapps.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Jared Stumm]]'
 - '[[Jacek]]'

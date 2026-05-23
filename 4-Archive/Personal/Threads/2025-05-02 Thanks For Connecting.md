@@ -6,8 +6,7 @@ last: 2025-05-02
 senders:
 - repreply@toyotabedford.dsmessage.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Thanks For Connecting

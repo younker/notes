@@ -1,12 +1,13 @@
 ---
-name: "Lindsey Bona-Eggemen"
-first_name: "Lindsey"
-last_name: "Bona-Eggemen"
+name: Lindsey Bona-Eggemen
+first_name: Lindsey
+last_name: Bona-Eggemen
 phones:
-  - "1 (406) 531-4092"
+- 1 (406) 531-4092
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Lindsey Bona-Eggemen

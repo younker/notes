@@ -6,8 +6,7 @@ last: 2022-02-12
 senders:
 - att-services.cn.586726138@emaildl.att-mail.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Thank you for your recent visit

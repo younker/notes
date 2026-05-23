@@ -6,8 +6,7 @@ last: 2025-06-19
 senders:
 - services@mail.ezfacility.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Your Invoice is available -- Invoice #26651

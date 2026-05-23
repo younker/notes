@@ -6,8 +6,7 @@ last: 2026-01-02
 senders:
 - BBanfill@suburbaninns.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Aiden]]'
 - '[[Erica Roof]]'

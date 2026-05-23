@@ -1,17 +1,18 @@
 ---
-name: "Craig Eaton"
-first_name: "Craig"
-last_name: "Eaton"
+name: Craig Eaton
+first_name: Craig
+last_name: Eaton
 birthday: 1974-02-22
 phones:
-  - "425-922-9098"
-  - "425-274-6297"
+- 425-922-9098
+- 425-274-6297
 emails:
-  - "ceaton@akamai.com"
-  - "craig_eaton25@hotmail.com"
+- ceaton@akamai.com
+- craig_eaton25@hotmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Craig Eaton

@@ -1,12 +1,12 @@
 ---
-subject: "We Appreciate Your Effort & Interest"
+subject: We Appreciate Your Effort & Interest
 message_count: 1
 first: 2025-03-04
 last: 2025-03-04
 senders:
-  - no-reply@ats.rippling.com
+- no-reply@ats.rippling.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # We Appreciate Your Effort & Interest

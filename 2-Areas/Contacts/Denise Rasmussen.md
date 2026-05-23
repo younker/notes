@@ -1,17 +1,18 @@
 ---
-name: "Denise Rasmussen"
-first_name: "Denise"
-last_name: "Rasmussen"
-organization: "CDC Management Service Inc"
+name: Denise Rasmussen
+first_name: Denise
+last_name: Rasmussen
+organization: CDC Management Service Inc
 phones:
-  - "(425) 897-3513"
-  - "(425) 952-2957"
-  - "(425) 897-3400"
+- (425) 897-3513
+- (425) 952-2957
+- (425) 897-3400
 emails:
-  - "drasmussen@cdcmanagement.com"
+- drasmussen@cdcmanagement.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Denise Rasmussen

@@ -1,12 +1,13 @@
 ---
-name: "Gabby"
-first_name: "Gabby"
-organization: "Dog Sitter"
+name: Gabby
+first_name: Gabby
+organization: Dog Sitter
 phones:
-  - "+12067557441"
+- '+12067557441'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Gabby

@@ -1,12 +1,13 @@
 ---
-name: "Sandi Rose"
-first_name: "Sandi"
-last_name: "Rose"
+name: Sandi Rose
+first_name: Sandi
+last_name: Rose
 phones:
-  - "+12318388630"
+- '+12318388630'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Sandi Rose

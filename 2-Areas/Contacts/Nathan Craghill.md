@@ -1,18 +1,19 @@
 ---
-name: "Nathan Craghill"
-first_name: "Nathan"
-last_name: "Craghill"
-organization: "Met Life Home Loans"
+name: Nathan Craghill
+first_name: Nathan
+last_name: Craghill
+organization: Met Life Home Loans
 phones:
-  - "(509) 736-3333"
-  - "(509) 539-8902"
-  - "(509) 735-1211"
-  - "(509) 736-2363"
+- (509) 736-3333
+- (509) 539-8902
+- (509) 735-1211
+- (509) 736-2363
 emails:
-  - "ncraghill@metlifehomeloans.com"
+- ncraghill@metlifehomeloans.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Nathan Craghill

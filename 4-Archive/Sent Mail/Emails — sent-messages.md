@@ -5,7 +5,8 @@ thread_count: 157
 message_count: 202
 date_range: 2019-04-07 to 2026-05-22
 type: email-index
-tags: [email, index]
+tags:
+- index
 ---
 
 # Email Index — sent-messages

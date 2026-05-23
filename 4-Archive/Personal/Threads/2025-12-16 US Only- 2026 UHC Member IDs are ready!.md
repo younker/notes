@@ -6,8 +6,7 @@ last: 2025-12-16
 senders:
 - kat.grolle@harrispoll.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Kat Grolle]]'
 ---

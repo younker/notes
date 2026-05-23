@@ -1,15 +1,16 @@
 ---
-name: "Andrew Jefferys"
-first_name: "Andrew"
-last_name: "Jefferys"
-job_title: "TC Red AA 14U"
+name: Andrew Jefferys
+first_name: Andrew
+last_name: Jefferys
+job_title: TC Red AA 14U
 phones:
-  - "973-525-6522"
+- 973-525-6522
 emails:
-  - "Andrewjefferys@gmail.com"
+- Andrewjefferys@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Andrew Jefferys

@@ -1,13 +1,14 @@
 ---
-name: "Shelly"
-first_name: "Shelly"
-organization: "Dog Grooming"
+name: Shelly
+first_name: Shelly
+organization: Dog Grooming
 phones:
-  - "(509) 966-7300"
-  - "(509) 966-3870"
+- (509) 966-7300
+- (509) 966-3870
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Shelly

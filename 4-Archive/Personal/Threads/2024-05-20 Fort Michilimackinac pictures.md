@@ -6,8 +6,7 @@ last: 2024-05-20
 senders:
 - email@renweb.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Fort Michilimackinac pictures

@@ -7,8 +7,7 @@ senders:
 - Ali.Rizvi@northstarfinancial.com
 - heathergoffinet@hotmail.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Heather Younker]]'
 ---

@@ -1,12 +1,12 @@
 ---
-subject: "Your UKG Token"
+subject: Your UKG Token
 message_count: 1
 first: 2025-03-19
 last: 2025-03-19
 senders:
-  - DoNotReply@notifications.ukg.net
+- DoNotReply@notifications.ukg.net
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Your UKG Token

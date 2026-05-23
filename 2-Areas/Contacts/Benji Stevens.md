@@ -1,14 +1,15 @@
 ---
-name: "Benji Stevens"
-first_name: "Benji"
-last_name: "Stevens"
-organization: "Stevens & Sons GC"
+name: Benji Stevens
+first_name: Benji
+last_name: Stevens
+organization: Stevens & Sons GC
 phones:
-  - "(509) 654-2033"
-  - "+1 (509) 457-6426"
+- (509) 654-2033
+- +1 (509) 457-6426
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Benji Stevens

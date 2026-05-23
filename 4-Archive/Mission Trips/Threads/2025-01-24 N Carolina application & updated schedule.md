@@ -7,7 +7,6 @@ senders:
 - kmolmsted@gmail.com
 type: email-thread
 tags:
-- email
 - genesis-church
 contacts:
 - '[[Heather Younker]]'

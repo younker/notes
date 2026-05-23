@@ -1,11 +1,12 @@
 ---
-name: "Brooklyne"
-first_name: "Brooklyne"
+name: Brooklyne
+first_name: Brooklyne
 phones:
-  - "+12313309986"
+- '+12313309986'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Brooklyne

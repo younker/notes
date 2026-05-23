@@ -1,12 +1,12 @@
 ---
-subject: "MY BLOOD FOR YOURS: Why My Kids Books Are Not Safe, But They Are Good—And Intentionally Dangerous"
+subject: 'MY BLOOD FOR YOURS: Why My Kids Books Are Not Safe, But They Are Good—And Intentionally Dangerous'
 message_count: 1
 first: 2022-02-15
 last: 2022-02-15
 senders:
-  - SD@sdsmith.com
+- SD@sdsmith.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # MY BLOOD FOR YOURS: Why My Kids Books Are Not Safe, But They Are Good—And Intentionally Dangerous

@@ -7,7 +7,6 @@ senders:
 - mailer@eventpipe.com
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 ---
 

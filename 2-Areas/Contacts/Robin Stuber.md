@@ -1,12 +1,13 @@
 ---
-name: "Robin Stuber"
-first_name: "Robin"
-last_name: "Stuber"
+name: Robin Stuber
+first_name: Robin
+last_name: Stuber
 phones:
-  - "(509) 972-2211"
+- (509) 972-2211
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Robin Stuber

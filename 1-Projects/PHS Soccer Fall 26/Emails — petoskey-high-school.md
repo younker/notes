@@ -5,7 +5,8 @@ thread_count: 11
 message_count: 15
 date_range: 2026-05-05 to 2026-05-19
 type: email-index
-tags: [email, index]
+tags:
+- index
 ---
 
 # Email Index — petoskey-high-school

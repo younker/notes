@@ -1,11 +1,12 @@
 ---
-name: "Matty"
-first_name: "Matty"
+name: Matty
+first_name: Matty
 phones:
-  - "+12313733760"
+- '+12313733760'
 created: 2026-01-24
 modified: 2026-02-12
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Matty

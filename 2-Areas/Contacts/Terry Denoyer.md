@@ -1,15 +1,16 @@
 ---
-name: "Terry Denoyer"
-first_name: "Terry"
-last_name: "Denoyer"
-job_title: "TC Red AA 14U"
+name: Terry Denoyer
+first_name: Terry
+last_name: Denoyer
+job_title: TC Red AA 14U
 phones:
-  - "231-631-0270"
+- 231-631-0270
 emails:
-  - "209escapeartist@gmail.com"
+- 209escapeartist@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Terry Denoyer

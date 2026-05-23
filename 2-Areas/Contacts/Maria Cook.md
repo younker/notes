@@ -1,13 +1,14 @@
 ---
-name: "Maria Cook"
-first_name: "Maria"
-last_name: "Cook"
-organization: "Acupuncture"
+name: Maria Cook
+first_name: Maria
+last_name: Cook
+organization: Acupuncture
 phones:
-  - "2068427706"
+- '2068427706'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Maria Cook

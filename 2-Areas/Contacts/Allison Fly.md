@@ -1,12 +1,13 @@
 ---
-name: "Allison Fly"
-first_name: "Allison"
-last_name: "Fly"
+name: Allison Fly
+first_name: Allison
+last_name: Fly
 phones:
-  - "(206) 719-6860"
+- (206) 719-6860
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Allison Fly

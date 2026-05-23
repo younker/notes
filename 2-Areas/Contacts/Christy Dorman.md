@@ -1,14 +1,15 @@
 ---
-name: "Christy Dorman"
-first_name: "Christy"
-last_name: "Dorman"
+name: Christy Dorman
+first_name: Christy
+last_name: Dorman
 phones:
-  - "206.707.5261"
+- 206.707.5261
 emails:
-  - "spiralchristy@gmail.com"
+- spiralchristy@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Christy Dorman

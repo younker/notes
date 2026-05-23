@@ -6,8 +6,7 @@ last: 2025-12-10
 senders:
 - return@amazon.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Terry Denoyer]]'
 ---

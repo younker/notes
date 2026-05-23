@@ -1,15 +1,16 @@
 ---
-name: "Laura Fonseca"
-first_name: "Laura"
-last_name: "Fonseca"
+name: Laura Fonseca
+first_name: Laura
+last_name: Fonseca
 phones:
-  - "1 (559) 303-1427"
-  - "1 (559) 688-7370"
+- 1 (559) 303-1427
+- 1 (559) 688-7370
 emails:
-  - "lfonseca5@sbcglobal.net"
+- lfonseca5@sbcglobal.net
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Laura Fonseca

@@ -6,8 +6,7 @@ last: 2022-03-24
 senders:
 - dse@docusign.net
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Ali Rizvi sent you a document to sign. (IRA Roth)

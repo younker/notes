@@ -1,13 +1,14 @@
 ---
-name: "Ken Meissener"
-first_name: "Ken"
-last_name: "Meissener"
-organization: "Algeria Tax Consulting"
+name: Ken Meissener
+first_name: Ken
+last_name: Meissener
+organization: Algeria Tax Consulting
 phones:
-  - "(509) 575-1065"
+- (509) 575-1065
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Ken Meissener

@@ -1,12 +1,12 @@
 ---
-subject: "Petoskey Jr. 14U & 10U Team"
+subject: Petoskey Jr. 14U & 10U Team
 message_count: 1
 first: 2025-12-22
 last: 2025-12-22
 senders:
-  - alison@myhockeytournaments.com
+- alison@myhockeytournaments.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Petoskey Jr. 14U & 10U Team

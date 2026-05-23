@@ -9,7 +9,6 @@ senders:
 type: email-thread
 tags:
 - ship
-- email
 ---
 
 # Your Electronic Receipt

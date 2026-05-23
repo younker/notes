@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - 720-jennings
-- email
 ---
 
 # Inspection results for 720 Jennings Avenue, Petoskey, MI 49770

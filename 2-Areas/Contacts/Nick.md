@@ -1,12 +1,13 @@
 ---
-name: "Nick"
-first_name: "Nick"
-organization: "Gurneys Tileworks"
+name: Nick
+first_name: Nick
+organization: Gurneys Tileworks
 phones:
-  - "(360) 621-3041"
+- (360) 621-3041
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Nick

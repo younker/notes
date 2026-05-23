@@ -1,12 +1,12 @@
 ---
-subject: "Thank you for your application to Oracle"
+subject: Thank you for your application to Oracle
 message_count: 2
 first: 2025-02-21
 last: 2025-03-15
 senders:
-  - noreply@oracle.com
+- noreply@oracle.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank you for your application to Oracle

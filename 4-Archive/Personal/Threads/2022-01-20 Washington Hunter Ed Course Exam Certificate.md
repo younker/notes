@@ -6,8 +6,7 @@ last: 2022-01-20
 senders:
 - stephenyounker9@gmail.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Stephen Younker]]'
 - '[[Hunter Johnachic]]'

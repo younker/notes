@@ -1,13 +1,14 @@
 ---
-name: "Grant Reed"
-first_name: "Grant"
-last_name: "Reed"
-organization: "PYSA Goalie Coach"
+name: Grant Reed
+first_name: Grant
+last_name: Reed
+organization: PYSA Goalie Coach
 phones:
-  - "+12318387551"
+- '+12318387551'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Grant Reed

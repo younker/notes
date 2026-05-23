@@ -5,7 +5,8 @@ thread_count: 38
 message_count: 63
 date_range: 2019-04-01 to 2026-05-13
 type: email-index
-tags: [email, index]
+tags:
+- index
 ---
 
 # Email Index — justin-projects

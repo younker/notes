@@ -6,8 +6,7 @@ last: 2025-01-03
 senders:
 - help@phyliciamasonheimer.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Thank you: Bible in a Year Club 2025

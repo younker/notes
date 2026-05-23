@@ -1,13 +1,12 @@
 ---
-subject: "Kelly Application Survey - 11870 - Software Engineer, Talent
- Applications - Virtual in Eastern or Central Time Zone"
+subject: Kelly Application Survey - 11870 - Software Engineer, Talent Applications - Virtual in Eastern or Central Time Zone
 message_count: 1
 first: 2025-02-06
 last: 2025-02-06
 senders:
-  - globalta@kellyservices.com
+- globalta@kellyservices.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Kelly Application Survey - 11870 - Software Engineer, Talent

@@ -1,12 +1,13 @@
 ---
-name: "Dennis Adams"
-first_name: "Dennis"
-last_name: "Adams"
+name: Dennis Adams
+first_name: Dennis
+last_name: Adams
 phones:
-  - "831-588-3822"
+- 831-588-3822
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Dennis Adams

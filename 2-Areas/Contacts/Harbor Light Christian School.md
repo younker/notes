@@ -1,11 +1,12 @@
 ---
-name: "Harbor Light Christian School"
-organization: "Harbor Light Christian School"
+name: Harbor Light Christian School
+organization: Harbor Light Christian School
 phones:
-  - "12313477859"
+- '12313477859'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Harbor Light Christian School

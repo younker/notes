@@ -6,8 +6,7 @@ last: 2023-06-05
 senders:
 - info@montway.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Dispatch Notification - Trucker assigned - Order #1826904

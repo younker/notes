@@ -1,12 +1,13 @@
 ---
-name: "Tonya Reeb"
-first_name: "Tonya"
-last_name: "Reeb"
+name: Tonya Reeb
+first_name: Tonya
+last_name: Reeb
 phones:
-  - "+12314200688"
+- '+12314200688'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Tonya Reeb

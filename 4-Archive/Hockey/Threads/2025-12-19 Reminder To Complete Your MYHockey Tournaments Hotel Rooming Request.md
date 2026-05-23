@@ -6,8 +6,7 @@ last: 2025-12-19
 senders:
 - alexp@myhockeytournaments.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Reminder To Complete Your MYHockey Tournaments Hotel Rooming Request

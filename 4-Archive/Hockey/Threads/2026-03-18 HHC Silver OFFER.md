@@ -6,8 +6,7 @@ last: 2026-03-18
 senders:
 - 2012hhcsilver@gmail.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # HHC Silver OFFER

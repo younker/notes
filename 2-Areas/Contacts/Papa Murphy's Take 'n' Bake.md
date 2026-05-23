@@ -1,12 +1,13 @@
 ---
-name: "Papa Murphy's Take 'n' Bake"
-organization: "Papa Murphy's Take 'n' Bake"
+name: Papa Murphy's Take 'n' Bake
+organization: Papa Murphy's Take 'n' Bake
 phones:
-  - "+1 (509) 972-0090"
-  - "+1 (425) 643-9310"
+- +1 (509) 972-0090
+- +1 (425) 643-9310
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Papa Murphy's Take 'n' Bake

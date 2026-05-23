@@ -1,12 +1,13 @@
 ---
-name: "Judah Cook"
-first_name: "Judah"
-last_name: "Cook"
+name: Judah Cook
+first_name: Judah
+last_name: Cook
 phones:
-  - "+12313406106"
+- '+12313406106'
 created: 2026-02-15
 modified: 2026-02-15
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Judah Cook

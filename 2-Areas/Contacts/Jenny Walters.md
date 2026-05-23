@@ -1,14 +1,15 @@
 ---
-name: "Jenny Walters"
-first_name: "Jenny"
-last_name: "Walters"
+name: Jenny Walters
+first_name: Jenny
+last_name: Walters
 phones:
-  - "(623) 271-1252"
+- (623) 271-1252
 emails:
-  - "jennykwalters@gmail.com"
+- jennykwalters@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jenny Walters

@@ -1,11 +1,12 @@
 ---
-name: "Discount Tire"
-organization: "Discount Tire"
+name: Discount Tire
+organization: Discount Tire
 phones:
-  - "+13604796852"
+- '+13604796852'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Discount Tire

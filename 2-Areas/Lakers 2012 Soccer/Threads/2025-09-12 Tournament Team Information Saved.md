@@ -1,12 +1,12 @@
 ---
-subject: "Tournament Team Information Saved"
+subject: Tournament Team Information Saved
 message_count: 2
 first: 2025-09-12
 last: 2025-09-12
 senders:
-  - Autumn_Classic@sportsforms.net
+- Autumn_Classic@sportsforms.net
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Tournament Team Information Saved

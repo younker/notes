@@ -1,13 +1,12 @@
 ---
-subject: "Invitation: Call with Jeff Dunn from Gusto @ Tue Jan 14, 2025 1pm -
- 1:30pm (EST) (jason@ynkr.org)"
+subject: 'Invitation: Call with Jeff Dunn from Gusto @ Tue Jan 14, 2025 1pm - 1:30pm (EST) (jason@ynkr.org)'
 message_count: 1
 first: 2025-01-08
 last: 2025-01-08
 senders:
-  - jeff.dunn@gusto.com
+- jeff.dunn@gusto.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Invitation: Call with Jeff Dunn from Gusto @ Tue Jan 14, 2025 1pm -

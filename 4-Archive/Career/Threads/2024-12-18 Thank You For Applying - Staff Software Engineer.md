@@ -1,12 +1,12 @@
 ---
-subject: "Thank You For Applying -  Staff Software Engineer"
+subject: Thank You For Applying -  Staff Software Engineer
 message_count: 1
 first: 2024-12-18
 last: 2024-12-18
 senders:
-  - notify@dayforce.com
+- notify@dayforce.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank You For Applying -  Staff Software Engineer

@@ -1,12 +1,13 @@
 ---
-name: "Jacob Walters (hockey)"
-first_name: "Jacob"
-last_name: "Walters (hockey)"
+name: Jacob Walters (hockey)
+first_name: Jacob
+last_name: Walters (hockey)
 phones:
-  - "+15419517593"
+- '+15419517593'
 created: 2026-01-24
 modified: 2026-02-06
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jacob Walters (hockey)

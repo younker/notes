@@ -12,7 +12,6 @@ created: 2026-05-18
 modified: 2026-05-22
 tags:
 - contact
-- contact/business
 ---
 
 # Matthew Wheeler

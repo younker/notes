@@ -6,8 +6,7 @@ last: 2026-05-19
 senders:
 - rjbrower04@gmail.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Rory Light]]'
 ---

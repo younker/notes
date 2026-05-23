@@ -6,8 +6,7 @@ last: 2026-05-07
 senders:
 - payments-noreply@google.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Google: We've received your payment for 0584-9651-3226

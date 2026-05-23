@@ -7,7 +7,6 @@ senders:
 - fbardon@bera.ai
 type: email-thread
 tags:
-- email
 - job-search-2024
 ---
 

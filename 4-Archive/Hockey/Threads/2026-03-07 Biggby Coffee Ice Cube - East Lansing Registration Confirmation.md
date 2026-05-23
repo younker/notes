@@ -6,8 +6,7 @@ last: 2026-03-07
 senders:
 - no-reply@mailer.bondsports.co
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Biggby Coffee Ice Cube - East Lansing Registration Confirmation

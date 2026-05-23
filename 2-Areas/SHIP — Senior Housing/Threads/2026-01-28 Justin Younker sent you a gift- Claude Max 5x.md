@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - anthropic
-- email
 ---
 
 # Justin Younker sent you a gift: Claude Max 5x

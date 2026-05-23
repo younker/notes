@@ -1,12 +1,13 @@
 ---
-name: "(x) Dr. Scott Heflick"
-first_name: "(x) Dr. Scott"
-last_name: "Heflick"
+name: (x) Dr. Scott Heflick
+first_name: (x) Dr. Scott
+last_name: Heflick
 phones:
-  - "+1 (509) 454-6300"
+- +1 (509) 454-6300
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # (x) Dr. Scott Heflick

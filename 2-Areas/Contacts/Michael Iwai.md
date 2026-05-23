@@ -1,10 +1,11 @@
 ---
-name: "Michael Iwai"
-first_name: "Michael"
-last_name: "Iwai"
+name: Michael Iwai
+first_name: Michael
+last_name: Iwai
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Michael Iwai

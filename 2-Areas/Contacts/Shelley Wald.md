@@ -1,15 +1,16 @@
 ---
-name: "Shelley Wald"
-first_name: "Shelley"
-last_name: "Wald"
-job_title: "TC Red AA 14U"
+name: Shelley Wald
+first_name: Shelley
+last_name: Wald
+job_title: TC Red AA 14U
 phones:
-  - "646-322-8580"
+- 646-322-8580
 emails:
-  - "shelleyderrick@gmail.com"
+- shelleyderrick@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Shelley Wald

@@ -1,13 +1,14 @@
 ---
-name: "Fedor Fedorov"
-first_name: "Fedor"
-last_name: "Fedorov"
-organization: "Petoskey Ice Arena"
+name: Fedor Fedorov
+first_name: Fedor
+last_name: Fedorov
+organization: Petoskey Ice Arena
 phones:
-  - "+12488812887"
+- '+12488812887'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Fedor Fedorov

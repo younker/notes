@@ -6,8 +6,7 @@ last: 2022-05-06
 senders:
 - jason@ynkr.org
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Jason Younker]]'
 - '[[Luke LaRiviere]]'

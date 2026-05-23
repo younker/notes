@@ -6,8 +6,7 @@ last: 2026-05-11
 senders:
 - kiersten@mhsaa.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Kathy Cooper]]'
 ---

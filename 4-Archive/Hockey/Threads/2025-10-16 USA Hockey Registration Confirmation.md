@@ -6,8 +6,7 @@ last: 2026-05-04
 senders:
 - receipt@usahockeyemails.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # USA Hockey Registration Confirmation

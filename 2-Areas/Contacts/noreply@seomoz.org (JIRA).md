@@ -1,14 +1,15 @@
 ---
-name: "noreply@seomoz.org (JIRA)"
-first_name: "noreply@seomoz.org"
-last_name: "(JIRA)"
+name: noreply@seomoz.org (JIRA)
+first_name: noreply@seomoz.org
+last_name: (JIRA)
 phones:
-  - "(206) 632-3171"
+- (206) 632-3171
 emails:
-  - "noreply@seomoz.org"
+- noreply@seomoz.org
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # noreply@seomoz.org (JIRA)

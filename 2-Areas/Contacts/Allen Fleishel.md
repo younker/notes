@@ -1,12 +1,13 @@
 ---
-name: "Allen Fleishel"
-first_name: "Allen"
-last_name: "Fleishel"
+name: Allen Fleishel
+first_name: Allen
+last_name: Fleishel
 phones:
-  - "+14109193413"
+- '+14109193413'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Allen Fleishel

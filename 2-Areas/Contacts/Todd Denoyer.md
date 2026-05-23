@@ -1,13 +1,14 @@
 ---
-name: "Todd Denoyer"
-first_name: "Todd"
-last_name: "Denoyer"
+name: Todd Denoyer
+first_name: Todd
+last_name: Denoyer
 phones:
-  - "+13619201915"
-  - "3615703889"
+- '+13619201915'
+- '3615703889'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Todd Denoyer

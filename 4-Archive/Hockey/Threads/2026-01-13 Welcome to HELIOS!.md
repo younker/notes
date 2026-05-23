@@ -6,8 +6,7 @@ last: 2026-01-13
 senders:
 - heathergoffinet@hotmail.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Heather Younker]]'
 ---

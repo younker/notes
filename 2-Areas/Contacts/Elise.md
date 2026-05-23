@@ -1,12 +1,13 @@
 ---
-name: "Elise"
-first_name: "Elise"
-organization: "Neighbor"
+name: Elise
+first_name: Elise
+organization: Neighbor
 phones:
-  - "+17732516685"
+- '+17732516685'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Elise

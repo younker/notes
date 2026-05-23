@@ -8,7 +8,6 @@ senders:
 - manistiquehockeyassociation@gmail.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Chris Firman]]'

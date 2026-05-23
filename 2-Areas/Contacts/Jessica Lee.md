@@ -1,15 +1,16 @@
 ---
-name: "Jessica Lee"
-first_name: "Jessica"
-last_name: "Lee"
-organization: "Fuel Talent Recruiting"
+name: Jessica Lee
+first_name: Jessica
+last_name: Lee
+organization: Fuel Talent Recruiting
 phones:
-  - "+17086060601"
+- '+17086060601'
 emails:
-  - "Jessica@fueltalent.com"
+- Jessica@fueltalent.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Jessica Lee

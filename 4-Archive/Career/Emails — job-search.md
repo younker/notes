@@ -5,7 +5,8 @@ thread_count: 172
 message_count: 203
 date_range: 2022-04-13 to 2026-04-30
 type: email-index
-tags: [email, index]
+tags:
+- index
 ---
 
 # Email Index — job-search

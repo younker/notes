@@ -1,14 +1,15 @@
 ---
-name: "Ella Spike"
-first_name: "Ella"
-last_name: "Spike"
-organization: "Shorebird Villas Ocean Shores"
+name: Ella Spike
+first_name: Ella
+last_name: Spike
+organization: Shorebird Villas Ocean Shores
 phones:
-  - "+14255985701"
-  - "1 (619) 500-4592"
+- '+14255985701'
+- 1 (619) 500-4592
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Ella Spike

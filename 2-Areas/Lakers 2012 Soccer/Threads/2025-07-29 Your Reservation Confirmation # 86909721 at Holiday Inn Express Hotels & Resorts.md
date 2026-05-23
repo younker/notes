@@ -6,8 +6,7 @@ last: 2025-07-29
 senders:
 - HolidayInnExpress@tx.ihg.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Georgia Browne]]'
 ---

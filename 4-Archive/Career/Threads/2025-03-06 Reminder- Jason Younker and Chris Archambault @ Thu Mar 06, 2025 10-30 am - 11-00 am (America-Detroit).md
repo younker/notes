@@ -1,13 +1,12 @@
 ---
-subject: "Reminder: Jason Younker and Chris Archambault @ Thu Mar 06, 2025
- 10:30 am - 11:00 am (America/Detroit)"
+subject: 'Reminder: Jason Younker and Chris Archambault @ Thu Mar 06, 2025 10:30 am - 11:00 am (America/Detroit)'
 message_count: 1
 first: 2025-03-06
 last: 2025-03-06
 senders:
-  - noreply@zohocalendar.com
+- noreply@zohocalendar.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Reminder: Jason Younker and Chris Archambault @ Thu Mar 06, 2025

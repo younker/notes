@@ -1,16 +1,17 @@
 ---
-name: "Thom Alpaugh"
-first_name: "Thom"
-last_name: "Alpaugh"
-organization: "Neighbor"
+name: Thom Alpaugh
+first_name: Thom
+last_name: Alpaugh
+organization: Neighbor
 phones:
-  - "(206) 842-1905"
-  - "(206) 719-2797"
+- (206) 842-1905
+- (206) 719-2797
 emails:
-  - "tsalpaugh@aol.com"
+- tsalpaugh@aol.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Thom Alpaugh

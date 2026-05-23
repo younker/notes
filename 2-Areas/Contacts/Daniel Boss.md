@@ -1,15 +1,16 @@
 ---
-name: "Daniel Boss"
-first_name: "Daniel"
-last_name: "Boss"
-job_title: "TC Red AA 14U"
+name: Daniel Boss
+first_name: Daniel
+last_name: Boss
+job_title: TC Red AA 14U
 phones:
-  - "248-535-1714"
+- 248-535-1714
 emails:
-  - "danielboss@gmail.com"
+- danielboss@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Daniel Boss

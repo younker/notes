@@ -1,12 +1,12 @@
 ---
-subject: "Match 1149 vs 2012 Boys Premier Gold"
+subject: Match 1149 vs 2012 Boys Premier Gold
 message_count: 1
 first: 2026-02-07
 last: 2026-02-07
 senders:
-  - karriebishop17@gmail.com
+- karriebishop17@gmail.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Match 1149 vs 2012 Boys Premier Gold

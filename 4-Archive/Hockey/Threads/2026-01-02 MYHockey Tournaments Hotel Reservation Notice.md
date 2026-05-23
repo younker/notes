@@ -7,7 +7,6 @@ senders:
 - alexp@myhockeytournaments.com
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 ---
 

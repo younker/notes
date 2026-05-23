@@ -1,10 +1,11 @@
 ---
-name: "Lisa Veurink"
-first_name: "Lisa"
-last_name: "Veurink"
+name: Lisa Veurink
+first_name: Lisa
+last_name: Veurink
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Lisa Veurink

@@ -1,12 +1,13 @@
 ---
-name: "Ginger Lynn"
-first_name: "Ginger"
-last_name: "Lynn"
+name: Ginger Lynn
+first_name: Ginger
+last_name: Lynn
 phones:
-  - "+12313736796"
+- '+12313736796'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Ginger Lynn

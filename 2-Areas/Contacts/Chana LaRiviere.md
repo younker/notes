@@ -1,12 +1,13 @@
 ---
-name: "Chana LaRiviere"
-first_name: "Chana"
-last_name: "LaRiviere"
+name: Chana LaRiviere
+first_name: Chana
+last_name: LaRiviere
 phones:
-  - "cflynn3@hotmail.com"
+- cflynn3@hotmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Chana LaRiviere

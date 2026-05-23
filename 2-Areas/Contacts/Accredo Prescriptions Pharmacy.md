@@ -1,14 +1,15 @@
 ---
-name: "Accredo Prescriptions / Pharmacy"
-organization: "Accredo Prescriptions / Pharmacy"
+name: Accredo Prescriptions / Pharmacy
+organization: Accredo Prescriptions / Pharmacy
 phones:
-  - "1 (800) 803-2523"
-  - "(844) 665-7345"
-  - "18667071862"
-  - "1(844) 457-9195"
+- 1 (800) 803-2523
+- (844) 665-7345
+- '18667071862'
+- 1(844) 457-9195
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Accredo Prescriptions / Pharmacy

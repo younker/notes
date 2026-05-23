@@ -1,13 +1,14 @@
 ---
-name: "Juan Mendoza"
-first_name: "Juan"
-last_name: "Mendoza"
-organization: "Yard Cleanup"
+name: Juan Mendoza
+first_name: Juan
+last_name: Mendoza
+organization: Yard Cleanup
 phones:
-  - "(360) 286-3355"
+- (360) 286-3355
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Juan Mendoza

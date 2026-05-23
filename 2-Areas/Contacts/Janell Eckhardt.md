@@ -1,20 +1,21 @@
 ---
-name: "Janell Eckhardt"
-first_name: "Janell"
-last_name: "Eckhardt"
-organization: "neighbor"
+name: Janell Eckhardt
+first_name: Janell
+last_name: Eckhardt
+organization: neighbor
 phones:
-  - "(206) 855-7818"
-  - "+12064896592"
-  - "206-787-2395"
-  - "206-313-5992"
-  - "+12064513555"
+- (206) 855-7818
+- '+12064896592'
+- 206-787-2395
+- 206-313-5992
+- '+12064513555'
 emails:
-  - "dantekimo@hotmail.com"
-  - "ciclidblue@hotmail.com"
+- dantekimo@hotmail.com
+- ciclidblue@hotmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Janell Eckhardt

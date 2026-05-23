@@ -6,8 +6,7 @@ last: 2024-10-16
 senders:
 - email@renweb.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Follow up on First Hour Classroom Visit Today

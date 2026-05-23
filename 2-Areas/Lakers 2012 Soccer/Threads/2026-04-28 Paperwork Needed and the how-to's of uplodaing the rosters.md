@@ -6,8 +6,7 @@ last: 2026-04-28
 senders:
 - no_reply@gotsport.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Paperwork Needed and the how-to's of uplodaing the rosters

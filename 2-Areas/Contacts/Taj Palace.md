@@ -1,11 +1,12 @@
 ---
-name: "Taj Palace"
-organization: "Taj Palace"
+name: Taj Palace
+organization: Taj Palace
 phones:
-  - "+1 (509) 494-1001"
+- +1 (509) 494-1001
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Taj Palace

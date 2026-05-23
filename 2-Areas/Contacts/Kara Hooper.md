@@ -1,14 +1,15 @@
 ---
-name: "Kara Hooper"
-first_name: "Kara"
-last_name: "Hooper"
+name: Kara Hooper
+first_name: Kara
+last_name: Hooper
 phones:
-  - "(509) 327-3611"
+- (509) 327-3611
 emails:
-  - "karahooper@hotmail.com"
+- karahooper@hotmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kara Hooper

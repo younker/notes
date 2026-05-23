@@ -1,13 +1,14 @@
 ---
-name: "Kathy Cooper"
-first_name: "Kathy"
-last_name: "Cooper"
-organization: "Swimming Instructor"
+name: Kathy Cooper
+first_name: Kathy
+last_name: Cooper
+organization: Swimming Instructor
 phones:
-  - "206.313.4987"
+- 206.313.4987
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Kathy Cooper

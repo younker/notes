@@ -1,12 +1,13 @@
 ---
-name: "David Bolin"
-first_name: "David"
-last_name: "Bolin"
+name: David Bolin
+first_name: David
+last_name: Bolin
 phones:
-  - "(231) 550-2020"
+- (231) 550-2020
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # David Bolin

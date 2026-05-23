@@ -6,8 +6,7 @@ last: 2025-01-22
 senders:
 - carren.scialacomo@gusto.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Invitation: Jason Younker | Interview with Gusto @ Wed Jan 29, 2025

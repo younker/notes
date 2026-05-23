@@ -1,14 +1,15 @@
 ---
-name: "Bryant Skinner"
-first_name: "Bryant"
-last_name: "Skinner"
+name: Bryant Skinner
+first_name: Bryant
+last_name: Skinner
 phones:
-  - "(907) 500-3141"
+- (907) 500-3141
 emails:
-  - "bskin77@hotmail.com"
+- bskin77@hotmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Bryant Skinner

@@ -1,11 +1,12 @@
 ---
-name: "poison control"
-first_name: "poison control"
+name: poison control
+first_name: poison control
 phones:
-  - "1 (800) 222-1222"
+- 1 (800) 222-1222
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # poison control

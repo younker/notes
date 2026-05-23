@@ -1,12 +1,12 @@
 ---
-subject: "Matthew Wheeler has invited you to 14UAA"
+subject: Matthew Wheeler has invited you to 14UAA
 message_count: 1
 first: 2026-05-22
 last: 2026-05-22
 senders:
-  - noreply@sportsyou.com
+- noreply@sportsyou.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Matthew Wheeler has invited you to 14UAA

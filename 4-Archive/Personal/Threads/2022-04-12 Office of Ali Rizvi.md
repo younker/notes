@@ -6,8 +6,7 @@ last: 2022-04-12
 senders:
 - Mayra.Alvarez@northstarfinancial.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Luke LaRiviere]]'
 ---

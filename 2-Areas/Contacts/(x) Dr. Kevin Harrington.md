@@ -1,14 +1,15 @@
 ---
-name: "(x) Dr. Kevin Harrington"
-first_name: "(x) Dr. Kevin"
-last_name: "Harrington"
-organization: "Generations Obgyn"
+name: (x) Dr. Kevin Harrington
+first_name: (x) Dr. Kevin
+last_name: Harrington
+organization: Generations Obgyn
 phones:
-  - "1 (509) 248-3440"
-  - "1 (509) 225-2542"
+- 1 (509) 248-3440
+- 1 (509) 225-2542
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # (x) Dr. Kevin Harrington

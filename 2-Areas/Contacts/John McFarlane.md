@@ -1,15 +1,16 @@
 ---
-name: "John McFarlane"
-first_name: "John"
-last_name: "McFarlane"
+name: John McFarlane
+first_name: John
+last_name: McFarlane
 phones:
-  - "(206) 407-9798"
-  - "(415) 379-0973"
+- (206) 407-9798
+- (415) 379-0973
 emails:
-  - "john@rockfloat.com"
+- john@rockfloat.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # John McFarlane

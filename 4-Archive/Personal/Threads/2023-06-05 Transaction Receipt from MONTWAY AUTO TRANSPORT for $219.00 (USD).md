@@ -6,8 +6,7 @@ last: 2023-06-05
 senders:
 - noreply@mail.authorize.net
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Transaction Receipt from MONTWAY AUTO TRANSPORT for $219.00 (USD)

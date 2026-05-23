@@ -1,14 +1,15 @@
 ---
-name: "Sal Spils"
-first_name: "Sal"
-last_name: "Spils"
+name: Sal Spils
+first_name: Sal
+last_name: Spils
 phones:
-  - "2064768828"
+- '2064768828'
 emails:
-  - "salvatorespils@gmail.com"
+- salvatorespils@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Sal Spils

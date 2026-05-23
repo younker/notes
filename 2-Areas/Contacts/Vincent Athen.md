@@ -1,12 +1,13 @@
 ---
-name: "Vincent Athen"
-first_name: "Vincent"
-last_name: "Athen"
+name: Vincent Athen
+first_name: Vincent
+last_name: Athen
 phones:
-  - "2313406286"
+- '2313406286'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Vincent Athen

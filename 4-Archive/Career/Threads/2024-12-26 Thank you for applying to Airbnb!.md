@@ -7,7 +7,6 @@ senders:
 - no-reply@airbnb.com
 type: email-thread
 tags:
-- email
 - job-search-2024
 ---
 

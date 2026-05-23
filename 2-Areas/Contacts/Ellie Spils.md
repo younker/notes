@@ -1,16 +1,17 @@
 ---
-name: "Ellie Spils"
-first_name: "Ellie"
-last_name: "Spils"
-nickname: "Ellie Montaperto"
+name: Ellie Spils
+first_name: Ellie
+last_name: Spils
+nickname: Ellie Montaperto
 phones:
-  - "2068422111"
-  - "(206) 681-5778"
+- '2068422111'
+- (206) 681-5778
 emails:
-  - "emontaperto@yahoo.com"
+- emontaperto@yahoo.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Ellie Spils

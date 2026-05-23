@@ -1,12 +1,13 @@
 ---
-name: "Dan Barnadyn"
-first_name: "Dan"
-last_name: "Barnadyn"
+name: Dan Barnadyn
+first_name: Dan
+last_name: Barnadyn
 phones:
-  - "+12318384877"
+- '+12318384877'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Dan Barnadyn

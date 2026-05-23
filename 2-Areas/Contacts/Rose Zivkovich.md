@@ -1,15 +1,16 @@
 ---
-name: "Rose Zivkovich"
-first_name: "Rose"
-last_name: "Zivkovich"
-job_title: "TC Red AA 14U"
+name: Rose Zivkovich
+first_name: Rose
+last_name: Zivkovich
+job_title: TC Red AA 14U
 phones:
-  - "231-421-3218"
+- 231-421-3218
 emails:
-  - "rosezivkovich@gmail.com"
+- rosezivkovich@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Rose Zivkovich

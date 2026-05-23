@@ -1,15 +1,16 @@
 ---
-name: "Glenn Crider"
-first_name: "Glenn"
-last_name: "Crider"
-nickname: "Warren"
+name: Glenn Crider
+first_name: Glenn
+last_name: Crider
+nickname: Warren
 phones:
-  - "+1 (386) 346-5325"
+- +1 (386) 346-5325
 emails:
-  - "glenncrider@yahoo.com"
+- glenncrider@yahoo.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Glenn Crider

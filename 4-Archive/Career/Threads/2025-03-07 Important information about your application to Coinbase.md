@@ -1,12 +1,12 @@
 ---
-subject: "Important information about your application to Coinbase"
+subject: Important information about your application to Coinbase
 message_count: 1
 first: 2025-03-07
 last: 2025-03-07
 senders:
-  - no-reply@coinbase.com
+- no-reply@coinbase.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Important information about your application to Coinbase

@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - 720-jennings
-- email
 ---
 
 # Receipt for Your Payment to Walcro, LLC

@@ -6,8 +6,7 @@ last: 2024-12-31
 senders:
 - id@proxyvote.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # IVZ 10-31-24 REPORT Important Information

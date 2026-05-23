@@ -6,8 +6,7 @@ last: 2024-02-19
 senders:
 - messenger@messaging.squareup.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Receipt from Webster's Northern Lower Sports

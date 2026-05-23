@@ -6,8 +6,7 @@ last: 2025-01-21
 senders:
 - carren.scialacomo@gusto.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Scheduling your Technical Phone Assessment with Gusto!

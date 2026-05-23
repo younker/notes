@@ -1,15 +1,16 @@
 ---
-name: "Julie Boss"
-first_name: "Julie"
-last_name: "Boss"
-job_title: "TC Red AA 14U"
+name: Julie Boss
+first_name: Julie
+last_name: Boss
+job_title: TC Red AA 14U
 phones:
-  - "248-535-1713"
+- 248-535-1713
 emails:
-  - "boss.julie4boys@yahoo.com"
+- boss.julie4boys@yahoo.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Julie Boss

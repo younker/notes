@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - anthropic
-- email
 ---
 
 # Your receipt from Anthropic, PBC #2798-6332-9157

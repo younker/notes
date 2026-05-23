@@ -6,8 +6,7 @@ last: 2026-05-10
 senders:
 - budgets@costalerts.amazonaws.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # AWS Budgets: Account 042143600000 has a budget exceeding your alert

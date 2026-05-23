@@ -1,18 +1,19 @@
 ---
-name: "Kara Tefft"
-first_name: "Kara"
-last_name: "Tefft"
+name: Kara Tefft
+first_name: Kara
+last_name: Tefft
 birthday: 1972-01-04
 phones:
-  - "(509) 783-5050"
-  - "(509) 965-2453"
-  - "509-895-7000"
-  - "5099697740"
+- (509) 783-5050
+- (509) 965-2453
+- 509-895-7000
+- '5099697740'
 emails:
-  - "karahanses@hotmail.com"
+- karahanses@hotmail.com
 created: 2026-01-24
 modified: 2026-03-17
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kara Tefft

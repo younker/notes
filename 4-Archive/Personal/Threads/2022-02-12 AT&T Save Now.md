@@ -1,12 +1,12 @@
 ---
-subject: "AT&T Save Now"
+subject: AT&T Save Now
 message_count: 1
 first: 2022-02-12
 last: 2022-02-12
 senders:
-  - att-sales@ecommerce.wireless.att-mail.com
+- att-sales@ecommerce.wireless.att-mail.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # AT&T Save Now

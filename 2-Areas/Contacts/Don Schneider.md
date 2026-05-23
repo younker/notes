@@ -1,15 +1,16 @@
 ---
-name: "Don Schneider"
-first_name: "Don"
-last_name: "Schneider"
-organization: "Whoz.in"
+name: Don Schneider
+first_name: Don
+last_name: Schneider
+organization: Whoz.in
 phones:
-  - "4254453667"
+- '4254453667'
 emails:
-  - "dondo@dondo.org"
+- dondo@dondo.org
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Don Schneider

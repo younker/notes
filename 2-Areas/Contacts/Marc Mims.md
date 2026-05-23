@@ -1,16 +1,17 @@
 ---
-name: "Marc Mims"
-first_name: "Marc"
-last_name: "Mims"
-organization: "OSE"
+name: Marc Mims
+first_name: Marc
+last_name: Mims
+organization: OSE
 phones:
-  - "(509) 703-8883"
-  - "509.433.7250"
+- (509) 703-8883
+- 509.433.7250
 emails:
-  - "marc@moz.com"
+- marc@moz.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Marc Mims

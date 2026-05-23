@@ -1,9 +1,10 @@
 ---
-name: "Marriot"
-organization: "Marriot"
+name: Marriot
+organization: Marriot
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Marriot

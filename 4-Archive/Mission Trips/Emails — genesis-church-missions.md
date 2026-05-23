@@ -5,7 +5,8 @@ thread_count: 6
 message_count: 7
 date_range: 2025-01-24 to 2026-01-21
 type: email-index
-tags: [email, index]
+tags:
+- index
 ---
 
 # Email Index — genesis-church-missions

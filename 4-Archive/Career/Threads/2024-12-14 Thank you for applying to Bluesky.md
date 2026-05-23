@@ -1,12 +1,12 @@
 ---
-subject: "Thank you for applying to Bluesky"
+subject: Thank you for applying to Bluesky
 message_count: 1
 first: 2024-12-14
 last: 2024-12-14
 senders:
-  - no-reply@gem.com
+- no-reply@gem.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank you for applying to Bluesky

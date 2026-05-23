@@ -6,8 +6,7 @@ last: 2025-03-09
 senders:
 - no-reply@greenhouse.io
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Bethany Hickner]]'
 ---

@@ -1,12 +1,13 @@
 ---
-name: "Matt Walz"
-first_name: "Matt"
-last_name: "Walz"
+name: Matt Walz
+first_name: Matt
+last_name: Walz
 phones:
-  - "+12314970827"
+- '+12314970827'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Matt Walz

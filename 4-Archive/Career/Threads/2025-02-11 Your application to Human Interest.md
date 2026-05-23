@@ -1,12 +1,12 @@
 ---
-subject: "Your application to Human Interest"
+subject: Your application to Human Interest
 message_count: 1
 first: 2025-02-11
 last: 2025-02-11
 senders:
-  - no-reply@humaninterest.com
+- no-reply@humaninterest.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Your application to Human Interest

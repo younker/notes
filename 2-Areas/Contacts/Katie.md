@@ -1,11 +1,12 @@
 ---
-name: "Katie"
-first_name: "Katie"
+name: Katie
+first_name: Katie
 phones:
-  - "(612) 385-2829"
+- (612) 385-2829
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Katie

@@ -1,13 +1,13 @@
 ---
-subject: "AT&T online profile update"
+subject: AT&T online profile update
 message_count: 2
 first: 2022-07-07
 last: 2022-07-07
 senders:
-  - att-services.cn.848717992@emaildl.att-mail.com
-  - update@emaildl.att-mail.com
+- att-services.cn.848717992@emaildl.att-mail.com
+- update@emaildl.att-mail.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # AT&T online profile update

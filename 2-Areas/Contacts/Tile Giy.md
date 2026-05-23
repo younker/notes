@@ -1,12 +1,13 @@
 ---
-name: "Tile Giy"
-first_name: "Tile Giy"
-organization: "600 Estimate"
+name: Tile Giy
+first_name: Tile Giy
+organization: 600 Estimate
 phones:
-  - "(206) 201-3187"
+- (206) 201-3187
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Tile Giy

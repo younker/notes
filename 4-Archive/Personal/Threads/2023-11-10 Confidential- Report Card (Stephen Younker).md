@@ -8,7 +8,6 @@ senders:
 - hlcs@harborlight.org
 type: email-thread
 tags:
-- email
 - harborlight
 ---
 

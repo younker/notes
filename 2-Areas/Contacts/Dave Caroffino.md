@@ -1,14 +1,15 @@
 ---
-name: "Dave Caroffino"
-first_name: "Dave"
-last_name: "Caroffino"
+name: Dave Caroffino
+first_name: Dave
+last_name: Caroffino
 phones:
-  - "+12318389740"
+- '+12318389740'
 emails:
-  - "dcfino@hotmail.com"
+- dcfino@hotmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Dave Caroffino

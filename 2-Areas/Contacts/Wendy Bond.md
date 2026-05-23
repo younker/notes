@@ -1,12 +1,13 @@
 ---
-name: "Wendy Bond"
-first_name: "Wendy"
-last_name: "Bond"
+name: Wendy Bond
+first_name: Wendy
+last_name: Bond
 phones:
-  - "+12066047880"
+- '+12066047880'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Wendy Bond

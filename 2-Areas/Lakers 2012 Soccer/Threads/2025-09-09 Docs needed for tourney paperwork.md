@@ -1,12 +1,12 @@
 ---
-subject: "Docs needed for tourney paperwork"
+subject: Docs needed for tourney paperwork
 message_count: 1
 first: 2025-09-09
 last: 2025-09-09
 senders:
-  - danielleschopp@yahoo.com
+- danielleschopp@yahoo.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Docs needed for tourney paperwork

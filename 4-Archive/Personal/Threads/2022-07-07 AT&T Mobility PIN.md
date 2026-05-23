@@ -1,12 +1,12 @@
 ---
-subject: "AT&T Mobility PIN"
+subject: AT&T Mobility PIN
 message_count: 1
 first: 2022-07-07
 last: 2022-07-07
 senders:
-  - BusContractsNoReply@att.com
+- BusContractsNoReply@att.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # AT&T Mobility PIN

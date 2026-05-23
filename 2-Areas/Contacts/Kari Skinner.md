@@ -1,12 +1,13 @@
 ---
-name: "Kari Skinner"
-first_name: "Kari"
-last_name: "Skinner"
+name: Kari Skinner
+first_name: Kari
+last_name: Skinner
 phones:
-  - "5033202567"
+- '5033202567'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kari Skinner

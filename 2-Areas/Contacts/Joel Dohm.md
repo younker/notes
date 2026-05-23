@@ -10,7 +10,6 @@ created: 2026-05-14
 modified: 2026-05-14
 tags:
 - contact
-- contact/person
 ---
 
 # Joel Dohm

@@ -1,11 +1,12 @@
 ---
-name: "Memorial Hospital"
-organization: "Memorial Hospital"
+name: Memorial Hospital
+organization: Memorial Hospital
 phones:
-  - "1 (509) 575-8000"
+- 1 (509) 575-8000
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Memorial Hospital

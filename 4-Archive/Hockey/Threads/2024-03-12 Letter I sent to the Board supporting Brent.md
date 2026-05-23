@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - 720-jennings
-- email
 - paha-org
 contacts:
 - '[[Heather Younker]]'

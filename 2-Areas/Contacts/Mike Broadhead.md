@@ -1,12 +1,13 @@
 ---
-name: "Mike Broadhead"
-first_name: "Mike"
-last_name: "Broadhead"
+name: Mike Broadhead
+first_name: Mike
+last_name: Broadhead
 phones:
-  - "5099455314"
+- '5099455314'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mike Broadhead

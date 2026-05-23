@@ -1,12 +1,12 @@
 ---
-subject: "AT&T: PIN change notification"
+subject: 'AT&T: PIN change notification'
 message_count: 1
 first: 2022-07-07
 last: 2022-07-07
 senders:
-  - ATT_Update.848703639@emaildl.att-mail.com
+- ATT_Update.848703639@emaildl.att-mail.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # AT&T: PIN change notification

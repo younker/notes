@@ -1,17 +1,18 @@
 ---
-name: "Tom Sawyer"
-first_name: "Tom"
-last_name: "Sawyer"
-organization: "Eagle Harbor Insurance"
+name: Tom Sawyer
+first_name: Tom
+last_name: Sawyer
+organization: Eagle Harbor Insurance
 phones:
-  - "(206) 842-7410"
-  - "(206) 842-7610"
-  - "(206) 714-5578"
+- (206) 842-7410
+- (206) 842-7610
+- (206) 714-5578
 emails:
-  - "tom@eagleharborinsurance.com"
+- tom@eagleharborinsurance.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Tom Sawyer

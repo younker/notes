@@ -1,11 +1,12 @@
 ---
-name: "Dr. Susan Powell"
-first_name: "Dr. Susan"
-last_name: "Powell"
-organization: "Apple Tree Cove Animal Hospital"
+name: Dr. Susan Powell
+first_name: Dr. Susan
+last_name: Powell
+organization: Apple Tree Cove Animal Hospital
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Dr. Susan Powell

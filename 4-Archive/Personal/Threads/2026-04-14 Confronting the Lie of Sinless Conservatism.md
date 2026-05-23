@@ -6,8 +6,7 @@ last: 2026-04-14
 senders:
 - heather@phyliciamasonheimer.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Heather Younker]]'
 - '[[Hillary Bassett Ross]]'

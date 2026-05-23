@@ -6,8 +6,7 @@ last: 2022-07-07
 senders:
 - att-online.services.848736213@emaildl.att-mail.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # AT&T online payment confirmation

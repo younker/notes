@@ -6,8 +6,7 @@ last: 2026-05-12
 senders:
 - cap@mhsaa.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Event Registration Confirmation

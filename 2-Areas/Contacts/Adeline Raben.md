@@ -1,14 +1,15 @@
 ---
-name: "Adeline Raben"
-first_name: "Adeline"
-last_name: "Raben"
+name: Adeline Raben
+first_name: Adeline
+last_name: Raben
 phones:
-  - "2068422345"
+- '2068422345'
 emails:
-  - "rabenfam@msn.com"
+- rabenfam@msn.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Adeline Raben

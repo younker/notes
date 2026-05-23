@@ -1,12 +1,13 @@
 ---
-name: "Ben Dawely"
-first_name: "Ben"
-last_name: "Dawely"
+name: Ben Dawely
+first_name: Ben
+last_name: Dawely
 phones:
-  - "(231) 330-4741"
+- (231) 330-4741
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Ben Dawely

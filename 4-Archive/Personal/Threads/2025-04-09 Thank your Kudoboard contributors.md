@@ -1,12 +1,12 @@
 ---
-subject: "Thank your Kudoboard contributors"
+subject: Thank your Kudoboard contributors
 message_count: 1
 first: 2025-04-09
 last: 2025-04-09
 senders:
-  - hello@kudoboard.com
+- hello@kudoboard.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank your Kudoboard contributors

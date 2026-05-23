@@ -1,12 +1,12 @@
 ---
-subject: "Next Steps with Honor!"
+subject: Next Steps with Honor!
 message_count: 1
 first: 2024-12-30
 last: 2024-12-30
 senders:
-  - charlie.bowers@joinhonor.com
+- charlie.bowers@joinhonor.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Next Steps with Honor!

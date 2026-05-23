@@ -7,7 +7,6 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- email
 - harborlight
 contacts:
 - '[[Jason Younker]]'

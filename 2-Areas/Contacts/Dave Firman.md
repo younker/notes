@@ -1,13 +1,14 @@
 ---
-name: "Dave Firman"
-first_name: "Dave"
-last_name: "Firman"
-organization: "Firman Tree Services"
+name: Dave Firman
+first_name: Dave
+last_name: Firman
+organization: Firman Tree Services
 phones:
-  - "+12318385153"
+- '+12318385153'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Dave Firman

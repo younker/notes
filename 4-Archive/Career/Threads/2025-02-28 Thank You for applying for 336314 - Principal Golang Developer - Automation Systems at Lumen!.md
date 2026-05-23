@@ -6,8 +6,7 @@ last: 2025-02-28
 senders:
 - mylink.admin@centurylink.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Thank You for applying for 336314 - Principal Golang Developer -

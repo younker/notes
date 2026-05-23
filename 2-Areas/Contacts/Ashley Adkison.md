@@ -1,12 +1,13 @@
 ---
-name: "Ashley Adkison"
-first_name: "Ashley"
-last_name: "Adkison"
+name: Ashley Adkison
+first_name: Ashley
+last_name: Adkison
 phones:
-  - "+12316223792"
+- '+12316223792'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Ashley Adkison

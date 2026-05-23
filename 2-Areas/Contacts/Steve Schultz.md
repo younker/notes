@@ -1,12 +1,13 @@
 ---
-name: "Steve Schultz"
-first_name: "Steve"
-last_name: "Schultz"
+name: Steve Schultz
+first_name: Steve
+last_name: Schultz
 phones:
-  - "+12314992592"
+- '+12314992592'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Steve Schultz

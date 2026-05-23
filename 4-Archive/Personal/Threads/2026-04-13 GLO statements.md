@@ -6,8 +6,7 @@ last: 2026-04-17
 senders:
 - info@migreatlakesortho.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # GLO statements

@@ -1,12 +1,13 @@
 ---
-name: "Bob Schafer"
-first_name: "Bob"
-last_name: "Schafer"
+name: Bob Schafer
+first_name: Bob
+last_name: Schafer
 phones:
-  - "+19893518944"
+- '+19893518944'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Bob Schafer

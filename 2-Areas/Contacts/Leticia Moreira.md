@@ -1,13 +1,14 @@
 ---
-name: "Leticia Moreira"
-first_name: "Leticia"
-last_name: "Moreira"
-organization: "Motorvation Atlanta"
+name: Leticia Moreira
+first_name: Leticia
+last_name: Moreira
+organization: Motorvation Atlanta
 phones:
-  - "+14048503236"
+- '+14048503236'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Leticia Moreira

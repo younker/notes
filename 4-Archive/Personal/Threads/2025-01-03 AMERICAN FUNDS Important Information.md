@@ -6,8 +6,7 @@ last: 2025-01-03
 senders:
 - id@proxyvote.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # AMERICAN FUNDS Important Information

@@ -9,7 +9,6 @@ senders:
 type: email-thread
 tags:
 - ship
-- email
 ---
 
 # Order #ANR1003128 has been Picked up

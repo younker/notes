@@ -6,8 +6,7 @@ last: 2025-11-21
 senders:
 - blcook6383@aol.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Brandon Cook]]'
 - '[[Carson Fisher]]'

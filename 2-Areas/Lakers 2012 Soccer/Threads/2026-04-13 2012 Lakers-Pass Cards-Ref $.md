@@ -8,7 +8,6 @@ senders:
 - danielleschopp@yahoo.com
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'

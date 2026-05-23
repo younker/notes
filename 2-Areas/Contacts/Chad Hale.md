@@ -1,15 +1,16 @@
 ---
-name: "Chad Hale"
-first_name: "Chad"
-last_name: "Hale"
-organization: "Byron Seeds LLC"
+name: Chad Hale
+first_name: Chad
+last_name: Hale
+organization: Byron Seeds LLC
 phones:
-  - "1-541-401-0730"
+- 1-541-401-0730
 emails:
-  - "chad@westernforage.com"
+- chad@westernforage.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Chad Hale

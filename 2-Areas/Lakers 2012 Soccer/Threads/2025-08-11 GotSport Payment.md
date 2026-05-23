@@ -6,8 +6,7 @@ last: 2025-08-11
 senders:
 - no_reply@gotsoccer.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # GotSport Payment

@@ -1,12 +1,13 @@
 ---
-name: "Heidi Robel"
-first_name: "Heidi"
-last_name: "Robel"
+name: Heidi Robel
+first_name: Heidi
+last_name: Robel
 phones:
-  - "(509) 469-2483"
+- (509) 469-2483
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Heidi Robel

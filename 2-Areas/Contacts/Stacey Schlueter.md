@@ -1,12 +1,13 @@
 ---
-name: "Stacey Schlueter"
-first_name: "Stacey"
-last_name: "Schlueter"
+name: Stacey Schlueter
+first_name: Stacey
+last_name: Schlueter
 phones:
-  - "(949) 887-2466"
+- (949) 887-2466
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Stacey Schlueter

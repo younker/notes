@@ -1,11 +1,12 @@
 ---
-name: "Massage Envy"
-organization: "Massage Envy"
+name: Massage Envy
+organization: Massage Envy
 phones:
-  - "4259577979"
+- '4259577979'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Massage Envy

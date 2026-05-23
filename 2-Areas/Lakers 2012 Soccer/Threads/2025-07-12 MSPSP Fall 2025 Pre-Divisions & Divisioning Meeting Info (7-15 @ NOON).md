@@ -6,8 +6,7 @@ last: 2025-07-12
 senders:
 - no_reply@gotsport.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # MSPSP Fall 2025 Pre-Divisions & Divisioning Meeting Info (7/15 @ NOON)

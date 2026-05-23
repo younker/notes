@@ -6,8 +6,7 @@ last: 2026-01-06
 senders:
 - bookings@skylinehotelniagarafalls.ca
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Mobile Check-In for Skyline Hotel & Waterpark

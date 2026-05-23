@@ -6,8 +6,7 @@ last: 2025-02-05
 senders:
 - candidate-41cf11bbcb60@anedot.breezy-mail.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Anedot opportunity

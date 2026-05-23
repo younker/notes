@@ -1,12 +1,13 @@
 ---
-name: "Blair Macdonald"
-first_name: "Blair"
-last_name: "Macdonald"
+name: Blair Macdonald
+first_name: Blair
+last_name: Macdonald
 phones:
-  - "+14257851556"
+- '+14257851556'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Blair Macdonald

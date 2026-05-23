@@ -7,7 +7,6 @@ senders:
 - ryan@spydercontrols.com
 type: email-thread
 tags:
-- email
 - tiffin-rv
 ---
 

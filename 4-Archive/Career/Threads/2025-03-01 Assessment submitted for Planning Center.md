@@ -1,12 +1,12 @@
 ---
-subject: "Assessment submitted for Planning Center"
+subject: Assessment submitted for Planning Center
 message_count: 1
 first: 2025-03-01
 last: 2025-03-01
 senders:
-  - do-not-reply@coderbyte.com
+- do-not-reply@coderbyte.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Assessment submitted for Planning Center

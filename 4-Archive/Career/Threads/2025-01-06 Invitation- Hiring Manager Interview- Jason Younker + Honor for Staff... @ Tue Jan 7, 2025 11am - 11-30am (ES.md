@@ -6,8 +6,7 @@ last: 2025-01-06
 senders:
 - sejal.sangani@joinhonor.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Invitation: Hiring Manager Interview: Jason Younker + Honor for

@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - ship
-- email
 ---
 
 # Order #1510195 has been Picked up

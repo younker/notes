@@ -1,13 +1,14 @@
 ---
-name: "Emma Baxter"
-first_name: "Emma"
-last_name: "Baxter"
-organization: "Columbus Skating Coach"
+name: Emma Baxter
+first_name: Emma
+last_name: Baxter
+organization: Columbus Skating Coach
 phones:
-  - "+16192485116"
+- '+16192485116'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Emma Baxter

@@ -1,13 +1,14 @@
 ---
-name: "(x) Dr. Devon Singh Barrett"
-first_name: "(x) Dr. Devon Singh"
-last_name: "Barrett"
-nickname: "Head Shrink"
+name: (x) Dr. Devon Singh Barrett
+first_name: (x) Dr. Devon Singh
+last_name: Barrett
+nickname: Head Shrink
 phones:
-  - "206-232-5188"
+- 206-232-5188
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # (x) Dr. Devon Singh Barrett

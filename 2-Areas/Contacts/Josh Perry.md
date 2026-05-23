@@ -1,12 +1,13 @@
 ---
-name: "Josh Perry"
-first_name: "Josh"
-last_name: "Perry"
+name: Josh Perry
+first_name: Josh
+last_name: Perry
 emails:
-  - "josh@recruiterperry.com"
+- josh@recruiterperry.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Josh Perry

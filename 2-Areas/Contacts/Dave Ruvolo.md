@@ -1,13 +1,14 @@
 ---
-name: "Dave Ruvolo"
-first_name: "Dave"
-last_name: "Ruvolo"
-organization: "The Lights at Indio"
+name: Dave Ruvolo
+first_name: Dave
+last_name: Ruvolo
+organization: The Lights at Indio
 phones:
-  - "+17603975416"
+- '+17603975416'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Dave Ruvolo

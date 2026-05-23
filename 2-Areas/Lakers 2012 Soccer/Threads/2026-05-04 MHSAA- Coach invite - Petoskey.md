@@ -6,8 +6,7 @@ last: 2026-05-04
 senders:
 - coachinvite@mhsaa.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # MHSAA: Coach invite - Petoskey

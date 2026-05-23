@@ -1,12 +1,13 @@
 ---
-name: "Stephen Steffes"
-first_name: "Stephen"
-last_name: "Steffes"
+name: Stephen Steffes
+first_name: Stephen
+last_name: Steffes
 phones:
-  - "+12316316686"
+- '+12316316686'
 created: 2026-04-21
 modified: 2026-04-21
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Stephen Steffes

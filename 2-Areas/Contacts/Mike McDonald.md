@@ -1,15 +1,16 @@
 ---
-name: "Mike McDonald"
-first_name: "Mike"
-last_name: "McDonald"
-job_title: "TC Red AA 14U"
+name: Mike McDonald
+first_name: Mike
+last_name: McDonald
+job_title: TC Red AA 14U
 phones:
-  - "231-349-1693"
+- 231-349-1693
 emails:
-  - "thesteeldeal44@gmail.com"
+- thesteeldeal44@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mike McDonald

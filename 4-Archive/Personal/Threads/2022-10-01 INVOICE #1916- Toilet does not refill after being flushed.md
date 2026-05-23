@@ -8,7 +8,6 @@ senders:
 - rjklingberg@outlook.com
 type: email-thread
 tags:
-- email
 - tiffin-rv
 contacts:
 - '[[Amanda Athan]]'

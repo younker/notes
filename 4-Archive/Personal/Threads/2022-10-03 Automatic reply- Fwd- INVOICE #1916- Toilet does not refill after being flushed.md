@@ -7,7 +7,6 @@ senders:
 - Service@tiffinmotorhomes.com
 type: email-thread
 tags:
-- email
 - tiffin-rv
 ---
 

@@ -6,8 +6,7 @@ last: 2023-07-18
 senders:
 - reservations@hearthsidegrove.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Request to print documents

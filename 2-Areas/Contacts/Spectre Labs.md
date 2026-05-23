@@ -1,11 +1,12 @@
 ---
-name: "Spectre Labs"
-organization: "Spectre Labs"
+name: Spectre Labs
+organization: Spectre Labs
 phones:
-  - "+13607795141"
+- '+13607795141'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Spectre Labs

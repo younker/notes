@@ -1,12 +1,12 @@
 ---
-subject: "Your application for a position at Feeding America"
+subject: Your application for a position at Feeding America
 message_count: 1
 first: 2025-02-06
 last: 2025-02-06
 senders:
-  - notification@jobvite.com
+- notification@jobvite.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Your application for a position at Feeding America

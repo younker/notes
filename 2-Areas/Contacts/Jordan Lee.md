@@ -1,12 +1,13 @@
 ---
-name: "Jordan Lee"
-first_name: "Jordan"
-last_name: "Lee"
+name: Jordan Lee
+first_name: Jordan
+last_name: Lee
 phones:
-  - "(425) 870-0092"
+- (425) 870-0092
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jordan Lee

@@ -1,12 +1,13 @@
 ---
-name: "Mike Hanses"
-first_name: "Mike"
-last_name: "Hanses"
+name: Mike Hanses
+first_name: Mike
+last_name: Hanses
 phones:
-  - "(509) 969-3833"
+- (509) 969-3833
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mike Hanses

@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - 720-jennings
-- email
 ---
 
 # Jewelry Follow Up - 2nd Attempt

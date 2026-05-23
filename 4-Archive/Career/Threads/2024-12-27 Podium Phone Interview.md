@@ -6,8 +6,7 @@ last: 2024-12-27
 senders:
 - sarah.paulson@podium.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Podium Phone Interview

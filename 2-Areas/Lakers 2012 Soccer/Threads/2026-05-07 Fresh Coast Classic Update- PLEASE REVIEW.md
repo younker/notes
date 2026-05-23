@@ -7,7 +7,6 @@ senders:
 - no_reply@gotsport.com
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 ---
 

@@ -6,8 +6,7 @@ last: 2022-12-02
 senders:
 - bdhathpg@aol.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Brad Friedman]]'
 ---

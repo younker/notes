@@ -6,8 +6,7 @@ last: 2025-12-31
 senders:
 - jason@ynkr.org
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Jason Younker]]'
 - '[[Tonya Reeb]]'

@@ -1,12 +1,13 @@
 ---
-name: "Ryan Light"
-first_name: "Ryan"
-last_name: "Light"
+name: Ryan Light
+first_name: Ryan
+last_name: Light
 phones:
-  - "5099492400"
+- '5099492400'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Ryan Light

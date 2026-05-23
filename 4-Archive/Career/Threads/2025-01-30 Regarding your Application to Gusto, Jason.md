@@ -1,12 +1,12 @@
 ---
-subject: "Regarding your Application to Gusto, Jason"
+subject: Regarding your Application to Gusto, Jason
 message_count: 1
 first: 2025-01-30
 last: 2025-01-30
 senders:
-  - careers@gusto.com
+- careers@gusto.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Regarding your Application to Gusto, Jason

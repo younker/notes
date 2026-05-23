@@ -6,8 +6,7 @@ last: 2026-03-17
 senders:
 - 2012hhcsilver@gmail.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # We'd like to see you Wednesday

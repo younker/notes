@@ -6,8 +6,7 @@ last: 2025-10-16
 senders:
 - receipt@membership.usahockey.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # USA Hockey Registration Information

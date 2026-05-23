@@ -1,15 +1,16 @@
 ---
-name: "Kelly Leipprandt"
-first_name: "Kelly"
-last_name: "Leipprandt"
-job_title: "TC Red AA 14U"
+name: Kelly Leipprandt
+first_name: Kelly
+last_name: Leipprandt
+job_title: TC Red AA 14U
 phones:
-  - "231-590-1385"
+- 231-590-1385
 emails:
-  - "kellyleipprandt@yahoo.com"
+- kellyleipprandt@yahoo.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kelly Leipprandt

@@ -1,13 +1,14 @@
 ---
-name: "HLCS Athletic Director"
-organization: "HLCS Athletic Director"
+name: HLCS Athletic Director
+organization: HLCS Athletic Director
 phones:
-  - "231-340-1842"
+- 231-340-1842
 emails:
-  - "athletics@harborlight.org"
+- athletics@harborlight.org
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # HLCS Athletic Director

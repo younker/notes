@@ -1,15 +1,16 @@
 ---
-name: "Morgan Merideth"
-first_name: "Morgan"
-last_name: "Merideth"
-job_title: "TC Red AA 14U"
+name: Morgan Merideth
+first_name: Morgan
+last_name: Merideth
+job_title: TC Red AA 14U
 phones:
-  - "231-631-1781"
+- 231-631-1781
 emails:
-  - "morganlmerideth@gmail.com"
+- morganlmerideth@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Morgan Merideth

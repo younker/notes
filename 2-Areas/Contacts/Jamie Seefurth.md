@@ -1,15 +1,16 @@
 ---
-name: "Jamie Seefurth"
-first_name: "Jamie"
-last_name: "Seefurth"
-organization: "OSE"
+name: Jamie Seefurth
+first_name: Jamie
+last_name: Seefurth
+organization: OSE
 phones:
-  - "206.406.5613"
+- 206.406.5613
 emails:
-  - "jamies@moz.com"
+- jamies@moz.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Jamie Seefurth

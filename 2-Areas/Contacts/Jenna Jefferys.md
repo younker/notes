@@ -1,15 +1,16 @@
 ---
-name: "Jenna Jefferys"
-first_name: "Jenna"
-last_name: "Jefferys"
-job_title: "TC Red AA 14U"
+name: Jenna Jefferys
+first_name: Jenna
+last_name: Jefferys
+job_title: TC Red AA 14U
 phones:
-  - "973-936-4758"
+- 973-936-4758
 emails:
-  - "Jenna.jefferys@gmail.com"
+- Jenna.jefferys@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jenna Jefferys

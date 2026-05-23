@@ -1,11 +1,12 @@
 ---
-name: "Charter Communications"
-organization: "Charter Communications"
+name: Charter Communications
+organization: Charter Communications
 phones:
-  - "(877) 728-3814"
+- (877) 728-3814
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Charter Communications

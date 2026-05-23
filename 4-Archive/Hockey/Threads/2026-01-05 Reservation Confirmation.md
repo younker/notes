@@ -1,12 +1,12 @@
 ---
-subject: "Reservation Confirmation"
+subject: Reservation Confirmation
 message_count: 1
 first: 2026-01-05
 last: 2026-01-05
 senders:
-  - reserve@niagarafallshotels.com
+- reserve@niagarafallshotels.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Reservation Confirmation

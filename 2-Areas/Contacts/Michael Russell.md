@@ -1,16 +1,17 @@
 ---
-name: "Michael Russell"
-first_name: "Michael"
-last_name: "Russell"
+name: Michael Russell
+first_name: Michael
+last_name: Russell
 phones:
-  - "(865) 440-0095"
+- (865) 440-0095
 emails:
-  - "michael.russell@Hyatt.com"
-  - "michael.russell@ihrco.com"
-  - "michael.russell@interstatehotels.com"
+- michael.russell@Hyatt.com
+- michael.russell@ihrco.com
+- michael.russell@interstatehotels.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Michael Russell

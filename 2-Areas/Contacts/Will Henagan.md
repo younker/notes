@@ -1,12 +1,13 @@
 ---
-name: "Will Henagan"
-first_name: "Will"
-last_name: "Henagan"
+name: Will Henagan
+first_name: Will
+last_name: Henagan
 phones:
-  - "+12312820196"
+- '+12312820196'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Will Henagan

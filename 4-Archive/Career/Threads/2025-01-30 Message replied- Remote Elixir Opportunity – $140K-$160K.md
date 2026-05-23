@@ -6,8 +6,7 @@ last: 2025-01-30
 senders:
 - hit-reply@linkedin.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Message replied: Remote Elixir Opportunity – $140K-$160K

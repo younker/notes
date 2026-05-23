@@ -1,11 +1,12 @@
 ---
-name: "Mike (red green)"
-first_name: "Mike (red green)"
+name: Mike (red green)
+first_name: Mike (red green)
 phones:
-  - "+12318389186"
+- '+12318389186'
 created: 2026-03-05
 modified: 2026-03-05
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mike (red green)

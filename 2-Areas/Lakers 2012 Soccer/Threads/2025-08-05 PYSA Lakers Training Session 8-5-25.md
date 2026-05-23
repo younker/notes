@@ -8,7 +8,6 @@ senders:
 - bryan@petoskeysoccer.com
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 contacts:
 - '[[Brent Bolin]]'

@@ -1,13 +1,14 @@
 ---
-name: "Rich Perlot"
-first_name: "Rich"
-last_name: "Perlot"
-organization: "Heat Holders"
+name: Rich Perlot
+first_name: Rich
+last_name: Perlot
+organization: Heat Holders
 phones:
-  - "(206) 780-3919"
+- (206) 780-3919
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Rich Perlot

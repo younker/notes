@@ -7,7 +7,6 @@ senders:
 - alerts@jobs.jobot.com
 type: email-thread
 tags:
-- email
 - job-search-2024
 ---
 

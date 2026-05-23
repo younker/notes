@@ -1,12 +1,12 @@
 ---
-subject: "Delivery Status Notification (Failure)"
+subject: Delivery Status Notification (Failure)
 message_count: 1
 first: 2026-03-24
 last: 2026-03-24
 senders:
-  - mailer-daemon@googlemail.com
+- mailer-daemon@googlemail.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Delivery Status Notification (Failure)

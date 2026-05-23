@@ -7,7 +7,6 @@ senders:
 - jason@ynkr.org
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 contacts:
 - '[[Jason Younker]]'

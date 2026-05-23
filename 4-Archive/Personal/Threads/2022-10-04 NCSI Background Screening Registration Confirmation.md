@@ -1,12 +1,12 @@
 ---
-subject: "NCSI Background Screening Registration Confirmation"
+subject: NCSI Background Screening Registration Confirmation
 message_count: 1
 first: 2022-10-04
 last: 2022-10-04
 senders:
-  - support@ncsisafe.com
+- support@ncsisafe.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # NCSI Background Screening Registration Confirmation

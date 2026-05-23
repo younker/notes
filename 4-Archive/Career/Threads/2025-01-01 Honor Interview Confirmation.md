@@ -7,8 +7,7 @@ senders:
 - charlie.bowers@joinhonor.com
 - sejal.sangani@joinhonor.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Honor Interview Confirmation

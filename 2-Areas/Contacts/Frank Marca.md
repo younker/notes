@@ -1,13 +1,14 @@
 ---
-name: "Frank Marca"
-first_name: "Frank"
-last_name: "Marca"
-organization: "Frank: Purchased Land Cruiser"
+name: Frank Marca
+first_name: Frank
+last_name: Marca
+organization: 'Frank: Purchased Land Cruiser'
 phones:
-  - "+14109358918"
+- '+14109358918'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Frank Marca

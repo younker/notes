@@ -1,11 +1,12 @@
 ---
-name: "Red Cabinet Purchase"
-organization: "Red Cabinet Purchase"
+name: Red Cabinet Purchase
+organization: Red Cabinet Purchase
 phones:
-  - "+13607105059"
+- '+13607105059'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Red Cabinet Purchase

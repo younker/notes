@@ -1,12 +1,12 @@
 ---
-subject: "Congratulations! You got an e-gift card!"
+subject: Congratulations! You got an e-gift card!
 message_count: 1
 first: 2022-07-02
 last: 2022-07-02
 senders:
-  - Cabelas@order.cabelas.com
+- Cabelas@order.cabelas.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Congratulations! You got an e-gift card!

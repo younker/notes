@@ -1,14 +1,15 @@
 ---
-name: "Tory Werth"
-first_name: "Tory"
-last_name: "Werth"
+name: Tory Werth
+first_name: Tory
+last_name: Werth
 phones:
-  - "+12318380486"
+- '+12318380486'
 emails:
-  - "meltor@charter.com"
+- meltor@charter.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Tory Werth

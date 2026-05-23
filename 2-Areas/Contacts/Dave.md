@@ -1,12 +1,13 @@
 ---
-name: "Dave"
-first_name: "Dave"
-organization: "Winslow Wharf Marina"
+name: Dave
+first_name: Dave
+organization: Winslow Wharf Marina
 phones:
-  - "206 842-4202"
+- 206 842-4202
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Dave

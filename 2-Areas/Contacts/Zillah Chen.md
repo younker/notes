@@ -1,14 +1,15 @@
 ---
-name: "Zillah Chen"
-first_name: "Zillah"
-last_name: "Chen"
+name: Zillah Chen
+first_name: Zillah
+last_name: Chen
 phones:
-  - "+17782880816"
+- '+17782880816'
 emails:
-  - "zhiren92@icloud.com"
+- zhiren92@icloud.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Zillah Chen

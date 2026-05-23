@@ -6,8 +6,7 @@ last: 2022-08-16
 senders:
 - questions@dyson.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Your Dyson warranty is now active

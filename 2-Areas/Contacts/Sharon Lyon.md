@@ -1,14 +1,15 @@
 ---
-name: "Sharon Lyon"
-first_name: "Sharon"
-last_name: "Lyon"
+name: Sharon Lyon
+first_name: Sharon
+last_name: Lyon
 phones:
-  - "(509) 594-2797"
+- (509) 594-2797
 emails:
-  - "sharonlyon@charter.net"
+- sharonlyon@charter.net
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Sharon Lyon

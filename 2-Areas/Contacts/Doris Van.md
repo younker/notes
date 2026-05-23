@@ -1,14 +1,15 @@
 ---
-name: "Doris Van"
-first_name: "Doris"
-last_name: "Van"
+name: Doris Van
+first_name: Doris
+last_name: Van
 phones:
-  - "+1 (559) 313-1981"
+- +1 (559) 313-1981
 emails:
-  - "dorisv99@gmail.com"
+- dorisv99@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Doris Van

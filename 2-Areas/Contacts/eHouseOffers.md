@@ -1,13 +1,14 @@
 ---
-name: "eHouseOffers"
-organization: "eHouseOffers"
+name: eHouseOffers
+organization: eHouseOffers
 phones:
-  - "866.384.9068"
+- 866.384.9068
 emails:
-  - "contact@ehouseoffers.com"
+- contact@ehouseoffers.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # eHouseOffers

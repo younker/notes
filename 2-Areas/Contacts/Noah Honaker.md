@@ -1,14 +1,15 @@
 ---
-name: "Noah Honaker"
-first_name: "Noah"
-last_name: "Honaker"
+name: Noah Honaker
+first_name: Noah
+last_name: Honaker
 phones:
-  - "(231) 881-1358"
+- (231) 881-1358
 emails:
-  - "nhonaker@northmen.org"
+- nhonaker@northmen.org
 created: 2026-05-18
 modified: 2026-05-18
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Noah Honaker

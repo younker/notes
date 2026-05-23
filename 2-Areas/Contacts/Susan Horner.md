@@ -1,14 +1,15 @@
 ---
-name: "Susan Horner"
-first_name: "Susan"
-last_name: "Horner"
+name: Susan Horner
+first_name: Susan
+last_name: Horner
 phones:
-  - "+1 (206) 619-9614"
+- +1 (206) 619-9614
 emails:
-  - "susanhorner@me.com"
+- susanhorner@me.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Susan Horner

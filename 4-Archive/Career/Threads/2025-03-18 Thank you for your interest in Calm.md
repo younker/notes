@@ -6,8 +6,7 @@ last: 2025-03-18
 senders:
 - no-reply@calm.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Thank you for your interest in Calm

@@ -1,12 +1,13 @@
 ---
-name: "Jerrica Fleischel"
-first_name: "Jerrica"
-last_name: "Fleischel"
+name: Jerrica Fleischel
+first_name: Jerrica
+last_name: Fleischel
 phones:
-  - "+15153007443"
+- '+15153007443'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jerrica Fleischel

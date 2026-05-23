@@ -1,14 +1,15 @@
 ---
-name: "Dr. Kyle McKenzie"
-first_name: "Dr. Kyle"
-last_name: "McKenzie"
-organization: "Starnes Chiropractic"
+name: Dr. Kyle McKenzie
+first_name: Dr. Kyle
+last_name: McKenzie
+organization: Starnes Chiropractic
 phones:
-  - "(360) 698-0315"
-  - "(812) 220-3288"
+- (360) 698-0315
+- (812) 220-3288
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Dr. Kyle McKenzie

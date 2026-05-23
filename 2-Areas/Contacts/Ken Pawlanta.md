@@ -1,15 +1,16 @@
 ---
-name: "Ken Pawlanta"
-first_name: "Ken"
-last_name: "Pawlanta"
-job_title: "TC Red AA 14U"
+name: Ken Pawlanta
+first_name: Ken
+last_name: Pawlanta
+job_title: TC Red AA 14U
 phones:
-  - "989-370-5877"
+- 989-370-5877
 emails:
-  - "kenpawlanta@icloud.com"
+- kenpawlanta@icloud.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Ken Pawlanta

@@ -6,8 +6,7 @@ last: 2024-12-27
 senders:
 - orders@storywarren.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Heather Younker]]'
 ---

@@ -6,8 +6,7 @@ last: 2023-08-16
 senders:
 - aaron@fernelius.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # 2007 Toyota Tundra: Noise after bearing replacement

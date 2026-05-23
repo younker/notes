@@ -6,8 +6,7 @@ last: 2025-12-29
 senders:
 - mailer@eventpipe.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Tonya Reeb]]'
 ---

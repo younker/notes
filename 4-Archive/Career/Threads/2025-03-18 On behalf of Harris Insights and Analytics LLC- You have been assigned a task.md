@@ -6,8 +6,7 @@ last: 2025-03-18
 senders:
 - noreply@sterling.app
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # On behalf of Harris Insights and Analytics LLC: You have been

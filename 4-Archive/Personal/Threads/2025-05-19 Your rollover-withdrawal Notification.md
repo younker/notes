@@ -6,8 +6,7 @@ last: 2025-05-19
 senders:
 - Fidelity.Investments@mail.fidelity.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Your rollover/withdrawal Notification

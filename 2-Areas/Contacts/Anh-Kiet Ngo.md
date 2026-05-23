@@ -1,12 +1,13 @@
 ---
-name: "Anh-Kiet Ngo"
-first_name: "Anh-Kiet"
-last_name: "Ngo"
+name: Anh-Kiet Ngo
+first_name: Anh-Kiet
+last_name: Ngo
 emails:
-  - "anhkiet@gmail.com"
+- anhkiet@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Anh-Kiet Ngo

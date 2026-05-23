@@ -1,15 +1,16 @@
 ---
-name: "Jason Henning"
-first_name: "Jason"
-last_name: "Henning"
-job_title: "TC Red AA 14U"
+name: Jason Henning
+first_name: Jason
+last_name: Henning
+job_title: TC Red AA 14U
 phones:
-  - "231-632-0958"
+- 231-632-0958
 emails:
-  - "jasonhenning16@yahoo.com"
+- jasonhenning16@yahoo.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jason Henning

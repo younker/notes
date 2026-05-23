@@ -1,12 +1,13 @@
 ---
-name: "Paul Retherford"
-first_name: "Paul"
-last_name: "Retherford"
+name: Paul Retherford
+first_name: Paul
+last_name: Retherford
 phones:
-  - "+12314451793"
+- '+12314451793'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Paul Retherford

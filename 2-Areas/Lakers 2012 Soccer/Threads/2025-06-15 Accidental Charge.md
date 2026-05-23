@@ -6,8 +6,7 @@ last: 2025-06-15
 senders:
 - soccer@northernmichiganfc.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Accidental Charge

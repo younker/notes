@@ -1,15 +1,16 @@
 ---
-name: "Mark Labhart"
-first_name: "Mark"
-last_name: "Labhart"
+name: Mark Labhart
+first_name: Mark
+last_name: Labhart
 birthday: 1974-10-22
 phones:
-  - "(812) 393-9511"
+- (812) 393-9511
 emails:
-  - "mlabhartod@gmail.com"
+- mlabhartod@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mark Labhart

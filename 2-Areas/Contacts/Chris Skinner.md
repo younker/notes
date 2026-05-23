@@ -1,14 +1,15 @@
 ---
-name: "Chris Skinner"
-first_name: "Chris"
-last_name: "Skinner"
+name: Chris Skinner
+first_name: Chris
+last_name: Skinner
 phones:
-  - "503-936-1884"
+- 503-936-1884
 emails:
-  - "ChristianSkinner50@gmail.com"
+- ChristianSkinner50@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Chris Skinner

@@ -1,13 +1,14 @@
 ---
-name: "Casey Weitzel"
-first_name: "Casey"
-last_name: "Weitzel"
-organization: "Advanced Dermatology"
+name: Casey Weitzel
+first_name: Casey
+last_name: Weitzel
+organization: Advanced Dermatology
 phones:
-  - "1 (231) 487-2230"
+- 1 (231) 487-2230
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Casey Weitzel

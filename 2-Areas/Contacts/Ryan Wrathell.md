@@ -1,12 +1,13 @@
 ---
-name: "Ryan Wrathell"
-first_name: "Ryan"
-last_name: "Wrathell"
+name: Ryan Wrathell
+first_name: Ryan
+last_name: Wrathell
 phones:
-  - "+17343410388"
+- '+17343410388'
 created: 2026-03-19
 modified: 2026-04-06
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Ryan Wrathell

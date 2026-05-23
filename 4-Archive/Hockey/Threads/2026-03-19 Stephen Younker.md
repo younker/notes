@@ -1,12 +1,12 @@
 ---
-subject: "Stephen Younker"
+subject: Stephen Younker
 message_count: 1
 first: 2026-03-19
 last: 2026-03-19
 senders:
-  - roblisk03@gmail.com
+- roblisk03@gmail.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Stephen Younker

@@ -8,7 +8,6 @@ senders:
 - quickbooks@notification.intuit.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Heather Younker]]'

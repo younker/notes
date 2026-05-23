@@ -1,12 +1,13 @@
 ---
-name: "Mary Van Eaton"
-first_name: "Mary"
-last_name: "Van Eaton"
+name: Mary Van Eaton
+first_name: Mary
+last_name: Van Eaton
 phones:
-  - "+12067958375"
+- '+12067958375'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mary Van Eaton

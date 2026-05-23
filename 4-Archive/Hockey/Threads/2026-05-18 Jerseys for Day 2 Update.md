@@ -7,8 +7,7 @@ senders:
 - heathergoffinet@hotmail.com
 - wheeler6415@gmail.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Heather Younker]]'
 - '[[Matthew Wheeler]]'

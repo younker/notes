@@ -8,7 +8,6 @@ senders:
 - sara.laurencic@moz.com
 type: email-thread
 tags:
-- email
 - moz
 ---
 

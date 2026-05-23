@@ -1,15 +1,16 @@
 ---
-name: "Greg Kirchoff"
-first_name: "Greg"
-last_name: "Kirchoff"
+name: Greg Kirchoff
+first_name: Greg
+last_name: Kirchoff
 phones:
-  - "1 (425) 707-2586"
-  - "425-214-6789"
+- 1 (425) 707-2586
+- 425-214-6789
 emails:
-  - "gkirch@microsoft.com"
+- gkirch@microsoft.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Greg Kirchoff

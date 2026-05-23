@@ -1,12 +1,13 @@
 ---
-name: "Chris Delgado"
-first_name: "Chris"
-last_name: "Delgado"
+name: Chris Delgado
+first_name: Chris
+last_name: Delgado
 phones:
-  - "+16196346732"
+- '+16196346732'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Chris Delgado

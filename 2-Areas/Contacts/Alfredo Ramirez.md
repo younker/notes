@@ -1,12 +1,13 @@
 ---
-name: "Alfredo Ramirez"
-first_name: "Alfredo"
-last_name: "Ramirez"
+name: Alfredo Ramirez
+first_name: Alfredo
+last_name: Ramirez
 phones:
-  - "1 (360) 434-7616"
+- 1 (360) 434-7616
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Alfredo Ramirez

@@ -1,11 +1,12 @@
 ---
-name: "Apache Camping Center"
-organization: "Apache Camping Center"
+name: Apache Camping Center
+organization: Apache Camping Center
 phones:
-  - "13606261324"
+- '13606261324'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Apache Camping Center

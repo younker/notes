@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - 720-jennings
-- email
 ---
 
 # [ShagTools] Invoice 58325 for order 58325 from December 27, 2024

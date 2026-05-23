@@ -1,15 +1,16 @@
 ---
-name: "Jennifer Denoyer"
-first_name: "Jennifer"
-last_name: "Denoyer"
-job_title: "TC Red AA 14U"
+name: Jennifer Denoyer
+first_name: Jennifer
+last_name: Denoyer
+job_title: TC Red AA 14U
 phones:
-  - "231-631-0260"
+- 231-631-0260
 emails:
-  - "jendenoyer1@gmail.com"
+- jendenoyer1@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jennifer Denoyer

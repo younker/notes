@@ -1,12 +1,13 @@
 ---
-name: "Kai"
-first_name: "Kai"
+name: Kai
+first_name: Kai
 birthday: 1604-07-26
 phones:
-  - "+12318810190"
+- '+12318810190'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kai

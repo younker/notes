@@ -9,7 +9,6 @@ senders:
 - kristyn.bradley@harrispoll.com
 type: email-thread
 tags:
-- email
 - job-search-2024
 contacts:
 - '[[Jason Younker]]'

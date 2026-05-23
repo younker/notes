@@ -1,12 +1,13 @@
 ---
-name: "Matt Suto"
-first_name: "Matt"
-last_name: "Suto"
+name: Matt Suto
+first_name: Matt
+last_name: Suto
 phones:
-  - "+13609297731"
+- '+13609297731'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Matt Suto

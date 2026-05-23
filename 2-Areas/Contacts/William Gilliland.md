@@ -1,14 +1,15 @@
 ---
-name: "William Gilliland"
-first_name: "William"
-last_name: "Gilliland"
+name: William Gilliland
+first_name: William
+last_name: Gilliland
 phones:
-  - "317-753-7153"
+- 317-753-7153
 emails:
-  - "bill@gillilandfamily.com"
+- bill@gillilandfamily.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # William Gilliland

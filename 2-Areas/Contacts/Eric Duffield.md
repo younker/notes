@@ -1,12 +1,13 @@
 ---
-name: "Eric Duffield"
-first_name: "Eric"
-last_name: "Duffield"
+name: Eric Duffield
+first_name: Eric
+last_name: Duffield
 phones:
-  - "2067148804"
+- '2067148804'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Eric Duffield

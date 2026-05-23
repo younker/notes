@@ -1,13 +1,14 @@
 ---
-name: "Jessica"
-first_name: "Jessica"
-organization: "Neighbor"
+name: Jessica
+first_name: Jessica
+organization: Neighbor
 phones:
-  - "360-990-7576"
-  - "2067805635"
+- 360-990-7576
+- '2067805635'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Jessica

@@ -1,12 +1,12 @@
 ---
-subject: "Application Received for Jason"
+subject: Application Received for Jason
 message_count: 3
 first: 2024-11-08
 last: 2025-01-17
 senders:
-  - githubinc+autoreply@talent.icims.com
+- githubinc+autoreply@talent.icims.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Application Received for Jason

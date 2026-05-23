@@ -1,12 +1,12 @@
 ---
-subject: "Thank you for your reservation, Jason"
+subject: Thank you for your reservation, Jason
 message_count: 1
 first: 2026-01-05
 last: 2026-01-05
 senders:
-  - bookings@skylinehotelniagarafalls.ca
+- bookings@skylinehotelniagarafalls.ca
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank you for your reservation, Jason

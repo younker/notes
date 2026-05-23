@@ -7,7 +7,6 @@ senders:
 - no-reply@mailer.sportsengine.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Emma Baxter]]'

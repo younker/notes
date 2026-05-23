@@ -1,12 +1,13 @@
 ---
-name: "Ashley Sero"
-first_name: "Ashley"
-last_name: "Sero"
+name: Ashley Sero
+first_name: Ashley
+last_name: Sero
 phones:
-  - "+12313506116"
+- '+12313506116'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Ashley Sero

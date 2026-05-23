@@ -1,11 +1,12 @@
 ---
-name: "School District (automated)"
-organization: "School District (automated)"
+name: School District (automated)
+organization: School District (automated)
 phones:
-  - "+12068424714"
+- '+12068424714'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # School District (automated)

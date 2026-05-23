@@ -1,12 +1,12 @@
 ---
-subject: "GitHub Application Follow Up for Jason Younker"
+subject: GitHub Application Follow Up for Jason Younker
 message_count: 3
 first: 2024-11-11
 last: 2025-03-03
 senders:
-  - githubinc+autoreply@talent.icims.com
+- githubinc+autoreply@talent.icims.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # GitHub Application Follow Up for Jason Younker

@@ -1,11 +1,12 @@
 ---
-name: "The Bicycle Repair (Seattle)"
-organization: "The Bicycle Repair (Seattle)"
+name: The Bicycle Repair (Seattle)
+organization: The Bicycle Repair (Seattle)
 phones:
-  - "+12066827057"
+- '+12066827057'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # The Bicycle Repair (Seattle)

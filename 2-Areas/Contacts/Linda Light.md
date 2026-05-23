@@ -1,12 +1,13 @@
 ---
-name: "Linda Light"
-first_name: "Linda"
-last_name: "Light"
+name: Linda Light
+first_name: Linda
+last_name: Light
 phones:
-  - "5093075735"
+- '5093075735'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Linda Light

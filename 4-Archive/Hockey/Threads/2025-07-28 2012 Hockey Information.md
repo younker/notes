@@ -7,7 +7,6 @@ senders:
 - travelvp@tchockey.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Kurt]]'

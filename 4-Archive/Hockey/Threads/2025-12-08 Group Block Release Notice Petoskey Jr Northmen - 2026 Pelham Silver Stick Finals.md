@@ -8,7 +8,6 @@ senders:
 - mailer@eventpipe.com
 type: email-thread
 tags:
-- email
 - paha-org
 - petoskey-soccer
 contacts:

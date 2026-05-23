@@ -1,12 +1,13 @@
 ---
-name: "Jonas Adams"
-first_name: "Jonas"
-last_name: "Adams"
+name: Jonas Adams
+first_name: Jonas
+last_name: Adams
 emails:
-  - "dokey7@hotmail.com"
+- dokey7@hotmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jonas Adams

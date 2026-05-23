@@ -6,8 +6,7 @@ last: 2024-05-31
 senders:
 - email@renweb.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # 6th grade chapel Power Points

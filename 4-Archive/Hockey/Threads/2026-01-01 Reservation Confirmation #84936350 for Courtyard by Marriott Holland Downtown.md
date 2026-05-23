@@ -6,8 +6,7 @@ last: 2026-01-02
 senders:
 - reservations@res-marriott.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Reservation Confirmation #84936350 for Courtyard by Marriott Holland Downtown

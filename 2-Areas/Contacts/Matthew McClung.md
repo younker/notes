@@ -1,13 +1,14 @@
 ---
-name: "Matthew McClung"
-first_name: "Matthew"
-last_name: "McClung"
+name: Matthew McClung
+first_name: Matthew
+last_name: McClung
 phones:
-  - "+14232848908"
-  - "4233311511"
+- '+14232848908'
+- '4233311511'
 created: 2026-01-24
 modified: 2026-03-17
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Matthew McClung

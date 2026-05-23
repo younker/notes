@@ -1,11 +1,12 @@
 ---
-name: "ADT Trouble Alert"
-organization: "ADT Trouble Alert"
+name: ADT Trouble Alert
+organization: ADT Trouble Alert
 phones:
-  - "8002382727"
+- '8002382727'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # ADT Trouble Alert

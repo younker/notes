@@ -6,8 +6,7 @@ last: 2022-08-18
 senders:
 - jason@ynkr.org
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Jason Younker]]'
 - '[[Heather Younker]]'

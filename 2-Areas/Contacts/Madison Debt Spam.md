@@ -1,11 +1,12 @@
 ---
-name: "Madison Debt Spam"
-organization: "Madison Debt Spam"
+name: Madison Debt Spam
+organization: Madison Debt Spam
 phones:
-  - "+1 (608)"
+- +1 (608)
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Madison Debt Spam

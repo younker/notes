@@ -1,12 +1,12 @@
 ---
-subject: "Honor Next Step"
+subject: Honor Next Step
 message_count: 2
 first: 2025-01-13
 last: 2025-01-14
 senders:
-  - charlie.bowers@honorcare.com
+- charlie.bowers@honorcare.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Honor Next Step

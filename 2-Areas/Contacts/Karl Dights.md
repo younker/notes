@@ -1,13 +1,14 @@
 ---
-name: "Karl Dights"
-first_name: "Karl"
-last_name: "Dights"
-organization: "RV Storage"
+name: Karl Dights
+first_name: Karl
+last_name: Dights
+organization: RV Storage
 phones:
-  - "206 866 6112"
+- 206 866 6112
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Karl Dights

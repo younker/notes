@@ -1,12 +1,13 @@
 ---
-name: "Jeff Johnecheck"
-first_name: "Jeff"
-last_name: "Johnecheck"
+name: Jeff Johnecheck
+first_name: Jeff
+last_name: Johnecheck
 phones:
-  - "+16619030882"
+- '+16619030882'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jeff Johnecheck

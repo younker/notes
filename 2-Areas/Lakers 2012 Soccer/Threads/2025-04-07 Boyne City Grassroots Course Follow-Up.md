@@ -6,8 +6,7 @@ last: 2025-04-07
 senders:
 - bryan.l.goyings@gmail.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Boyne City Grassroots Course Follow-Up

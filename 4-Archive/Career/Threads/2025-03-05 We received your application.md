@@ -1,12 +1,12 @@
 ---
-subject: "We received your application"
+subject: We received your application
 message_count: 1
 first: 2025-03-05
 last: 2025-03-05
 senders:
-  - noreply@oracle.com
+- noreply@oracle.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # We received your application

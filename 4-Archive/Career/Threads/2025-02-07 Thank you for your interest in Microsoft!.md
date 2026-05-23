@@ -1,12 +1,12 @@
 ---
-subject: "Thank you for your interest in Microsoft!"
+subject: Thank you for your interest in Microsoft!
 message_count: 2
 first: 2025-02-07
 last: 2025-02-14
 senders:
-  - recruiting@jobs.microsoft.com
+- recruiting@jobs.microsoft.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank you for your interest in Microsoft!

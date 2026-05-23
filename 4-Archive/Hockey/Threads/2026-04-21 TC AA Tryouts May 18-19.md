@@ -6,8 +6,7 @@ last: 2026-04-21
 senders:
 - heatheryounker@outlook.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Heather Younker]]'
 ---

@@ -6,8 +6,7 @@ last: 2025-06-24
 senders:
 - store+24433475@t.shopifyemail.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Receipt for order #9652

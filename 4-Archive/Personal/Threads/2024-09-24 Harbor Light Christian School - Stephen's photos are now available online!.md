@@ -1,12 +1,12 @@
 ---
-subject: "Harbor Light Christian School - Stephen's photos are now available online!"
+subject: Harbor Light Christian School - Stephen's photos are now available online!
 message_count: 1
 first: 2024-09-24
 last: 2024-09-24
 senders:
-  - customerservice@geskusphoto.com
+- customerservice@geskusphoto.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Harbor Light Christian School - Stephen's photos are now available online!

@@ -6,8 +6,7 @@ last: 2024-11-07
 senders:
 - bill@understandably.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Janet Manthei]]'
 - '[[Marie Pence]]'

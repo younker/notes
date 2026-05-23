@@ -1,12 +1,13 @@
 ---
-name: "Cindy Ross"
-first_name: "Cindy"
-last_name: "Ross"
+name: Cindy Ross
+first_name: Cindy
+last_name: Ross
 phones:
-  - "+12313733231"
+- '+12313733231'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Cindy Ross

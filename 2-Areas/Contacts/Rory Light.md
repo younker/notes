@@ -1,14 +1,15 @@
 ---
-name: "Rory Light"
-first_name: "Rory"
-last_name: "Light"
+name: Rory Light
+first_name: Rory
+last_name: Light
 phones:
-  - "7608160801"
+- '7608160801'
 emails:
-  - "rorylight12345@yahoo.com"
+- rorylight12345@yahoo.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Rory Light

@@ -1,12 +1,12 @@
 ---
-subject: "Renewed Vision - Core Software Engineer | Rust"
+subject: Renewed Vision - Core Software Engineer | Rust
 message_count: 1
 first: 2025-03-17
 last: 2025-03-17
 senders:
-  - bethany.bagwell@renewedvision.com
+- bethany.bagwell@renewedvision.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Renewed Vision - Core Software Engineer | Rust

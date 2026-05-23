@@ -1,15 +1,16 @@
 ---
-name: "Geoff Knautz"
-first_name: "Geoff"
-last_name: "Knautz"
+name: Geoff Knautz
+first_name: Geoff
+last_name: Knautz
 phones:
-  - "(509) 965-4500"
-  - "(509) 965-9955"
+- (509) 965-4500
+- (509) 965-9955
 emails:
-  - "autospa.geoff@gmail.com"
+- autospa.geoff@gmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Geoff Knautz

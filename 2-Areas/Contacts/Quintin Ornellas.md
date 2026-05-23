@@ -1,12 +1,13 @@
 ---
-name: "Quintin Ornellas"
-first_name: "Quintin"
-last_name: "Ornellas"
+name: Quintin Ornellas
+first_name: Quintin
+last_name: Ornellas
 phones:
-  - "645-1607"
+- 645-1607
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Quintin Ornellas

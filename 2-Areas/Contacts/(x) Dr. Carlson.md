@@ -1,13 +1,14 @@
 ---
-name: "(x) Dr. Carlson"
-first_name: "(x) Dr."
-last_name: "Carlson"
-organization: "Yakima Pediatrics"
+name: (x) Dr. Carlson
+first_name: (x) Dr.
+last_name: Carlson
+organization: Yakima Pediatrics
 phones:
-  - "(509) 575-0114"
+- (509) 575-0114
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # (x) Dr. Carlson

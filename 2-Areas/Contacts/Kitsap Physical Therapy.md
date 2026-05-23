@@ -1,11 +1,12 @@
 ---
-name: "Kitsap Physical Therapy"
-organization: "Kitsap Physical Therapy"
+name: Kitsap Physical Therapy
+organization: Kitsap Physical Therapy
 phones:
-  - "+12068426288"
+- '+12068426288'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Kitsap Physical Therapy

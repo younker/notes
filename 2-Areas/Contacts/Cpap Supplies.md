@@ -1,12 +1,13 @@
 ---
-name: "Cpap Supplies"
-first_name: "Cpap Supplies"
-organization: "X Medequip"
+name: Cpap Supplies
+first_name: Cpap Supplies
+organization: X Medequip
 phones:
-  - "(360) 479-8811"
+- (360) 479-8811
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Cpap Supplies

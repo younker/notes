@@ -1,12 +1,13 @@
 ---
-name: "Albert Painter"
-first_name: "Albert"
-last_name: "Painter"
+name: Albert Painter
+first_name: Albert
+last_name: Painter
 phones:
-  - "(509) 949-8081"
+- (509) 949-8081
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Albert Painter

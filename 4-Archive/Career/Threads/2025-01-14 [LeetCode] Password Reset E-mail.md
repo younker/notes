@@ -1,12 +1,12 @@
 ---
-subject: "[LeetCode] Password Reset E-mail"
+subject: '[LeetCode] Password Reset E-mail'
 message_count: 1
 first: 2025-01-14
 last: 2025-01-14
 senders:
-  - no-reply@leetcode.com
+- no-reply@leetcode.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # [LeetCode] Password Reset E-mail

@@ -6,8 +6,7 @@ last: 2025-04-24
 senders:
 - mylink.admin@centurylink.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Lumen Requisition Has Been Cancelled

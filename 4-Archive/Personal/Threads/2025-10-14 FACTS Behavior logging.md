@@ -7,7 +7,6 @@ senders:
 - heatheryounker@outlook.com
 type: email-thread
 tags:
-- email
 - harborlight
 contacts:
 - '[[Heather Younker]]'

@@ -6,8 +6,7 @@ last: 2025-04-15
 senders:
 - DoNotReply@CommerceBank.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Time to set up your claim payment

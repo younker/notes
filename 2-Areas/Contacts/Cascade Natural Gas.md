@@ -1,11 +1,12 @@
 ---
-name: "Cascade Natural Gas"
-organization: "Cascade Natural Gas"
+name: Cascade Natural Gas
+organization: Cascade Natural Gas
 phones:
-  - "(888) 522-1130"
+- (888) 522-1130
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Cascade Natural Gas

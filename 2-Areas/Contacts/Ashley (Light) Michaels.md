@@ -1,12 +1,13 @@
 ---
-name: "Ashley (Light) Michaels"
-first_name: "Ashley"
-last_name: "(Light) Michaels"
+name: Ashley (Light) Michaels
+first_name: Ashley
+last_name: (Light) Michaels
 emails:
-  - "ashleymichaels@ashley.michaels.526"
+- ashleymichaels@ashley.michaels.526
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Ashley (Light) Michaels

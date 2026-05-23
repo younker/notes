@@ -1,12 +1,12 @@
 ---
-subject: "CMP Affidavit"
+subject: CMP Affidavit
 message_count: 2
 first: 2022-04-08
 last: 2022-04-08
 senders:
-  - info@thecmp.org
+- info@thecmp.org
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # CMP Affidavit

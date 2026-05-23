@@ -1,15 +1,16 @@
 ---
-name: "(x) Dr. Charles Nelson"
-first_name: "(x) Dr. Charles"
-last_name: "Nelson"
-organization: "The Doctors Clinic"
+name: (x) Dr. Charles Nelson
+first_name: (x) Dr. Charles
+last_name: Nelson
+organization: The Doctors Clinic
 phones:
-  - "(206) 855-7725"
-  - "(206) 855-7701"
-  - "(206) 855-7700"
+- (206) 855-7725
+- (206) 855-7701
+- (206) 855-7700
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # (x) Dr. Charles Nelson

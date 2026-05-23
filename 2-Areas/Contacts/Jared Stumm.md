@@ -12,7 +12,6 @@ created: 2026-05-21
 modified: 2026-05-22
 tags:
 - contact
-- contact/person
 ---
 
 # Jared Stumm

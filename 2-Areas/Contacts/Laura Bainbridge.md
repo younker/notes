@@ -1,12 +1,13 @@
 ---
-name: "Laura Bainbridge"
-first_name: "Laura"
-last_name: "Bainbridge"
+name: Laura Bainbridge
+first_name: Laura
+last_name: Bainbridge
 phones:
-  - "+19496065613"
+- '+19496065613'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Laura Bainbridge

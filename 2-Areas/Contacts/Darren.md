@@ -1,12 +1,13 @@
 ---
-name: "Darren"
-first_name: "Darren"
-organization: "Soccer"
+name: Darren
+first_name: Darren
+organization: Soccer
 phones:
-  - "+13606205567"
+- '+13606205567'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Darren

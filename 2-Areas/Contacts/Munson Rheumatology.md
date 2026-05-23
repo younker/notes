@@ -1,12 +1,13 @@
 ---
-name: "Munson Rheumatology"
-organization: "Munson Rheumatology"
+name: Munson Rheumatology
+organization: Munson Rheumatology
 phones:
-  - "1 (231) 392-0705"
-  - "+12319353200"
+- 1 (231) 392-0705
+- '+12319353200'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Munson Rheumatology

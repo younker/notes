@@ -1,11 +1,12 @@
 ---
-name: "Nob Hill Water"
-organization: "Nob Hill Water"
+name: Nob Hill Water
+organization: Nob Hill Water
 phones:
-  - "(509) 966-0272"
+- (509) 966-0272
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Nob Hill Water

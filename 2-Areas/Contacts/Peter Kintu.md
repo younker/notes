@@ -1,15 +1,16 @@
 ---
-name: "Peter Kintu"
-first_name: "Peter"
-last_name: "Kintu"
-organization: "Amazon.com"
+name: Peter Kintu
+first_name: Peter
+last_name: Kintu
+organization: Amazon.com
 phones:
-  - "202-460-8363"
+- 202-460-8363
 emails:
-  - "kintu@amazon.com"
+- kintu@amazon.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Peter Kintu

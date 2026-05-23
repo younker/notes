@@ -1,11 +1,12 @@
 ---
-name: "Taylor Rental"
-organization: "Taylor Rental"
+name: Taylor Rental
+organization: Taylor Rental
 phones:
-  - "+12313471840"
+- '+12313471840'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Taylor Rental

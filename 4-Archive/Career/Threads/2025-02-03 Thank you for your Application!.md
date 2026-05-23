@@ -6,8 +6,7 @@ last: 2025-02-03
 senders:
 - do-not-reply@jobs.microsoft.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Thank you for your Application!

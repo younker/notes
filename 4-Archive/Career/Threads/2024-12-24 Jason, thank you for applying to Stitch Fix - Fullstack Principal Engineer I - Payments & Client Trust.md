@@ -6,8 +6,7 @@ last: 2024-12-24
 senders:
 - no-reply@stitchfix.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Jason, thank you for applying to Stitch Fix | Fullstack Principal Engineer I -

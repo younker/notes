@@ -1,12 +1,13 @@
 ---
-name: "Bryan Sabari"
-first_name: "Bryan"
-last_name: "Sabari"
+name: Bryan Sabari
+first_name: Bryan
+last_name: Sabari
 phones:
-  - "+1 (425) 495-2394"
+- +1 (425) 495-2394
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Bryan Sabari

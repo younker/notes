@@ -1,14 +1,15 @@
 ---
-name: "Mel Light"
-first_name: "Mel"
-last_name: "Light"
+name: Mel Light
+first_name: Mel
+last_name: Light
 phones:
-  - "509 307 5878"
-  - "+1 (509) 833-0439"
-  - "(509) 225-9158"
+- 509 307 5878
+- +1 (509) 833-0439
+- (509) 225-9158
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Mel Light

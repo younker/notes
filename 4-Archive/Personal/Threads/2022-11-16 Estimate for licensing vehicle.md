@@ -1,12 +1,12 @@
 ---
-subject: "Estimate for licensing vehicle"
+subject: Estimate for licensing vehicle
 message_count: 1
 first: 2022-11-16
 last: 2022-11-16
 senders:
-  - teresa.wood@co.yakima.wa.us
+- teresa.wood@co.yakima.wa.us
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Estimate for licensing vehicle

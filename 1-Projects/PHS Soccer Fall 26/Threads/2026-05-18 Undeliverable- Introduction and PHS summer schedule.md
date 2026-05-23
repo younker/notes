@@ -1,12 +1,12 @@
 ---
-subject: "Undeliverable: Introduction and PHS summer schedule"
+subject: 'Undeliverable: Introduction and PHS summer schedule'
 message_count: 1
 first: 2026-05-18
 last: 2026-05-18
 senders:
-  - postmaster@outlook.com
+- postmaster@outlook.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Undeliverable: Introduction and PHS summer schedule

@@ -7,7 +7,6 @@ senders:
 - brentcbolin@gmail.com
 type: email-thread
 tags:
-- email
 - paha-org
 contacts:
 - '[[Brent Bolin]]'

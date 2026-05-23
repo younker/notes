@@ -8,7 +8,6 @@ senders:
 type: email-thread
 tags:
 - 720-jennings
-- email
 ---
 
 # Jason Younker Hunting Permission - Little Traverse Conservancy

@@ -1,14 +1,15 @@
 ---
-name: "Tom Durrett"
-first_name: "Tom"
-last_name: "Durrett"
+name: Tom Durrett
+first_name: Tom
+last_name: Durrett
 phones:
-  - "(509) 248-7992"
-  - "(509) 248-7769"
-  - "(509) 452-8315"
+- (509) 248-7992
+- (509) 248-7769
+- (509) 452-8315
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Tom Durrett

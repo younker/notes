@@ -6,8 +6,7 @@ last: 2023-09-01
 senders:
 - furgeso2@msu.edu
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Luke LaRiviere]]'
 - '[[Corey Thomas]]'

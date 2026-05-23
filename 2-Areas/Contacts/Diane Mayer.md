@@ -1,12 +1,13 @@
 ---
-name: "Diane Mayer"
-first_name: "Diane"
-last_name: "Mayer"
+name: Diane Mayer
+first_name: Diane
+last_name: Mayer
 phones:
-  - "+15099522388"
+- '+15099522388'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Diane Mayer

@@ -1,14 +1,15 @@
 ---
-name: "Matt Hanses"
-first_name: "Matt"
-last_name: "Hanses"
+name: Matt Hanses
+first_name: Matt
+last_name: Hanses
 phones:
-  - "(206) 940-0461"
+- (206) 940-0461
 emails:
-  - "hansesm@seattleu.edu"
+- hansesm@seattleu.edu
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Matt Hanses

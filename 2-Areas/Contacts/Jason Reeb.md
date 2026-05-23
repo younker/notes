@@ -1,12 +1,13 @@
 ---
-name: "Jason Reeb"
-first_name: "Jason"
-last_name: "Reeb"
+name: Jason Reeb
+first_name: Jason
+last_name: Reeb
 phones:
-  - "231-373-3205"
+- 231-373-3205
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Jason Reeb

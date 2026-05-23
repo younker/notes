@@ -1,11 +1,12 @@
 ---
-name: "Bainbridge Pediatrics"
-organization: "Bainbridge Pediatrics"
+name: Bainbridge Pediatrics
+organization: Bainbridge Pediatrics
 phones:
-  - "1 (206) 780-5437"
+- 1 (206) 780-5437
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Bainbridge Pediatrics

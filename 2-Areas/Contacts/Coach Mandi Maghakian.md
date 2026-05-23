@@ -1,12 +1,13 @@
 ---
-name: "Coach Mandi Maghakian"
-first_name: "Coach Mandi"
-last_name: "Maghakian"
+name: Coach Mandi Maghakian
+first_name: Coach Mandi
+last_name: Maghakian
 phones:
-  - "+12316757494"
+- '+12316757494'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Coach Mandi Maghakian

@@ -1,15 +1,16 @@
 ---
-name: "Jim Deville"
-first_name: "Jim"
-last_name: "Deville"
-organization: "OSE"
+name: Jim Deville
+first_name: Jim
+last_name: Deville
+organization: OSE
 phones:
-  - "1 (425) 770-8808"
+- 1 (425) 770-8808
 emails:
-  - "jim.deville@moz.com"
+- jim.deville@moz.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Jim Deville

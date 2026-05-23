@@ -1,12 +1,13 @@
 ---
-name: "Matt Hill"
-first_name: "Matt"
-last_name: "Hill"
+name: Matt Hill
+first_name: Matt
+last_name: Hill
 phones:
-  - "+12487650067"
+- '+12487650067'
 created: 2026-05-12
 modified: 2026-05-12
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Matt Hill

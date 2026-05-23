@@ -1,12 +1,12 @@
 ---
-subject: "Thanks for your interest in dbt Labs, Jason"
+subject: Thanks for your interest in dbt Labs, Jason
 message_count: 1
 first: 2025-01-08
 last: 2025-01-08
 senders:
-  - no-reply@dbtlabs.com
+- no-reply@dbtlabs.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thanks for your interest in dbt Labs, Jason

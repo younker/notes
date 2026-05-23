@@ -1,15 +1,16 @@
 ---
-name: "Sarah Brudi"
-first_name: "Sarah"
-last_name: "Brudi"
-job_title: "TC Red AA 14U"
+name: Sarah Brudi
+first_name: Sarah
+last_name: Brudi
+job_title: TC Red AA 14U
 phones:
-  - "734-395-9108"
+- 734-395-9108
 emails:
-  - "brudisarah@gmail.com"
+- brudisarah@gmail.com
 created: 2026-05-22
 modified: 2026-05-22
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Sarah Brudi

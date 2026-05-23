@@ -1,14 +1,15 @@
 ---
-name: "Dyan (Murphy) Englund"
-first_name: "Dyan"
-last_name: "(Murphy) Englund"
+name: Dyan (Murphy) Englund
+first_name: Dyan
+last_name: (Murphy) Englund
 phones:
-  - "206-353-7402"
+- 206-353-7402
 emails:
-  - "denglund@intven.com"
+- denglund@intven.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Dyan (Murphy) Englund

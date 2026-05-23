@@ -7,7 +7,6 @@ senders:
 - Craigr@jobot.com
 type: email-thread
 tags:
-- email
 - job-search-2024
 contacts:
 - '[[Craig Rosecrans]]'

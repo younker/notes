@@ -1,14 +1,15 @@
 ---
-name: "Annmarie Henkel"
-first_name: "Annmarie"
-last_name: "Henkel"
+name: Annmarie Henkel
+first_name: Annmarie
+last_name: Henkel
 phones:
-  - "206-383-6242"
+- 206-383-6242
 emails:
-  - "a.henkel@hotmail.com"
+- a.henkel@hotmail.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Annmarie Henkel

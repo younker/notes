@@ -1,14 +1,15 @@
 ---
-name: "Pat Twiss"
-first_name: "Pat"
-last_name: "Twiss"
-organization: "Neighbor"
+name: Pat Twiss
+first_name: Pat
+last_name: Twiss
+organization: Neighbor
 phones:
-  - "1 (509) 930-4582"
-  - "(509) 575-0712"
+- 1 (509) 930-4582
+- (509) 575-0712
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Pat Twiss

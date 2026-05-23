@@ -1,12 +1,13 @@
 ---
-name: "Carson Fisher"
-first_name: "Carson"
-last_name: "Fisher"
+name: Carson Fisher
+first_name: Carson
+last_name: Fisher
 phones:
-  - "1 (231) 420-7401"
+- 1 (231) 420-7401
 created: 2026-01-24
 modified: 2026-04-06
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Carson Fisher

@@ -1,12 +1,13 @@
 ---
-name: "Virginia Mason"
-organization: "Virginia Mason"
+name: Virginia Mason
+organization: Virginia Mason
 phones:
-  - "(206) 625-7180"
-  - "(206) 842-5632"
+- (206) 625-7180
+- (206) 842-5632
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Virginia Mason

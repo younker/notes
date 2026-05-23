@@ -1,12 +1,12 @@
 ---
-subject: "Thank you for applying to Coinbase"
+subject: Thank you for applying to Coinbase
 message_count: 2
 first: 2024-12-10
 last: 2025-02-25
 senders:
-  - no-reply@coinbase.com
+- no-reply@coinbase.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank you for applying to Coinbase

@@ -7,7 +7,6 @@ senders:
 - tradersupport@rvt.com
 type: email-thread
 tags:
-- email
 - tiffin-rv
 ---
 

@@ -1,15 +1,16 @@
 ---
-name: "Kai Fettig"
-first_name: "Kai"
-last_name: "Fettig"
+name: Kai Fettig
+first_name: Kai
+last_name: Fettig
 phones:
-  - "(231) 397-5919"
+- (231) 397-5919
 emails:
-  - "malakai.fettig@harborlight.org"
-  - "kai.fettig@gmail.com"
+- malakai.fettig@harborlight.org
+- kai.fettig@gmail.com
 created: 2026-01-24
 modified: 2026-04-12
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Kai Fettig

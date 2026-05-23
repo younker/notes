@@ -7,7 +7,6 @@ senders:
 - greg@sr2rec.com
 type: email-thread
 tags:
-- email
 - job-search-2024
 ---
 

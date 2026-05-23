@@ -9,7 +9,6 @@ senders:
 - traci_schultz912@hotmail.com
 type: email-thread
 tags:
-- email
 - petoskey-soccer
 contacts:
 - '[[Bryan Goyings]]'

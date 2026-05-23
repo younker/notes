@@ -1,12 +1,12 @@
 ---
-subject: "You have a new password"
+subject: You have a new password
 message_count: 1
 first: 2025-03-19
 last: 2025-03-19
 senders:
-  - noreply@notifications.ultipro.com
+- noreply@notifications.ultipro.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # You have a new password

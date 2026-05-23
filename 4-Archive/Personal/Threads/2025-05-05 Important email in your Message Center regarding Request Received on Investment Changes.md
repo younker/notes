@@ -6,8 +6,7 @@ last: 2025-05-05
 senders:
 - ThePrincipalFinancialGroup@principal.com
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # Important email in your Message Center regarding Request Received on Investment Changes

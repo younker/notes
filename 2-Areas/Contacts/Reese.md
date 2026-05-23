@@ -1,11 +1,12 @@
 ---
-name: "Reese"
-first_name: "Reese"
+name: Reese
+first_name: Reese
 phones:
-  - "+12312034483"
+- '+12312034483'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Reese

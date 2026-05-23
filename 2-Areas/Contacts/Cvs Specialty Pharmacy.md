@@ -1,11 +1,12 @@
 ---
-name: "Cvs Specialty Pharmacy"
-organization: "Cvs Specialty Pharmacy"
+name: Cvs Specialty Pharmacy
+organization: Cvs Specialty Pharmacy
 phones:
-  - "1 (800) 753-2777"
+- 1 (800) 753-2777
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Cvs Specialty Pharmacy

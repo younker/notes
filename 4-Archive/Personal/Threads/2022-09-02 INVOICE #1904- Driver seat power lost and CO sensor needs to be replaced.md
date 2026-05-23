@@ -9,7 +9,6 @@ senders:
 - ricktherovingtech@gmail.com
 type: email-thread
 tags:
-- email
 - tiffin-rv
 contacts:
 - '[[Jason Younker]]'

@@ -1,12 +1,13 @@
 ---
-name: "Danny Dover"
-first_name: "Danny"
-last_name: "Dover"
+name: Danny Dover
+first_name: Danny
+last_name: Dover
 phones:
-  - "(425) 765-6795"
+- (425) 765-6795
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Danny Dover

@@ -1,12 +1,13 @@
 ---
-name: "Crystal Light"
-first_name: "Crystal"
-last_name: "Light"
+name: Crystal Light
+first_name: Crystal
+last_name: Light
 phones:
-  - "5093075801"
+- '5093075801'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Crystal Light

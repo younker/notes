@@ -1,11 +1,12 @@
 ---
-name: "Boreas B&B"
-organization: "Boreas B&B"
+name: Boreas B&B
+organization: Boreas B&B
 phones:
-  - "(360) 642-8069"
+- (360) 642-8069
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Boreas B&B

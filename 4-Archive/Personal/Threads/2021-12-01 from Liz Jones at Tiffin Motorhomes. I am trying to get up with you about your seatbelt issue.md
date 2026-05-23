@@ -7,7 +7,6 @@ senders:
 - liz.jones@tiffinmotorhomes.com
 type: email-thread
 tags:
-- email
 - ship
 - tiffin-rv
 ---

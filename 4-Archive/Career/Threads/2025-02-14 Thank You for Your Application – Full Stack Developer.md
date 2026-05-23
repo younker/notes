@@ -1,12 +1,12 @@
 ---
-subject: "Thank You for Your Application – Full Stack Developer"
+subject: Thank You for Your Application – Full Stack Developer
 message_count: 1
 first: 2025-02-14
 last: 2025-02-14
 senders:
-  - no-reply@ats.rippling.com
+- no-reply@ats.rippling.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Thank You for Your Application – Full Stack Developer

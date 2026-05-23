@@ -1,13 +1,14 @@
 ---
-name: "[X] Dr. Richard St. Cyr"
-first_name: "[X] Dr. Richard"
-last_name: "St. Cyr"
-organization: "Sweedish Primary Care Physician"
+name: '[X] Dr. Richard St. Cyr'
+first_name: '[X] Dr. Richard'
+last_name: St. Cyr
+organization: Sweedish Primary Care Physician
 phones:
-  - "(206) 991-2121"
+- (206) 991-2121
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # [X] Dr. Richard St. Cyr

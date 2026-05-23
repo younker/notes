@@ -1,12 +1,12 @@
 ---
-subject: "ATTENTION:  Parent Signature Received"
+subject: 'ATTENTION:  Parent Signature Received'
 message_count: 1
 first: 2025-09-13
 last: 2025-09-13
 senders:
-  - Autumn_Classic@sportsforms.net
+- Autumn_Classic@sportsforms.net
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # ATTENTION:  Parent Signature Received

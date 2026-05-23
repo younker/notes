@@ -1,12 +1,12 @@
 ---
-subject: "Important information about your application to Kentik"
+subject: Important information about your application to Kentik
 message_count: 1
 first: 2025-07-26
 last: 2025-07-26
 senders:
-  - no-reply@kentik.com
+- no-reply@kentik.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Important information about your application to Kentik

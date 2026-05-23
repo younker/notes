@@ -1,12 +1,12 @@
 ---
-subject: "Confirm Your Upcoming Penske Truck Rental"
+subject: Confirm Your Upcoming Penske Truck Rental
 message_count: 1
 first: 2023-10-01
 last: 2023-10-01
 senders:
-  - no-reply@penske.com
+- no-reply@penske.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Confirm Your Upcoming Penske Truck Rental

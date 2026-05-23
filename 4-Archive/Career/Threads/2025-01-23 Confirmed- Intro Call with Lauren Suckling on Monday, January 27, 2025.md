@@ -1,13 +1,12 @@
 ---
-subject: "Confirmed: Intro Call  with Lauren Suckling on Monday, January 27,
- 2025"
+subject: 'Confirmed: Intro Call  with Lauren Suckling on Monday, January 27, 2025'
 message_count: 1
 first: 2025-01-23
 last: 2025-01-23
 senders:
-  - notifications@calendly.com
+- notifications@calendly.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Confirmed: Intro Call  with Lauren Suckling on Monday, January 27,

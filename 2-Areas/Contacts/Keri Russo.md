@@ -1,13 +1,14 @@
 ---
-name: "Keri Russo"
-first_name: "Keri"
-last_name: "Russo"
-organization: "Tyler’s Hockey Mom"
+name: Keri Russo
+first_name: Keri
+last_name: Russo
+organization: Tyler’s Hockey Mom
 phones:
-  - "+16508611120"
+- '+16508611120'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Keri Russo

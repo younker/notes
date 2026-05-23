@@ -7,7 +7,6 @@ senders:
 - daveoc@crosssound.org
 type: email-thread
 tags:
-- email
 - harborlight
 ---
 

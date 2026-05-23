@@ -7,8 +7,7 @@ senders:
 - dryccpcare@icloud.com
 - richard@unitedregionsvanlines.com
 type: email-thread
-tags:
-- email
+tags: []
 contacts:
 - '[[Beth Younker]]'
 ---

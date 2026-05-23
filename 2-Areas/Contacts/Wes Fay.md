@@ -1,12 +1,13 @@
 ---
-name: "Wes Fay"
-first_name: "Wes"
-last_name: "Fay"
+name: Wes Fay
+first_name: Wes
+last_name: Fay
 phones:
-  - "+12316202883"
+- '+12316202883'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Wes Fay

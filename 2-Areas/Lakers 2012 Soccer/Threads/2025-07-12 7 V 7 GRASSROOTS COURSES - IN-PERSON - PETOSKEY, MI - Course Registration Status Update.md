@@ -6,8 +6,7 @@ last: 2025-07-12
 senders:
 - notifications@learning.ussoccer.org
 type: email-thread
-tags:
-- email
+tags: []
 ---
 
 # 7 V 7 GRASSROOTS COURSES - IN-PERSON - PETOSKEY, MI - Course

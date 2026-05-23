@@ -1,11 +1,12 @@
 ---
-name: "Anson"
-first_name: "Anson"
+name: Anson
+first_name: Anson
 phones:
-  - "+12482960394"
+- '+12482960394'
 created: 2026-05-12
 modified: 2026-05-12
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Anson

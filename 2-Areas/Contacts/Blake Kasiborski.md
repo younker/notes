@@ -1,12 +1,13 @@
 ---
-name: "Blake Kasiborski"
-first_name: "Blake"
-last_name: "Kasiborski"
+name: Blake Kasiborski
+first_name: Blake
+last_name: Kasiborski
 phones:
-  - "+12313307463"
+- '+12313307463'
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Blake Kasiborski

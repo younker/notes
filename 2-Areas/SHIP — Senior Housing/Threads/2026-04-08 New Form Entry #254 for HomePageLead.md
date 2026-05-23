@@ -1,12 +1,12 @@
 ---
-subject: "New Form Entry #254 for HomePageLead"
+subject: 'New Form Entry #254 for HomePageLead'
 message_count: 3
 first: 2026-04-08
 last: 2026-04-15
 senders:
-  - valeria@localdataexchange.com
+- valeria@localdataexchange.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # New Form Entry #254 for HomePageLead

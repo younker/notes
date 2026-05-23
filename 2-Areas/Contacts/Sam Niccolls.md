@@ -1,13 +1,14 @@
 ---
-name: "Sam Niccolls"
-first_name: "Sam"
-last_name: "Niccolls"
-organization: "eHouseOffers.com"
+name: Sam Niccolls
+first_name: Sam
+last_name: Niccolls
+organization: eHouseOffers.com
 phones:
-  - "(303) 249-3900"
+- (303) 249-3900
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/business]
+tags:
+- contact
 ---
 
 # Sam Niccolls

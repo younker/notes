@@ -1,18 +1,19 @@
 ---
-name: "Angela Goffinet"
-first_name: "Angela"
-last_name: "Goffinet"
+name: Angela Goffinet
+first_name: Angela
+last_name: Goffinet
 birthday: 1974-07-15
 phones:
-  - "3175070467"
-  - "3178876117"
-  - "(317) 741-3664"
+- '3175070467'
+- '3178876117'
+- (317) 741-3664
 emails:
-  - "flydawson5@sbcglobal.net"
-  - "pgoffinet17@yahoo.com"
+- flydawson5@sbcglobal.net
+- pgoffinet17@yahoo.com
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Angela Goffinet

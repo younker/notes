@@ -1,12 +1,12 @@
 ---
-subject: "Print Your Kudoboard"
+subject: Print Your Kudoboard
 message_count: 1
 first: 2025-04-10
 last: 2025-04-10
 senders:
-  - hello@kudoboard.com
+- hello@kudoboard.com
 type: email-thread
-tags: [email]
+tags: []
 ---
 
 # Print Your Kudoboard

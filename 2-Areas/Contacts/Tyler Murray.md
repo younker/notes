@@ -1,12 +1,13 @@
 ---
-name: "Tyler Murray"
-first_name: "Tyler"
-last_name: "Murray"
+name: Tyler Murray
+first_name: Tyler
+last_name: Murray
 phones:
-  - "(206) 369-0881"
+- (206) 369-0881
 created: 2026-01-24
 modified: 2026-01-24
-tags: [contact, contact/person]
+tags:
+- contact
 ---
 
 # Tyler Murray
