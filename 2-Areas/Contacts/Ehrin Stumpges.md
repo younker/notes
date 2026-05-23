@@ -29,7 +29,5 @@ Suite 2, Maple Valley, WA, 98038, United States
 
 ## Email Threads
 
-*2 threads*
+*0 threads*
 
-- [[2020-11-18 003066736 - Life Policy Change Form]]
-- [[2020-11-18 Insurance Review Recap]]

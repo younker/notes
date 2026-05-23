@@ -35,13 +35,8 @@ tags:
 
 ## Email Threads
 
-*17 threads*
+*12 threads*
 
-- [[2019-04-16 Geospatial Open Data — Business Owner & Operator]]
-- [[2019-09-09 Locating Business Operator]]
-- [[2019-09-09 Programmatic Discovery of Facility Operator]]
-- [[2019-09-17 API Access to Operator Data]]
-- [[2021-09-09 [Updated] US News to Issue Senior Living Ratings]]
 - [[2023-01-24 Paradigm VR]]
 - [[2023-07-31 House Purchase Options]]
 - [[2023-08-02 Holiwell App Frames]]

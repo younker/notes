@@ -24,6 +24,5 @@ tags:
 
 ## Email Threads
 
-*1 threads*
+*0 threads*
 
-- [[2021-07-26 Estimate 201971 from Kitsap Septic Design & Monitoring, Inc]]

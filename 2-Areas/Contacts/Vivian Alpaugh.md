@@ -21,6 +21,5 @@ tags:
 
 ## Email Threads
 
-*1 threads*
+*0 threads*
 
-- [[2020-10-26 Kitsap PUD Fiber - 8411 LIGHTMOOR CRT, Bainbridge Island]]

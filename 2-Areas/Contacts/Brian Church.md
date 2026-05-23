@@ -28,6 +28,5 @@ tags:
 
 ## Email Threads
 
-*1 threads*
+*0 threads*
 
-- [[2020-05-29 KMA June Update ++ PLEASE READ ++]]

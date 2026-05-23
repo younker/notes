@@ -29,18 +29,8 @@ tags:
 
 ## Email Threads
 
-*74 threads*
+*64 threads*
 
-- [[2019-05-25 Paid Paid to file for California trip]]
-- [[2019-10-02 Incident today on Playground, Ongoing issues with Rohan]]
-- [[2019-10-03 Too much or not enough-]]
-- [[2019-10-03 observation in my class]]
-- [[2019-10-21 Stephen - Issue to be aware of]]
-- [[2020-05-18 Clearing off a SD card]]
-- [[2021-01-29 Invoice]]
-- [[2021-06-15 Confirmation Letter - XMZGMB 07-03-21 - from Alaska Airlines]]
-- [[2021-07-26 Estimate 201971 from Kitsap Septic Design & Monitoring, Inc]]
-- [[2021-07-27 Final 2020 K1 - Cascadia Holdings Yakima]]
 - [[2022-02-06 Thank you for becoming an FMCA Member!]]
 - [[2022-03-22 Jason’s 401K distribution]]
 - [[2022-03-31 ACCOUNTS ALL SET]]

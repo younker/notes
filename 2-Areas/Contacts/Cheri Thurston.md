@@ -29,12 +29,5 @@ tags:
 
 ## Email Threads
 
-*7 threads*
+*0 threads*
 
-- [[2019-05-18 INVOICE]]
-- [[2020-03-10 invoice]]
-- [[2020-05-18 HP Smart]]
-- [[2021-01-29 Invoice]]
-- [[2021-04-01 January-February]]
-- [[2021-04-01 November December]]
-- [[2021-09-18 Water Invoices]]

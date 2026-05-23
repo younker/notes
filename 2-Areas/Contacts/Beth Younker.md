@@ -36,7 +36,6 @@ tags:
 
 ## Email Threads
 
-*2 threads*
+*1 threads*
 
-- [[2021-06-13 Nushagak River Adventures Lodge (www.fishthenush.com)]]
 - [[2023-03-05 Your Moving Estimate 6193606]]
