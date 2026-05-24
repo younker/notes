@@ -35,7 +35,8 @@ Practices on the calendar:
 
 | Date | Day | Time |
 |---|---|---|
-| June 1 | Mon | 12:00 AM (Yes, midnight!)|
+| June 1 | Mon | 12:00 AM -- Midnight Scrimmage!|
+| June 2 | Tue | 5:30 PM -- Conditioning run #1|
 | June 3 | Wed | 5:30 -- 7:00 PM |
 | June 7 | Sun | 5:30 -- 7:00 PM |
 | June 14 | Sun | 5:30 -- 7:00 PM |
@@ -43,6 +44,7 @@ Practices on the calendar:
 | June 21 | Sun | 5:30 -- 7:00 PM |
 | June 23 | Tue | 5:30 -- 7:00 PM |
 | June 28 | Sun | 5:30 -- 7:00 PM |
+| July 6 | Mon | 5:30 PM -- Conditioning run #2|
 | July 7 | Tue | 5:30 -- 7:00 PM |
 | July 12 | Sun | 5:30 -- 7:00 PM |
 | July 14 | Tue | 5:30 -- 7:00 PM |
@@ -51,9 +53,11 @@ Practices on the calendar:
 | July 26 | Sun | 5:30 -- 7:00 PM |
 | July 28 | Tue | 5:30 -- 7:00 PM |
 
+The midnight practice to officially kick off the season will simply be a scrimmage. 
+
 ### Pre-Season Down Time
 
-**August 1 -- August 10**: 4-athlete limit on team activity. Team conditioning and non-sport activities remain unlimited. I do not have anything schedule here yet but they will likely involve optional strength training and conditioning and perhaps some focused training sessions for those interested. 
+**August 1 -- August 10**: 4-athlete limit on team activity. Team conditioning and non-sport activities remain unlimited. Given the very short period of time between our first official practice and game, conditioning will need to happen prior to Aug. 11. 
 
 ### Pre-Season Practices (August 11 - August 22)
 
