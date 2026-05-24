@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d9bde8e7796cfea",
+        "id": "763c62028f0a756a",
         "type": "tabs",
         "children": [
           {
-            "id": "688814fadcdf228e",
+            "id": "778ff985533e31d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1-Projects/PHS Soccer Fall 26/TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#petoskey-soccer",
+                "query": "PHS Soccer TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-Projects/PHS Soccer Fall 26/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -180,8 +185,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "688814fadcdf228e",
+  "active": "778ff985533e31d9",
   "lastOpenFiles": [
+    "4-Archive/Career/Emails — job-search.md",
+    "1-Projects/PHS Soccer Fall 26/TODO.md",
     "1-Projects/PHS Soccer Fall 26/Program Context.md",
     "2-Areas/Contacts/Chris Dettmer.md",
     "2-Areas/Contacts/Brent Bolin.md.tmp.33542.e65865e65699",
@@ -208,8 +215,6 @@
     "2-Areas/Soccer/Lakers 2012/Threads/2026-02-07 Match 1149 vs 2012 Boys Premier Gold.md",
     "2-Areas/Soccer/Lakers 2012/Threads/2026-02-07 Match 1135 Scheduling.md",
     "2-Areas/Soccer/Lakers 2012/Threads/2026-02-07 MSPSP Premier 2 Spring Scheduling.md",
-    "2-Areas/Soccer/Lakers 2012/Threads/2026-02-06 Lakers 2012 Spring Schedule Notes.md",
-    "2-Areas/Soccer/Lakers 2012/Threads/2026-01-20 PYSA Tax Docs.md",
     "2-Areas/Soccer/Lakers 2012/Threads",
     "2-Areas/Soccer/Lakers 2012",
     "2-Areas/Soccer/Lakers 2012 (emails)/Threads",
