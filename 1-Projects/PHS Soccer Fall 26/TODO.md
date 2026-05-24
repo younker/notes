@@ -16,6 +16,11 @@ tags: [soccer/phs, todo]
         - Sunday 5-6:30
         - Tuesday 5-6:30
     - 9 practices 
+
+    Dead Zone: Jun 28 - July 5
+    Cont.: July 6-31
+    Pre-Season: Aug. 1 - 10
+
 - [x] Get the PYSA girls pre-tryout schedule on calendar
 - [x] Get Emily's volleyball schedule on the calendar
 - [x] Get TODO list from [[Jenni Attie]]
