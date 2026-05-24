@@ -70,6 +70,8 @@ See [[Boys Soccer Fall 26]] for the game schedule.
 - Becket Scribben (soph -> jr) - strong defender.
 - Britton (note ends mid-sentence).
 
+See [[20260519 Noah Player Notes]] for [[Noah Honaker]]'s breakdown of returning seniors and juniors.
+
 ## Parents / Boosters
 
 - [[Sarah Jonker]] ([[Zach Jonker]]'s wife) ran a list of "extras" while he coached. After they left, senior-mom volunteers covered it; last year [[Jenni Attie]] and [[Meghan Poll]] picked it up.
