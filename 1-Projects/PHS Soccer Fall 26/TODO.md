@@ -8,6 +8,7 @@ tags: [soccer/phs, todo]
 
 # Parent Email
 
+- [ ] Contact Carey Strong re:Parent Square setup
 - [x] Reply to [[Joel Dohm]] about Boyne Mountain Invitational
 - [x] Summer practice dates
     - June 1 @ midnight
@@ -30,10 +31,13 @@ tags: [soccer/phs, todo]
     - [ ] Zach Jonker -- info regarding Hope college 
     - [ ] Western Michigan Camp? Find contact
     - [ ] Bryan Goyings -- options for Petoskey soccer camp
+- [ ] Team Dinners
+    - [ ] Who schedules
+    - [x] Dates: 
 - [x] Get Emily's volleyball schedule on the calendar
 - [x] Get TODO list from [[Jenni Attie]]
 - [ ] go over the [PHS Parent Volunteer List](https://docs.google.com/document/d/1vCNzNhkewF-22NghJKvI3g0LhHht_6Q7KpYfUsySLdY/edit?tab=t.0) and assess TODO items
-    
+
 - [ ] Get example HS schedule from Jeff
 - [ ] Get ParentSquare setup
 - [ ] Add the following players
@@ -61,6 +65,7 @@ tags: [soccer/phs, todo]
     - [ ] MHSAA CAP certification -- move from July East Lansing location to an online option
     - [ ] Scheduling pickleball courts
     - [ ] Fields for soccer
+    - [ ] When practices start, every day at what time?
 - [ ] Figure out bank account -- get card
 
 ## Contacts
