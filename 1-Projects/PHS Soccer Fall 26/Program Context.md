@@ -66,7 +66,7 @@ See [[Boys Soccer Fall 26]] for the game schedule.
 
 ## Players to Win Back (per [[Jenni Attie]])
 
-- Eli Dettmer (jr -> sr) - [[Coach Dettmer]]'s son. Striker. Burned out quickly.
+- Eli Dettmer (jr -> sr) - [[Chris Dettmer]]'s son. Striker. Burned out quickly.
 - Becket Scribben (soph -> jr) - strong defender.
 - Britton (note ends mid-sentence).
 

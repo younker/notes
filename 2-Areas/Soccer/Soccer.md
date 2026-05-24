@@ -33,6 +33,7 @@ Map of Content for everything soccer-related across coaching, organizations, tra
 
 ### PHS Coaches
 - [[Matt Hill]] - JV Coach (2026)
+- [[Chris Dettmer]] - prior JV Coach (through 2025); also a parent (son Eli plays)
 - [[Noah Honaker]] - prior varsity coach (2023-2025)
 - [[Zach Jonker]] - prior varsity coach
 

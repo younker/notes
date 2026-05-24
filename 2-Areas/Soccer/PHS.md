@@ -19,6 +19,7 @@ Varsity head coach starting Fall 2026.
 
 ### Coaching Staff
 - [[Matt Hill]] - JV Coach (hired 2026)
+- [[Chris Dettmer]] - prior JV Coach (through 2025); son Eli plays on the team
 
 ### Athletic Department
 - [[Joel Dohm]] - AD (outgoing) - hired me
