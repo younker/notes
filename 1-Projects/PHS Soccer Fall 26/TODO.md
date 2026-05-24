@@ -67,6 +67,10 @@ per kid: ~$300 per kid, used booster money to drop to $200
 did breakfast/lunch/dinner at university
 Today, might be more like $400
 
+**Other options:**
+Oakland University: big camp with tons of teams
+Similar to Western Michigan
+
 - Practice time: right after school or 5:30?
     * Zach: right after school
     * Noah: 
