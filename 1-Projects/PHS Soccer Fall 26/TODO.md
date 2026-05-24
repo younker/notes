@@ -51,6 +51,21 @@ tags: [soccer/phs, todo]
 
 ## Summer Camp
 
+## Zach Jonker
+
+- Hope college camp contact?
+- Practice time: right after school or 5:30?
+    * Zach: right after school
+    * Noah: 
+    * Chris & Eric: ?
+
+- Field scheduling
+    * Need to work with football coach for field scheduling. If we start later, we get the field after football
+
+- Sunday rather than Friday?
+    * Yeah
+    * They started at 7-8:15 - technical or finishing work
+    * In addition to yoga on Friday -- immediately after school
 
 ## Other TODOs
 
