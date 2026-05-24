@@ -54,6 +54,19 @@ tags: [soccer/phs, todo]
 ## Zach Jonker
 
 - Hope college camp contact?
+brought coaches in July for mini camp
+3 day camp (evening -> morning/evening x 2 days)
+
+Zach only did 1 year of an overnight camp
+Hope coach: Dave
+90m morning, 90m afternoon, scrimmage at night
+expensive, transportation, chaperones (parents)
+tough for working kids to get off
+it was alot to set up
+per kid: ~$300 per kid, used booster money to drop to $200
+did breakfast/lunch/dinner at university
+Today, might be more like $400
+
 - Practice time: right after school or 5:30?
     * Zach: right after school
     * Noah: 
