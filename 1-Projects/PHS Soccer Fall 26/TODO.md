@@ -17,8 +17,8 @@ tags: [soccer/phs, todo]
         - Tuesday 5-6:30
     - 9 practices 
 - [x] Get the PYSA girls pre-tryout schedule on calendar
-- [ ] Get Emily's volleyball schedule on the calendar
-- [ ] Register for D License classes
+- [x] Get Emily's volleyball schedule on the calendar
+- [ ] Register for D License classes (already on schedule)
 - [ ] Communicate dates with [[Joel Dohm]]. See if we can get the field.
 - [ ] Contact [[Chris Dettmer]]: 231-838-4003
 - [ ] Talk with [[Matt Hill]] about soccer schedule
@@ -28,7 +28,10 @@ tags: [soccer/phs, todo]
 - [ ] Complete Edustaff signup: https://account.edustaff.org/jobs/WF3oxRJkRc2mHQ-oFvprSg/
 - [ ] Schedule time with [[John Lennon]] to talk about sharing gear (with girls' JV team)
 - [ ] Follow up with [[Joel Dohm]] about MHSAA CAP certification -- move from July East Lansing location to an online option
+- [ ] Schedule time with Noah to go over jerseys/warmups
 - [ ] Once schedules are all set, book flight to Yakima
+- [ ] go over the [PHS Parent Volunteer List](https://docs.google.com/document/d/1vCNzNhkewF-22NghJKvI3g0LhHht_6Q7KpYfUsySLdY/edit?tab=t.0) and assess TODO items
+- [ ] figure out bank account -- get card
 
 ## Players to add to communication list
 
