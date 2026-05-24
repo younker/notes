@@ -6,7 +6,7 @@ season: Fall 2026
 tags: [soccer/phs, todo]
 ---
 
-# TODO
+# Parent Email
 
 - [x] Reply to [[Joel Dohm]] about Boyne Mountain Invitational
 - [x] Summer practice dates
@@ -18,11 +18,13 @@ tags: [soccer/phs, todo]
     - 9 practices 
 - [x] Get the PYSA girls pre-tryout schedule on calendar
 - [x] Get Emily's volleyball schedule on the calendar
+- [ ] Send 
+## TODOs
 - [ ] Register for D License classes (already on schedule)
 - [ ] Communicate dates with [[Joel Dohm]]. See if we can get the field.
 - [ ] Contact [[Chris Dettmer]]: 231-838-4003
 - [ ] Talk with [[Matt Hill]] about soccer schedule
-- [ ] Get TODO list from [[Jenni Attie]]
+- [x] Get TODO list from [[Jenni Attie]]
 - [ ] Get example HS schedule from Jeff
 - [ ] Create theme for the year (stability)
 - [ ] Complete Edustaff signup: https://account.edustaff.org/jobs/WF3oxRJkRc2mHQ-oFvprSg/
