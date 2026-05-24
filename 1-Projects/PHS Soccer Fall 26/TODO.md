@@ -11,22 +11,29 @@ tags: [soccer/phs, todo]
 - [x] Reply to [[Joel Dohm]] about Boyne Mountain Invitational
 - [x] Summer practice dates
     - June 1 @ midnight
-    - June 3 5-7:30
-    - June 7 5-7:30
+    - June 3 5:30-7:00
+    - June 7 5:30-7:00
     - June 14-28
-        - Sunday 5-6:30
-        - Tuesday 5-6:30
-    - 8 practices 
+        - Sunday 5:30-7:00
+        - Tuesday 5:30-7:00
+    - Dead Zone: Jun 28 - July 5
+    - July 7-28
+        - Sunday 5:30-7
+        - Tuesday 5:30-7
 
-    Dead Zone: Jun 28 - July 5
-    Cont.: July 6-31
+    15 practices
 
     Pre-Season: Aug. 1 - 10
+    Season Practices: 
 
-- [x] Get the PYSA girls pre-tryout schedule on calendar
+- [ ] Summer Camp
+    - [ ] Zach Jonker -- info regarding Hope college 
+    - [ ] Western Michigan Camp? Find contact
+    - [ ] Bryan Goyings -- options for Petoskey soccer camp
 - [x] Get Emily's volleyball schedule on the calendar
 - [x] Get TODO list from [[Jenni Attie]]
 - [ ] go over the [PHS Parent Volunteer List](https://docs.google.com/document/d/1vCNzNhkewF-22NghJKvI3g0LhHht_6Q7KpYfUsySLdY/edit?tab=t.0) and assess TODO items
+    
 - [ ] Get example HS schedule from Jeff
 - [ ] Get ParentSquare setup
 - [ ] Add the following players
@@ -38,8 +45,13 @@ tags: [soccer/phs, todo]
     - Carsen Fisher
 - [ ] Send Email
 
+## Summer Camp
+
+
 ## Other TODOs
 
+- [x] Get the PYSA girls pre-tryout schedule on calendar
+- [ ] Create sign up sheet for PSH parents
 - [ ] Once schedules are all set, book flight to Yakima
 - [ ] Complete Edustaff signup: https://account.edustaff.org/jobs/WF3oxRJkRc2mHQ-oFvprSg/
 - [ ] Complete 9v9 grassroots class: https://learning.ussoccer.com/coach/classroom/10384/candidate/assignments/5350/interactive

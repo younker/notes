@@ -41,6 +41,7 @@ Varsity head coach starting Fall 2026.
 - See [[Program Context]] for the full synthesized program context (numbers, schedule, communication, etc.).
 - See [[Boys Soccer Fall 26]] for the 2026 schedule.
 - See [[Coaching Certifications]] for license tracking.
+- See [[PHS Operations]] for the evergreen volunteer/concession/charter-bus/senior-night playbook.
 
 ## Related
 

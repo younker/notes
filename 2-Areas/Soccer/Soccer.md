@@ -21,6 +21,7 @@ Map of Content for everything soccer-related across coaching, organizations, tra
 
 - [[Boys Soccer Fall 26]] - PHS Fall 2026 schedule
 - [[Program Context]] - PHS Fall 2026 program context and notes
+- [[PHS Operations]] - evergreen PHS volunteer/concession/charter-bus playbook
 
 ## Training & Certifications
 
