@@ -6,7 +6,8 @@ phones:
 - '+12063809676'
 created: 2026-01-24
 modified: 2026-01-24
-tags: []
+tags:
+- soccer/pysa/parent
 ---
 
 # Derek Shankland

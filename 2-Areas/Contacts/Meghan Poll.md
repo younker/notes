@@ -6,7 +6,7 @@ role: Parent Volunteer
 organization: Petoskey High School Soccer
 created: 2026-05-24
 modified: 2026-05-24
-tags: [phs-soccer/parent]
+tags: [soccer/phs/parent]
 ---
 
 # Meghan Poll

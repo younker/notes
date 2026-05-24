@@ -6,7 +6,7 @@ role: JV Coach
 organization: Petoskey High School Soccer
 created: 2026-05-24
 modified: 2026-05-24
-tags: [phs-soccer/coach]
+tags: [soccer/phs/coach]
 ---
 
 # Matt Hill

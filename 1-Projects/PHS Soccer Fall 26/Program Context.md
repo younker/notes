@@ -3,7 +3,7 @@ date: 2026-05-24
 type: context
 team: PHS Soccer
 season: Fall 2026
-tags: [phs-soccer, context]
+tags: [soccer/phs, context]
 ---
 
 # Program Context
@@ -53,7 +53,7 @@ See [[Boys Soccer Fall 26]] for the game schedule.
 - "Time to condition is NOW" - once August hits it is maintenance mode.
 - [[Noah Honaker]] tried Tue speed + Thu/Sun soccer; couldn't get full team to speed workouts.
 - [[Trevor Garbo]] runs strength/conditioning - lean on him. [[Noah Honaker]] didn't really use him because relationship wasn't established.
-- Camp options: Ferris State, Western Michigan, Saginaw Valley, Grand Valley, Marquette. [[Zach Jonker]] used Hope (kids stayed in dorms). [[Noah Honaker]] went to Northern (Marquette) but didn't coordinate with the coach - rented field. [[Bryan]] has contacts for a camp. Charge kids ~$100 each to cover costs.
+- Camp options: Ferris State, Western Michigan, Saginaw Valley, Grand Valley, Marquette. [[Zach Jonker]] used Hope (kids stayed in dorms). [[Noah Honaker]] went to Northern (Marquette) but didn't coordinate with the coach - rented field. [[Bryan Goyings]] has contacts for a camp. Charge kids ~$100 each to cover costs.
 - District allows use of Suburbans for travel - sign up over the summer with [[Rosanne]].
 - Winter futsal on Sundays helps program quality long term.
 
@@ -115,6 +115,8 @@ If hired:
 
 ## Related
 
+- [[Soccer]] - top-level Soccer MOC
+- [[PHS]] - PHS organization profile
 - [[Boys Soccer Fall 26]] - schedule
 - [[Coaching Certifications]] - license progression
 - [[20260519 Player Meeting]] - returning-player meeting agenda

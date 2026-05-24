@@ -3,7 +3,7 @@ date: 2026-05-19
 type: schedule
 team: PHS Soccer
 season: Fall 2026
-tags: [phs-soccer, schedule]
+tags: [soccer/phs, schedule]
 ---
 
 # Boys Soccer Fall 26

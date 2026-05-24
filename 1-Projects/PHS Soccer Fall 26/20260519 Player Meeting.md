@@ -2,7 +2,7 @@
 date: 2026-05-19
 type: meeting
 team: PHS Soccer
-tags: [phs-soccer, meeting]
+tags: [soccer/phs, meeting]
 ---
 
 # 20260519 Player Meeting

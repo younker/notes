@@ -6,7 +6,7 @@ role: Program Assistant (outgoing)
 organization: Petoskey High School Soccer
 created: 2026-05-24
 modified: 2026-05-24
-tags: [phs-soccer/admin]
+tags: [soccer/phs/admin]
 ---
 
 # Eric Liebler

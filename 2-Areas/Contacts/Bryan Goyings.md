@@ -8,8 +8,10 @@ emails:
 - bryan@petoskeysoccer.com
 created: 2026-01-24
 modified: 2026-01-24
+role: PYSA Director
+organization: Petoskey Youth Soccer Association
 tags:
-- petoskey-soccer
+- soccer/pysa/admin
 ---
 
 # Bryan Goyings

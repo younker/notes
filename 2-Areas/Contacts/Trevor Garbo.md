@@ -11,7 +11,7 @@ emails:
 - tgarbo@northmen.org
 created: 2026-05-13
 modified: 2026-05-24
-tags: [phs-soccer/admin]
+tags: [soccer/phs/admin]
 ---
 
 # Trevor Garbo

@@ -8,7 +8,7 @@ phones:
 created: 2026-01-24
 modified: 2026-01-24
 tags:
-- petoskey-soccer
+- soccer/pysa/coach
 ---
 
 # Grant Reed

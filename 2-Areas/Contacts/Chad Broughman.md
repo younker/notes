@@ -7,7 +7,7 @@ phones:
 created: 2026-04-19
 modified: 2026-04-19
 tags:
-- petoskey-soccer
+- soccer/pysa/parent
 ---
 
 # Chad Broughman

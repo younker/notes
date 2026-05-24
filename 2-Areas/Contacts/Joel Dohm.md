@@ -10,7 +10,7 @@ emails:
 - dohm.jj.m@northmen.org
 created: 2026-05-14
 modified: 2026-05-24
-tags: [phs-soccer/admin]
+tags: [soccer/phs/admin]
 ---
 
 # Joel Dohm

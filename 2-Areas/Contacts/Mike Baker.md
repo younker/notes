@@ -6,7 +6,7 @@ role: Athletic Director (incoming)
 organization: Petoskey High School
 created: 2026-05-24
 modified: 2026-05-24
-tags: [phs-soccer/admin]
+tags: [soccer/phs/admin]
 ---
 
 # Mike Baker

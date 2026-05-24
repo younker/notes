@@ -7,7 +7,7 @@ senders:
 - dohm.jj.m@northmen.org
 type: email-thread
 tags:
-- petoskey-soccer
+- soccer/phs
 contacts:
 - '[[Joel Dohm]]'
 - '[[Noah Honaker]]'

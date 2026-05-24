@@ -8,7 +8,7 @@ phones:
 - 1 (231) 838-4557
 created: 2026-05-18
 modified: 2026-05-24
-tags: [phs-soccer/parent]
+tags: [soccer/phs/parent]
 ---
 
 # Jenni Attie

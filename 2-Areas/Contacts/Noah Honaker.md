@@ -10,7 +10,7 @@ emails:
 - nhonaker@northmen.org
 created: 2026-05-18
 modified: 2026-05-24
-tags: [phs-soccer/coach]
+tags: [soccer/phs/coach]
 ---
 
 # Noah Honaker

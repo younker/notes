@@ -7,7 +7,7 @@ senders:
 - tgarbo@northmen.org
 type: email-thread
 tags:
-- petoskey-soccer
+- soccer/phs
 contacts:
 - '[[Trevor Garbo]]'
 ---

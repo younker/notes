@@ -2,7 +2,7 @@
 date: 2026-05-24
 type: tracker
 team: PHS Soccer
-tags: [phs-soccer, certification]
+tags: [soccer/phs, certification]
 ---
 
 # Coaching Certifications
@@ -21,6 +21,7 @@ tags: [phs-soccer, certification]
 
 ## Related
 
+- [[Soccer]] - top-level Soccer MOC (certifications are cross-org)
 - [[Program Context]]
 - [[2026-05-11 MHSAA- CAP Requirement - FALL Coaches]]
 - [[2026-05-12 Event Registration Confirmation]]
