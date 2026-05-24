@@ -17,21 +17,25 @@ Draft of the schedule announcement to send to parents (via ParentSquare or email
 
 Dear PHS Soccer Families,
 
-Below is the practice and game schedule for the 2026 Fall season. Please add these dates to your calendar and let me know about any conflicts as early as possible.
+Below is the training and Fall season schedule as it currently stands. Until we get a working copy in Parent Square, you can view my personal PHS calendar here:
+
+https://tinyurl.com/phs-soccer-2026
 
 ### Summer Practices
 
 Team practices are allowed in two windows before the regular pre-season opens:
 
-- **June 1 -- June 28**, at Northmen Stadium
+- **June 1 -- June 28**
 - **June 29 -- July 5**: MHSAA dead zone, no team activity
-- **July 6 -- July 31**, at Northmen Stadium
+- **July 6 -- July 31**
+- **Aug 1 -- Aug 10**: MHSAA pre-season down time
+- **Aug 11**: Practices start
 
 Practices on the calendar:
 
 | Date | Day | Time |
 |---|---|---|
-| June 1 | Mon | 12:00 AM (midnight tradition) |
+| June 1 | Mon | 12:00 AM (Yes, midnight!)|
 | June 3 | Wed | 5:30 -- 7:00 PM |
 | June 7 | Sun | 5:30 -- 7:00 PM |
 | June 14 | Sun | 5:30 -- 7:00 PM |
@@ -49,7 +53,7 @@ Practices on the calendar:
 
 ### Pre-Season Down Time
 
-**August 1 -- August 10**: 4-athlete limit on team activity. Team conditioning and non-sport activities remain unlimited.
+**August 1 -- August 10**: 4-athlete limit on team activity. Team conditioning and non-sport activities remain unlimited. I do not have anything schedule here yet but they will likely involve optional strength training and conditioning and perhaps some focused training sessions for those interested. 
 
 ### Pre-Season Practices (August 11 - August 22)
 
