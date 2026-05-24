@@ -27,29 +27,69 @@ Team practices are allowed in two windows before the regular pre-season opens:
 - **June 29 -- July 5**: MHSAA dead zone, no team activity
 - **July 6 -- July 31**, at Northmen Stadium
 
-Specific practice times currently on the calendar:
+Practices on the calendar:
 
 | Date | Day | Time |
 |---|---|---|
-| June 1 | Mon | 12:00 AM (midnight practice) |
+| June 1 | Mon | 12:00 AM (midnight tradition) |
 | June 3 | Wed | 5:30 -- 7:00 PM |
 | June 7 | Sun | 5:30 -- 7:00 PM |
+| June 14 | Sun | 5:30 -- 7:00 PM |
+| June 16 | Tue | 5:30 -- 7:00 PM |
+| June 21 | Sun | 5:30 -- 7:00 PM |
+| June 23 | Tue | 5:30 -- 7:00 PM |
+| June 28 | Sun | 5:30 -- 7:00 PM |
 | July 7 | Tue | 5:30 -- 7:00 PM |
-
-Additional summer sessions will be added; we'll send updates as they're set.
+| July 12 | Sun | 5:30 -- 7:00 PM |
+| July 14 | Tue | 5:30 -- 7:00 PM |
+| July 19 | Sun | 5:30 -- 7:00 PM |
+| July 21 | Tue | 5:30 -- 7:00 PM |
+| July 26 | Sun | 5:30 -- 7:00 PM |
+| July 28 | Tue | 5:30 -- 7:00 PM |
 
 ### Pre-Season Down Time
 
 **August 1 -- August 10**: 4-athlete limit on team activity. Team conditioning and non-sport activities remain unlimited.
 
-### Pre-Season Practices
+### Pre-Season Practices (August 11 - August 22)
 
 | Date | Day | Time |
 |---|---|---|
 | August 11 | Tue | 5:00 -- 6:30 PM |
 | August 12 | Wed | 5:00 -- 6:30 PM |
+| August 13 | Thu | 5:00 -- 6:30 PM |
 | August 14 | Fri | 5:00 -- 6:30 PM |
+| August 16 | Sun | 5:00 -- 6:30 PM |
 | August 18 | Tue | 5:00 -- 6:30 PM |
+| August 20 | Thu | 5:00 -- 6:30 PM |
+
+### In-Season Practices
+
+In-season practices run Mondays, Wednesdays, and Sundays (5:00 -- 6:30 PM), with Tuesdays and Thursdays reserved for games. Practice schedule below has cancellations applied:
+
+| Date | Day | Time |
+|---|---|---|
+| August 24 | Mon | 5:00 -- 6:30 PM |
+| August 26 | Wed | 5:00 -- 6:30 PM |
+| August 30 | Sun | 5:00 -- 6:30 PM |
+| August 31 | Mon | 5:00 -- 6:30 PM |
+| September 2 | Wed | 5:00 -- 6:30 PM |
+| September 6 | Sun | 5:00 -- 6:30 PM |
+| September 7 | Mon | 5:00 -- 6:30 PM |
+| September 8 | Tue | 5:00 -- 6:30 PM |
+| September 9 | Wed | 5:00 -- 6:30 PM |
+| September 14 | Mon | 5:00 -- 6:30 PM |
+| September 16 | Wed | 5:00 -- 6:30 PM |
+| September 20 | Sun | 5:00 -- 6:30 PM |
+| September 21 | Mon | 5:00 -- 6:30 PM |
+| September 23 | Wed | 5:00 -- 6:30 PM |
+| September 28 | Mon | 5:00 -- 6:30 PM |
+| September 30 | Wed | 5:00 -- 6:30 PM |
+| October 1 | Thu | 5:00 -- 6:30 PM |
+| October 2 | Fri | 5:00 -- 6:30 PM |
+| October 5 | Mon | 5:00 -- 6:30 PM |
+| October 7 | Wed | 5:00 -- 6:30 PM |
+| October 11 | Sun | 5:00 -- 6:30 PM |
 
 ### Game Schedule
 
