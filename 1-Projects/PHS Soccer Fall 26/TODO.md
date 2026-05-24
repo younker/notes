@@ -28,7 +28,7 @@ tags: [soccer/phs, todo]
     Season Practices: 
 
 - [ ] Summer Camp
-    - [ ] Zach Jonker -- info regarding Hope college 
+    - [x] Zach Jonker -- info regarding Hope college 
     - [ ] Western Michigan Camp? Find contact
     - [ ] Bryan Goyings -- options for Petoskey soccer camp
 - [ ] Team Dinners
@@ -48,51 +48,6 @@ tags: [soccer/phs, todo]
     - Brittan (need last name)
     - Carsen Fisher
 - [ ] Send Email
-
-## Summer Camp
-
-## Zach Jonker
-
-- Hope college camp contact?
-brought coaches in July for mini camp
-3 day camp (evening -> morning/evening x 2 days)
-
-Zach only did 1 year of an overnight camp
-Hope coach: Dave
-90m morning, 90m afternoon, scrimmage at night
-expensive, transportation, chaperones (parents)
-tough for working kids to get off
-it was alot to set up
-per kid: ~$300 per kid, used booster money to drop to $200
-did breakfast/lunch/dinner at university
-Today, might be more like $400
-
-**Other options:**
-Oakland University: big camp with tons of teams
-Similar to Western Michigan
-
-**Summer Practices**
-30min skills
-
-**Conditioning**
-Cooper Test - 2 mile test
-Anson Dorrance 120 test
-Beep test
-Noah was meeting at winter sports park and running hills or any number of things
-
-
-- Practice time: right after school or 5:30?
-    * Zach: right after school
-    * Noah: 
-    * Chris & Eric: ?
-
-- Field scheduling
-    * Need to work with football coach for field scheduling. If we start later, we get the field after football
-
-- Sunday rather than Friday?
-    * Yeah
-    * They started at 7-8:15 - technical or finishing work
-    * In addition to yoga on Friday -- immediately after school
 
 ## Other TODOs
 
