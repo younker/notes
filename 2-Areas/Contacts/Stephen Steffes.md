@@ -17,3 +17,7 @@ tags:
 
 ## Notes
 Grant (PYSA & NMFC) dad
+
+## Related
+
+- [[Emails — soccer-emails.rtfd]] - Lakers 2012 Soccer correspondence (PYSA-affiliated team)

@@ -83,7 +83,7 @@ Date range: 2022-04-13 to 2026-04-30
 | 2025-02-19 | [[2025-02-19 Follow up regarding your Fullstack Principal Engineer I - Payments & Client Trust application to Stitch Fix|Follow up regarding your Fullstack Principal Engineer I - Pa]] | 1 | 2025-02-19 | no-reply@stitchfix.com |
 | 2025-02-19 | [[2025-02-19 ClickHouse Certified Developer exam results|ClickHouse Certified Developer exam results]] | 1 | 2025-02-19 | certification@clickhouse.com |
 | 2025-02-18 | [[2025-02-18 Thanks, Jason! TeamSnap is super excited to hear from you! 🚀|Thanks, Jason! TeamSnap is super excited to hear from you! 🚀]] | 1 | 2025-02-18 | no-reply@hire.lever.co |
-| 2025-02-18 | [[2025-02-18 Your receipt from ClickHouse, Inc. #2595-5242|Your receipt from ClickHouse, Inc. #2595-5242]] | 1 | 2025-02-18 | invoice+statements+acct_1LBihwC9bitRmbOw@stripe.com |
+| 2025-02-18 | [[2025-02-18 Your receipt from ClickHouse, Inc. 2595-5242|Your receipt from ClickHouse, Inc. #2595-5242]] | 1 | 2025-02-18 | invoice+statements+acct_1LBihwC9bitRmbOw@stripe.com |
 | 2025-02-14 | [[2025-02-14 Thank You for Your Application – Full Stack Developer|Thank You for Your Application – Full Stack Developer]] | 1 | 2025-02-14 | no-reply@ats.rippling.com |
 | 2025-02-14 | [[2024-12-23 Thank you for applying to Calm!|Thank you for applying to Calm!]] | 2 | 2024-12-23 | no-reply@calm.com |
 | 2025-02-14 | [[2025-02-07 Thank you for your interest in Microsoft!|Thank you for your interest in Microsoft!]] | 2 | 2025-02-07 | recruiting@jobs.microsoft.com |
@@ -124,8 +124,7 @@ Date range: 2022-04-13 to 2026-04-30
 | 2025-01-22 | [[2025-01-22 Invitation- Jason Younker - Interview with Gusto @ Wed Jan 29, 2025 1pm - 2pm (EST) (jason@ynkr.org)|Invitation: Jason Younker \| Interview with Gusto @ Wed Jan ]] | 1 | 2025-01-22 | carren.scialacomo@gusto.com |
 | 2025-01-22 | [[2025-01-22 Your interview with Gusto is scheduled for Jan 29, 2025 at 1-00 PM|Your interview with Gusto is scheduled for Jan 29, 2025 at 1]] | 1 | 2025-01-22 | no-reply@interviews.modernloop.io |
 | 2025-01-22 | [[2025-01-22 Reminder- Schedule your interview with Gusto|Reminder: Schedule your interview with Gusto]] | 1 | 2025-01-22 | no-reply@interviews.modernloop.io |
-| 2025-01-21 | Reminder: Phone Interview for Sr. Solutions Architect with
-  | 1 | 2025-01-21 | noreply@zohocalendar.com |
+| 2025-01-21 | [[2025-01-21 Reminder- Phone Interview for Sr. Solutions Architect with Compassion International @ Tue Jan 21, 2025 03-30 \|Reminder: Phone Interview for Sr. Solutions Architect with Compassion International]] | 1 | 2025-01-21 | noreply@zohocalendar.com |
 | 2025-01-21 | [[2025-01-21 Scheduling your Technical Phone Assessment with Gusto!|Scheduling your Technical Phone Assessment with Gusto!]] | 1 | 2025-01-21 | carren.scialacomo@gusto.com |
 | 2025-01-20 | [[2025-01-20 Application for Software Engineer TS-SCI + Poly $130K - $220K + 15% 401k at Millennial Software|Application for Software Engineer TS/SCI + Poly $130K - $220]] | 1 | 2025-01-20 | noreply@indeed.com |
 | 2025-01-17 | [[2025-01-17 Thank you for your interest in Settle|Thank you for your interest in Settle]] | 1 | 2025-01-17 | no-reply@us.greenhouse-mail.io |

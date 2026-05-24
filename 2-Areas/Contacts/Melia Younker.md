@@ -22,3 +22,8 @@ tags:
 - **Home:** 1 (509) 965-4055
 - **Work:** melia@meliasfloral.com
 - **Email:** meliajuli@gmail.com
+
+## Related
+
+- [[Jason Younker]] - brother
+- [[Justin Younker]] - brother

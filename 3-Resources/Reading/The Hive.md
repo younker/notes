@@ -9,7 +9,7 @@ attachment: The Hive.pdf
 
 # The Hive
 
-*By [[Brian Conn]]*
+*By [[Brian Conn (Author)]]*
 
 Companion note for the attached PDF: The Hive.pdf
 

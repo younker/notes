@@ -17,7 +17,7 @@ tags: []
 
 Dear Stephen,
 
-Please find an attached offer to join Northern Michigan Football Club (NMFC) for the coming 2024/2025 year! Contact us at soccer@northernnmichiganfc.com or 231-497-3172 if you have any questions. We are excited to have you part of the #NMFCPROUD!
+Please find an attached offer to join Northern Michigan Football Club (NMFC) for the coming 2024/2025 year! Contact us at soccer@northernnmichiganfc.com or 231-497-3172 if you have any questions. We are excited to have you part of the NMFCPROUD!
 
 Northern Michigan Football Club
 231-497-3172

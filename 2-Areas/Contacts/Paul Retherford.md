@@ -17,3 +17,7 @@ tags:
 
 ## Notes
 Theo pysa lakers soccer team
+
+## Related
+
+- [[Emails — soccer-emails.rtfd]] - Lakers 2012 Soccer correspondence (PYSA-affiliated team)

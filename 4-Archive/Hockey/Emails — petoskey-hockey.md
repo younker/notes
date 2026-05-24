@@ -67,10 +67,10 @@ Date range: 2023-11-27 to 2026-05-22
 | 2026-01-05 | [[2026-01-05 Reservation Confirmation|Reservation Confirmation]] | 1 | 2026-01-05 | reserve@niagarafallshotels.com |
 | 2026-01-02 | [[2026-01-02 MYHockey Tournaments Hotel Reservation Notice|MYHockey Tournaments Hotel Reservation Notice]] | 2 | 2026-01-02 | alexp@myhockeytournaments.com |
 | 2026-01-02 | [[2026-01-02 Holland Tournament Block|Holland Tournament Block]] | 1 | 2026-01-02 | BBanfill@suburbaninns.com |
-| 2026-01-02 | [[2026-01-01 Reservation Confirmation #84936350 for Courtyard by Marriott Holland Downtown|Reservation Confirmation #84936350 for Courtyard by Marriott]] | 2 | 2026-01-01 | reservations@res-marriott.com |
+| 2026-01-02 | [[2026-01-01 Reservation Confirmation 84936350 for Courtyard by Marriott Holland Downtown|Reservation Confirmation #84936350 for Courtyard by Marriott]] | 2 | 2026-01-01 | reservations@res-marriott.com |
 | 2026-01-02 | [[2026-01-02 Updated PAHA 14UB Roster 12-31-2025|Updated PAHA 14UB Roster 12-31-2025]] | 1 | 2026-01-02 | brentcbolin@gmail.com |
 | 2026-01-02 | [[2025-12-10 Expired room block- we need one more reservation|Expired room block: we need one more reservation]] | 4 | 2025-12-10 | brittany@sportsheadz.com |
-| 2026-01-01 | [[2026-01-01 Reservation Confirmation #84932297 for Courtyard by Marriott Holland Downtown|Reservation Confirmation #84932297 for Courtyard by Marriott]] | 1 | 2026-01-01 | reservations@res-marriott.com |
+| 2026-01-01 | [[2026-01-01 Reservation Confirmation 84932297 for Courtyard by Marriott Holland Downtown|Reservation Confirmation #84932297 for Courtyard by Marriott]] | 1 | 2026-01-01 | reservations@res-marriott.com |
 | 2025-12-31 | [[2025-12-30 Roster exception|Roster exception]] | 5 | 2025-12-30 | bkasiborski@gmail.com |
 | 2025-12-29 | [[2025-12-29 Season Stats as of 12-28|Season Stats as of 12/28]] | 3 | 2025-12-29 | blcook6383@aol.com |
 | 2025-12-29 | [[2025-12-29 Pre-Arrival for Niagara Falls Marriott on the Falls - R-05063523 - 2026 Pelham Silver Stick Finals - Thu, 01-|Pre-Arrival for Niagara Falls Marriott on the Falls \| R-050]] | 1 | 2025-12-29 | mailer@eventpipe.com |
@@ -113,7 +113,7 @@ Date range: 2023-11-27 to 2026-05-22
 | 2025-11-30 | [[2025-11-30 PAHA communication to a specific team|PAHA communication to a specific team]] | 1 | 2025-11-30 | pahacommunications@gmail.com |
 | 2025-11-30 | [[2025-11-24 Canada room block|Canada room block]] | 9 | 2025-11-24 | bkasiborski@gmail.com |
 | 2025-11-30 | [[2025-11-30 Holland room block|Holland room block]] | 1 | 2025-11-30 | cfirman16@gmail.com |
-| 2025-11-28 | [[2025-11-26 [## 187190 ##] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025|[## 187190 ##] HTP - Pin - Trading_Aaron_Weisberger_Petoskey]] | 4 | 2025-11-26 | bkasiborski@gmail.com |
+| 2025-11-28 | [[2025-11-26 [ 187190 ] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025|[## 187190 ##] HTP - Pin - Trading_Aaron_Weisberger_Petoskey]] | 4 | 2025-11-26 | bkasiborski@gmail.com |
 | 2025-11-26 | [[2025-11-26 Group Block Confirmation G-00445063 - 2026 Pelham Silver Stick Finals - Thu, 01-08-2026 - Sun, 01-11-2026|Group Block Confirmation G-00445063 \| 2026 Pelham Silver St]] | 1 | 2025-11-26 | mailer@eventpipe.com |
 | 2025-11-21 | [[2025-11-21 Game vs Fox Motors|Game vs Fox Motors]] | 2 | 2025-11-21 | blcook6383@aol.com |
 | 2025-11-20 | [[2025-11-20 Roster stickers|Roster stickers]] | 2 | 2025-11-20 | bkasiborski@gmail.com |
@@ -139,9 +139,9 @@ Date range: 2023-11-27 to 2026-05-22
 | 2025-07-28 | [[2025-07-28 TC Hockey|TC Hockey]] | 1 | 2025-07-28 | adamrenault@gmail.com |
 | 2025-07-21 | [[2025-07-21 Stephen’s camp - Grand Rapids Aug 8-10|Stephen’s camp - Grand Rapids Aug 8-10]] | 1 | 2025-07-21 | heathergoffinet@hotmail.com |
 | 2025-07-18 | [[2025-07-18 2012 Michigan Camp - Final Details|2012 Michigan Camp - Final Details]] | 1 | 2025-07-18 | heathergoffinet@hotmail.com |
-| 2025-06-24 | [[2025-06-24 Receipt for order #9652|Receipt for order #9652]] | 1 | 2025-06-24 | store+24433475@t.shopifyemail.com |
-| 2025-06-19 | [[2025-06-19 Your Invoice is available -- Invoice #26647|Your Invoice is available -- Invoice #26647]] | 1 | 2025-06-19 | services@mail.ezfacility.com |
-| 2025-06-19 | [[2025-06-19 Your Invoice is available -- Invoice #26651|Your Invoice is available -- Invoice #26651]] | 1 | 2025-06-19 | services@mail.ezfacility.com |
+| 2025-06-24 | [[2025-06-24 Receipt for order 9652|Receipt for order #9652]] | 1 | 2025-06-24 | store+24433475@t.shopifyemail.com |
+| 2025-06-19 | [[2025-06-19 Your Invoice is available -- Invoice 26647|Your Invoice is available -- Invoice #26647]] | 1 | 2025-06-19 | services@mail.ezfacility.com |
+| 2025-06-19 | [[2025-06-19 Your Invoice is available -- Invoice 26651|Your Invoice is available -- Invoice #26651]] | 1 | 2025-06-19 | services@mail.ezfacility.com |
 | 2025-06-18 | [[2025-06-18 Meijer State Games Schedule Thurs-Fri|Meijer State Games Schedule Thurs/Fri]] | 1 | 2025-06-18 | heathergoffinet@hotmail.com |
 | 2025-06-18 | [[2025-06-18 Reservation Confirmation for Springhill Suites Grand Rapids West- 2025 Meijer State Games - Main Weekend|Reservation Confirmation for Springhill Suites Grand Rapids ]] | 1 | 2025-06-18 | heathergoffinet@hotmail.com |
 | 2025-06-18 | [[2025-06-18 Opening Ceremony & Kickoff Party FRIDAY!|Opening Ceremony & Kickoff Party FRIDAY!]] | 1 | 2025-06-18 | heathergoffinet@hotmail.com |

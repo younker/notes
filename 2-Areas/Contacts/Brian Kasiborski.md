@@ -26,6 +26,6 @@ Petoskey hockey coach
 - [[2025-11-12 Schedule Questions]]
 - [[2025-11-20 Roster stickers]]
 - [[2025-11-24 Canada room block]]
-- [[2025-11-26 [## 187190 ##] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025]]
+- [[2025-11-26 [ 187190 ] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025]]
 - [[2025-12-30 Roster exception]]
 - [[2026-01-15 Silver Sticks Finals analysis]]

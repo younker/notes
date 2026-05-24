@@ -131,3 +131,8 @@ I do not always accomplish my task but I am relentless pursuing it.
 > How have you proven an understanding of what is required of yourself in your responsibilities beyond your primary work? Examples might include taking ownership of things like documentation, testing, championing new ideas, critical analysis in ARs, etc.
 
 Much of the autonomy answer demonstrates strong ownership. I enjoy being an IC, coding is my happy place, but I put a tremendous amount of effort into thinking several steps ahead in an effort to "guide the ship". I do not just think in terms of today or this sprint, but rather what does the next 6, 12 or 18 months look like. Where do we want to be in 3 to 5 years? How can I help get us there? I want my ideas and my designs and my efforts to be the foundation on which Moz engineering will build over the next 5 to 10 years.
+
+## Related
+
+- [[Moz MOC]] - Other Moz-era archive notes
+- [[Career MOC]] (in 2-Areas/Career/) - Current career area

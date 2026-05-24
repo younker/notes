@@ -17,3 +17,7 @@ tags:
 
 ## Notes
 Son, Sean from PYSA 2012 team
+
+## Related
+
+- [[Emails — soccer-emails.rtfd]] - Lakers 2012 Soccer correspondence (PYSA-affiliated team)

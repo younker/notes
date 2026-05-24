@@ -37,7 +37,7 @@ tags:
 - [[2025-11-17 11-17 Practice]]
 - [[2025-11-20 Roster stickers]]
 - [[2025-11-24 Canada room block]]
-- [[2025-11-26 [## 187190 ##] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025]]
+- [[2025-11-26 [ 187190 ] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025]]
 - [[2025-11-30 Holland room block]]
 - [[2025-12-01 MAC Tournament Schedule Update]]
 - [[2025-12-01 Move up request]]

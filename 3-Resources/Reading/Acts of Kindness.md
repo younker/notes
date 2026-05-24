@@ -7,7 +7,7 @@ tags: [reading, essay, faith]
 
 # Acts of Kindness
 
-*By [[Brian Conn]]*
+*By [[Brian Conn (Author)]]*
 
 There's a local legend from Connacht, during World War II, when the Republic of Ireland was in its infancy, and not wanting to give more of their young men to die for England or any other piece of land except their own, the fledgling nation's leaders had declared Ireland to be neutral in that conflict.
 

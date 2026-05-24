@@ -35,7 +35,7 @@ Petoskey hockey coach
 - [[2025-08-14 suggested positions]]
 - [[2025-09-10 for tonight]]
 - [[2025-09-30 same formation, players rotated]]
-- [[2025-11-26 [## 187190 ##] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025]]
+- [[2025-11-26 [ 187190 ] HTP - Pin - Trading_Aaron_Weisberger_Petoskey Hockey Team_06-Jan-2025]]
 - [[2025-12-03 25-26 Canadian Tournament and Exhibitition Game Travel Permit Confirmation]]
 - [[2025-12-04 Season Stats as of 12-4]]
 - [[2025-12-04 USAH-Michigan Amateur Hockey Association - 25-26 Canadian Tournament and Exhibitition Game Travel Permit - Ca]]

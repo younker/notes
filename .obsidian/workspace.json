@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "41f1a9d41ec71a1a",
+        "id": "59e523b00e59bab1",
         "type": "tabs",
         "children": [
           {
-            "id": "80c84c5d0f3084b5",
+            "id": "79b8d894759594b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Areas/SHIP — Senior Housing/Threads/2026-04-08 New Form Entry.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-08 New Form Entry"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1e1d19",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/SHIP — Senior Housing/Threads/2026-04-08 New Form Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-04-08 New Form Entry"
+              "title": "Backlinks"
             }
           },
           {
@@ -184,44 +179,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80c84c5d0f3084b5",
+  "active": "79b8d894759594b6",
   "lastOpenFiles": [
-    "2-Areas/SHIP — Senior Housing/Threads/2026-04-08 New Form Entry.md",
-    "4-Archive/Personal/Threads/2022-07-02 Congratulations! You got an e-gift card!.md",
-    "3-Resources/Reference/Email Archive Index.md",
-    "2-Areas/Contacts/Chris Firman.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Pawlanta.md",
+    "2026-05-23.md",
     "4-Archive/Sent Mail/Threads/2026-05-22 14UAA Team Information.md",
-    "4-Archive/Personal/Threads/2022-08-13 Your Dyson order confirmation.md",
-    "2-Areas/Contacts/William Gilliland.md",
-    "2-Areas/Lakers 2012 Soccer/Threads/2026-03-05 Your May-16-2026 Confirmation.md",
-    "4-Archive/Hockey/Threads/2025-06-19 Your Invoice is available -- Invoice.md",
-    "4-Archive/Career/Threads/2025-02-18 Your receipt from ClickHouse, Inc..md",
-    "2-Areas/Lakers 2012 Soccer/Threads/2026-05-19 Sunday vs Petoskey.md",
-    "2-Areas/Contacts/Bethany Hickner.md",
-    "4-Archive/Personal/Emails — personal.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Zivkovich.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Younker.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Wheeler.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Wald.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Tucker.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Stumm.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Rowell.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Myers.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/McDonald.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Leipprandt.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Jefferys.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families/Henning.md",
-    "4-Archive/Hockey/TC Red AA 14U/Families",
-    "4-Archive/Hockey/TC Red AA 14U",
-    "4-Archive/Hockey/Threads",
-    "3-Resources/Reading/The Hive.pdf",
-    "Untitled.canvas",
-    "3-Resources/Topics",
-    "2-Areas/Contacts",
-    "4-Archive/Personal/Threads",
-    "4-Archive/Sent Mail/Threads",
-    "4-Archive/Career/Threads",
-    "2-Areas/Stephen Hockey/Threads"
+    "2-Areas/Contacts/Eloa Adams.md",
+    "4-Archive/Personal/Threads/2022-07-02 Congratulations! You got an e-gift card!.md",
+    "4-Archive/Moz/kwe/interactions/steps.md",
+    "2-Areas/Contacts/Agnieszka Adams.md",
+    "4-Archive/Moz/interviews/csv-homework-sketch/csv-homework-outline.md",
+    "4-Archive/Moz/assisted-living-concept/assisted-living-outline.md",
+    "4-Archive/Moz/book/book-outline.md",
+    "4-Archive/Moz/interviews/20180501-matthew-grosso.md",
+    "4-Archive/Moz/interviews/20180423-lunaura-hassinger.md",
+    "4-Archive/Moz/interviews/20180424-wes-kretzschmar.md",
+    "4-Archive/Moz/interviews/20180418-jeb-garcia.md",
+    "4-Archive/Moz/interviews/20180123-kevin-koltz.md",
+    "4-Archive/Moz/interviews/20180504-mathias-klous.md",
+    "4-Archive/Moz/interviews/20180614-woody-yeung.md",
+    "4-Archive/Moz/interviews/20180430-robert-reis.md",
+    "4-Archive/Moz/triage-links.md",
+    "4-Archive/Moz/20180418-kws-outage.md",
+    "4-Archive/Moz/bot-detection-ideas.md",
+    "4-Archive/Moz/extender.md",
+    "4-Archive/Moz/20170211-bartender-siege.md",
+    "4-Archive/Moz/05142018-daily-tasks.md",
+    "4-Archive/Moz/fishing.md",
+    "4-Archive/Moz/mdapi-as-graphql.md",
+    "4-Archive/Moz/rapid-feedback.md",
+    "4-Archive/Moz/interviews/20180430-mathias-klous/keyword-registry",
+    "4-Archive/Moz/interviews/20180430-mathias-klous",
+    "4-Archive/Moz/interviews/templates",
+    "4-Archive/Moz/interviews/csv-homework-sketch",
+    "4-Archive/Moz/interviews/20180227-evan-liang/lib",
+    "4-Archive/Moz/interviews/20180227-evan-liang",
+    "4-Archive/Moz/assisted-living-concept",
+    "4-Archive/Moz/book",
+    "4-Archive/Moz/lightning-talks",
+    "4-Archive/Moz/stampede",
+    "Untitled.canvas"
   ]
 }

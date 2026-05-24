@@ -28,7 +28,7 @@ margin:0;
 padding:0;
 font-family:open sans, arial, helvetica, sans-serif;
 color:#1e1d19;
-background-color: #ffffff;
+background-color: ffffff;
 }
 
 .ReadMsgBody {
@@ -107,7 +107,7 @@ height: 20px !important;
 display:block!important;
 width:382px !important;
 border-top:none!important;
-border-bottom:solid 1px #e1e0db;
+border-bottom:solid 1px e1e0db;
 border-left:none!important;
 border-right:none!important;
 margin-top:20px;
