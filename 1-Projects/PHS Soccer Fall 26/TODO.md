@@ -18,31 +18,36 @@ tags: [soccer/phs, todo]
     - 9 practices 
 - [x] Get the PYSA girls pre-tryout schedule on calendar
 - [x] Get Emily's volleyball schedule on the calendar
-- [ ] Send 
-## TODOs
-- [ ] Register for D License classes (already on schedule)
-- [ ] Communicate dates with [[Joel Dohm]]. See if we can get the field.
-- [ ] Contact [[Chris Dettmer]]: 231-838-4003
-- [ ] Talk with [[Matt Hill]] about soccer schedule
 - [x] Get TODO list from [[Jenni Attie]]
-- [ ] Get example HS schedule from Jeff
-- [ ] Create theme for the year (stability)
-- [ ] Complete Edustaff signup: https://account.edustaff.org/jobs/WF3oxRJkRc2mHQ-oFvprSg/
-- [ ] Schedule time with [[John Lennon]] to talk about sharing gear (with girls' JV team)
-- [ ] Follow up with [[Joel Dohm]] about MHSAA CAP certification -- move from July East Lansing location to an online option
-- [ ] Schedule time with Noah to go over jerseys/warmups
-- [ ] Once schedules are all set, book flight to Yakima
 - [ ] go over the [PHS Parent Volunteer List](https://docs.google.com/document/d/1vCNzNhkewF-22NghJKvI3g0LhHht_6Q7KpYfUsySLdY/edit?tab=t.0) and assess TODO items
-- [ ] figure out bank account -- get card
+- [ ] Get example HS schedule from Jeff
+- [ ] Get ParentSquare setup
+- [ ] Add the following players
+    - Roland Werth
+    - Gavin Jeffers
+    - Zander Barney
+    - Sean Sullivan
+    - Brittan (need last name)
+    - Carsen Fisher
+- [ ] Send Email
 
-## Players to add to communication list
+## Other TODOs
 
-- [ ] Roland Werth
-- [ ] Gavin Jeffers
-- [ ] Zander Barney
-- [ ] Sean Sullivan
-- [ ] Brittan (need last name)
-- [ ] Carsen Fisher
+- [ ] Once schedules are all set, book flight to Yakima
+- [ ] Complete Edustaff signup: https://account.edustaff.org/jobs/WF3oxRJkRc2mHQ-oFvprSg/
+- [ ] Complete 9v9 grassroots class: https://learning.ussoccer.com/coach/classroom/10384/candidate/assignments/5350/interactive
+- [ ] Register for D License classes (already on schedule)
+- [ ] Create theme for the year (stability)
+- [ ] Follow up with [[Joel Dohm]] about MHSAA CAP certification -- move from July East Lansing location to an online option
+- [ ] Figure out bank account -- get card
+
+## Contacts
+
+- [ ] Contact & schedule time with Noah to go over jerseys/warmups
+- [ ] Schedule time with [[John Lennon]] to talk about sharing gear (with girls' JV team)
+- [ ] Communicate dates with [[Joel Dohm]]. See if we can get the field.
+- [ ] Talk with [[Matt Hill]] about soccer schedule
+- [ ] Contact [[Chris Dettmer]]: 231-838-4003
 
 ## Related
 
