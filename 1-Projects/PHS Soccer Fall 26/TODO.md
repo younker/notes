@@ -71,6 +71,16 @@ Today, might be more like $400
 Oakland University: big camp with tons of teams
 Similar to Western Michigan
 
+**Summer Practices**
+30min skills
+
+**Conditioning**
+Cooper Test - 2 mile test
+Anson Dorrance 120 test
+Beep test
+Noah was meeting at winter sports park and running hills or any number of things
+
+
 - Practice time: right after school or 5:30?
     * Zach: right after school
     * Noah: 
