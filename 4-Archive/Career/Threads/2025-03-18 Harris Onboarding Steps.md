@@ -7,7 +7,6 @@ senders:
 - kat.grolle@harrispoll.com
 type: email-thread
 tags:
-- job-search-2024
 - ship
 contacts:
 - '[[Kat Grolle]]'

@@ -7,7 +7,6 @@ senders:
 - carchambault@bera.ai
 type: email-thread
 tags:
-- job-search-2024
 contacts:
 - '[[Chris Archambault]]'
 ---

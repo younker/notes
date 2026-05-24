@@ -7,7 +7,6 @@ senders:
 - fbardon@bera.ai
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Invitation: Jason Younker and Frank Bardon + Bin Le @ Wed Mar 5, 2025

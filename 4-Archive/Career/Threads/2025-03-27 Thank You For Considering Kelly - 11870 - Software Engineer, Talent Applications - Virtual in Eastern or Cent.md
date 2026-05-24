@@ -7,7 +7,6 @@ senders:
 - globalta@kellyservices.com
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Thank You For Considering Kelly - 11870 - Software Engineer, Talent

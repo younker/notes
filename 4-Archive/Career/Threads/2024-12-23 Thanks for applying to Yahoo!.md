@@ -7,7 +7,6 @@ senders:
 - ouryahoo@myworkday.com
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Thanks for applying to Yahoo!

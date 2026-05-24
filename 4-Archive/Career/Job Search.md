@@ -9,12 +9,13 @@ tags:
 - index
 ---
 
-# Email Index — job-search
+# Job Search
 
-Source mbox: `~/email-to-obsidian/job-search`
-PARA bucket: Archive — Career
-Threads: 172  |  Messages: 203
-Date range: 2022-04-13 to 2026-04-30
+Single hub for all job-search activity. Source mbox: `~/email-to-obsidian/job-search`.
+
+172 threads | 203 messages | date range 2022-04-13 to 2026-04-30
+
+Tag `job-search-2024` was removed on 2026-05-24 -- this file is now the only entry point.
 
 ## Threads
 

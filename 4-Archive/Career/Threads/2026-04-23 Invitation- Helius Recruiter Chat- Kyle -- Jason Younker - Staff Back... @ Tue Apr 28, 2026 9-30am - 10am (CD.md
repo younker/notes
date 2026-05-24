@@ -7,7 +7,6 @@ senders:
 - k.devaldivielso@helius.xyz
 type: email-thread
 tags:
-- job-search-2024
 contacts:
 - '[[Kyle Lieberman]]'
 ---

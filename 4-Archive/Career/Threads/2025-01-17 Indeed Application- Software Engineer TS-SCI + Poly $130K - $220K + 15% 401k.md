@@ -7,7 +7,6 @@ senders:
 - indeedapply@indeed.com
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Indeed Application: Software Engineer TS/SCI + Poly $130K - $220K + 15% 401k

@@ -7,7 +7,6 @@ senders:
 - no-reply@appreview.gem.com
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Application for Senior Backend Engineer - Platform Team at

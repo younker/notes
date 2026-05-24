@@ -7,7 +7,6 @@ senders:
 - no-reply@us.greenhouse-mail.io
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # We want to know what you think

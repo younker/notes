@@ -7,7 +7,6 @@ senders:
 - greg@sr2rec.com
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Jason A Younker and Greg Medland

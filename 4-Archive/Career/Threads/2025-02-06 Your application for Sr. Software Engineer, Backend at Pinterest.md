@@ -7,7 +7,6 @@ senders:
 - no-reply@us.greenhouse-mail.io
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Your application for Sr. Software Engineer, Backend at Pinterest

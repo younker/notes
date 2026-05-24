@@ -7,7 +7,6 @@ senders:
 - alerts@jobs.jobot.com
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Application Received! Founding Backend Engineer

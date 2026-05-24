@@ -7,7 +7,6 @@ senders:
 - no-reply@ashbyhq.com
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Imprint | Thank you for your Application

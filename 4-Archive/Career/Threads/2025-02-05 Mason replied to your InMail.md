@@ -7,7 +7,6 @@ senders:
 - hit-reply@linkedin.com
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Mason replied to your InMail

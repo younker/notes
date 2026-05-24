@@ -7,7 +7,6 @@ senders:
 - no-reply@hire.lever.co
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Thank you for your interest in Luna!

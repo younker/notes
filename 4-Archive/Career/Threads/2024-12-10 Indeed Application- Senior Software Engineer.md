@@ -7,7 +7,6 @@ senders:
 - indeedapply@indeed.com
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # Indeed Application: Senior Software Engineer

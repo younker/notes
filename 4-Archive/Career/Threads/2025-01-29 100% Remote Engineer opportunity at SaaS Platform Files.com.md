@@ -4,10 +4,8 @@ message_count: 2
 first: 2025-01-29
 last: 2025-02-03
 senders:
-- jobs+mason.brown@files.com
 type: email-thread
 tags:
-- job-search-2024
 ---
 
 # 100% Remote Engineer opportunity at SaaS Platform Files.com
