@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "59e523b00e59bab1",
+        "id": "2d9bde8e7796cfea",
         "type": "tabs",
         "children": [
           {
-            "id": "79b8d894759594b6",
+            "id": "688814fadcdf228e",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#petoskey-soccer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,11 +176,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "79b8d894759594b6",
+  "active": "efe2b6c6d960c70a",
   "lastOpenFiles": [
+    "2-Areas/Contacts/Meghan Poll.md",
+    "2-Areas/Contacts/Meghan Poll.md.tmp.33542.5d173bcf4d09",
+    "2-Areas/Contacts/Sarah Jonker.md",
+    "2-Areas/Contacts/Mike Baker.md",
+    "2-Areas/Contacts/Eric Liebler.md",
+    "2-Areas/Contacts/Matt Hill.md",
+    "1-Projects/PHS Soccer Fall 26/Coaching Certifications.md",
+    "1-Projects/PHS Soccer Fall 26/Program Context.md",
+    "1-Projects/PHS Soccer Fall 26/Threads/2026-05-15 8th grade meeting Wednesday.md",
     "2026-05-23.md",
     "4-Archive/Sent Mail/Threads/2026-05-22 14UAA Team Information.md",
     "2-Areas/Contacts/Eloa Adams.md",
@@ -199,14 +209,6 @@
     "4-Archive/Moz/interviews/20180614-woody-yeung.md",
     "4-Archive/Moz/interviews/20180430-robert-reis.md",
     "4-Archive/Moz/triage-links.md",
-    "4-Archive/Moz/20180418-kws-outage.md",
-    "4-Archive/Moz/bot-detection-ideas.md",
-    "4-Archive/Moz/extender.md",
-    "4-Archive/Moz/20170211-bartender-siege.md",
-    "4-Archive/Moz/05142018-daily-tasks.md",
-    "4-Archive/Moz/fishing.md",
-    "4-Archive/Moz/mdapi-as-graphql.md",
-    "4-Archive/Moz/rapid-feedback.md",
     "4-Archive/Moz/interviews/20180430-mathias-klous/keyword-registry",
     "4-Archive/Moz/interviews/20180430-mathias-klous",
     "4-Archive/Moz/interviews/templates",
@@ -216,7 +218,6 @@
     "4-Archive/Moz/assisted-living-concept",
     "4-Archive/Moz/book",
     "4-Archive/Moz/lightning-talks",
-    "4-Archive/Moz/stampede",
     "Untitled.canvas"
   ]
 }
