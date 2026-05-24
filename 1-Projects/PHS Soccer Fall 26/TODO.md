@@ -12,13 +12,15 @@ tags: [soccer/phs, todo]
 - [x] Summer practice dates
     - June 1 @ midnight
     - June 3 5-7:30
-    - June 7-28
+    - June 7 5-7:30
+    - June 14-28
         - Sunday 5-6:30
         - Tuesday 5-6:30
-    - 9 practices 
+    - 8 practices 
 
     Dead Zone: Jun 28 - July 5
     Cont.: July 6-31
+
     Pre-Season: Aug. 1 - 10
 
 - [x] Get the PYSA girls pre-tryout schedule on calendar
@@ -43,7 +45,10 @@ tags: [soccer/phs, todo]
 - [ ] Complete 9v9 grassroots class: https://learning.ussoccer.com/coach/classroom/10384/candidate/assignments/5350/interactive
 - [ ] Register for D License classes (already on schedule)
 - [ ] Create theme for the year (stability)
-- [ ] Follow up with [[Joel Dohm]] about MHSAA CAP certification -- move from July East Lansing location to an online option
+- [ ] Follow up with [[Joel Dohm]] about...
+    - [ ] MHSAA CAP certification -- move from July East Lansing location to an online option
+    - [ ] Scheduling pickleball courts
+    - [ ] Fields for soccer
 - [ ] Figure out bank account -- get card
 
 ## Contacts
