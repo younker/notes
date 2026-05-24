@@ -16,7 +16,9 @@ tags: [soccer/phs, todo]
         - Sunday 5-6:30
         - Tuesday 5-6:30
     - 9 practices 
-- [ ] Get the PYSA girls pre-tryout schedule on calendar
+- [x] Get the PYSA girls pre-tryout schedule on calendar
+- [ ] Get Emily's volleyball schedule on the calendar
+- [ ] Register for D License classes
 - [ ] Communicate dates with [[Joel Dohm]]. See if we can get the field.
 - [ ] Contact [[Chris Dettmer]]: 231-838-4003
 - [ ] Talk with [[Matt Hill]] about soccer schedule
