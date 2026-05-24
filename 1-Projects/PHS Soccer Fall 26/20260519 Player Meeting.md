@@ -14,8 +14,8 @@ tags: [soccer/phs, meeting]
 - fund raising
   - still looking into options
 - dates
-  - June 11-28: team practices
-  - June 8-July 5: dead zone
+  - June 1-27: team practices
+  - June 28-July 5: dead zone
   - July 6-31: cont. team practices
   - Aug 1-10: pre-season down time
   - 4 athlete limit

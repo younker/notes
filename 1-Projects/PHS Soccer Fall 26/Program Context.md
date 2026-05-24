@@ -41,8 +41,8 @@ See [[Boys Soccer Fall 26]] for the game schedule.
 
 ## Key Dates (2026)
 
-- June 11-28: team practices
-- June 8 - July 5: dead zone
+- June 1-27: team practices
+- June 28 - July 5: dead zone
 - July 6-31: continued team practices
 - Aug 1-10: pre-season down time (4-athlete limit; unlimited team conditioning/non-sport)
 - Strength/conditioning window: June 15-26 and July 6-31, M-F, 3 hours AM and 3 hours PM. Balance effort and rest.

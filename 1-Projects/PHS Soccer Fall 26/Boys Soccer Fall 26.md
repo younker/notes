@@ -9,8 +9,8 @@ tags: [soccer/phs, schedule]
 # Boys Soccer Fall 26
 
 ## Key Dates
-- June 11-28: team practices
-- June 8-July 5: dead zone
+- June 1-27: team practices
+- June 28-July 5: dead zone
 - July 6-31: continue team practices
 - Aug 1-10: pre-season down time
 
