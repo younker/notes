@@ -22,7 +22,7 @@ tags: [soccer/phs, todo]
         - Sunday 5:30-7
         - Tuesday 5:30-7
 
-    15 practices
+    15 practices, 3 conditioning sessions
 
     Pre-Season: Aug. 1 - 10
     Season Practices: 

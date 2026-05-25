@@ -25,26 +25,35 @@ https://tinyurl.com/phs-soccer-2026
 
 Team practices are allowed in two windows before the regular pre-season opens:
 
-- **June 1 -- June 28**
+- **June 1 -- June 28**: Practices allowed
 - **June 29 -- July 5**: MHSAA dead zone, no team activity
-- **July 6 -- July 31**
+- **July 6 -- July 31**: Practices allowed
 - **Aug 1 -- Aug 10**: MHSAA pre-season down time
-- **Aug 11**: Practices start
+- **Aug 11**: Regular season starts
 
-Practices on the calendar:
+### June
 
-| Date | Day | Time |
-|---|---|---|
-| June 1 | Mon | 12:00 AM -- Midnight Scrimmage!|
-| June 2 | Tue | 5:30 PM -- Conditioning run #1|
-| June 3 | Wed | 5:30 -- 7:00 PM |
-| June 7 | Sun | 5:30 -- 7:00 PM |
-| June 14 | Sun | 5:30 -- 7:00 PM |
-| June 16 | Tue | 5:30 -- 7:00 PM |
-| June 21 | Sun | 5:30 -- 7:00 PM |
-| June 23 | Tue | 5:30 -- 7:00 PM |
-| June 28 | Sun | 5:30 -- 7:00 PM |
-| July 6 | Mon | 5:30 PM -- Conditioning run #2|
+We plan to have 8 practices and then 2 short conditioning sessions where we will perform specific tests to help assess where the players are at with their conditioning. Practices will be 90 minutes and consist of some technical work for the first 30-45 followed by a small sided scrimmage.
+
+| Date | Day | Time | Desc |
+|---|---|---|---|
+| June 1 | Mon | 12:00 AM -- 1:30 AM | Midnight Scrimmage!|
+| June 6 | Sat | 7:00 PM -- 7:30 PM  | Conditioning run #1|
+| June 11 | Thur | 8:00 am -- 9:30 am | Practive |
+| June 14 | Sun | 7:00 PM -- 8:30 PM | Practive |
+| June 16 | Tue | 7:00 PM -- 8:30 PM | Practive |
+| June 18 | Thur | 8:00 AM -- 9:30 AM | Practive |
+| June 21 | Sun | 7:00 PM -- 8:30 PM | Practive |
+| June 23 | Tue | 7:00 PM -- 8:30 PM | Practive |
+| June 25 | Thur | 8:00 AM -- 9:30 AM | Practive |
+| June 28 | Sun | 7:30 PM -- 8:00 PM | Conditioning run #2 |
+
+### July
+
+This month is more of a question mark. We want to do a camp this month but do not have any dates. Additionally, this is the month I expect most families to be on vacation, at the lake or otherwise not available for practices. Ironically, it is the most open month so I was able to schedule practices at consistent intervals.
+
+| Date | Day | Time | Desc |
+| July 6 | Mon | 6:00 PM -- 7:30 PM | Technical work then scrimmage |
 | July 7 | Tue | 5:30 -- 7:00 PM |
 | July 12 | Sun | 5:30 -- 7:00 PM |
 | July 14 | Tue | 5:30 -- 7:00 PM |
