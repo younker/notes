@@ -1,0 +1,128 @@
+{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \qc \f0 \sa180 \li0 \fi0 \b \fs36 How We Score Senior Housing Facilities\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 How We Score Senior Housing Facilities\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Each facility receives a composite quality score from 0 to 100, built from six categories. A score of 50 represents \u8220"meets the standard\u8221" \u8211- not average among peers, but an absolute baseline. When a category has no available data, its weight redistributes proportionally across the remaining categories. A facility needs at least three scored categories to receive a composite score.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Regulatory (30% of composite)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Regulatory is the single heaviest category because it directly reflects resident safety.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 We pull DSHS inspection reports \u8211- the actual PDF documents from state inspections \u8211- and use AI to evaluate two dimensions per report: how severe were the violations found (event score), and how well did the facility respond (response score). Each report gets scored on both dimensions, then the per-report scores are averaged across all available reports.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The violation severity carries 60% of the weight within this category, the response quality 40%. A facility with clean inspections and no violations scores near the top. A facility with severe or life-threatening violations scores near the bottom regardless of how well they responded afterward.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b High score (80-95):} No violations or only minor ones, with good corrective responses. {\b Low score (0-30):} Severe or life-threatening violations, poor response quality.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Reviews (25% of composite)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Customer satisfaction signal drawn from Google Reviews. Three factors contribute:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Star rating} (the dominant factor): A facility\u8217's Google rating mapped to an 80-point scale. A 5-star facility gets the full 80 points; a 1-star facility gets zero.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Review volume} (up to 10 bonus points): A logarithmic bonus that rewards having more reviews, with diminishing returns. Going from 1 to 10 reviews matters more than going from 90 to 100.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Review recency} (up to 5 bonus points): A small bonus for facilities that are actively accumulating new reviews in the last 24 months.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The star rating dominates because it\u8217's the strongest signal of resident/family satisfaction. Volume and recency are smaller bonuses that add confidence to the rating.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b High score (75-95):} 4.5+ stars with 100+ reviews, many recent. {\b Low score (0-30):} Below 2.5 stars, few reviews.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Property (15% of composite)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A proxy for physical facility quality, based on the county assessor\u8217's assessed property value compared to the county median.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A facility assessed at exactly the county median scores 50. A facility at twice the median scores 100. Below the median, the score drops proportionally. The idea: higher assessed values generally correlate with newer construction, better maintenance, or larger/better-equipped buildings.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This is the simplest category right now \u8211- just one data point. Future versions may incorporate building age, improvement-to-land ratios, and other property quality signals.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b High score (75+):} Assessed value 1.5x or more above the county median. {\b Mid score (50):} Right at the county median. {\b Low score (0-25):} Well below the county median.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Location (15% of composite)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Measures proximity to four types of places that matter most to senior residents:\par}
+{
+\trowd \trgaph120
+\clbrdrb\brdrs\cellx2160\clbrdrb\brdrs\cellx4320\clbrdrb\brdrs\cellx6480\clbrdrb\brdrs\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Category\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Why It Matters\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Ideal Distance\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Weight\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Hospitals\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Emergency and acute care access\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Within 5 km\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 40%\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Pharmacies\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Medication access\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Within 1 km\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 25%\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Grocery stores\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Food and supplies\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Within 2 km\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 20%\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Parks\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Recreation and quality of life\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Within 1 km\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 15%\par}
+\cell}
+}
+\intbl\row}
+{\pard \ql \f0 \sa180 \li0 \fi0 \par}
+{\pard \ql \f0 \sa180 \li0 \fi0 For each category, a facility within the ideal distance gets a perfect sub-score. Beyond the ideal, the score decays linearly to zero at a maximum distance threshold (20 km for hospitals, 5-8 km for the others). If a POI type doesn\u8217't exist nearby at all, that sub-score is zero \u8211- we treat the absence of a nearby hospital as genuinely bad, not just unknown.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Hospitals carry the most weight because emergency access is the highest-stakes proximity factor for senior residents.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b High score (80-95):} All four POI types within their ideal distances. {\b Low score (0-20):} Most POIs beyond their maximum thresholds.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Leadership (10% of composite)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Evaluates the ownership behind a facility across three dimensions:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Entity type (30% within category):} What kind of organization owns the facility? Nonprofits score highest (mission-aligned with care), followed by individuals (personal accountability), then LLCs, corporations, and REITs (investment-driven structures tend to distance ownership from operations).\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Geographic locality (35% within category):} Where is the owner based relative to Washington state? In-state owners score highest, neighboring states next, then decreasing scores for more distant states. Local ownership suggests closer operational involvement.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Operational stability (35% within category):} How long has the owning entity been in business? Entities operating 7+ years score highest. Newly incorporated entities (under 1 year) score lowest. Longevity suggests operational maturity.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 When a sub-dimension has no data (e.g., we can\u8217't determine where the owner is based), its weight redistributes to the sub-dimensions we do have data for.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b High score (80+):} Nonprofit, based in Washington, operating 7+ years. {\b Low score (25-40):} REIT or unknown entity, out-of-state, newly incorporated.\par}
+{\pard \qc \f0 \sa180 \li0 \fi0 \emdash\emdash\emdash\emdash\emdash\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Brand (5% of composite)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The lightest category, measuring operator reputation across their portfolio of facilities.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Two factors:\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Track record (70% within category):} The median composite score across all other facilities the same operator runs. If an operator\u8217's other facilities score well, that\u8217's a positive signal for this one.\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab {\b Portfolio size (30% within category):} How many facilities the operator manages. Larger portfolios suggest institutional systems and processes, though this is a weaker signal than actual performance.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Track record carries the bulk of the weight because past performance across the portfolio is more meaningful than size alone. A small operator with excellent facilities outscores a large chain with mediocre ones.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This category returns no score on the first scoring run (since cross-facility data hasn\u8217't been computed yet), and its 5% weight redistributes to the other categories.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b High score (75-95):} Large portfolio with high median scores across facilities. {\b Low score (0-30):} Single facility or small operator with poor peer performance.\par}
+}
