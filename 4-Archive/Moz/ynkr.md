@@ -13,7 +13,7 @@ abyss: pro-platform-t2hhEEHXTEBoOvaitCRbxDq87zLjtTrIGQJ2hK0ZuYhCXu7s3TYQkZ9Kb9BY
 - fizz buzz w/generators: https://medium.com/the-non-traditional-developer/how-to-code-the-fizz-buzz-challenge-using-javascript-generators-ed7f9f9c18af
 
 # TODO
-- [ ] ynkr.org CORS
+- [-] ynkr.org CORS
   - https://stackoverflow.com/questions/1653308/access-control-allow-origin-multiple-origin-domains
   - https://forums.aws.amazon.com/thread.jspa?threadID=242398
 
