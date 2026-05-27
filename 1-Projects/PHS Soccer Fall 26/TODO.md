@@ -8,7 +8,7 @@ tags: [soccer/phs, todo]
 
 # Parent Email
 
-- [ ] Contact Carey Strong re:Parent Square setup
+- [ ] Contact Carey Strong re:Parent Square setup 🔼 📅 2026-06-15
 - [x] Reply to [[Joel Dohm]] about Boyne Mountain Invitational
 - [x] Summer practice dates
     - June 1 @ midnight
@@ -36,34 +36,34 @@ tags: [soccer/phs, todo]
     - [x] Dates: 
 - [x] Get Emily's volleyball schedule on the calendar
 - [x] Get TODO list from [[Jenni Attie]]
-- [ ] go over the [PHS Parent Volunteer List](https://docs.google.com/document/d/1vCNzNhkewF-22NghJKvI3g0LhHht_6Q7KpYfUsySLdY/edit?tab=t.0) and assess TODO items
+- [ ] go over the [PHS Parent Volunteer List](https://docs.google.com/document/d/1vCNzNhkewF-22NghJKvI3g0LhHht_6Q7KpYfUsySLdY/edit?tab=t.0) and assess TODO items 🔼 📅 2026-07-10
 
-- [ ] Get example HS schedule from Jeff
-- [ ] Get ParentSquare setup
-- [ ] Add the following players
+- [ ] Get example HS schedule from Jeff 🔼 📅 2026-06-30
+- [ ] Get ParentSquare setup 🔼 📅 2026-06-30
+- [ ] Add the following players 🔼 📅 2026-07-15
     - Roland Werth
     - Gavin Jeffers
     - Zander Barney
     - Sean Sullivan
     - Brittan (need last name)
     - Carsen Fisher
-- [ ] Send Email
+- [ ] Send Email ⏫ 📅 2026-07-22
 
 ## Other TODOs
 
 - [x] Get the PYSA girls pre-tryout schedule on calendar
-- [ ] Create sign up sheet for PSH parents
-- [ ] Once schedules are all set, book flight to Yakima
-- [ ] Complete Edustaff signup: https://account.edustaff.org/jobs/WF3oxRJkRc2mHQ-oFvprSg/
-- [ ] Complete 9v9 grassroots class: https://learning.ussoccer.com/coach/classroom/10384/candidate/assignments/5350/interactive
-- [ ] Register for D License classes (already on schedule)
-- [ ] Create theme for the year (stability)
-- [ ] Follow up with [[Joel Dohm]] about...
-    - [ ] MHSAA CAP certification -- move from July East Lansing location to an online option
+- [ ] Create sign up sheet for PSH parents 🔼 📅 2026-07-20
+- [ ] Once schedules are all set, book flight to Yakima ⏫ 📅 2026-06-30
+- [ ] Complete Edustaff signup: https://account.edustaff.org/jobs/WF3oxRJkRc2mHQ-oFvprSg/ ⏫ 📅 2026-06-15
+- [ ] Complete 9v9 grassroots class: https://learning.ussoccer.com/coach/classroom/10384/candidate/assignments/5350/interactive ⏫ 📅 2026-07-15
+- [ ] Register for D License classes (already on schedule) 🔺 📅 2026-06-03
+- [ ] Create theme for the year (stability) 🔼 📅 2026-07-22
+- [ ] Follow up with [[Joel Dohm]] about... 🔼 📅 2026-06-15
+    - [ ] MHSAA CAP certification -- move from July East Lansing location to an online option ⏫ 📅 2026-06-30
     - [ ] Scheduling pickleball courts
     - [ ] Fields for soccer
     - [ ] When practices start, every day at what time?
-- [ ] Figure out bank account -- get card
+- [ ] Figure out bank account -- get card ⏫ 📅 2026-06-15
 
 ## Contacts
 
