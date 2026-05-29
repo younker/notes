@@ -14,6 +14,10 @@ Active career area: resumes, job search threads, and historical career notes.
 - [[Jason-Younker-Coaching-Resume]] - Current coaching resume (text-form)
 - [[Jason-Younker-Coaching-Resume-v1]] - Earlier draft of the coaching resume
 
+## Coaching course materials
+
+- [[Coach Self-Reflection]] (in 1-Projects/PHS Soccer Fall 26/) - Self-reflection / introduction answers for MHSAA CAP coaching course
+
 ## Historical correspondence
 
 - [[Emails — job-search]] (in 4-Archive/Career/) - 2024-2025 job search threads, concluded Mar 2025 with Bera + Harris offers
