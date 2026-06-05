@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4ba585dd0ab88fa5",
+        "id": "4c10e27221274492",
         "type": "tabs",
         "children": [
           {
-            "id": "9324da65f9c91101",
+            "id": "3e13c02d881a3af5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-Areas/SeniorAIQ/drafts/yakima-county-assisted-living-facility-rankings-by-quality-score.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "yakima-county-assisted-living-facility-rankings-by-quality-score"
+            }
+          },
+          {
+            "id": "f70198590cc729bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-Areas/SHIP — Senior Housing/Emails — justin-projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emails — justin-projects"
             }
           }
         ]
@@ -90,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Areas/SeniorAIQ/drafts/yakima-county-assisted-living-facility-rankings-by-quality-score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for yakima-county-assisted-living-facility-rankings-by-quality-score"
             }
           },
           {
@@ -179,8 +198,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "9324da65f9c91101",
+  "active": "3e13c02d881a3af5",
   "lastOpenFiles": [
+    "2-Areas/SHIP — Senior Housing/Emails — justin-projects.md",
+    "2-Areas/SeniorAIQ/drafts/yakima-county-assisted-living-facility-rankings-by-quality-score.md",
+    "1-Projects/PHS Soccer Fall 26/20260519-sign-up.md.tmp.4892.ffd681e3b541",
+    "2-Areas/Contacts/Lois Walter.md",
     "2-Areas/SHIP — Senior Housing/sl-uncollected-2026-06-05.md",
     "2-Areas/Project Ideas/identity-theft-recovery-navigator.md",
     "2-Areas/Project Ideas/Project Ideas MOC.md",
@@ -201,8 +224,6 @@
     "2-Areas/SHIP — Senior Housing/TODO.md",
     "2026-05-28.md",
     "2-Areas/SeniorAIQ/SeniorAIQ.md",
-    "skills-lock.json",
-    "2-Areas/SeniorAIQ/drafts/yakima-county-assisted-living-facility-rankings-by-quality-score.md",
     "2-Areas/SeniorAIQ/drafts/understanding-senior-housing-options.md",
     "2-Areas/SeniorAIQ/drafts/facility-metrics-summary.md",
     "2-Areas/SeniorAIQ/TODO/DONE/wa-fetch-dshs.md",
@@ -215,8 +236,6 @@
     "2-Areas/SeniorAIQ/TODO/DONE/facility-name-cleanup.md",
     "2-Areas/SeniorAIQ/TODO/DONE/facility-metrics-summary.md",
     "2-Areas/SeniorAIQ/TODO/DONE/duplicate-facilities.md",
-    "2-Areas/SeniorAIQ/TODO/DONE/consolidate-owner-page.md",
-    "2-Areas/SeniorAIQ/TODO/DONE/blog-api-refactor.md",
     "Untitled.canvas"
   ]
 }
