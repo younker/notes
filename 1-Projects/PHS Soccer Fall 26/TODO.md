@@ -17,8 +17,8 @@ tags: [soccer/phs, todo]
 - [x] Get TODO list from [[Jenni Attie]]
 - [ ] go over the [PHS Parent Volunteer List](https://docs.google.com/document/d/1vCNzNhkewF-22NghJKvI3g0LhHht_6Q7KpYfUsySLdY/edit?tab=t.0) and assess TODO items 🔼 📅 2026-07-10
 
-- [ ] Get example HS schedule from Jeff 🔼 📅 2026-06-30
-- [ ] Get ParentSquare setup 🔼 📅 2026-06-30
+- [x] Get example HS schedule from Jeff 🔼 📅 2026-06-30 ✅ 2026-06-05
+- [x] Get ParentSquare setup 🔼 📅 2026-06-30 ✅ 2026-06-05
 - [ ] Add the following players 🔼 📅 2026-07-15
     - Roland Werth
     - Gavin Jeffers
@@ -32,12 +32,12 @@ tags: [soccer/phs, todo]
 
 - [x] Get the PYSA girls pre-tryout schedule on calendar
 - [ ] Create sign up sheet for PSH parents 🔼 📅 2026-07-20
-- [ ] Once schedules are all set, book flight to Yakima ⏫ 📅 2026-06-30
-- [ ] Complete Edustaff signup: https://account.edustaff.org/jobs/WF3oxRJkRc2mHQ-oFvprSg/ ⏫ 📅 2026-06-15
+- [x] Once schedules are all set, book flight to Yakima ⏫ 📅 2026-06-30 ✅ 2026-06-05
+- [x] Complete Edustaff signup: https://account.edustaff.org/jobs/WF3oxRJkRc2mHQ-oFvprSg/ ⏫ 📅 2026-06-15 ✅ 2026-06-05
 - [ ] Complete 9v9 grassroots class: https://learning.ussoccer.com/coach/classroom/10384/candidate/assignments/5350/interactive ⏫ 📅 2026-07-15
-- [ ] Register for D License classes (already on schedule) 🔺 📅 2026-06-03
+- [x] Register for D License classes (already on schedule) 🔺 📅 2026-06-03 ✅ 2026-06-05
 - [ ] Create theme for the year (stability) 🔼 📅 2026-07-22
-- [ ] Follow up with [[Joel Dohm]] about... 🔼 📅 2026-06-15
+- [x] Follow up with [[Joel Dohm]] about... 🔼 📅 2026-06-15 ✅ 2026-06-05
     - [ ] MHSAA CAP certification -- move from July East Lansing location to an online option ⏫ 📅 2026-06-30
     - [ ] Scheduling pickleball courts
     - [ ] Fields for soccer
