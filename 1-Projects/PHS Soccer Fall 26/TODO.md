@@ -26,31 +26,32 @@ tags: [soccer/phs, todo]
     - Sean Sullivan
     - Brittan (need last name)
     - Carsen Fisher
-- [ ] Send Email ⏫ 📅 2026-07-22
+- [x] Send Email ⏫ 📅 2026-07-22
 
 ## Other TODOs
 
 - [x] Get the PYSA girls pre-tryout schedule on calendar
-- [ ] Create sign up sheet for PSH parents 🔼 📅 2026-07-20
+- [x] Create sign up sheet for PSH parents 🔼 📅 2026-07-20
 - [x] Once schedules are all set, book flight to Yakima ⏫ 📅 2026-06-30 ✅ 2026-06-05
 - [x] Complete Edustaff signup: https://account.edustaff.org/jobs/WF3oxRJkRc2mHQ-oFvprSg/ ⏫ 📅 2026-06-15 ✅ 2026-06-05
-- [ ] Complete 9v9 grassroots class: https://learning.ussoccer.com/coach/classroom/10384/candidate/assignments/5350/interactive ⏫ 📅 2026-07-15
+- [x] Complete 9v9 grassroots class: https://learning.ussoccer.com/coach/classroom/10384/candidate/assignments/5350/interactive ⏫ 📅 2026-07-15
 - [x] Register for D License classes (already on schedule) 🔺 📅 2026-06-03 ✅ 2026-06-05
-- [ ] Create theme for the year (stability) 🔼 📅 2026-07-22
+- [x] Create theme for the year (stability) 🔼 📅 2026-07-22
+    * dopleganger
 - [x] Follow up with [[Joel Dohm]] about... 🔼 📅 2026-06-15 ✅ 2026-06-05
     - [ ] MHSAA CAP certification -- move from July East Lansing location to an online option ⏫ 📅 2026-06-30
     - [ ] Scheduling pickleball courts
-    - [ ] Fields for soccer
-    - [ ] When practices start, every day at what time?
-- [ ] Figure out bank account -- get card ⏫ 📅 2026-06-15
+    - [x] Fields for soccer
+    - [x] When practices start, every day at what time?
+- [x] Figure out bank account -- get card ⏫ 📅 2026-06-15
 
 ## Contacts
 
-- [ ] Contact & schedule time with Noah to go over jerseys/warmups
-- [ ] Schedule time with [[John Lennon]] to talk about sharing gear (with girls' JV team)
-- [ ] Communicate dates with [[Joel Dohm]]. See if we can get the field.
-- [ ] Talk with [[Matt Hill]] about soccer schedule
-- [ ] Contact [[Chris Dettmer]]: 231-838-4003
+- [x] Contact & schedule time with Noah to go over jerseys/warmups
+- [x] Schedule time with [[John Lennon]] to talk about sharing gear (with girls' JV team)
+- [x] Communicate dates with [[Joel Dohm]]. See if we can get the field.
+- [x] Talk with [[Matt Hill]] about soccer schedule
+- [x] Contact [[Chris Dettmer]]: 231-838-4003
 
 ## Related
 

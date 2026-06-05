@@ -11,10 +11,14 @@
             "id": "3e13c02d881a3af5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2-Areas/SeniorAIQ/TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Areas/SeniorAIQ/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -181,6 +186,12 @@
   },
   "active": "3e13c02d881a3af5",
   "lastOpenFiles": [
+    "2-Areas/Soccer/Concussion Certification.pdf",
+    "2-Areas/SeniorAIQ/washington-state-request-for-public-records.pdf",
+    "2-Areas/Career/Edustaff.md",
+    "2-Areas/SeniorAIQ/Threads/2026-06-05 DSHS PD Request - Clarification Letter.md",
+    "4-Archive/Sent Mail/Threads/2022-08-18 Heather’s birthday.md",
+    "2-Areas/Contacts/Bethany Hickner.md",
     "2-Areas/SeniorAIQ/blog/facility-metrics-summary.rtf",
     "2-Areas/SeniorAIQ/ship/README.md",
     "2-Areas/SeniorAIQ/ship/load-issue.md",
@@ -203,10 +214,6 @@
     "2-Areas/SeniorAIQ/Threads/2026-02-28 Your receipt from Anthropic, PBC 2798-6332-9157.md",
     "2-Areas/SeniorAIQ/Threads/2026-02-13 Blog.md",
     "2-Areas/SeniorAIQ/Threads/2026-01-29 Website.md",
-    "2-Areas/SeniorAIQ/Threads/2026-01-28 Justin Younker sent you a gift- Claude Max 5x.md",
-    "2-Areas/SeniorAIQ/Threads/2025-12-30 Summary- Senior Housing Facility Selection - LLM vs Traditional Data Service.md",
-    "2-Areas/SeniorAIQ/Threads/2025-12-05 Generative Search Stuff & AI Agent.md",
-    "2-Areas/SeniorAIQ/Threads/2025-11-25 AI Agent - Senior Housing Managers and Owners.md",
     "2-Areas/SeniorAIQ/Threads",
     "2-Areas/SeniorAIQ/ship-ui",
     "2-Areas/SeniorAIQ/ship",
@@ -215,8 +222,6 @@
     "2-Areas/Senior Living Portfolio/TODO.md.tmp.93887.a4d7c4228bd9",
     "1-Projects/PHS Soccer Fall 26/20260519-sign-up.md.tmp.4892.ffd681e3b541",
     "2-Areas/Project Ideas",
-    "2-Areas/Senior Living Portfolio",
-    "0-Inbox/developer-brief-senior-living-portfolio copy.docx",
     "Untitled.canvas"
   ]
 }
