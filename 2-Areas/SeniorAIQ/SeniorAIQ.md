@@ -12,6 +12,7 @@ Two source repos at `~/projects/ship/` (Go backend) and `~/projects/ship-ui/` (S
 
 ## Overview & reference
 
+- [[Game Plan 2026]] -- ownership structure, Phase 1 launch (2026-09-01), products/pricing, execution, Phase 2 ideas (from Justin Younker)
 - [[AIQ-scoring-summary]] -- platform overview, scoring categories and weights, data sources, current coverage
 - [[INFRA]] -- AWS infrastructure: architecture diagram, service inventory, monthly cost estimates
 - [[README]] -- local dev setup, environment variables, dev.sh commands
