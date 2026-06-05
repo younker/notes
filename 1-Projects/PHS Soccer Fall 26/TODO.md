@@ -6,27 +6,6 @@ season: Fall 2026
 tags: [soccer/phs, todo]
 ---
 
-# Parent Email
-
-- [ ] Contact Carey Strong re:Parent Square setup 🔼 📅 2026-06-15
-- [x] Reply to [[Joel Dohm]] about Boyne Mountain Invitational
-- [x] Summer practice dates
-    - June 1 @ midnight
-    - June 3 5:30-7:00
-    - June 7 5:30-7:00
-    - June 14-28
-        - Sunday 5:30-7:00
-        - Tuesday 5:30-7:00
-    - Dead Zone: Jun 28 - July 5
-    - July 7-28
-        - Sunday 5:30-7
-        - Tuesday 5:30-7
-
-    15 practices, 3 conditioning sessions
-
-    Pre-Season: Aug. 1 - 10
-    Season Practices: 
-
 - [ ] Summer Camp
     - [x] Zach Jonker -- info regarding Hope college 
     - [ ] Western Michigan Camp? Find contact
