@@ -16,20 +16,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "f70198590cc729bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Areas/SHIP — Senior Housing/Emails — justin-projects.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Emails — justin-projects"
-            }
           }
         ]
       }
@@ -195,6 +181,13 @@
   },
   "active": "3e13c02d881a3af5",
   "lastOpenFiles": [
+    "2-Areas/SeniorAIQ/blog/facility-metrics-summary.rtf",
+    "2-Areas/SeniorAIQ/ship/README.md",
+    "2-Areas/SeniorAIQ/ship/load-issue.md",
+    "2-Areas/SeniorAIQ/ship/INFRA.md",
+    "2-Areas/SeniorAIQ/ship/sl-uncollected-2026-06-05.md",
+    "2-Areas/SeniorAIQ/ship/howto-collect-data.md",
+    "2-Areas/SeniorAIQ/Emails — justin-projects.md",
     "2-Areas/SeniorAIQ/TODO.md",
     "2-Areas/SeniorAIQ/Threads/2026-05-12 Senior AIQ Stuff.md",
     "2-Areas/SeniorAIQ/Threads/2026-05-07 Google- We've received your payment for 0584-9651-3226.md",
@@ -214,13 +207,6 @@
     "2-Areas/SeniorAIQ/Threads/2025-12-30 Summary- Senior Housing Facility Selection - LLM vs Traditional Data Service.md",
     "2-Areas/SeniorAIQ/Threads/2025-12-05 Generative Search Stuff & AI Agent.md",
     "2-Areas/SeniorAIQ/Threads/2025-11-25 AI Agent - Senior Housing Managers and Owners.md",
-    "2-Areas/SeniorAIQ/Threads/2025-11-13 A Place for Mom Pivots to AI Amid Big Shifts in Senior Living Digital Marketing Trends.md",
-    "2-Areas/SeniorAIQ/Threads/2025-11-11 Blue Zone Travel Agent.md",
-    "2-Areas/SeniorAIQ/Threads/2025-10-08 Expat Senior Living Websites.md",
-    "2-Areas/SeniorAIQ/Threads/2022-02-22 [SECURE] DSHS PD Request 202111-PRR-307 - Fee Letter.md",
-    "2-Areas/SeniorAIQ/drafts/yakima-county-assisted-living-facility-rankings-by-quality-score.md",
-    "2-Areas/SeniorAIQ/blog/blog-content-strategy.md",
-    "2-Areas/SeniorAIQ/blog/facility-metrics-summary.md",
     "2-Areas/SeniorAIQ/Threads",
     "2-Areas/SeniorAIQ/ship-ui",
     "2-Areas/SeniorAIQ/ship",
