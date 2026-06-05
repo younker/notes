@@ -11,14 +11,10 @@
             "id": "3e13c02d881a3af5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Areas/SeniorAIQ/drafts/yakima-county-assisted-living-facility-rankings-by-quality-score.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "yakima-county-assisted-living-facility-rankings-by-quality-score"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -108,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/SeniorAIQ/drafts/yakima-county-assisted-living-facility-rankings-by-quality-score.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for yakima-county-assisted-living-facility-rankings-by-quality-score"
+              "title": "Backlinks"
             }
           },
           {
@@ -200,42 +195,42 @@
   },
   "active": "3e13c02d881a3af5",
   "lastOpenFiles": [
-    "2-Areas/SeniorAIQ/SeniorAIQ.md.tmp.12729.0db8334975af",
-    "2-Areas/SeniorAIQ/Game Plan 2026.md",
-    "2-Areas/Senior Living Portfolio/TODO.md.tmp.93887.a4d7c4228bd9",
-    "2026-06-05.md",
-    "2-Areas/SHIP — Senior Housing/Emails — justin-projects.md",
+    "2-Areas/SeniorAIQ/TODO.md",
+    "2-Areas/SeniorAIQ/Threads/2026-05-12 Senior AIQ Stuff.md",
+    "2-Areas/SeniorAIQ/Threads/2026-05-07 Google- We've received your payment for 0584-9651-3226.md",
+    "2-Areas/SeniorAIQ/Threads/2026-05-01 AWS Budgets- Account 042143600000 has a budget exceeding your alert threshold.md",
+    "2-Areas/SeniorAIQ/Threads/2026-04-28 Your receipt from Anthropic, PBC 2896-3883-7235.md",
+    "2-Areas/SeniorAIQ/Threads/2026-04-23 Top 100 List of Operators.md",
+    "2-Areas/SeniorAIQ/Threads/2026-04-08 New Form Entry 254 for HomePageLead.md",
+    "2-Areas/SeniorAIQ/Threads/2026-03-28 Your receipt from Anthropic, PBC 2927-3558-3005.md",
+    "2-Areas/SeniorAIQ/Threads/2026-03-24 Waiting list confirmation.md",
+    "2-Areas/SeniorAIQ/Threads/2026-03-24 SeniorAdvisor API account confirmation.md",
+    "2-Areas/SeniorAIQ/Threads/2026-03-24 Delivery Status Notification (Failure).md",
+    "2-Areas/SeniorAIQ/Threads/2026-03-24 Application key has been created.md",
+    "2-Areas/SeniorAIQ/Threads/2026-02-28 Your receipt from Anthropic, PBC 2798-6332-9157.md",
+    "2-Areas/SeniorAIQ/Threads/2026-02-13 Blog.md",
+    "2-Areas/SeniorAIQ/Threads/2026-01-29 Website.md",
+    "2-Areas/SeniorAIQ/Threads/2026-01-28 Justin Younker sent you a gift- Claude Max 5x.md",
+    "2-Areas/SeniorAIQ/Threads/2025-12-30 Summary- Senior Housing Facility Selection - LLM vs Traditional Data Service.md",
+    "2-Areas/SeniorAIQ/Threads/2025-12-05 Generative Search Stuff & AI Agent.md",
+    "2-Areas/SeniorAIQ/Threads/2025-11-25 AI Agent - Senior Housing Managers and Owners.md",
+    "2-Areas/SeniorAIQ/Threads/2025-11-13 A Place for Mom Pivots to AI Amid Big Shifts in Senior Living Digital Marketing Trends.md",
+    "2-Areas/SeniorAIQ/Threads/2025-11-11 Blue Zone Travel Agent.md",
+    "2-Areas/SeniorAIQ/Threads/2025-10-08 Expat Senior Living Websites.md",
+    "2-Areas/SeniorAIQ/Threads/2022-02-22 [SECURE] DSHS PD Request 202111-PRR-307 - Fee Letter.md",
     "2-Areas/SeniorAIQ/drafts/yakima-county-assisted-living-facility-rankings-by-quality-score.md",
+    "2-Areas/SeniorAIQ/blog/blog-content-strategy.md",
+    "2-Areas/SeniorAIQ/blog/facility-metrics-summary.md",
+    "2-Areas/SeniorAIQ/Threads",
+    "2-Areas/SeniorAIQ/ship-ui",
+    "2-Areas/SeniorAIQ/ship",
+    "2-Areas/SeniorAIQ/blog",
+    "2-Areas/SeniorAIQ/SeniorAIQ.md.tmp.12729.0db8334975af",
+    "2-Areas/Senior Living Portfolio/TODO.md.tmp.93887.a4d7c4228bd9",
     "1-Projects/PHS Soccer Fall 26/20260519-sign-up.md.tmp.4892.ffd681e3b541",
-    "2-Areas/Contacts/Lois Walter.md",
-    "2-Areas/SHIP — Senior Housing/sl-uncollected-2026-06-05.md",
-    "2-Areas/Project Ideas/identity-theft-recovery-navigator.md",
-    "2-Areas/Project Ideas/Project Ideas MOC.md",
     "2-Areas/Project Ideas",
-    "2-Areas/Soccer/PHS.md",
-    "0-Inbox/Tasks.md",
     "2-Areas/Senior Living Portfolio",
     "0-Inbox/developer-brief-senior-living-portfolio copy.docx",
-    "2-Areas/Career/Career MOC.md.tmp.99268.f40457b42f56",
-    "1-Projects/USA Soccer D Course/Coaching Certifications.md",
-    "1-Projects/USA Soccer D Course/Coach Self-Reflection.md",
-    "1-Projects/USA Soccer D Course/Coach Self-Reflection.docx",
-    "1-Projects/USA Soccer D Course",
-    "1-Projects/PHS Soccer Fall 26/Coach Self-Reflection.docx",
-    "1-Projects/PHS Soccer Fall 26/self-reflection.txt",
-    "1-Projects/PHS Soccer Fall 26/Coach Self-Reflection.md",
-    "2-Areas/SHIP — Senior Housing/TODO.md",
-    "2026-05-28.md",
-    "2-Areas/SeniorAIQ/SeniorAIQ.md",
-    "2-Areas/SeniorAIQ/drafts/understanding-senior-housing-options.md",
-    "2-Areas/SeniorAIQ/drafts/facility-metrics-summary.md",
-    "2-Areas/SeniorAIQ/TODO/DONE/wa-fetch-dshs.md",
-    "2-Areas/SeniorAIQ/TODO/DONE/wa-api-backend-endpoints.md",
-    "2-Areas/SeniorAIQ/TODO/DONE/search-filters.md",
-    "2-Areas/SeniorAIQ/TODO/DONE/review-data-sources.md",
-    "2-Areas/SeniorAIQ/TODO/DONE/regulatory-scoring-refinement.md",
-    "2-Areas/SeniorAIQ/TODO/DONE/operator-to-owner-rename.md",
-    "2-Areas/SeniorAIQ/TODO/DONE/operator-resolution-coverage-gaps.md",
     "Untitled.canvas"
   ]
 }
