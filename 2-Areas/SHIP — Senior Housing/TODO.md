@@ -51,3 +51,5 @@ not done
 (tag includes #ship/todo) OR (tag includes #ship/bug)
 sort by priority
 ```
+
+- [ ] Add real estate transaction date (county assessor data) to track ownership changes — from [[Game Plan 2026]] #ship/todo
