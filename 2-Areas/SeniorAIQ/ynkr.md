@@ -5,21 +5,6 @@
 - [x] facility slug: /state/city/facility_type/facility_name
 - [x] filter review on facility detail pg to only include those with a body. for example, for facility id 8d837326-5637-4033-916c-b8fb582cbff1 in production, we show 4 reviews, one of them, from Amy Ross on February 26, 2022, has no review text, just a review rating (stars). When a facility has more than 4 reviews, show the latest reviews with both a rating and a review body. If they have 4 or fewer reviews, show them but if the review body is empty, put a placeholder that say "No review provided, only rating"
 
-- [ ] find out why the review summary is not showing
-- [ ] create sitemap (seo)
-- [ ] buy facility data -> hookup with payment methods (paypal, google pay, apple pay, etc)
-    * most important consideration
-    * if most recent inspection, bump score
-- [ ] rm facility type (eg boarding home)... we want name, what and where
-    * can we get better language there
-    * add address
-- [ ] operator: highlight somehow above fold
-
-- [ ] regional vs out-of-state
-    * in same region OR
-    * adjascent state OR
-    * within 200 miles
-
 ### Facility Reviews
 
 
