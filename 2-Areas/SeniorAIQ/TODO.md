@@ -53,3 +53,4 @@ sort by priority
 ```
 
 - [ ] Add real estate transaction date (county assessor data) to track ownership changes — from [[Game Plan 2026]] #ship/todo
+- [ ] Implement milestone v3.14.1 Agentic Chat Platform — admin-only Go in-process supervisor (FacilityAdvisor + BlogDrafter, SSE streaming, Bedrock streaming client); plan at .planning/milestones/v3.14.1-{REQUIREMENTS,ROADMAP}.md; resolve blog-rules embedding before Phase 119 #ship/todo
