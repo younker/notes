@@ -21,7 +21,7 @@ Source list was incomplete — only 15 families. See [[20260519-sign-up]] for th
 | Corey, Lucas | 10 → 11 | school: 903116@northmen.org · personal: lucascorey-2010@icloud.com | Tara Corey, Cheyne Corey | (not provided) |
 | Corey, Marshall | 11 → 12 | (no email on file) | Marshall (Clay) Corey, Amy Corey | (not provided) |
 | Cotant-Harrington, Miles | 10 → 11 | school: 902727@northmen.org · personal: cotantmiles@gmail.com | Molly Cotant, Jim Harrington | (not provided) |
-| Giffin, Weston | 10 → 11 | school: 905215@northmen.org · personal: westongiffin12@gmail.com | Sarah Giffin, Jacob Giffin | (not provided) |
+| Giffin, Weston | 10 → 11 | school: 905215@northmen.org · personal: westongiffin12@gmail.com | Sarah Giffin (mom), Jake Giffin (dad) | mom: sgiffin6@gmail.com / (231) 373-4824 · dad: giff17@gmail.com / (231) 268-8519 |
 | Keiswetter, Christopher | 10 → 11 | school: 905561@northmen.org · personal: cpkeiswetter@gmail.com | Erika Keiswetter, Jason Keiswetter | (not provided) |
 | McLintock, Mason | 11 → 12 | school: 905393@northmen.org · personal: mmclintock@gmail.com | Roxanne McLintock, John McLintock | (not provided) |
 | Melvin, Tyce | 10 → 11 | school: 903711@northmen.org · personal: tycemelvin36@yahoo.com | Sheila Hartson, Idiaman Melvin | (not provided) |
