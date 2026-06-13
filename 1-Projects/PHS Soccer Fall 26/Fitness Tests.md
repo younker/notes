@@ -6,9 +6,9 @@ season: Fall 2026
 tags: [soccer/phs, fitness, roster]
 ---
 
-# PHS Boys Soccer — Fitness Tests (Fall 2026)
+# PHS Boys Soccer — Fitness Tests
 
-Coach: Jason Younker · Season: Fall 2026
+June 13, 2026
 
 | First | Last | Grade | 120 Test | Cooper Test | Interval Test |
 |---|---|---|---|---|---|
