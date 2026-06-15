@@ -37,6 +37,7 @@ Local youth soccer club. I head coach the [[Lakers 2012]] boys team.
 
 - Stephen (son) plays on the Lakers 2012 team.
 - Premier-level team. Tournaments include MSPSP matches, Kalamazoo Kingdom Cup.
+- Emily (daughter) trying out for the PYSA girls 9-10 grade team — coach David "DJ" Jones. Likely Classic division. Practice-player rate ~$400. Volleyball wins on schedule conflicts. See [[20260615 DJ Call - Emily PYSA Tryout]].
 
 ## Related
 
