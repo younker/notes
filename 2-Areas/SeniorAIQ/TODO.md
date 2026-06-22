@@ -8,7 +8,7 @@ Hub for SHIP TODOs and bugs. Detail docs live in `2-Areas/SeniorAIQ/TODO/` (lega
 - [ ] Buy facility data — wire payment methods (PayPal, Google Pay, Apple Pay) #ship/todo
 - [ ] Remove facility type label (e.g. "boarding home"); show name / what / where with address #ship/todo
 - [ ] Highlight operator above the fold on facility pages #ship/todo
-- [ ] Regional vs out-of-state filter (same region / adjacent state / within 200 mi) #ship/todo
+- [ ] Regional vs out-of-state filter (same region / adjacent state / within 200 mi) — see [[operator-proximity-classification]] #ship/todo
 - [ ] Research messy facility data + propose new ingest/storage (445 canonical_facility_ids have >1 active wa.facilities row — DSHS ingest not archiving prior rows on license renewal; dedup query masks the symptom at read time) #ship/todo
 - [ ] Audit remaining King data gaps (post-AFH/SL): 20 BH missing inspections, 28 OP missing reviews, 310 missing property owner, 621 missing operator entity, 768 missing licensee entity — classify each cluster as bug vs uncollected and either fix or schedule a collect run #ship/todo
 - [ ] Run collection for [[sl-uncollected-2026-06-05|65 uncollected SL facilities]] (King County) — backlog, not a bug; will be covered by next `--before` run #ship/todo
