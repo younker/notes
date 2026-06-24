@@ -22,13 +22,13 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 ## Summary
 
 - 43 players total across all sources
-- 15 on Varsity / Soccer Group parent comms
-- 16 on JV
-- 12 with team status to be determined
+- 16 on Varsity / Soccer Group parent comms (+ coach-confirmed)
+- 18 on JV (+ coach-confirmed)
+- 9 with team status to be determined
 
 ---
 
-## Varsity (Soccer Group Parents, 15)
+## Varsity (Soccer Group Parents + coach-confirmed, 16)
 
 ### Alshab, Joshua ("Josh") — Grade 11
 - **Phone:** 231-340-5554
@@ -83,6 +83,16 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Dad:** Marshall "Clay" Corey *(dad shares son's first name)*
 - **Sources:** SG only
 - **Notes:** Not on May 19 sign-up or AD office list — added when parent group list arrived.
+
+### Corey, Noah — Grade 12
+- **Phone:** 231-420-7596
+- **School email:** 903117@northmen.org
+- **Personal email:** noah-corey@icloud.com
+- **Position:** right back
+- **Mom:** Tara Corey *(inferred — same family as brother Lucas)*
+- **Dad:** Cheyne Corey *(inferred — same family as brother Lucas)*
+- **Sources:** S, AD
+- **Notes:** Coach-confirmed for Varsity 2026-06-24. Brother of Lucas Corey (Varsity).
 
 ### Cotant-Harrington, Miles — Grade 11
 - **Phone:** 989-217-0376
@@ -170,7 +180,7 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 
 ---
 
-## JV (JV Family Roster, 16)
+## JV (JV Family Roster + coach-confirmed, 18)
 
 ### Bolin, David — Grade 9 (currently PMS 8th)
 - **Phone:** 231-550-2020
@@ -219,6 +229,17 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Dad:** Jake Giffin (= Jacob) · giff17@gmail.com · (231) 268-8519
 - **Sources:** S, F, JL, D (parent contacts)
 - **Notes:** Brother of Weston Giffin (Varsity).
+
+### Jeffers, Gavin — Grade 9 (incoming)
+- **Phone:** 231-622-2123
+- **School email:** jeffers.gc.s@petoskeysfxschool.org *(currently at SFX; PHS email pending Fall 26 enrollment)*
+- **Personal email:** (unknown)
+- **Position:** LCB / FB (defender)
+- **Address:** 2327 Bellmer Rd, Petoskey
+- **Mom:** Kristin Jeffers · kristinjeffers@hotmail.com · (231) 330-5721
+- **Dad:** Brad Jeffers · gonzojeffers@hotmail.com · (989) 619-9656
+- **Sources:** F, D (parent contacts)
+- **Notes:** Coach-confirmed for JV 2026-06-24. Transferring from SFX.
 
 ### Kasiborski, Connor — Grade 9 (currently PMS 8th)
 - **Phone:** 231-330-4126
@@ -297,10 +318,22 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Dad:** Chad Strong · strongswoodworking@yahoo.com · (989) 350-9113
 - **Sources:** S, F, JL, D (parent contacts)
 
+### Sullivan, Sean — Grade 9 (incoming)
+- **Phone:** 231-373-4136
+- **School email:** sullivan.sp.s@petoskeysfxschool.org *(currently at SFX; PHS email pending Fall 26 enrollment)*
+- **Personal email:** (unknown)
+- **Position:** wingback
+- **Address:** 7153 Geary Rd, Harbor Springs
+- **Mom:** Mary Sullivan · i3mrun@aol.com · (630) 550-7176
+- **Dad:** Joseph Sullivan · maryandjoe.sullivan@gmail.com · (231) 373-0791
+- **Sources:** F, D (parent contacts)
+- **Notes:** Coach-confirmed for JV 2026-06-24. Transferring from SFX.
+
 ### Werth, Roland — Grade 9 (currently PMS 8th)
 - **Phone:** 231-622-1114
 - **School email:** 903954@northmen.org
 - **Personal email:** (unknown)
+- **Position:** CAM ("the 10") / striker
 - **Address:** 512 Liberty St, Petoskey
 - **Mom:** Melanie Werth · melanieawerth@gmail.com · (231) 838-0485
 - **Dad:** Tory Werth · meltor@charter.net · (231) 838-0486
@@ -328,7 +361,7 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 
 ---
 
-## Status TBD (12) — needs head-coach confirmation
+## Status TBD (9) — needs head-coach confirmation
 
 ### Barney, AlecZander — Grade 9 (incoming, currently 8th)
 - **Phone:** (unknown — only mom's phone known)
@@ -339,16 +372,6 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Dad:** (unknown)
 - **Sources:** F
 - **Notes:** Only contact channel is mom's email/phone.
-
-### Corey, Noah — Grade 12
-- **Phone:** 231-420-7596
-- **School email:** 903117@northmen.org
-- **Personal email:** noah-corey@icloud.com
-- **Position:** right back
-- **Mom:** Tara Corey *(inferred — same family as brother Lucas)*
-- **Dad:** Cheyne Corey *(inferred — same family as brother Lucas)*
-- **Sources:** S, AD
-- **Notes:** Not on Soccer Group parent list, but by age (12th) and brother in Varsity, almost certainly Varsity.
 
 ### Duch, Conner — Grade unknown
 - **Phone:** (unknown)
@@ -386,16 +409,6 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Sources:** S (as Grzac), F (as Greene)
 - **Notes:** Surname was originally recorded "Grzac" — corrected to "Greene".
 
-### Jeffers, Gavin — Grade 9 (incoming)
-- **Phone:** 231-622-2123
-- **School email:** jeffers.gc.s@petoskeysfxschool.org *(currently at St. Francis Xavier, not PHS)*
-- **Personal email:** (unknown)
-- **Address:** 2327 Bellmer Rd, Petoskey
-- **Mom:** Kristin Jeffers · kristinjeffers@hotmail.com · (231) 330-5721
-- **Dad:** Brad Jeffers · gonzojeffers@hotmail.com · (989) 619-9656
-- **Sources:** F, D (parent contacts)
-- **Notes:** PHS enrollment for Fall 26 to be confirmed before counting on his participation.
-
 ### Koetje, Rowan — Grade unknown
 - **Phone:** (unknown)
 - **School email:** 903514@northmen.org
@@ -414,16 +427,6 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Personal email:** (unknown)
 - **Sources:** AD only
 - **Notes:** Only on AD office returning-member list; coach (Jason) does not independently recognize.
-
-### Sullivan, Sean — Grade 9 (incoming)
-- **Phone:** 231-373-4136
-- **School email:** sullivan.sp.s@petoskeysfxschool.org *(currently at SFX, not PHS)*
-- **Personal email:** (unknown)
-- **Address:** 7153 Geary Rd, Harbor Springs
-- **Mom:** Mary Sullivan · i3mrun@aol.com · (630) 550-7176
-- **Dad:** Joseph Sullivan · maryandjoe.sullivan@gmail.com · (231) 373-0791
-- **Sources:** F, D (parent contacts)
-- **Notes:** PHS enrollment for Fall 26 to be confirmed.
 
 ### Tripi, Nico — Grade 9
 - **Phone:** 586-248-3434 *(S had `?` next to phone — unclear)*
