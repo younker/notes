@@ -36,17 +36,42 @@
     padding-bottom: 2px;
     border-bottom: 1px solid #000;
   }
+  .followups {
+    background: #eef7ee;
+    border: 1px solid #2a6a2a;
+    padding: 8px 12px;
+    margin: 8px 0 12px;
+    font-size: 9pt;
+  }
+  .followups h3 {
+    margin: 0 0 4px;
+    font-size: 10pt;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #2a6a2a;
+  }
+  .followups ul { margin: 0; padding-left: 18px; }
+  .followups li { margin-bottom: 3px; }
+  .followups .box {
+    display: inline-block;
+    width: 10pt; height: 10pt;
+    border: 1px solid #000;
+    margin-right: 4px;
+    vertical-align: middle;
+  }
   table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 4px;
+    table-layout: fixed;
   }
   th, td {
     border: 1px solid #555;
-    padding: 6px 5px;
+    padding: 5px 5px;
     text-align: left;
     vertical-align: top;
     font-size: 9pt;
+    overflow-wrap: break-word;
   }
   th {
     background: #eee;
@@ -55,12 +80,21 @@
     text-transform: uppercase;
     letter-spacing: 0.03em;
   }
-  td.biz { width: 30%; font-weight: 600; }
-  td.role { width: 20%; }
-  td.phone { width: 14%; font-family: "SF Mono", Menlo, monospace; }
-  td.status { width: 8%; text-align: center; }
-  td.notes { width: 28%; }
-  .check { display: inline-block; width: 12pt; height: 12pt; border: 1px solid #000; margin-right: 4px; vertical-align: middle; }
+  td.biz { width: 22%; font-weight: 600; }
+  td.role { width: 16%; }
+  td.phone { width: 12%; font-family: "SF Mono", Menlo, monospace; font-size: 8.5pt; }
+  td.status { width: 14%; text-align: center; font-size: 8.5pt; }
+  td.notes { width: 36%; font-size: 8.5pt; }
+  .declined {
+    background: #f4f4f4;
+    color: #555;
+  }
+  .declined td.biz { text-decoration: line-through; }
+  .followup-row { background: #fffbea; }
+  .pending { background: #fdecec; font-size: 8.5pt; }
+  .status-declined { color: #a00; font-weight: 600; }
+  .status-followup { color: #6e5300; font-weight: 600; }
+  .status-vm { color: #555; font-style: italic; }
   .flag {
     background: #fff8d6;
     font-size: 8pt;
@@ -96,8 +130,21 @@
   </div>
   <div class="event-meta">
     <div><strong>Sponsorship tiers:</strong> Stanley Cup $2,000 · Playmaker $1,000 · Hat-Trick $500 · General $250</div>
+    <div><strong>Last updated:</strong> 2026-06-24</div>
   </div>
 </header>
+
+<div class="followups">
+  <h3>Active Follow-Ups</h3>
+  <ul>
+    <li><span class="box"></span><strong>Send sponsorship info</strong> &rarr; Kristi Abbey-Jorns (First National Bank of America) — kristi.abbeyjorns@fnba.com</li>
+    <li><span class="box"></span><strong>Send sponsorship info</strong> &rarr; Sawyer Bak (Team Bob's Heating) — sbak@teambobs.com · direct 231-534-2480</li>
+    <li><span class="box"></span><strong>Submit website form</strong> &rarr; Team One Credit Union — teamonecu.org/resources/sponsorships</li>
+    <li><span class="box"></span><strong>Call back Oleson's</strong> after Mon Jun 29 — ask for Mark (store manager)</li>
+    <li><span class="box"></span><strong>Follow up Great Lakes Potato Chip</strong> — VM left 6/24, follow up if no callback by 6/27</li>
+    <li><span class="box"></span><strong>Confirm with Zivkovich</strong> whether his Serra contact covers VW + CDJR (likely yes — pull both from active list if so)</li>
+  </ul>
+</div>
 
 <h2>Largest Donors</h2>
 <table>
@@ -106,21 +153,21 @@
       <th class="biz">Business</th>
       <th class="role">Target Contact</th>
       <th class="phone">Phone</th>
-      <th class="status">Pledged</th>
+      <th class="status">Status</th>
       <th class="notes">Notes</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td class="biz">Serra Chrysler Dodge Jeep Ram TC</td><td class="role">GM or Marketing Dir.</td><td class="phone">231-941-4141</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Williams Honda</td><td class="role">Dealer Principal / Comm. Rel.</td><td class="phone">231-928-5472</td><td class="status"><span class="check"></span></td><td class="notes flag">Coordinate w/ Williams Kia (same dealer group)</td></tr>
-    <tr><td class="biz">Williams Kia</td><td class="role">Dealer Principal</td><td class="phone">231-946-1111</td><td class="status"><span class="check"></span></td><td class="notes flag">Coordinate w/ Williams Honda</td></tr>
-    <tr><td class="biz">BMW of Traverse City</td><td class="role">General Manager</td><td class="phone">231-944-7191</td><td class="status"><span class="check"></span></td><td class="notes flag">Owned by Fox Motors Group (same #)</td></tr>
-    <tr><td class="biz">Munson Medical Center</td><td class="role">Community Rel. Dir.</td><td class="phone">231-935-5000</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">First National Bank of America</td><td class="role">Branch Manager</td><td class="phone">231-995-4220</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">LMCU</td><td class="role">Market President</td><td class="phone">231-929-8462</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Team One Credit Union</td><td class="role">Branch Manager</td><td class="phone">231-346-6490</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Credit Union ONE</td><td class="role">Branch Manager</td><td class="phone">800-451-4292</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Walstrom Marine</td><td class="role">Marketing Director</td><td class="phone">231-943-0300</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
+    <tr class="pending"><td class="biz">Serra Chrysler Dodge Jeep Ram TC</td><td class="role">GM or Marketing Dir.</td><td class="phone">231-941-4141</td><td class="status status-followup">Hold</td><td class="notes">Likely contacted by Zivkovich (Serra umbrella) — confirm before calling</td></tr>
+    <tr class="declined"><td class="biz">Williams Honda</td><td class="role">Paul (covers Honda+Kia)</td><td class="phone">231-928-5472</td><td class="status status-declined">Declined 6/24</td><td class="notes">Paul already sponsored 6 golf tournaments this year. Try <strong>earlier</strong> next summer.</td></tr>
+    <tr class="declined"><td class="biz">Williams Kia</td><td class="role">Paul (covers Honda+Kia)</td><td class="phone">231-946-1111</td><td class="status status-declined">Declined 6/24</td><td class="notes">Same Paul as Williams Honda — single decision; do not re-ask</td></tr>
+    <tr><td class="biz">BMW of Traverse City</td><td class="role">General Manager</td><td class="phone">231-944-7191</td><td class="status"></td><td class="notes flag">Owned by Fox Motors Group (same #) — coordinate</td></tr>
+    <tr class="declined"><td class="biz">Munson Medical Center</td><td class="role">Kim Elmquest</td><td class="phone">231-935-5000</td><td class="status status-declined">Declined 6/24</td><td class="notes">Giving criteria excludes individual sports teams</td></tr>
+    <tr class="followup-row"><td class="biz">First National Bank of America</td><td class="role">Kristi Abbey-Jorns</td><td class="phone">231-995-4220</td><td class="status status-followup">Send info 6/24</td><td class="notes">Email sponsorship sheet to <strong>kristi.abbeyjorns@fnba.com</strong></td></tr>
+    <tr class="pending"><td class="biz">LMCU</td><td class="role">Market President</td><td class="phone">231-929-8462</td><td class="status status-followup">Remove</td><td class="notes">Already contacted by Zivkovich (Lake Michigan Credit Union) — drop from active list</td></tr>
+    <tr class="followup-row"><td class="biz">Team One Credit Union</td><td class="role">Branch Manager</td><td class="phone">231-346-6490</td><td class="status status-followup">Web form 6/24</td><td class="notes">Submit at <strong>teamonecu.org/resources/sponsorships</strong></td></tr>
+    <tr><td class="biz">Credit Union ONE</td><td class="role">Branch Manager</td><td class="phone">800-451-4292</td><td class="status"></td><td class="notes"></td></tr>
+    <tr><td class="biz">Walstrom Marine</td><td class="role">Marketing Director</td><td class="phone">231-943-0300</td><td class="status"></td><td class="notes"></td></tr>
   </tbody>
 </table>
 
@@ -131,21 +178,21 @@
       <th class="biz">Business</th>
       <th class="role">Target Contact</th>
       <th class="phone">Phone</th>
-      <th class="status">Pledged</th>
+      <th class="status">Status</th>
       <th class="notes">Notes</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td class="biz">Oleson's Food Store</td><td class="role">Store Manager</td><td class="phone">231-941-9000</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Burritt's Fresh Markets</td><td class="role">Owner / Store Manager</td><td class="phone">231-946-3300</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Oryana Community Co-op West</td><td class="role">Community Outreach</td><td class="phone">231-486-2491</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Center Point Marina</td><td class="role">Owner</td><td class="phone">231-922-1515</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Serra Volkswagen of TC</td><td class="role">General Manager</td><td class="phone">231-486-0890</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Team Bob's Heating, Cooling, Plumbing</td><td class="role">Owner / Marketing Dir.</td><td class="phone">231-941-4064</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Great Lakes Potato Chip Company</td><td class="role">Owner</td><td class="phone">231-929-1111</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Hagerty</td><td class="role">Community Relations</td><td class="phone">800-922-4050</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Turtle Creek Casino</td><td class="role">Marketing Director</td><td class="phone">231-534-8113</td><td class="status"><span class="check"></span></td><td class="notes"></td></tr>
-    <tr><td class="biz">Fox Motors Group</td><td class="role">Community Relations</td><td class="phone">231-944-7191</td><td class="status"><span class="check"></span></td><td class="notes flag">Parent of BMW of TC (same #)</td></tr>
+    <tr class="followup-row"><td class="biz">Oleson's Food Store</td><td class="role">Mark (Store Manager)</td><td class="phone">231-941-9000</td><td class="status status-followup">Call back after 6/29</td><td class="notes">Mark out until 6/29</td></tr>
+    <tr><td class="biz">Burritt's Fresh Markets</td><td class="role">Owner / Store Manager</td><td class="phone">231-946-3300</td><td class="status"></td><td class="notes"></td></tr>
+    <tr><td class="biz">Oryana Community Co-op West</td><td class="role">Community Outreach</td><td class="phone">231-486-2491</td><td class="status"></td><td class="notes"></td></tr>
+    <tr><td class="biz">Center Point Marina</td><td class="role">Owner</td><td class="phone">231-922-1515</td><td class="status"></td><td class="notes"></td></tr>
+    <tr class="pending"><td class="biz">Serra Volkswagen of TC</td><td class="role">General Manager</td><td class="phone">231-486-0890</td><td class="status status-followup">Hold</td><td class="notes">Likely contacted by Zivkovich (Serra umbrella) — confirm before calling</td></tr>
+    <tr class="followup-row"><td class="biz">Team Bob's Heating, Cooling, Plumbing</td><td class="role">Sawyer Bak</td><td class="phone">231-534-2480</td><td class="status status-followup">Send info 6/24</td><td class="notes">Email sponsorship sheet to <strong>sbak@teambobs.com</strong></td></tr>
+    <tr><td class="biz">Great Lakes Potato Chip Company</td><td class="role">Owner</td><td class="phone">231-929-1111</td><td class="status status-vm">VM left 6/24</td><td class="notes">Follow up if no callback by 6/27</td></tr>
+    <tr><td class="biz">Hagerty</td><td class="role">Community Relations</td><td class="phone">800-922-4050</td><td class="status"></td><td class="notes"></td></tr>
+    <tr><td class="biz">Turtle Creek Casino</td><td class="role">Marketing Director</td><td class="phone">231-534-8113</td><td class="status"></td><td class="notes flag">GTB Gaming — single ask covers Leelanau Sands too</td></tr>
+    <tr><td class="biz">Fox Motors Group</td><td class="role">Community Relations</td><td class="phone">231-944-7191</td><td class="status"></td><td class="notes flag">Parent of BMW of TC (same #)</td></tr>
   </tbody>
 </table>
 
