@@ -136,7 +136,7 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Phone:** 616-856-0010
 - **School email:** 903711@northmen.org
 - **Personal email:** tycemelvin36@yahoo.com
-- **Position:** Left wing / Right striker
+- **Position:** ST (natural #9) / LW
 - **Mom:** Sheila Hartson *(different surname)*
 - **Dad:** Idiaman Melvin
 - **Sources:** S, AD, SG
