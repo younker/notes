@@ -21,10 +21,10 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 
 ## Summary
 
-- 43 players total across all sources
+- 44 players total across all sources
 - 16 on Varsity / Soccer Group parent comms (+ coach-confirmed)
 - 18 on JV (+ coach-confirmed)
-- 9 with team status to be determined
+- 10 with team status to be determined
 
 ---
 
@@ -34,7 +34,7 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Phone:** 231-340-5554
 - **School email:** 904320@northmen.org
 - **Personal email:** jakshab10@gmail.com
-- **Position:** LB
+- **Position:** LB / wing
 - **Mom:** Maryjo Alshab
 - **Dad:** Andrew Alshab
 - **Sources:** S, AD, SG
@@ -44,6 +44,7 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **School email:** 905049@northmen.org
 - **Personal email:** ashryan2009@icloud.com
 - **Position:** CAM / winger / striker
+- **Strengths:** Quick. Strong in 1v1. Finisher.
 - **Mom:** Jennifer "Jenni" Attie
 - **Dad:** Khalil Attie
 - **Sources:** S, AD, SG
@@ -60,7 +61,9 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Phone:** 231-622-3469
 - **School email:** 902672@northmen.org
 - **Personal email:** sandertcole101@gmail.com
-- **Position:** Wing
+- **Position:** Wing / inside mid (CAM / CM)
+- **Strengths:** Smart winger. Good passer; possible inside option.
+- **Caveats:** Limited pace if pulled inside as a CAM/CM.
 - **Mom:** Megan Cole
 - **Dad:** Thomas Cole
 - **Sources:** S, AD, SG
@@ -98,7 +101,8 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Phone:** 989-217-0376
 - **School email:** 902727@northmen.org
 - **Personal email:** cotantmiles@gmail.com
-- **Position:** Outside back / Outside?
+- **Position:** Outside back (will push forward)
+- **Caveats:** Questionable tackles — coach to watch in pressure moments.
 - **Mom:** Molly Cotant *(different surname)*
 - **Dad:** Jim Harrington *(different surname; hyphenated child surname reflects both)*
 - **Sources:** S, AD, SG
@@ -107,7 +111,7 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Phone:** 231-445-0148
 - **School email:** 905215@northmen.org
 - **Personal email:** westongiffin12@gmail.com
-- **Position:** wing / center mid
+- **Position:** wing (preferred) / center mid (also enjoys)
 - **Mom:** Sarah Giffin · sgiffin6@gmail.com · (231) 373-4824
 - **Dad:** Jake Giffin (= Jacob) · giff17@gmail.com · (231) 268-8519
 - **Sources:** S, AD, SG, D (parent contacts)
@@ -126,7 +130,8 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Phone:** 231-750-5305
 - **School email:** 905393@northmen.org
 - **Personal email:** mmclintock@gmail.com
-- **Position:** cdm / cam
+- **Position:** CDM (primary) / CAM
+- **Strengths:** Leader. **Captain candidate.**
 - **Mom:** Roxanne McLintock
 - **Dad:** John McLintock
 - **Sources:** S (recorded as "McClintock"), AD (as "McLintock"), SG
@@ -145,7 +150,8 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Phone:** 231-758-7747
 - **School email:** 906047@northmen.org
 - **Personal email:** colinod5@icloud.com
-- **Position:** center back / CDM
+- **Position:** center mid / center back / CDM
+- **Strengths:** Left-footed.
 - **Mom:** Holly O'Donnell
 - **Dad:** Daniel O'Donnell
 - **Sources:** S, AD, SG
@@ -173,7 +179,7 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Phone:** 231-758-4143
 - **School email:** 903381@northmen.org
 - **Personal email:** clivewebster5@gmail.com
-- **Position:** CDM / Full back
+- **Position:** CDM / back (likes both equally)
 - **Mom:** Marcia Webster
 - **Dad:** Tim Webster
 - **Sources:** S, AD, SG
@@ -361,7 +367,7 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 
 ---
 
-## Status TBD (9) — needs head-coach confirmation
+## Status TBD (10) — needs head-coach confirmation
 
 ### Barney, AlecZander — Grade 9 (incoming, currently 8th)
 - **Phone:** (unknown — only mom's phone known)
@@ -379,6 +385,14 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Personal email:** (unknown)
 - **Sources:** AD only
 - **Notes:** Only on AD office returning-member list; no independent confirmation from coach yet.
+
+### Erwin, Blake — Grade unknown
+- **Phone:** (unknown)
+- **School email:** (unknown)
+- **Personal email:** (unknown)
+- **Position:** Outside back
+- **Sources:** D (head-coach direct intake 2026-06-24)
+- **Notes:** Recovering from concussion — clearance status to confirm before full participation. Grade + parent contacts to fill in.
 
 ### Feys, Axel — Grade 9 (incoming, currently 8th)
 - **Phone:** 231-944-3129
