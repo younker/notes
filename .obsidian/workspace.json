@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c10e27221274492",
+        "id": "502ab4b3b05d2906",
         "type": "tabs",
         "children": [
           {
-            "id": "3e13c02d881a3af5",
+            "id": "7678d3d4f93da5c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-Areas/SeniorAIQ/ship/operator-proximity-classification.md",
+                "file": "2-Areas/SeniorAIQ/AIQ-scoring-summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "operator-proximity-classification"
+              "title": "AIQ-scoring-summary"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/SeniorAIQ/ship/operator-proximity-classification.md",
+                "file": "2-Areas/SeniorAIQ/AIQ-scoring-summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for operator-proximity-classification"
+              "title": "Backlinks for AIQ-scoring-summary"
             }
           },
           {
@@ -184,8 +184,9 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "3e13c02d881a3af5",
+  "active": "7678d3d4f93da5c8",
   "lastOpenFiles": [
+    "2-Areas/SeniorAIQ/ship/opera 2-Areas tor-proximity-classification.md",
     "1-Projects/PHS Soccer Fall 26/Master Roster.md.tmp.6736.d37c3ee79ef0",
     "1-Projects/Stephen Hockey 14U AA 2026-27/Golf Outing Donor List - Printable.html.tmp.6736.5c10daa975c8",
     "1-Projects/Stephen Hockey 14U AA 2026-27/Call Script - TC Chamber - Printable.html",
@@ -200,7 +201,6 @@
     "1-Projects/Stephen Hockey 14U AA 2026-27/Golf Outing Donor List.md",
     "1-Projects/Stephen Hockey 14U AA 2026-27",
     "2-Areas/SeniorAIQ/TODO.md",
-    "2-Areas/SeniorAIQ/ship/operator-proximity-classification.md",
     "2-Areas/Soccer/20260615 DJ Call - Emily PYSA Tryout.md",
     "1-Projects/PHS Soccer Fall 26/Fitness Tests.pdf",
     "1-Projects/PHS Soccer Fall 26/Fitness Tests.md",
@@ -214,7 +214,6 @@
     "2-Areas/SeniorAIQ/Threads/2026-06-05 DSHS PD Request - Clarification Letter.md",
     "4-Archive/Sent Mail/Threads/2022-08-18 Heather’s birthday.md",
     "2-Areas/Contacts/Bethany Hickner.md",
-    "2-Areas/SeniorAIQ/blog/facility-metrics-summary.rtf",
     "2-Areas/SeniorAIQ/ship/README.md",
     "2-Areas/SeniorAIQ/ship/load-issue.md",
     "2-Areas/SeniorAIQ/ship/INFRA.md",
