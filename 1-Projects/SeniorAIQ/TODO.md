@@ -1,6 +1,6 @@
 # SHIP Project Tasks
 
-Hub for SHIP TODOs and bugs. Detail docs live in `2-Areas/SeniorAIQ/TODO/` (legacy location — to be migrated into this folder in a future cleanup).
+Hub for SHIP TODOs and bugs. Detail docs live in `1-Projects/SeniorAIQ/TODO/` (legacy location — to be migrated into this folder in a future cleanup).
 
 ## TODO
 

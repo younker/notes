@@ -13,7 +13,7 @@ related:
 
 Clarification letter sent regarding Justin's public records request to DSHS RCS Public Disclosure unit.
 
-Attachment filed at `2-Areas/SeniorAIQ/washington-state-request-for-public-records.pdf`.
+Attachment filed at `1-Projects/SeniorAIQ/washington-state-request-for-public-records.pdf`.
 
 ## Email body
 

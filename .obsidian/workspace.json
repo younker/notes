@@ -11,14 +11,10 @@
             "id": "7678d3d4f93da5c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-Areas/SeniorAIQ/AIQ-scoring-summary.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "AIQ-scoring-summary"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-Areas/SeniorAIQ/AIQ-scoring-summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AIQ-scoring-summary"
+              "title": "Backlinks"
             }
           },
           {
@@ -186,43 +181,44 @@
   },
   "active": "7678d3d4f93da5c8",
   "lastOpenFiles": [
-    "2-Areas/SeniorAIQ/ship/opera 2-Areas tor-proximity-classification.md",
+    "1-Projects/SeniorAIQ/TODO.md.tmp.6736.ad6397eed825",
+    "2-Areas/SeniorAIQ/AIQ-scoring-summary.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/wa-fetch-dshs.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/wa-api-backend-endpoints.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/search-filters.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/review-data-sources.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/regulatory-scoring-refinement.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/operator-to-owner-rename.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/operator-resolution-coverage-gaps.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/facility-name-cleanup.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/facility-metrics-summary.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/duplicate-facilities.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/consolidate-owner-page.md",
+    "1-Projects/SeniorAIQ/TODO/DONE/blog-api-refactor.md",
+    "1-Projects/SeniorAIQ/ship/load-issue.md",
+    "1-Projects/SeniorAIQ/ship/sl-uncollected-2026-06-05.md",
+    "1-Projects/SeniorAIQ/ship/opera 2-Areas tor-proximity-classification.md",
+    "1-Projects/SeniorAIQ/ship/howto-collect-data.md",
+    "1-Projects/SeniorAIQ/ship/README.md",
+    "1-Projects/SeniorAIQ/ship/INFRA.md",
+    "1-Projects/SeniorAIQ/blog/yakima-county-assisted-living-facility-rankings-by-quality-score.md",
+    "1-Projects/SeniorAIQ/blog/understanding-senior-housing-options.md",
+    "1-Projects/SeniorAIQ/blog/facility-metrics-summary.rtf",
+    "1-Projects/SeniorAIQ/blog/facility-metrics-summary.md",
+    "1-Projects/SeniorAIQ/blog/blog-content-strategy.md",
+    "1-Projects/SeniorAIQ/blog/05-one-score-to-compare-them-all-ranking-king-county-facilities.md",
+    "1-Projects/SeniorAIQ/blog/04-who-owns-king-countys-assisted-living-facilities.md",
+    "1-Projects/SeniorAIQ/TODO/DONE",
+    "1-Projects/SeniorAIQ/washington-state-request-for-public-records.pdf",
+    "1-Projects/SeniorAIQ/ship-ui",
+    "1-Projects/SeniorAIQ/ship",
+    "1-Projects/SeniorAIQ/blog",
+    "1-Projects/SeniorAIQ/Threads",
+    "1-Projects/SeniorAIQ/TODO",
+    "1-Projects/SeniorAIQ",
     "1-Projects/PHS Soccer Fall 26/Master Roster.md.tmp.6736.d37c3ee79ef0",
-    "1-Projects/Stephen Hockey 14U AA 2026-27/Golf Outing Donor List - Printable.html.tmp.6736.5c10daa975c8",
-    "1-Projects/Stephen Hockey 14U AA 2026-27/Call Script - TC Chamber - Printable.html",
-    "1-Projects/Stephen Hockey 14U AA 2026-27/Call Script - Generic - Printable.html",
-    "1-Projects/Stephen Hockey 14U AA 2026-27/Call Script - Generic.md",
-    "1-Projects/Stephen Hockey 14U AA 2026-27/Call Script - TC Chamber.md",
-    "1-Projects/Stephen Hockey 14U AA 2026-27/Call Script - Olesons.md",
-    "1-Projects/Stephen Hockey 14U AA 2026-27/Golf Outing Donor List - Printable.html",
-    "1-Projects/Stephen Hockey 14U AA 2026-27/Golf Outing Fundraiser.md",
     "1-Projects/Stephen Hockey 14U AA 2026-27/golf-outing-flyer-2.jpg",
     "1-Projects/Stephen Hockey 14U AA 2026-27/golf-outing-flyer-1.jpg",
-    "1-Projects/Stephen Hockey 14U AA 2026-27/Golf Outing Donor List.md",
-    "1-Projects/Stephen Hockey 14U AA 2026-27",
-    "2-Areas/SeniorAIQ/TODO.md",
-    "2-Areas/Soccer/20260615 DJ Call - Emily PYSA Tryout.md",
-    "1-Projects/PHS Soccer Fall 26/Fitness Tests.pdf",
-    "1-Projects/PHS Soccer Fall 26/Fitness Tests.md",
-    "1-Projects/PHS Soccer Fall 26/Master Roster.md",
-    "1-Projects/PHS Soccer Fall 26/Master Roster.md.tmp.4892.098258f0fe9d",
-    "1-Projects/PHS Soccer Fall 26/JV Family Roster.md",
-    "1-Projects/PHS Soccer Fall 26/Soccer Group Parents.md",
-    "2-Areas/Soccer/Concussion Certification.pdf",
-    "2-Areas/SeniorAIQ/washington-state-request-for-public-records.pdf",
-    "2-Areas/Career/Edustaff.md",
-    "2-Areas/SeniorAIQ/Threads/2026-06-05 DSHS PD Request - Clarification Letter.md",
-    "4-Archive/Sent Mail/Threads/2022-08-18 Heather’s birthday.md",
-    "2-Areas/Contacts/Bethany Hickner.md",
-    "2-Areas/SeniorAIQ/ship/README.md",
-    "2-Areas/SeniorAIQ/ship/load-issue.md",
-    "2-Areas/SeniorAIQ/ship/INFRA.md",
-    "2-Areas/SeniorAIQ/ship/sl-uncollected-2026-06-05.md",
-    "2-Areas/SeniorAIQ/ship/howto-collect-data.md",
-    "2-Areas/SeniorAIQ/Emails — justin-projects.md",
-    "2-Areas/SeniorAIQ/Threads/2026-05-12 Senior AIQ Stuff.md",
-    "2-Areas/SeniorAIQ/Threads/2026-05-07 Google- We've received your payment for 0584-9651-3226.md",
-    "2-Areas/SeniorAIQ/Threads/2026-05-01 AWS Budgets- Account 042143600000 has a budget exceeding your alert threshold.md",
     "Untitled.canvas"
   ]
 }
