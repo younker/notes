@@ -28,6 +28,7 @@ Hub for SHIP TODOs and bugs. Detail docs live in `1-Projects/SeniorAIQ/TODO/` (l
 - [ ] [[public-facility-pages]] #ship/todo
 - [ ] [[review-collection-remaining]] #ship/todo
 - [ ] [[scoring-data-analysis]] #ship/todo
+- [ ] [[admin-action-triggers]] #ship/todo
 
 ## Bugs
 
