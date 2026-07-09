@@ -2,6 +2,25 @@
 
 Low-friction task capture. Triage into PARA notes (or via the `obsidian-todo` skill); once moved, tasks leave this file.
 
+## July 8 meeting with Mike Bakker re: Emily
+
+general rule: if they have already started high school and they transfer, they are ineligible for the sports they participated in the year prior unless they qualify for one of 15 exemption rules
+
+There is a waiver process. 
+
+Our situation might qualify for educational transfer and allow for immediate eligibility. Known as the "catchup policy". 
+
+Mike is going to look into it. Our case is not black and white but there is a good chance we could get a waiver based on our movement from hearthside to jennings.
+
+## July 5, 2026
+
+1. `resume reskin`: claude --resume 7ca3cb56-f51f-4a06-bb2a-781561d8ceb4
+2. `resume tutorial`: claude --resume 992091cd-793a-402d-bccd-71a4191d75a2
+  * ~/projects/mcp-agent
+3. `resume ynkr chat`: claude --resume dca8e350-63d6-4633-9cdc-2fc9d0d9ddbf
+  * persona chat: claude --resume 71502c32-9504-43b5-ab0d-f433fefa6989
+  * Do not have it "run chat again for a new session", that will just allow them to burn more tokens
+
 
 The following is for the d soccer license I signed up for
 

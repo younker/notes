@@ -16,25 +16,41 @@ tags: [soccer/phs, schedule]
 
 ## Schedule
 
-| Date | Home/Away | Opponent | Time |
+Reconciled against the official sportsYou team calendar (pulled 2026-07-06). Times are JV / Varsity unless noted.
+
+| Date | Home/Away | Opponent | Time (JV / V) |
 |---|---|---|---|
-| Monday Aug 17th | Home | Grand Blanc (Scrim) | 10am |
-| Wednesday Aug 19th | Away | Haslett | Noon/2pm |
-| Tuesday Aug 25th | Away | Gaylord | 5/630 |
-| Thursday Aug 27th | Away | Cadillac | 5/630 |
-| Tuesday Sept 1st | Home | Soo | 5/630 |
-| Thursday Sept 3rd | Home | Glen Lake (Var only) | 5pm |
-| Thursday Sept 10th | Home | TC West | 5/630 |
-| Tuesday Sept 15th | Away | TC Central | 5/630 |
-| Thursday Sept 17th | Home | Alpena | 5/630 |
-| Tuesday Sept 22nd | Home | Gaylord | 5/630 |
-| Thursday Sept 24th | Home | Cadillac | 5/630 |
-| Tuesday Sept 29th | Away | Soo | 5/630 |
-| Thursday Oct 1st | Away | Elk Rapids (JV only) | TBA |
-| Saturday Oct 3rd | Home | Midland | 11/12:30 |
-| Tuesday Oct 6th | Away | TC West | 5/630 |
-| Thursday Oct 8th | Home | TC Central | 5/630 |
-| Monday Oct 12th | Away | Alpena | 5/630 |
+| Mon Aug 17 | Home | Grand Blanc (scrimmage) | 10am (V) |
+| Wed Aug 19 | Away | Haslett | 12pm / 2pm |
+| Fri Aug 21 | Away | Boyne Mountain HS Invitational (V only) | TBA |
+| Tue Aug 25 | Away | Gaylord | 5 / 6:30 |
+| Thu Aug 27 | Away | Cadillac | 5 / 6:30 |
+| Tue Sept 1 | Home | Soo | 5 / 6:30 |
+| Thu Sept 3 | Home | Glen Lake (V only) | 5pm |
+| Thu Sept 10 | Home | TC West | 5 / 6:30 |
+| Tue Sept 15 | Away | TC Central | 5 / 6:30 |
+| Thu Sept 17 | Home | Alpena | 5 / 6:30 |
+| Tue Sept 22 | Home | Gaylord | 5 / 6:30 |
+| Thu Sept 24 | Home | Cadillac | 5 / 6:30 |
+| Tue Sept 29 | Away | Soo | 5 / 6:30 |
+| Thu Oct 1 | Away | Elk Rapids (JV only) | TBA |
+| Sat Oct 3 | Home | Midland | 11am / 12:30 |
+| Tue Oct 6 | Away | TC West | 5 / 6:30 |
+| Thu Oct 8 | Home | TC Central | 5 / 6:30 |
+| Mon Oct 12 | Away | Alpena | 5 / 6:30 |
+
+### Changes from prior version / flags
+
+- **Added:** Fri Aug 21 — Boyne Mountain HS Invitational (varsity only); it is on the official calendar but was missing here.
+- **Thu Oct 1 — JV @ Elk Rapids (away, in Elk Rapids):** confirmed by coach. Not on the official sportsYou calendar (which shows a practice that day) — track it manually.
+- **Oct 8 (TC Central): both Home** (confirmed). The official calendar's varsity event is titled "V @ TC Central", but its location is Northmen Stadium — the "@" in the title is a typo; both JV and Varsity host.
+
+### Stadium Conflicts (Northmen Stadium)
+
+Checked all Home games against the PHS all-sports stadium schedule (Northmen Stadium bookings). Boys soccer plays Tue/Thu; band rehearsals are Mon/Wed; girls soccer is a spring sport, so fall stadium contention is low.
+
+- **No time-overlapping conflicts found.** The only same-day co-booking is **Mon Aug 17** (10am Grand Blanc scrimmage + 6:30pm Band Rehearsal) — different times, no clash.
+- Caveat: the stadium CSV lists **no Friday-night varsity football home games** for Sept/Oct. Those are the usual stadium contention; either they were excluded from the export or not yet loaded. They wouldn't hit Tue/Thu soccer, but worth confirming the football home slate before finalizing.
 
 ## Related
 
