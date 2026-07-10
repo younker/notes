@@ -1,0 +1,13 @@
+{
+  "name": "hockey-golf-outreach",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Fills Traverse Connect member contact forms for the TC North Stars 14U AA golf fundraiser, pausing at the reCAPTCHA for a human.",
+  "scripts": {
+    "send": "node send.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}

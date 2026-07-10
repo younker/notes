@@ -1,0 +1,13 @@
+import { chromium } from 'playwright';
+const b = await chromium.launch({ headless: true });
+const ctx = await b.newContext();
+const p = await ctx.newPage();
+await p.goto('https://business.traverseconnect.com/list/member/gosling-czubak-engineering-sciences-inc-423', { waitUntil: 'load' });
+const [f] = await Promise.all([ ctx.waitForEvent('page'), p.click('#gz-directory-contactmember') ]);
+await f.waitForLoadState('load');
+await f.waitForTimeout(2500);
+const frames = f.frames().map(fr => ({ url: fr.url().slice(0,80), name: fr.name() }));
+console.log('FRAMES:', JSON.stringify(frames, null, 1));
+const titles = await f.evaluate(() => [...document.querySelectorAll('iframe')].map(i => ({ title: i.title, src: (i.src||'').slice(0,70) })));
+console.log('IFRAMES:', JSON.stringify(titles, null, 1));
+await b.close();

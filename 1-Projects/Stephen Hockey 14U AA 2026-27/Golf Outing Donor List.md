@@ -47,3 +47,67 @@ Prospect list for the 14U AA Traverse City annual golf outing fundraiser. Stephe
 | **Hagerty** — 800-922-4050 | Community Relations | | | |
 | **Turtle Creek Casino** — 231-534-8113 | Marketing Director | | | Operator: GTB Gaming. Also runs Leelanau Sands — single ask covers both. |
 | **Fox Motors Group** — 231-944-7191 | Community Relations | | | Parent of BMW of Traverse City — same phone; coordinate the ask |
+
+## Chamber Form Outreach — Traverse Connect (2026-07-10)
+
+Contacted via the Traverse Connect member "Send Email" form (sponsorship email with golf outing details + [fundraiser site](https://tc-north-stars-fundraiser.lovable.app/)). Carbon copy sent to jason@ynkr.org. Outcome = awaiting reply unless noted. See [[Golf Outing Fundraiser]].
+
+| Business | Category | Contacted | Outcome |
+|---|---|---|---|
+| Grand Traverse Resort & Casinos | Resort / golf | 2026-07-10 | Sent |
+| Mercedes-Benz of Traverse City | Auto dealer | 2026-07-10 | Sent |
+| Discount Tire | Auto / tire | 2026-07-10 | Sent |
+| Keen Technical Solutions LLC | IT services | 2026-07-10 | Sent |
+| TKS Security | Security / IT | 2026-07-10 | Sent |
+| Wyant Technologies | IT services | 2026-07-10 | Sent |
+| Anavon Technology Group | IT services | 2026-07-10 | Sent |
+| Endeavor IT | IT services | 2026-07-10 | Sent |
+| Image Tech | IT / imaging | 2026-07-10 | Sent |
+| Traverse Technical LLC | IT services | 2026-07-10 | Sent |
+| Waara Technologies | IT services | 2026-07-10 | Sent |
+| Common Angle, Inc. | IT services | 2026-07-10 | Sent |
+| Maxwell Medals & Awards | Awards / trophies | 2026-07-10 | Sent — potential prize donor |
+| Alfie Logo Gear | Logo gear | 2026-07-10 | Sent — potential prize donor |
+| Image 360 | Signage | 2026-07-10 | Sent — potential prize donor |
+| Mitchell Graphics | Printing | 2026-07-10 | Sent — potential prize donor |
+| Grand Traverse Canvas Works | Canvas / signage | 2026-07-10 | Sent |
+| Gosling Czubak Engineering Sciences, Inc. | Engineering | 2026-07-10 | Sent |
+| Gourdie-Fraser, Inc. | Engineering | 2026-07-10 | Sent |
+| Nealis Engineering, Inc. | Engineering | 2026-07-10 | Sent |
+| Cornwell Architects | Architecture | 2026-07-10 | Sent |
+| Interphase Interiors | Interiors | 2026-07-10 | Sent |
+| Wolverine Cabinet Company | Cabinetry | 2026-07-10 | Sent |
+| Precision Plumbing & Heating Systems, Inc. | Trades / mechanical | 2026-07-10 | Sent |
+| Ferguson's Lawn Equipment | Equipment retail | 2026-07-10 | Sent |
+| Thomas R Troost CPA PC | Accounting | 2026-07-10 | Sent |
+| Mark McLane Insurance | Insurance | 2026-07-10 | Sent |
+| Fustini's Oils & Vinegars | Specialty food | 2026-07-10 | Sent — potential prize donor |
+| Potter's Bakery | Bakery | 2026-07-10 | Sent — potential prize donor |
+| Water's Edge Sweet Tooth | Confections | 2026-07-10 | Sent — potential prize donor |
+| Don Orr Ski N Beach Haus | Sporting goods | 2026-07-10 | Sent — potential prize donor |
+| JenTees Custom Logo Gear | Logo gear | 2026-07-10 | Sent — potential prize donor |
+| Smoke and Porter Public House | Restaurant / pub | 2026-07-10 | Sent — potential prize donor |
+| Honor Bank | Community bank | 2026-07-10 | Sent |
+| Grand Traverse State Bank | Community bank | 2026-07-10 | Sent |
+| Otwell Mawby, PC | Engineering | 2026-07-10 | Sent |
+| MLR Engineering | Engineering | 2026-07-10 | Sent |
+| Grand Traverse Fence | Trades / fencing | 2026-07-10 | Sent |
+| North Sky Exteriors | Trades / exteriors | 2026-07-10 | Sent |
+| Paul Davis Restoration & Remodeling | Restoration | 2026-07-10 | Sent |
+| M & M Garage Doors | Trades / garage doors | 2026-07-10 | Sent |
+| Fish Window Cleaning | Cleaning | 2026-07-10 | Sent |
+| Kitchen Choreography | Catering | 2026-07-10 | Sent — potential prize donor |
+| Nocturnal Bloom Brewing LLC | Brewery | 2026-07-10 | Sent — potential prize donor |
+| Grand Traverse Tours | Tours / experiences | 2026-07-10 | Sent — potential prize donor |
+| Edward Jones - Bill Collin | Financial advisor | 2026-07-10 | Sent |
+| Lakeshore Employee Benefits | Benefits / insurance | 2026-07-10 | Sent |
+| Master Dry Cleaners | Dry cleaning | 2026-07-10 | Sent |
+| Universal Cleaners | Dry cleaning | 2026-07-10 | Sent |
+| Craggs Window Cleaning | Cleaning | 2026-07-10 | Sent |
+| Dri-Life Restoration | Restoration | 2026-07-10 | Sent |
+| OneWay Exteriors | Trades / exteriors | 2026-07-10 | Sent |
+| Grand Traverse Sealcoating & Striping | Trades / paving | 2026-07-10 | Sent |
+| Swensen Memorials | Memorials | 2026-07-10 | Sent |
+| Events North | Event services | 2026-07-10 | Sent |
+| West Bay Geophysical, Inc. | Engineering | 2026-07-10 | Sent |
+| Soils & Structures, Inc. | Engineering | 2026-07-10 | Sent |

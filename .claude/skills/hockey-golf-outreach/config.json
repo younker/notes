@@ -1,0 +1,18 @@
+{
+  "sender": {
+    "Name": "Jason Younker",
+    "Organization": "Grand Traverse Hockey Association",
+    "Street": "1600 Chartwell Dr",
+    "City": "Traverse City",
+    "StateProvince": "MI",
+    "ZipPostal": "49696",
+    "Phone": "206.795.4418",
+    "Email": "jason@ynkr.org",
+    "ContactPreference": "1",
+    "carbonCopy": true
+  },
+  "subject": "TC North Stars annual golf tournament",
+  "fundraiserUrl": "https://tc-north-stars-fundraiser.lovable.app/",
+  "memberLinkSelector": "#gz-directory-contactmember",
+  "signature": "Jason Younker\nTC North Stars 14U AA Travel Hockey\n206-795-4418 | jason@ynkr.org"
+}
