@@ -111,3 +111,24 @@ Contacted via the Traverse Connect member "Send Email" form (sponsorship email w
 | Events North | Event services | 2026-07-10 | Sent |
 | West Bay Geophysical, Inc. | Engineering | 2026-07-10 | Sent |
 | Soils & Structures, Inc. | Engineering | 2026-07-10 | Sent |
+| TBA Credit Union | Credit union | 2026-07-10 | Sent |
+| Northwest Consumers Federal Credit Union | Credit union | 2026-07-10 | Sent |
+| Ford Insurance Agency, Inc. | Insurance agency | 2026-07-10 | Sent |
+| Devette & Ford Insurance Agency, Inc. | Insurance agency | 2026-07-10 | Sent |
+| Dewey Insurance Agency | Insurance agency | 2026-07-10 | Sent |
+| Fitzmaurice-Garvin Insurance Agency | Insurance agency | 2026-07-10 | Sent |
+| Bay View Insurance Agency | Insurance agency | 2026-07-10 | Sent |
+| Top O' Michigan Insurance | Insurance agency | 2026-07-10 | Sent |
+| Grand Traverse Pie Company, LLC | Restaurant / bakery | 2026-07-10 | Sent — potential prize donor |
+| Tom's Food Markets, Inc. | Grocery | 2026-07-10 | Sent — potential prize donor |
+| Burritt's Fresh Markets | Grocery | 2026-07-10 | Sent — potential prize donor (also a mid-size prospect above) |
+| North Peak Brewing Co. | Brewpub | 2026-07-10 | Sent — potential prize donor |
+| The Filling Station Microbrewery | Brewpub | 2026-07-10 | Sent — potential prize donor |
+| Apache Trout Grill | Restaurant | 2026-07-10 | Sent — potential prize donor |
+| Blue Tractor Cookshop | Restaurant | 2026-07-10 | Sent — potential prize donor |
+| Kilkenny's | Pub | 2026-07-10 | Sent — potential prize donor |
+| Boone's Long Lake Inn, Inc. | Restaurant | 2026-07-10 | Sent — potential prize donor |
+| Boone's Prime Time Pub, Inc. | Pub | 2026-07-10 | Sent — potential prize donor |
+| Don's Drive In | Diner | 2026-07-10 | Sent — potential prize donor |
+| Poppycocks | Restaurant | 2026-07-10 | Sent — potential prize donor |
+| Oleson's Food Stores | Grocery | 2026-07-10 | Direct email drafted to info@olesonsfoods.com (no chamber form on listing) — send manually |

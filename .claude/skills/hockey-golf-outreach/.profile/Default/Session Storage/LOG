@@ -1,10 +1,18 @@
-2026/07/10-10:49:22.048 2696c3 Reusing MANIFEST /Users/younker/Obsidian/notes/.claude/skills/hockey-golf-outreach/.profile/Default/Session Storage/MANIFEST-000001
-2026/07/10-10:49:22.056 2696c3 Recovering log #10
-2026/07/10-10:49:22.057 2696c3 Level-0 table #13: started
-2026/07/10-10:49:22.075 2696c3 Level-0 table #13: 36286 bytes OK
-2026/07/10-10:49:22.075 2696c3 Recovering log #12
-2026/07/10-10:49:22.076 2696c3 Reusing old log /Users/younker/Obsidian/notes/.claude/skills/hockey-golf-outreach/.profile/Default/Session Storage/000012.log 
-2026/07/10-10:49:22.104 2696c3 Delete type=0 #10
-2026/07/10-10:54:42.596 2696c3 Level-0 table #15: started
-2026/07/10-10:54:42.609 2696c3 Level-0 table #15: 40435 bytes OK
-2026/07/10-10:54:42.636 2696c3 Delete type=0 #12
+2026/07/10-11:11:09.785 26e45c Reusing MANIFEST /Users/younker/Obsidian/notes/.claude/skills/hockey-golf-outreach/.profile/Default/Session Storage/MANIFEST-000001
+2026/07/10-11:11:09.787 26e45c Recovering log #14
+2026/07/10-11:11:09.788 26e45c Reusing old log /Users/younker/Obsidian/notes/.claude/skills/hockey-golf-outreach/.profile/Default/Session Storage/000014.log 
+2026/07/10-11:16:28.187 26e45f Level-0 table #18: started
+2026/07/10-11:16:28.206 26e45f Level-0 table #18: 39256 bytes OK
+2026/07/10-11:16:28.232 26e45f Delete type=0 #14
+2026/07/10-11:16:28.234 26e45f Compacting 4@0 + 1@1 files
+2026/07/10-11:16:28.248 26e45f Generated table #19@0: 369 keys, 20995 bytes
+2026/07/10-11:16:28.248 26e45f Compacted 4@0 + 1@1 files => 20995 bytes
+2026/07/10-11:16:28.273 26e45f compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/07/10-11:16:28.274 26e45f Delete type=2 #15
+2026/07/10-11:16:28.274 26e45f Delete type=2 #13
+2026/07/10-11:16:28.274 26e45f Delete type=2 #11
+2026/07/10-11:16:28.274 26e45f Delete type=2 #8
+2026/07/10-11:16:28.274 26e45f Delete type=2 #18
+2026/07/10-11:40:05.642 26e45f Level-0 table #21: started
+2026/07/10-11:40:05.665 26e45f Level-0 table #21: 31378 bytes OK
+2026/07/10-11:40:05.688 26e45f Delete type=0 #17
