@@ -28,9 +28,17 @@ tournament". Edit `config.json` to change any of it.
 
 ## Workflow
 
+0. **Traverse City only (rule).** Only contact businesses whose listing city
+   (`itemprop="addressLocality"`) is exactly "Traverse City". Skip Grawn,
+   Thompsonville, Acme, Williamsburg, Kingsley, Interlochen, Kalkaska, etc. The
+   category listing pages do NOT show city — you must check each member page.
+   Use `node vet.mjs <slug...>` (or `--file slugs.txt`); it prints OK/SKIP with
+   city + email presence in one pass.
+
 1. **Collect targets.** Get the list of member-listing URLs the user wants to
    contact (they paste them, or point at a note). Each needs a `url`; a `name`
-   and `type` help write a better message.
+   and `type` help write a better message. Run every candidate through `vet.mjs`
+   first and keep only the OK rows.
 
 2. **Generate the message per business.** Build each `message` from the
    `email-template.md` in this folder, using the facts in

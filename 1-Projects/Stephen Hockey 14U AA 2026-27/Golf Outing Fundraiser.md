@@ -11,7 +11,7 @@ tags: [hockey]
 
 Annual golf scramble fundraiser benefiting the TC North Stars 14U AA travel hockey team (Stephen's team). Hosted by Grand Traverse Hockey Association (GTHA).
 
-Prospect list: [[Golf Outing Donor List]].
+Prospect list: [[Golf Outing Donor List]]. Outreach status & how to resume: [[Golf Outreach Status]].
 
 ## Event
 

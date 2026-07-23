@@ -19,6 +19,7 @@ Prospect list for the 14U AA Traverse City annual golf outing fundraiser. Stephe
 - [ ] **Follow up Great Lakes Potato Chip** — voicemail left 6/24, no response yet
 - [ ] **Follow up Boyne Mountain** — message left 6/24 for "Jay" (community/sponsorship contact); follow up if no callback by 7/1
 - [ ] **Decide on Williams Honda/Kia** — Paul declined this year; flag to try **before** the others next summer
+- [ ] **Email Manthei Supply** via chamber form — skipped during the 2026-07-10 Home & Garden batch; come back to it 📅 2026-07-11
 
 ## Largest Donors
 
@@ -132,3 +133,37 @@ Contacted via the Traverse Connect member "Send Email" form (sponsorship email w
 | Don's Drive In | Diner | 2026-07-10 | Sent — potential prize donor |
 | Poppycocks | Restaurant | 2026-07-10 | Sent — potential prize donor |
 | Oleson's Food Stores | Grocery | 2026-07-10 | Direct email drafted to info@olesonsfoods.com (no chamber form on listing) — send manually |
+| Gill-Roy's Hardware - Traverse City | Hardware | 2026-07-10 | Sent |
+| Ferguson's Fireplace & Stove Center | Home retail | 2026-07-10 | Sent |
+| Currie's Furniture | Furniture retail | 2026-07-10 | Sent |
+| VanDrie Home Furnishings | Furniture retail | 2026-07-10 | Sent |
+| Floor Covering Brokers Carpet One | Flooring | 2026-07-10 | Sent |
+| Comfort Center | Home comfort / HVAC | 2026-07-10 | Sent |
+| Grand Traverse Refrigeration, Inc. | HVAC / refrigeration | 2026-07-10 | Sent |
+| Martell Electric | Electrical | 2026-07-10 | Sent |
+| Cabinets By Robert Inc/CBR Industries | Cabinetry | 2026-07-10 | Sent |
+| Williams Distributing | Building supply | 2026-07-10 | Sent |
+| Max's Service | Appliance / service | 2026-07-10 | Sent |
+| Peninsula Pavers, Inc. | Paving / hardscape | 2026-07-10 | Sent |
+| TruNorth Landscaping | Landscaping | 2026-07-10 | Sent |
+| AMO, Inc Outdoor Services | Outdoor services | 2026-07-10 | Sent |
+| Full Spectrum Coatings | Coatings / painting | 2026-07-10 | Sent |
+| Traverse Outdoor | Outdoor / patio retail | 2026-07-10 | Sent |
+| Morse Moving & Storage/ Allied | Moving / storage | 2026-07-10 | Sent |
+| Rose Pest Solutions | Pest control | 2026-07-10 | Sent |
+| Walters and Hemming, LLC | Home services | 2026-07-10 | Sent |
+| Manthei Supply | Building supply | — | Skipped 2026-07-10 — follow up 2026-07-11 (see Active Follow-Ups) |
+| Team Elmer's | Construction / aggregate | 2026-07-10 | Sent |
+| Bouma Corporation | Construction | 2026-07-10 | Sent |
+| Custer | Office / interiors | 2026-07-10 | Sent |
+| Windemuller Electric, Inc. | Electrical | 2026-07-10 | Sent |
+| Plascon Group | Coatings / industrial | 2026-07-10 | Sent |
+| Irish Boat Shop | Marine | 2026-07-10 | Sent |
+| Harbor Springs Mattress Company | Mattress retail | 2026-07-10 | Sent |
+| TC Travel Long Term Parking & Detailing | Parking / detailing | 2026-07-10 | Sent |
+| Grand Traverse Memorial Gardens and Monuments | Memorials | 2026-07-10 | Sent |
+| Curated Classics LLC | Home goods | 2026-07-10 | Sent |
+| Dana Grace Interiors | Interiors | 2026-07-10 | Sent |
+| Ella's Interiors | Interiors | 2026-07-10 | Sent |
+| LeBlanc House | Home goods | 2026-07-10 | Sent |
+| eelo | Home / retail | 2026-07-10 | Sent |

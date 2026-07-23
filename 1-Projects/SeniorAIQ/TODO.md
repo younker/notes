@@ -29,6 +29,14 @@ Hub for SHIP TODOs and bugs. Detail docs live in `1-Projects/SeniorAIQ/TODO/` (l
 - [ ] [[review-collection-remaining]] #ship/todo
 - [ ] [[scoring-data-analysis]] #ship/todo
 - [ ] [[admin-action-triggers]] #ship/todo
+- [x] 🔺 Resolve pre-existing backend Terraform drift so applies aren't `-target`ed — `aws_ecs_task_definition.api` wants replacing, 2 S3 SSE configs change, an SNS billing sub is pending; review + apply-or-discard #ship/todo ✅ 2026-07-13 (branch `fix/terraform-drift`, applied; `terraform plan` now clean. Billing email sub is PendingConfirmation — click the link sent to admin@senioraiq.com)
+- [ ] 🔺 Backfill facility URL slugs — only ~267/2,375 canonical facilities have slugs (mostly BH), so the public site + search show almost exclusively assisted-living; run the slug generator across all active facilities #ship/todo
+- [ ] Retire the unused `ship-ui`-scoped GitHub OIDC role in `infrastructure/frontend` (repoint to `ship` or delete; the ship CI uses the backend `ship-prod-github-actions` role) #ship/todo
+- [ ] Remove the dead CloudFront `S3Origin` + `ship-ui-production` bucket (SvelteKit static assets, unreferenced after the Go cutover) — keep `BlogImagesOrigin` #ship/todo
+- [ ] Terraform tidy: remove the vestigial `enable_web_cutover` var + priority conditional in `ship_web.tf`; drop the 3 stale `ship_ui` outputs still pending in backend state #ship/todo
+- [ ] Add a CI test gate for `ship/web` — run `go test` + `make web-check` (templ/CSS staleness) on PRs to the ship repo #ship/todo
+- [ ] Code cleanup: remove dead `view.AdminScoreTier`; regenerate/share the api `middleware` `mockQuerier` (currently `panic("not implemented")` stubs for the grown `db.Querier`) #ship/todo
+- [ ] Reskin deferred follow-ups: card badges (clean record / N citations / investigation open), memory-care tab + server-side `type=` filter, Save/Export PDF, year-built + distance rows, reviews infinite scroll, reconcile leadership/brand vs ownership/operator score categories #ship/todo
 
 ## Bugs
 

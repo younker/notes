@@ -1,5 +1,7 @@
 node_modules/
 package-lock.json
 queue.json
+queue.test.json
 outcomes.log
 *.png
+.profile/

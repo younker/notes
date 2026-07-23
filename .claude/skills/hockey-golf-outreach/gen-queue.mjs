@@ -17,28 +17,28 @@ const targets = JSON.parse(readFileSync(targetsPath, 'utf8'));
 
 const body = (business) => `Hello,
 
-My name is Jason Younker, and I'm the proud parent of a Traverse City North Stars 14U AA hockey player. We are holding our annual golf fundraiser on August 16, 2026 at the Grand Traverse Resort and I'm reaching out to local businesses about sponsorship.
+My name is Jason Younker, and I'm the proud parent of a Traverse City North Stars 14U AA hockey player. We're holding our annual golf fundraiser on August 16, 2026, at Grand Traverse Resort, and I'm reaching out to local businesses about sponsorship.
 
-This is the team's biggest fundraiser of the year and helps cover ice time, league fees, tournament entries, and travel so those costs don't fall entirely on our families.
+This is our team's biggest fundraiser of the year. It helps cover ice time, league fees, tournaments, and travel so those costs don't fall entirely on our families.
 
-There are several ways you can support our local hockey program. The first would simply be to come out and play some golf with us! It is $150 per person and we organize in groups of 4. We use a shotgun start at 9am, which gives you a full day of golf, opportunities to win additional prizes and all money goes directly to supporting these young men.
+The easiest way to learn about the event, sponsor a level, register to golf, or make a donation is here:
 
-Then second way would be to sponsor the team at whatever level fits:
+    ${cfg.fundraiserUrl}
 
-  General     -   $250: hole or tee signage
-  Hat-Trick   -   $500: event hole signage
-  Playmaker   - $1,000: primary contest signage
-  Stanley Cup - $2,000: golf + lunch for a foursome, plus primary contest signage
+Sponsorship levels include:
 
-With this sponsorship comes various signage opportunities at the event. To appear on event signage, we'd need to confirm your involvement by August 3, 2026.
+- General - $250: Hole or tee sign
+- Hat-Trick - $500: Event hole signage
+- Playmaker - $1,000: Primary contest signage
+- Stanley Cup - $2,000: Golf and lunch for a foursome plus primary contest signage
 
-Grand Traverse Hockey Association is a 501(c)(3) (EIN 38-3347536), so sponsorships are fully tax-deductible.
+To be included on event signage, sponsorships need to be confirmed by August 3, 2026.
 
-Checks are payable to GTHA (memo "${business} - 14UAA Golf Outing"), mailed to GTHA Sponsorship, 1600 Chartwell Dr., Traverse City, MI 49696; Venmo @Northstars14UAA also works. Gift cards or product for our prize tables are welcome too.
+Grand Traverse Hockey Association is a 501(c)(3) (EIN 38-3347536), so sponsorships are tax-deductible.
 
-You can find event details and sponsor or donate online at ${cfg.fundraiserUrl}
+If you'd rather donate by check, Venmo, or contribute gift cards or products for our prize tables, just let me know and I'll send the details.
 
-Thank you for considering it - it makes a real difference for these young men and their families.
+Thank you for considering supporting these young men and their families.
 
 Jason Younker
 TC North Stars 14U AA Travel Hockey
