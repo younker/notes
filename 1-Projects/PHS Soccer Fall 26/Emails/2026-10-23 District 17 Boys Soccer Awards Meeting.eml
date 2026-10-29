@@ -1,0 +1,426 @@
+Delivered-To: jyounker@northmen.org
+Received: by 2002:a05:622a:a590:b0:536:5045:1bc2 with SMTP id lp16csp97922qtb;
+        Fri, 23 Oct 2026 13:17:25 -0700 (PDT)
+X-Forwarded-Encrypted: i=3; AKwUvBwpoK3ust7mffENAlcBSGGigSlqNVbbXV/mlgjKaS6kLfiU64TpdI8dPapgQ7COIhS7s3jWWtH8+Q==@northmen.org
+X-Received: by 2002:a17:90b:2244:b0:3ab:a188:b898 with SMTP id 98e67ed59e1d1-3adea06d536mr530264a91.2.1792786645547;
+        Fri, 23 Oct 2026 13:17:25 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1792786645; cv=pass;
+        d=google.com; s=arc-20260327;
+        b=OgiYjwxClX0eorZjyIGOtNklqIG6MkBiLKqKWdrIyKGxmbhQmxLumZ3mHP/fV3HEIo
+         tfxP4fIOBQspkFZ6pmGJe4KVlS6zVxEesMuu6Xm7eFSidwKShsP0ENGjUNJuTFGazSy1
+         dk8U/8o7n9JJEtOj0MzI/Fg+B4rl9f/uMsccDQuCH9v15AZS40PnsvpzWbqwxf0KPJNe
+         27PzMogcE8auYqZhtFSkMaNATM40JJodJ4u9DOqO74NChc0qKtTIcs6ePWntKgR3e2ke
+         790AVbF8PTka0A7Xn6t3NqvaHK/UGdlU1eNJF4My+sXebxUXu+cTWW8mL7P+Y7d21kU1
+         EZ6A==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20260327;
+        h=mime-version:msip_labels:content-language:accept-language
+         :in-reply-to:references:message-id:date:thread-index:thread-topic
+         :subject:to:from:dkim-signature;
+        bh=H/4Sw1C93R2u7DW2s4FX/CmG/moqc8cGxZ3t3DgofVw=;
+        fh=txoFyQc52dg29tXfBHP29+LzLrS+/jJtgMLjC+gh+WE=;
+        b=oyN3pNPmlohEPeszD+wiwLgqGxqJxyJ1ME0WZDatnJJQPynv8bjX1lWZGyFbCvsuQz
+         0kbTotB2O7uFCYD+dL1vKVdA0jp4Uy5vigjgFDr6iUscRRuX5mD/eGJc9B28AmwWp8Cw
+         XFe9FXtrmKXAQWYurfpQVQ45H+Zgu2aJCrF7n4XAhX85H5OGW2BePRbKfi62W/RxPPTV
+         CxJdPmtH6pDBnE7M/c1k2MVl7ML6428iAswp/LrPeqoEiAQRIxbMIHaKx4N14cjwaTSu
+         db8y8vyeyZBX2AJnLq9TgDaCIfN0RHojom+HyWJsDuiq4n1DoOAZNl1yJ12My54I7oc4
+         UCXw==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@hotmail.com header.s=selector1 header.b=JR8BFVGV;
+       arc=pass (i=1);
+       spf=fail (google.com: domain of chasill@hotmail.com does not designate 2603:10b6:5:96::29 as permitted sender) smtp.mailfrom=chasill@hotmail.com
+Return-Path: <chasill@hotmail.com>
+Received: from SN4PR0501CU005.outbound.protection.outlook.com (mail-southcentralusazolkn190110001.outbound.protection.outlook.com. [2a01:111:f403:d10c::1])
+        by mx.google.com with ESMTPS id 41be03b00d2f7-cd8ccc5951bsi111773a12.84.2026.10.23.13.17.25
+        for <jyounker@northmen.org>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Fri, 23 Oct 2026 13:17:25 -0700 (PDT)
+Received-SPF: fail (google.com: domain of chasill@hotmail.com does not designate 2603:10b6:5:96::29 as permitted sender) client-ip=2603:10b6:5:96::29;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@hotmail.com header.s=selector1 header.b=JR8BFVGV;
+       arc=pass (i=1);
+       spf=fail (google.com: domain of chasill@hotmail.com does not designate 2603:10b6:5:96::29 as permitted sender) smtp.mailfrom=chasill@hotmail.com
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector10001; d=microsoft.com; cv=none;
+ b=f/tXiObEjZ946hhmp/8p7WLl+pTpz4ukj6S+iM+LADu8LNoeda50EJS3lUG3F+J/zsEYC4fsGVyChenhdQ3X0WpQqpeuX13PUUu1nPFCyfDu6X4/DNoJ4UOzPF0FDLjC4YE3OfFL7XKvp78LXOz+pAvaW5JT4s8Hpbvu69jlKNX6eTzyVjygI0qboqrz6QbRI/Nfy0y2EULL+Ggp2abiGoqUUvXCmiIKkyIOgrPGF9KWP+DM2sLNtBoAd3GwGUlm3qxjYEEMtGTx8Uj8ASCjlk7b/ui+zObZ9qIlRSXRezk2kizAWWg445MAW4ih/92VPq6vRC2b5u7z8lcZ0nTgfA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector10001; h=From:Date:Subject:Message-ID:MIME-Version;
+ bh=H/4Sw1C93R2u7DW2s4FX/CmG/moqc8cGxZ3t3DgofVw=;
+ b=al0vYWedMTb3nH4fyTq8oBuYwnc26DWOe3ACP9uwMxVS7aqF0HCu/MtP4JFEXH7RDp2WRzkqJLfllXVom9EC7WmcELiBeObZe+fATydelYsv9szaUlaGsChSeyvsXG2FCtaJbXTpb++wSYmEM5kcpO+ZXX6PUrUC5NUsBYM6ZXolkH7JWhN60P/ovYFz7Fol8y+ewEA4TXWnj0Ktr3kJNxmRba7vPvs1KbjcjZaYDK8rbOHpMAXKFiaqt2w9azalXhQ2/+pVpl5+c7E75YwUFcyCy4DfJRf1qjUigBt/5m3XL2E1xX8VjPgYzVFdJQAqzHqHZ6+4WpmYW1eQrFhLHg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hotmail.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=H/4Sw1C93R2u7DW2s4FX/CmG/moqc8cGxZ3t3DgofVw=;
+ b=JR8BFVGVy2ISI9+r3WL7EkK9+6vRocEwPd2eqtNCrfsO6qIHqkKp3V43AD10UjdngdTALewKh8BOYFROgjNdsZjCcph2WLcyed1w6kvUR5XFUlI0nby5Z7dxHaqL80l0hbBWleDQZ7dxAp9njbBFnwvlD9LJEv7QDXqDezBU3kCpcoaiGJ0kV+JA4gWSbjQuW8ON2PGnvh/v6RdB+ZPiNRjhk8kT8nZL4Maj8ZEb1WW0+c7Ljxprz406STFEcRPLjEi7lWuhREuLotOd/QI5o3TeXYisrUub0aUT9/UsJaoZgcnWT1Zd06XjkDsmzK3VVBs7a19fBX1WIEBsyLjKtw==
+Received: from DM6PR05MB4412.namprd05.prod.outlook.com (2603:10b6:5:96::29) by
+ LV0PR05MB998831.namprd05.prod.outlook.com (2603:10b6:408:384::19) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.21.546.19; Fri, 23 Oct
+ 2026 20:17:23 +0000
+Received: from DM6PR05MB4412.namprd05.prod.outlook.com
+ ([fe80::2e17:893:7f0a:aa9]) by DM6PR05MB4412.namprd05.prod.outlook.com
+ ([fe80::2e17:893:7f0a:aa9%3]) with mapi id 15.21.0522.013; Fri, 23 Oct 2026
+ 20:17:22 +0000
+From: Charles Hill <chasill@hotmail.com>
+To: "kd@alpenapower.com" <kd@alpenapower.com>, "B.contreras07@yahoo.com"
+	<B.contreras07@yahoo.com>, "jyounker@northmen.org" <jyounker@northmen.org>,
+	"macarthura1@michigan.gov" <macarthura1@michigan.gov>, "cabamac@yahoo.com"
+	<cabamac@yahoo.com>
+Subject: Re: District 17 Boys Soccer Awards Meeting
+Thread-Topic: District 17 Boys Soccer Awards Meeting
+Thread-Index: AQHdW+xySJ5dYMP30kClSGNnSCBSm7cFPE5hgAZg8qQ=
+Date: Fri, 23 Oct 2026 20:17:22 +0000
+Message-ID:
+ <DM6PR05MB441202C95BB03F85A35BDC43BF642@DM6PR05MB4412.namprd05.prod.outlook.com>
+References:
+ <DM6PR05MB441250FABD6B33F02AB22D4CBF9D2@DM6PR05MB4412.namprd05.prod.outlook.com>
+ <DM6PR05MB441269D6F1384C5CC389A9F8BF982@DM6PR05MB4412.namprd05.prod.outlook.com>
+In-Reply-To:
+ <DM6PR05MB441269D6F1384C5CC389A9F8BF982@DM6PR05MB4412.namprd05.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+msip_labels:
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: DM6PR05MB4412:EE_|LV0PR05MB998831:EE_
+x-ms-office365-filtering-correlation-id: 89026ffb-7255-4b21-cdbe-08df3142a5ab
+x-ms-exchange-slblob-mailprops:
+ WaIXnCbdHrO+2YmbT5jW+WUSUt4IT5vRpgXbYqNxk1cHaowcnqV8UvvJOVCSrl8f/s1qTrt3eftSqaGcvEl1QlxFIhQzuSeWhGL/Vvj5fuYpwZYscWJGAz1+SvX8/i5SFjsgcAy9xys+d5WJ5Ao6fNyG2xK1Bfw8dhwUJ1JV2KxBc3UTZ8lbPVcd11gqArJ2HGZaYbeGErIcJeg6i/3GJUX9k/TtMS2U3J4owWwMnVhwW5zOGB818h/q/cRjmh148chlHudr9hsblEoR+SOMEksGo07hx2UFBbwT/RR/tmgF/B+riMCrfe0QPbWDhK0WD6vFQfPhNNekubzey6lkOoMye5CAamAjAR6AT+vRkVgJPp52BPH1d2bReixWUHI4DExl8dGz2c99s5ODpuNxPT0fYNaclbFwAqJW/WjClk0SG4gVN5RTmjscz6PNlPJVQPcAMlJ7S77O6CKV+6RogCx9g3v7XPBqJLBXldcmGZ4tNaKpT2qnBEC3+IDGAovnmKpVhI/2lbXTWZZCkg65TTj5nMhQNrmhA9YoW7+hk+6fd0RWHtDxNh2Mt896iqY6uwm9JjZZG+5g/c8YilO3uTqqgfq+VZrJpOkgIVfYUv4PEj5B/J1axXt4ZaEAUlXJe1U3tunbDCmiPeQqmi+ZJwTtsCC3q5UTjUN93e1GHxMX0MF28GSg5hyjFVpE/jN1rWHHxd39YvIJmrhy1iaUoGBucpg501ePRV9fEIjEN3aTm5akiThOep53EY5JEhynFha5U3LDkIQ=
+x-microsoft-antispam:
+ BCL:0;ARA:14566002|37011999003|31061999003|15030799006|15080799012|9400799043|25031999004|51005399006|12121999013|19110799012|8060799015|8062599012|24021099003|25010399006|3412199025|440099028|102099032|10035399007|40105399003;
+x-microsoft-antispam-message-info:
+ =?Windows-1252?Q?++ir5rSNRs8V92S9lRhcCKAbbI41ZujpJsBEh42nSivKPB06ivHHzN1D?=
+ =?Windows-1252?Q?I6RtJ58IaTAQNK6LR81OleGZ/cBGsTAAE/OsuipaGKMvQH/1PzflibSI?=
+ =?Windows-1252?Q?VDut14IWN/idFrPltXV8Uq6Yg5O2q/OCfjcxU/im7iXvoDgXuVDsXovZ?=
+ =?Windows-1252?Q?CTNf97HgunVb+gaqMTaVqVew5mZ6mVssiIEiC9EtMEQdyhU+gmZJghaH?=
+ =?Windows-1252?Q?0+aq+ETf66UV8IetSBhGXD1khnIOhllKmpeHyg52Tm7e5udJvUenEjCa?=
+ =?Windows-1252?Q?MFUUwJAioH2uD0RR1I8JF5LII6KpqmaOMKeA2iJc2mRkcex5Tg3jiPRK?=
+ =?Windows-1252?Q?oUupNq2NnETsea+qyEQ5oQXnUOaG0q9Bh/wA860lVxG+rzZXSpQGYO4g?=
+ =?Windows-1252?Q?2cYsZ+cTf4C5XXbxs662OGhZiTD5kQ3MlyftgQQ1dsnLcojJpMhhDHIT?=
+ =?Windows-1252?Q?BR3bpiyCP0biJEqyh1mvzdEgKmaQbLeCUjWT3ryMoQ62D+W5CHO2sL8E?=
+ =?Windows-1252?Q?f3CwHhZrX0BsOwMSnBHAF/0FNre82+OmKiePmVJsdrg0AEFZOFyxe5Cm?=
+ =?Windows-1252?Q?xr3Srv/Uib35IfGdlv5wXPev7TrlWl6He2ouWuWNyTnYpo0TYvJ0CS3U?=
+ =?Windows-1252?Q?zbCnsyjsM9V+G60CwqE0awx0dU/4/k+f59aI5sAUKtJL9qLagLqyh/Le?=
+ =?Windows-1252?Q?CZwBei/oJTwJbhE3rf9+/EdqIZGUILk3kuMmZx6r64DVrPbOPJa27Q9o?=
+ =?Windows-1252?Q?G6zVN34XkfVz+4zkVGXsH1SvPSOTCmdp0G/5ug1SG+/MXwXfwDrr2SVz?=
+ =?Windows-1252?Q?ztoVBvrhs/o7vyGXIX9zOHZLB1iueau+WCOq/WpR80GFsnEHpaMaZfnI?=
+ =?Windows-1252?Q?3r/DpGJV2NygnJJPbuIuwAbkTK1BASlDEeyXoYH9czbmSuDkrWYdyagv?=
+ =?Windows-1252?Q?sWLp9i3o8lggk8QKwR2UskmQbokL9RFX1tIAzvgQtEOUgmm0Ag1boJDH?=
+ =?Windows-1252?Q?QYb8kX7AdUyGLNAnqh8rsmAWw7XrlT3caz3ZNYTgWANWEf0chN7O2dLu?=
+ =?Windows-1252?Q?EgAQ/z7cg1eXssVDTOZAy7ZiD0CcY218pqp9QP/JqiKR3B0EQwPqiwls?=
+ =?Windows-1252?Q?Y1202WTVa7P997V3snXHH3xH?=
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?Windows-1252?Q?ENhCQ6sC69x2PJbEQ8BPmqK3Ei11j46KzSYXFH35P6WP7w7Bk2NFqaVN?=
+ =?Windows-1252?Q?VndWO9nRhT5VoYfTgOZ5dDyP1RWAcU/jE3tN6zXEr7ssNY+qc5ldxjm7?=
+ =?Windows-1252?Q?55pVHANyIiB/JW0G0OEaXpE7olgOOTh3A6dZgq+pw2rrH925jUjV7UaL?=
+ =?Windows-1252?Q?HCsQ3t/J3+VQDED98Iz1g2xBzXBKCP6LrLzib1Bcbf43u7WFleSaLiWy?=
+ =?Windows-1252?Q?q0E3Mylte4deWcLETvH5hBcBYIIe62sBMMGGrM+xARWNLvGQRtzLE7Za?=
+ =?Windows-1252?Q?aHx4H39zHdgZIsQ+wWdtsxLGff6szJb6yhvsHaYvmMQ+yYszeVetBY4I?=
+ =?Windows-1252?Q?CxjYWri14q916OtVyUXeEvjPcN48NM1O1OlT+jsxTj2h2igxkXmGLjdz?=
+ =?Windows-1252?Q?1WsH5Io08sVas+TbwDTarOnUJ7GRO9DdySTvCmVdXNIRIhi+D6sXNRf9?=
+ =?Windows-1252?Q?EJB6w2b5S0S4JrQ5Xzfo0zwjeMcAkMg4Pt/Y2ZCJtKb9qTbg/ldjHGGw?=
+ =?Windows-1252?Q?2Iw3rxIeyWvYDeuZZ1ZbNFjy0aK0p6PsEC01lyBHXVuJ70cumwRmjOa6?=
+ =?Windows-1252?Q?c2bivirHlrM9Q98OPXoaiKnAmo7PqkJPYz33DbgollAbG57MNb07+D/n?=
+ =?Windows-1252?Q?dnomBEOOipZV7SxNsPA3rTJJAEKJxPAmWGL+W/pCH3yAMWRmmecc5oUH?=
+ =?Windows-1252?Q?rDUBwD9IaK2ds0T7m6o/IuMbaAyzCVdA62QjoDao+epdlxvadTFb+u31?=
+ =?Windows-1252?Q?XtgUh0NZFWDAJhuYvTSfiX/zN6RY7PiDiKh5r0HyNYYlpQ5UeS9K2mU4?=
+ =?Windows-1252?Q?BJRWcV73dOY1vfaXXU+t6wmtVThqaR4qyfgghFC7gPi7sCEv4sqxe3bU?=
+ =?Windows-1252?Q?cbZNBEZaj+xfulI/ioksauJeR2UxTYV+Hrq00sC94swvPL+tIVulsIvh?=
+ =?Windows-1252?Q?ukZeMfxsM+O0cqWTmD2aA37OSF45EApqfNFFmj0GE62Wp/DKyCIWWEav?=
+ =?Windows-1252?Q?3mW43rvnh8C3017WxUYugg2smusWAGA3mmzCGu3Xt40kB9Z9yXA8r2IL?=
+ =?Windows-1252?Q?jDnd1Z9Jv7BizzT5f+SUy30cASVXNQIx3bbnc/AME+jGjsZ4YyLL3cUn?=
+ =?Windows-1252?Q?SNuzzo6T1rY72r9xP5TmEvu/tPdxxkqAtBz7t19gE+jZTBNcV+npMqzV?=
+ =?Windows-1252?Q?UON5A79tA0GKEvB0vYwYgGvYjsiyk5AB9ExW/EI8ORWiq5w5HCB7a8VU?=
+ =?Windows-1252?Q?u7qKpEEn9tMaRCmmnnxB0wOF+ndGIIqoi+qMkMpxAffeMqjCJXjHRjZQ?=
+ =?Windows-1252?Q?fbVC+zEYG2K3zNIgv4AyFF6KqItJ7EAwZlm0BsbEFT7fVt3PD7h2OVYV?=
+ =?Windows-1252?Q?BQ7VPB0HtpFwql0HMdDZLM3ZVnbA/tpg0C8pDB/i7itwA2CKdhj34rZs?=
+ =?Windows-1252?Q?g0YvQewvzen4Mwo93w+hEMjnVCqdqY+kEriXiQ/c44U=3D?=
+Content-Type: multipart/alternative;
+	boundary="_000_DM6PR05MB441202C95BB03F85A35BDC43BF642DM6PR05MB4412namp_"
+MIME-Version: 1.0
+X-OriginatorOrg: sct-15-20-9343-9-msonline-outlook-c6799.templateTenant
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DM6PR05MB4412.namprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: 89026ffb-7255-4b21-cdbe-08df3142a5ab
+X-MS-Exchange-CrossTenant-originalarrivaltime: 23 Oct 2026 20:17:22.6756
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: LV0PR05MB998831
+X-Gm-Spam: 1
+X-Gm-Phishy: 0
+
+--_000_DM6PR05MB441202C95BB03F85A35BDC43BF642DM6PR05MB4412namp_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Below is the information for the Zoom meeting scheduled for this Sunday, Oc=
+tober 25 at 7pm. Details regarding the awards selection process and other r=
+elated information are in the below original email. Please let me know if y=
+ou have any questions. Thanks!
+
+-Charlie
+
+https://us05web.zoom.us/j/86074501404?pwd=3DVAJzZfuCaewVsG2mX0Vxp13FmRXrgF.=
+1
+
+Meeting ID: 86074501404
+
+Passcode: WU8E6Y
+
+
+________________________________
+From: Charles Hill <chasill@hotmail.com>
+Sent: Monday, October 19, 2026 2:48 PM
+To: kd@alpenapower.com <kd@alpenapower.com>; B.contreras07@yahoo.com <B.con=
+treras07@yahoo.com>; jyounker@northmen.org <jyounker@northmen.org>; macarth=
+ura1@michigan.gov <macarthura1@michigan.gov>; cabamac@yahoo.com <cabamac@ya=
+hoo.com>
+Subject: Re: District 17 Boys Soccer Awards Meeting
+
+Hello,
+
+I wanted to check in again since I haven't heard back from a couple of you.=
+ Please let me know if you received the below message and are available to =
+meet Sunday, October 25 at 7pm for the district meeting. Thanks!
+
+-Charlie Hill
+Head Coach
+Marquette Boys Varsity Soccer
+
+________________________________
+From: Charles Hill <chasill@hotmail.com>
+Sent: Wednesday, October 14, 2026 11:28 AM
+To: kd@alpenapower.com <kd@alpenapower.com>; B.contreras07@yahoo.com <B.con=
+treras07@yahoo.com>; jyounker@northmen.org <jyounker@northmen.org>; macarth=
+ura1@michigan.gov <macarthura1@michigan.gov>
+Subject: District 17 Boys Soccer Awards Meeting
+
+Hello Coaches:
+
+Congratulations on another soccer season and good luck in the playoffs. I w=
+as asked to be District 17 chair this season and am tasked with holding the=
+ District Awards meeting. Typically, we hold the district meeting on Sunday=
+ evening after districts and I hope to conduct ours on Sunday, 10/25 at 7 p=
+m via Zoom. It should only take 20-30 minutes.
+
+Information:
+
+For players to be eligible for All-District recognition, as well as All-Reg=
+ion and All-State, they must be entered into the system before the meeting =
+begins. Please visit www.mihssca.com<http://www.mihssca.com/> to register a=
+nd set-up your team profile for the current fall season if you haven=92t al=
+ready done so. There is no need to enter your entire roster into the system=
+, just the players you think have earned at least All-District recognition.=
+ In addition to the District coach of the year, we will select our 3 All Di=
+strict GKs first, top 5 defenders, and then the 24 field players. Keepers, =
+top 5 defenders, and the top 12 field players will advance to the All-Regio=
+n meeting. If a player makes the All-Region team, they are guaranteed to be=
+ at least All-State Honorable Mention.
+
+Please confirm that you received this message and that Sunday evening, Octo=
+ber 25 at 7 works. I will follow up with the Zoom meeting information after=
+ I receive confirmations. Please also let me know if you have any questions=
+ about the process. Thanks!
+
+-Charlie Hill
+Head Coach
+Marquette Boys Varsity Soccer
+
+
+
+--_000_DM6PR05MB441202C95BB03F85A35BDC43BF642DM6PR05MB4412namp_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DWindows-1=
+252">
+<style type=3D"text/css" style=3D"display:none;"> P {margin-top:0;margin-bo=
+ttom:0;} </style>
+</head>
+<body dir=3D"ltr">
+<div class=3D"elementToProof" style=3D"font-family: Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Hello,</div>
+<div class=3D"elementToProof" style=3D"font-family: Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Below is the information for the Zoom meeting scheduled for this Sunday, Oc=
+tober 25 at 7pm. Details regarding the awards selection process and other r=
+elated information are in the below original email. Please let me know if y=
+ou have any questions. Thanks!</div>
+<div class=3D"elementToProof" style=3D"font-family: Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+-Charlie</div>
+<div class=3D"elementToProof" style=3D"font-family: Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<a href=3D"https://us05web.zoom.us/j/86074501404?pwd=3DVAJzZfuCaewVsG2mX0Vx=
+p13FmRXrgF.1">https://us05web.zoom.us/j/86074501404?pwd=3DVAJzZfuCaewVsG2mX=
+0Vxp13FmRXrgF.1</a></div>
+<div class=3D"elementToProof" style=3D"font-family: Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div class=3D"elementToProof" style=3D"font-family: Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Meeting ID: 86074501404</div>
+<div class=3D"elementToProof" style=3D"font-family: Calibri, Helvetica, san=
+s-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+Passcode: WU8E6Y</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"font-family: Calibri, Helvetica, sans-serif; font-size: 12pt;=
+ color: rgb(0, 0, 0);">
+<br>
+</div>
+<hr style=3D"display: inline-block; width: 98%;">
+<div id=3D"divRplyFwdMsg">
+<div style=3D"direction: ltr; font-family: Calibri, sans-serif; font-size: =
+11pt; color: rgb(0, 0, 0);">
+<b>From:</b> Charles Hill &lt;chasill@hotmail.com&gt;<br>
+<b>Sent:</b> Monday, October 19, 2026 2:48 PM<br>
+<b>To:</b> kd@alpenapower.com &lt;kd@alpenapower.com&gt;; B.contreras07@yah=
+oo.com &lt;B.contreras07@yahoo.com&gt;; jyounker@northmen.org &lt;jyounker@=
+northmen.org&gt;; macarthura1@michigan.gov &lt;macarthura1@michigan.gov&gt;=
+; cabamac@yahoo.com &lt;cabamac@yahoo.com&gt;<br>
+<b>Subject:</b> Re: District 17 Boys Soccer Awards Meeting</div>
+<div style=3D"direction: ltr;">&nbsp;</div>
+</div>
+<div style=3D"direction: ltr; font-family: Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+Hello,</div>
+<div style=3D"direction: ltr; font-family: Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; font-family: Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+I wanted to check in again since I haven't heard back from a couple of you.=
+ Please let me know if you received the below message and are available to =
+meet Sunday, October 25 at 7pm for the district meeting. Thanks!</div>
+<div style=3D"direction: ltr; font-family: Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; font-family: Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+-Charlie Hill</div>
+<div style=3D"direction: ltr; margin: 0px; font-family: Calibri, Helvetica,=
+ sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Head Coach</div>
+<div style=3D"direction: ltr; margin: 0px; font-family: Calibri, Helvetica,=
+ sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Marquette Boys Varsity Soccer&nbsp;</div>
+<div style=3D"direction: ltr; font-family: Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<hr style=3D"direction: ltr; display: inline-block; width: 98%;">
+<div id=3D"x_divRplyFwdMsg">
+<div style=3D"direction: ltr; font-family: Calibri, sans-serif; font-size: =
+11pt; color: rgb(0, 0, 0);">
+<b>From:</b> Charles Hill &lt;chasill@hotmail.com&gt;<br>
+<b>Sent:</b> Wednesday, October 14, 2026 11:28 AM<br>
+<b>To:</b> kd@alpenapower.com &lt;kd@alpenapower.com&gt;; B.contreras07@yah=
+oo.com &lt;B.contreras07@yahoo.com&gt;; jyounker@northmen.org &lt;jyounker@=
+northmen.org&gt;; macarthura1@michigan.gov &lt;macarthura1@michigan.gov&gt;=
+<br>
+<b>Subject:</b> District 17 Boys Soccer Awards Meeting</div>
+<div style=3D"direction: ltr;">&nbsp;</div>
+</div>
+<div style=3D"direction: ltr; font-family: Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+Hello Coaches:</div>
+<div style=3D"direction: ltr; font-family: Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; font-family: Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+Congratulations on another soccer season and good luck in the playoffs. I w=
+as asked to be District 17 chair this season and am tasked with holding the=
+ District Awards meeting. Typically, we hold the district meeting&nbsp;on S=
+unday evening after districts and I hope
+ to conduct ours on Sunday, 10/25 at 7 pm via Zoom. It should only take 20-=
+30 minutes.&nbsp;</div>
+<div style=3D"direction: ltr; margin: 0px; font-family: Calibri, Helvetica,=
+ sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; margin: 0px; font-family: Calibri, Helvetica,=
+ sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Information:<br>
+<br>
+For players to be eligible for All-District&nbsp;recognition, as well as Al=
+l-Region&nbsp;and All-State, they must be entered into the system before th=
+e meeting&nbsp;begins. Please visit
+<a href=3D"http://www.mihssca.com/" id=3D"OWA3a303ce7-a64a-78a8-9670-2ac96f=
+3b5625" class=3D"x_OWAAutoLink" title=3D"http://www.mihssca.com/" data-auth=
+=3D"NotApplicable">
+www.mihssca.com</a>&nbsp;to register and set-up your team profile for the c=
+urrent fall season if you haven=92t already done so.
+<b>There is no need to enter your entire roster into the system, just the p=
+layers you think have earned at least All-District&nbsp;recognition.</b>&nb=
+sp;In addition to the District coach of the year, we will select our 3 All =
+District&nbsp;GKs first, top 5 defenders, and then
+ the 24 field players. Keepers, top 5 defenders, and the top 12 field playe=
+rs will advance to the All-Region meeting. If a player makes the All-Region=
+&nbsp;team, they are guaranteed to be at least All-State Honorable Mention.=
+&nbsp;<br>
+&nbsp;<br>
+Please confirm that you received this message and that Sunday evening, Octo=
+ber 25 at 7 works. I will follow up with the Zoom meeting information after=
+ I receive confirmations. Please also let me know if you have any questions=
+ about the process. Thanks!&nbsp;</div>
+<div style=3D"direction: ltr; margin: 0px; font-family: Calibri, Helvetica,=
+ sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; margin: 0px; font-family: Calibri, Helvetica,=
+ sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+-Charlie Hill</div>
+<div style=3D"direction: ltr; margin: 0px; font-family: Calibri, Helvetica,=
+ sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Head Coach</div>
+<div style=3D"direction: ltr; margin: 0px; font-family: Calibri, Helvetica,=
+ sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+Marquette Boys Varsity Soccer&nbsp;</div>
+<div style=3D"direction: ltr; margin: 0px; font-family: Calibri, Helvetica,=
+ sans-serif; font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+<div style=3D"direction: ltr; font-family: Calibri, Helvetica, sans-serif; =
+font-size: 12pt; color: rgb(0, 0, 0);">
+<br>
+</div>
+</body>
+</html>
+
+--_000_DM6PR05MB441202C95BB03F85A35BDC43BF642DM6PR05MB4412namp_--

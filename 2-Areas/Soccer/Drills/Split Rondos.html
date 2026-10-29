@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Split Rondos</title>
+<style>
+  :root {
+    --bg: #f4f4f0; --ink: #1d1d1b; --muted: #5d5d58; --card: #ffffff;
+    --field: #3f8a4a; --field-line: rgba(255,255,255,0.55);
+    --cone: #f28c28; --player: #ffffff; --pass: #ffe14d; --run: #ffffff; --shot: #ff5a5a;
+  }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 -apple-system, system-ui, sans-serif; }
+  main { max-width: 1200px; margin: 0 auto; padding: 24px 16px; }
+  h1 { margin: 0 0 8px; font-size: 1.5rem; }
+  h2 { font-size: 1rem; margin: 0 0 8px; }
+  .intro { margin: 0 0 20px; max-width: 70ch; }
+  main.single { display: grid; grid-template-columns: minmax(0, 440px) 1fr; gap: 32px; align-items: start; }
+  @media (max-width: 760px) { main.single { grid-template-columns: 1fr; } }
+  .parts { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+  .part { background: var(--card); border-radius: 10px; padding: 14px; }
+  svg { width: 100%; height: auto; border-radius: 8px; display: block; margin-bottom: 12px; }
+  ol { padding-left: 1.2em; margin: 0; }
+  li { margin-bottom: 6px; }
+  .legend { display: flex; flex-wrap: wrap; gap: 8px 24px; font-size: 0.9rem; color: var(--muted); margin-top: 20px; }
+  .legend svg { width: 40px; height: 16px; display: inline-block; vertical-align: middle; margin: 0 8px 0 0; border-radius: 0; }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <marker id="a-pass" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--pass)"/></marker>
+    <marker id="a-run" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--run)"/></marker>
+    <marker id="a-shot" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--shot)"/></marker>
+    <g id="cone"><path d="M-12,10 L0,-13 L12,10 z" fill="var(--cone)" stroke="#8a4a0e" stroke-width="1.5"/></g>
+    <g id="ball"><circle r="6" fill="#ffffff" stroke="#1d1d1b" stroke-width="1.5"/><path d="M-3,-2 L0,-4 L3,-2 L2,2 L-2,2 z" fill="#1d1d1b"/></g>
+  </defs>
+</svg>
+<!--
+  Element snippets. Copy these exactly; change coordinates only.
+
+  Field + end line (goal end at top):
+    <rect width="460" height="470" fill="var(--field)"/>
+    <rect x="12" y="12" width="436" height="446" fill="none" stroke="var(--field-line)" stroke-width="2"/>
+    <line x1="12" y1="72" x2="448" y2="72" stroke="var(--field-line)" stroke-width="2"/>
+  Goal:
+    <path d="M126,72 L126,28 L286,28 L286,72" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+  Pass (solid yellow):
+    <path d="M84,418 L166,418" fill="none" stroke="var(--pass)" stroke-width="3" stroke-linecap="round" marker-end="url(#a-pass)"/>
+  Movement (dotted white):
+    <path d="M190,402 L182,332" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round" marker-end="url(#a-run)"/>
+  Dribble (wavy white). Draw along +x from 0,0, then translate to the start point and rotate to the heading in degrees.
+  Add one "t10,0" per 10px of length:
+    <path d="M0,0 q5,-6 10,0 t10,0 t10,0 t10,0 t10,0 t10,0" transform="translate(200,300) rotate(-90)" fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)"/>
+  Shot (thick solid red):
+    <path d="M200,228 L206,82" fill="none" stroke="var(--shot)" stroke-width="4" marker-end="url(#a-shot)"/>
+  Spin (small circular arrow beside the player):
+    <path d="M228,414 A12,12 0 1,1 220,398" fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)"/>
+  Cone:
+    <use href="#cone" x="138" y="208"/>
+  Ball (a stationary ball; place it where a shot or dribble starts):
+    <use href="#ball" x="206" y="270"/>
+  Player:
+    <text x="62" y="432" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">1</tspan></text>
+  Goalkeeper:
+    <text x="206" y="60" font-size="16" font-weight="700" fill="var(--player)" text-anchor="middle">GK</text>
+  Step badge (fill = action color: var(--pass), var(--run), or var(--shot)):
+    <circle cx="124" cy="400" r="11" fill="var(--pass)"/><text x="124" y="405" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">1</text>
+-->
+<main class="single">
+  <div>
+    <h1>Split Rondos</h1>
+    <svg viewBox="0 0 460 470" role="img" aria-label="Drill diagram">
+      <rect width="460" height="470" fill="var(--field)"/>
+      <rect x="90" y="90" width="280" height="280" fill="none" stroke="var(--field-line)" stroke-width="2"/>
+      <use href="#cone" x="90" y="90"/>
+      <use href="#cone" x="370" y="90"/>
+      <use href="#cone" x="90" y="370"/>
+      <use href="#cone" x="370" y="370"/>
+      <path d="M216,396 L82,256" fill="none" stroke="var(--pass)" stroke-width="3" stroke-linecap="round" marker-end="url(#a-pass)"/>
+      <path d="M408,128 L408,214" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round" marker-end="url(#a-run)"/>
+      <path d="M84,232 L390,232" fill="none" stroke="var(--pass)" stroke-width="3" stroke-linecap="round" marker-end="url(#a-pass)"/>
+      <text x="230" y="412" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">1</tspan></text>
+      <text x="62" y="240" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">2</tspan></text>
+      <text x="230" y="64" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">3</tspan></text>
+      <text x="408" y="120" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">4</tspan></text>
+      <text x="230" y="176" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">O<tspan font-size="12" dy="-8">1</tspan></text>
+      <text x="230" y="304" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">O<tspan font-size="12" dy="-8">2</tspan></text>
+      <circle cx="126" cy="340" r="11" fill="var(--pass)"/><text x="126" y="345" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">1</text>
+      <circle cx="432" cy="172" r="11" fill="var(--run)"/><text x="432" y="177" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">2</text>
+      <circle cx="152" cy="214" r="11" fill="var(--pass)"/><text x="152" y="219" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">3</text>
+    </svg>
+  </div>
+  <div>
+    <h2>Setup</h2>
+    <p>Three 12x12 yard grids, each with a cone on every corner. Six players per grid: four Xs, one on each side of the grid, and two Os inside. All 18 players work, GKs included. The diagram shows one grid.</p>
+    <p>Eight passes in a row scores 1 point. A split pass between the two Os scores 2. When an O wins the ball, that O swaps with the X who lost it.</p>
+    <p>Play 4 rounds of 3 minutes with 45 seconds rest. Rounds 3 and 4 are 2-touch max.</p>
+    <h2>Sequence</h2>
+    <ol>
+      <li>X1 passes to X2.</li>
+      <li>X4 checks along the side of the grid to open a lane between O1 and O2.</li>
+      <li>X2 passes to X4 between O1 and O2. A split pass scores 2 points.</li>
+    </ol>
+    <h2 style="margin-top:20px">Coaching points</h2>
+    <ul>
+      <li>Check your shoulder before the ball arrives. Know where the split lane is.</li>
+      <li>Open your body. Point your hips where you want to play.</li>
+      <li>Move along your side to make the angle. Don&#x27;t stand still.</li>
+      <li>Firm pass through the middle. Watch the weight, not just the direction.</li>
+    </ul>
+    <div class="legend">
+      <div><svg viewBox="0 0 40 16"><path d="M20,2 L28,14 L12,14 z" fill="var(--cone)"/></svg>Cone</div>
+      <div><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--pass)" stroke-width="3"/></svg>Pass</div>
+      <div><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 5"/></svg>Movement</div>
+    </div>
+  </div>
+</main>
+</body>
+</html>

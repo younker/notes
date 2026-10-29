@@ -23,7 +23,7 @@ Varsity head coach starting Fall 2026.
 
 ### Athletic Department
 - [[Joel Dohm]] - AD (outgoing) - hired me
-- [[Mike Baker]] - AD (incoming)
+- [[Mike Bakker]] - AD (incoming)
 - [[Eric Liebler]] - Program Assistant (outgoing)
 - [[Trevor Garbo]] - Strength & Conditioning
 
@@ -36,12 +36,17 @@ Varsity head coach starting Fall 2026.
 - [[Sarah Jonker]] - former booster ([[Zach Jonker]]'s wife)
 - [[Meghan Poll]] - parent volunteer
 
+## Conference
+
+- [[BNC Coaching Contacts 2026-27]] - Big North Conference coaching directory (all schools/sports)
+
 ## Notes
 
 - See [[Program Context]] for the full synthesized program context (numbers, schedule, communication, etc.).
 - See [[Boys Soccer Fall 26]] for the 2026 schedule.
 - See [[Coaching Certifications]] for license tracking.
 - See [[PHS Operations]] for the evergreen volunteer/concession/charter-bus/senior-night playbook.
+- Athletics website: https://www.petoskeyathletics.org/ (live schedules). Registration, physicals, and eligibility run through FinalForms as of 2026-09-30; it replaces "Ok to Play" cards. See [[2026-09-30 Important News From the Petoskey Athletic Department]].
 
 ## Related
 

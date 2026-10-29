@@ -113,6 +113,13 @@ Set up a night with [[Bryan Goyings]] for a home game. Get [[Gary]] a list of th
 
 Parent can set this up via Carter's (or another vendor). Significant fundraiser. [[Jenni Attie]] owns this currently.
 
+## Ball Kids & Printed Roster (2026)
+
+Cleared with [[Rosanne Schaub]] in the athletic office on 2026-08-24 -- see [[2026-08-24 Soccer questions]].
+
+- **Ball kids:** [[PYSA]] players who work a game get in free, plus one parent, as long as they arrive together at the gate. Give Rosanne a headcount per game so the ticket taker knows.
+- **Sponsor logos on the roster:** send Rosanne the logos and/or sponsor names; she inserts them on the version she prints for home games.
+
 ## Related
 
 - [[PHS]] -- org hub

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<title>2026-09-28 Varsity Practice Plan</title>
+<style>
+  :root { --ink:#1d1d1b; --muted:#5d5d58; --field:#3f8a4a; --field-line:rgba(255,255,255,0.55); --cone:#f28c28; --player:#fff; --pass:#ffe14d; --run:#fff; --shot:#ff5a5a; }
+  @page { size: letter; margin: 0.4in; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:#fff; color:var(--ink); font:10pt/1.35 -apple-system, system-ui, sans-serif; -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+  .page { width:7.7in; height:10.2in; display:flex; flex-direction:column; gap:0.12in; page-break-after:always; margin:0 auto; overflow:hidden; }
+  .page:last-child { page-break-after:auto; }
+  header { display:flex; justify-content:space-between; align-items:baseline; border-bottom:2px solid var(--ink); padding-bottom:4px; }
+  h1 { font-size:14pt; margin:0; }
+  .meta { color:var(--muted); }
+  .drill { flex:1; display:flex; gap:0.2in; border:1px solid #ccc; border-radius:6px; padding:0.12in; min-height:0; }
+  .dia { width:3.8in; flex:none; display:flex; justify-content:center; }
+  .dia svg { height:100%; width:auto; max-width:100%; border-radius:4px; }
+  .txt { flex:1; min-width:0; }
+  h2 { font-size:12pt; margin:0 0 2px; }
+  h3 { font-size:9.5pt; margin:4px 0 2px; }
+  .time { color:var(--muted); margin-bottom:6px; }
+  p { margin:0 0 6px; }
+  ol { margin:0; padding-left:1.3em; }
+  li { margin-bottom:3px; }
+  .cp { margin-top:8px; }
+  .wide { flex-direction:column; gap:4px; }
+  .p2 .wide { flex:1.12; } .p2 .drill:not(.wide) { flex:0.88; }
+  .wide .head { display:flex; gap:0.3in; align-items:baseline; }
+  .wide .setup { margin:0; }
+  .parts { display:grid; grid-template-columns:repeat(3,1fr); gap:0.15in; }
+  .part svg { width:100%; height:auto; border-radius:4px; display:block; }
+  .part ol { font-size:9pt; }
+  .legend { display:flex; flex-wrap:wrap; gap:4px 16px; color:var(--muted); font-size:9pt; }
+  .legend svg { width:28px; height:11px; vertical-align:middle; margin-right:4px; }
+  @media screen { body { background:#e8e8e4; padding:16px 0; } .page { background:#fff; padding:0.4in; width:8.5in; height:11in; margin-bottom:16px; box-shadow:0 1px 4px rgba(0,0,0,.2); } }
+</style></head><body>
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <marker id="a-pass" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--pass)"/></marker>
+    <marker id="a-run" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--run)"/></marker>
+    <marker id="a-shot" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--shot)"/></marker>
+    <g id="cone"><path d="M-12,10 L0,-13 L12,10 z" fill="var(--cone)" stroke="#8a4a0e" stroke-width="1.5"/></g>
+  </defs>
+</svg>
+<div class="page"><header><h1>PHS Varsity - Practice Plan</h1><div class="meta">Mon, Sep 28, 2026 &nbsp; Page 1 of 2</div></header><section class="drill ">
+    <div class="dia"><svg viewBox="0 0 460 680" role="img" aria-label="Drill diagram">
+    
+
+    <rect width="460" height="680" fill="var(--field)"/>
+    <rect x="12" y="12" width="436" height="656" fill="none" stroke="var(--field-line)" stroke-width="2"/>
+
+    <!-- passes: up on the left, down on the right -->
+    <g stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)">
+      <line x1="210" y1="485" x2="210" y2="200"/>
+      <line x1="240" y1="200" x2="240" y2="485"/>
+      <line x1="222" y1="485" x2="222" y2="200"/>
+      <line x1="252" y1="200" x2="252" y2="485"/>
+    </g>
+    <g font-size="13" font-weight="700" text-anchor="middle">
+      <circle cx="210" cy="290" r="10" fill="var(--pass)"/><text x="210" y="295" fill="#1d1d1b">1</text>
+      <circle cx="240" cy="265" r="10" fill="var(--pass)"/><text x="240" y="270" fill="#1d1d1b">2</text>
+      <circle cx="222" cy="410" r="10" fill="var(--pass)"/><text x="222" y="415" fill="#1d1d1b">3</text>
+      <circle cx="252" cy="430" r="10" fill="var(--pass)"/><text x="252" y="435" fill="#1d1d1b">4</text>
+    </g>
+
+    <!-- runs after passing (solid) -->
+    <g fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)">
+      <polyline points="212,512 124,512 214,604"/>
+      <polyline points="248,168 336,168 244,76"/>
+    </g>
+    <!-- runs to receive (dashed) -->
+    <g fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="9 6" marker-end="url(#a-run)">
+      <polyline points="246,604 336,512 256,512"/>
+      <polyline points="216,76 124,168 204,168"/>
+    </g>
+
+    <!-- cones: top triangle, gate, bottom triangle -->
+    <use href="#cone" x="230" y="62"/>
+    <use href="#cone" x="110" y="178"/>
+    <use href="#cone" x="350" y="178"/>
+    <use href="#cone" x="196" y="342"/>
+    <use href="#cone" x="264" y="342"/>
+    <use href="#cone" x="110" y="502"/>
+    <use href="#cone" x="350" y="502"/>
+    <use href="#cone" x="230" y="618"/>
+
+    <!-- players at start -->
+    <g font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">
+      <text x="275" y="60">X<tspan font-size="12" dy="-8">4</tspan></text>
+      <text x="230" y="190">X<tspan font-size="12" dy="-8">3</tspan></text>
+      <text x="230" y="508">X<tspan font-size="12" dy="-8">1</tspan></text>
+      <text x="275" y="636">X<tspan font-size="12" dy="-8">2</tspan></text>
+    </g>
+  </svg></div>
+    <div class="txt">
+      <h2>1. Pass and Touch Cones</h2>
+      <div class="time">Time: ______ min</div>
+      <p><b>Setup.</b> Two cone triangles facing each other across a middle gate. Two players per triangle: one in the middle, one at the back cone.</p>
+      <ol><li>X1 passes through the gate to X3, runs to touch a side cone, then goes to the back cone. X2 touches the other side cone and sets up in the middle.</li><li>X3 passes to X2 and does the same run while X4 rotates into the top middle.</li><li>X2 passes to X4, then runs to the back cone as X1 rotates into the middle.</li><li>X4 passes to X1 and runs as X3 rotates in.</li><li>Repeat. Pass order: X1 > X3 > X2 > X4 > X1.</li></ol>
+      
+    </div>
+  </section><section class="drill ">
+    <div class="dia"><svg viewBox="0 0 460 500" role="img" aria-label="Drill diagram">
+    
+
+    <rect width="460" height="500" fill="var(--field)"/>
+    <rect x="12" y="12" width="436" height="476" fill="none" stroke="var(--field-line)" stroke-width="2"/>
+
+    <!-- goal: open on the field side -->
+    <path d="M150,72 L150,28 L310,28 L310,72" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+    <line x1="12" y1="72" x2="448" y2="72" stroke="var(--field-line)" stroke-width="2"/>
+
+    <!-- passes -->
+    <g stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" fill="none" marker-end="url(#a-pass)">
+      <line x1="72" y1="346" x2="100" y2="426"/>
+      <line x1="120" y1="426" x2="92" y2="346"/>
+      <line x1="94" y1="326" x2="246" y2="398"/>
+    </g>
+    <!-- X1 run around the outside of the near cone -->
+    <path d="M134,456 C190,476 240,466 256,420" fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)"/>
+    <!-- set-up touch through the far side -->
+    <line x1="274" y1="398" x2="322" y2="350" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 5" stroke-linecap="round" marker-end="url(#a-run)"/>
+    <!-- shot -->
+    <line x1="326" y1="336" x2="262" y2="80" stroke="var(--shot)" stroke-width="3" marker-end="url(#a-shot)"/>
+
+    <!-- cones -->
+    <use href="#cone" x="200" y="424"/>
+    <use href="#cone" x="260" y="350"/>
+    <use href="#cone" x="332" y="432"/>
+
+    <!-- players -->
+    <g font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">
+      <text x="72" y="332">X<tspan font-size="12" dy="-8">2</tspan></text>
+      <text x="112" y="458">X<tspan font-size="12" dy="-8">1</tspan></text>
+    </g>
+
+    <g font-size="13" font-weight="700" text-anchor="middle">
+      <circle cx="66" cy="392" r="11" fill="var(--pass)"/><text x="66" y="397" fill="#1d1d1b">1</text>
+      <circle cx="126" cy="382" r="11" fill="var(--pass)"/><text x="126" y="387" fill="#1d1d1b">2</text>
+      <circle cx="170" cy="480" r="11" fill="var(--run)"/><text x="170" y="485" fill="#1d1d1b">3</text>
+      <circle cx="160" cy="336" r="11" fill="var(--pass)"/><text x="160" y="341" fill="#1d1d1b">4</text>
+      <circle cx="318" cy="394" r="11" fill="var(--run)"/><text x="318" y="399" fill="#1d1d1b">5</text>
+      <circle cx="310" cy="210" r="11" fill="var(--shot)"/><text x="310" y="215" fill="#1d1d1b">6</text>
+    </g>
+  </svg></div>
+    <div class="txt">
+      <h2>2. Touch and Shoot</h2>
+      <div class="time">Time: ______ min</div>
+      <p><b>Setup.</b> Goal at one end. Three cones in a triangle out from the goal. X2 wide of the triangle, X1 behind X2.</p>
+      <ol><li>X2 passes to X1.</li><li>X1 one-touches it back to X2.</li><li>X1 runs around the outside of the near cone into the triangle.</li><li>X2 passes through the cones to X1.</li><li>X1 takes a set-up touch out through the far side of the triangle.</li><li>X1 shoots.</li></ol>
+      
+    </div>
+  </section><div class="legend">
+  <span><svg viewBox="0 0 40 16"><path d="M20,2 L28,14 L12,14 z" fill="var(--cone)"/></svg>Cone</span>
+  <span><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 5"/></svg>Pass</span>
+  <span><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--run)" stroke-width="2.5"/></svg>Run</span>
+  <span><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="7 4"/></svg>Run to receive</span>
+  <span><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 4"/></svg>Touch</span>
+  <span><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--shot)" stroke-width="3"/></svg>Shot</span>
+</div></div>
+<div class="page p2"><header><h1>PHS Varsity - Practice Plan</h1><div class="meta">Mon, Sep 28, 2026 &nbsp; Page 2 of 2</div></header><section class="drill wide">
+    <div class="head"><h2>3. Three Finishes</h2><div class="time">Time: ______ min</div></div>
+    <p class="setup"><b>Setup.</b> Goal at one end. X2's start cone on the left, a middle cone, a far cone on the right. X1 serves from behind. Three patterns back to back, each ending in a shot.</p>
+    <div class="parts"><div class="part"><svg viewBox="0 0 460 440" role="img" aria-label="Part 1">
+      <rect width="460" height="440" fill="var(--field)"/>
+      <rect x="12" y="12" width="436" height="416" fill="none" stroke="var(--field-line)" stroke-width="2"/>
+      <path d="M140,72 L140,28 L300,28 L300,72" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+      <line x1="12" y1="72" x2="448" y2="72" stroke="var(--field-line)" stroke-width="2"/>
+      <path d="M128,392 L78,338" fill="none" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M82,318 L150,300" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 5" stroke-linecap="round" marker-end="url(#a-run)"/><path d="M160,294 L200,82" fill="none" stroke="var(--shot)" stroke-width="3" marker-end="url(#a-shot)"/><text x="130" y="412" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">1</tspan></text><text x="62" y="330" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">2</tspan></text><circle cx="90" cy="375" r="11" fill="var(--pass)"/><text x="90" y="380" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">1</text><circle cx="120" cy="292" r="11" fill="var(--run)"/><text x="120" y="297" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">2</text><circle cx="195" cy="190" r="11" fill="var(--shot)"/><text x="195" y="195" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">3</text>
+      <use href="#cone" x="96" y="296"/>
+      <use href="#cone" x="200" y="340"/>
+      <use href="#cone" x="384" y="300"/>
+    </svg><h3>Part 1: pass, touch, shoot</h3><ol><li>X1 passes to X2.</li><li>X2 set-up touch.</li><li>X2 shoots.</li></ol></div><div class="part"><svg viewBox="0 0 460 440" role="img" aria-label="Part 2">
+      <rect width="460" height="440" fill="var(--field)"/>
+      <rect x="12" y="12" width="436" height="416" fill="none" stroke="var(--field-line)" stroke-width="2"/>
+      <path d="M140,72 L140,28 L300,28 L300,72" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+      <line x1="12" y1="72" x2="448" y2="72" stroke="var(--field-line)" stroke-width="2"/>
+      <path d="M150,310 L150,346" fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)"/><path d="M124,402 L140,368" fill="none" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M160,370 L144,404" fill="none" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M164,362 C194,400 240,394 240,346 C240,318 228,306 216,302" fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)"/><path d="M134,404 L196,312" fill="none" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M214,292 L236,262" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 5" stroke-linecap="round" marker-end="url(#a-run)"/><path d="M238,254 L232,82" fill="none" stroke="var(--shot)" stroke-width="3" marker-end="url(#a-shot)"/><text x="130" y="428" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">1</tspan></text><text x="150" y="302" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">2</tspan></text><circle cx="132" cy="328" r="11" fill="var(--run)"/><text x="132" y="333" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">1</text><circle cx="106" cy="386" r="11" fill="var(--pass)"/><text x="106" y="391" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">2</text><circle cx="222" cy="402" r="11" fill="var(--run)"/><text x="222" y="407" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">3</text><circle cx="188" cy="364" r="11" fill="var(--pass)"/><text x="188" y="369" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">4</text><circle cx="250" cy="286" r="11" fill="var(--run)"/><text x="250" y="291" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">5</text><circle cx="250" cy="170" r="11" fill="var(--shot)"/><text x="250" y="175" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">6</text>
+      <use href="#cone" x="96" y="296"/>
+      <use href="#cone" x="200" y="340"/>
+      <use href="#cone" x="384" y="300"/>
+    </svg><h3>Part 2: give and go, around the cone</h3><ol><li>X2 checks back to X1.</li><li>Give and go: X1 passes to X2, X2 passes back.</li><li>X2 runs around the middle cone, away from goal.</li><li>X1 passes to X2 on the goal side of the cone, inside foot.</li><li>X2 set-up touch.</li><li>X2 shoots.</li></ol></div><div class="part"><svg viewBox="0 0 460 440" role="img" aria-label="Part 3">
+      <rect width="460" height="440" fill="var(--field)"/>
+      <rect x="12" y="12" width="436" height="416" fill="none" stroke="var(--field-line)" stroke-width="2"/>
+      <path d="M140,72 L140,28 L300,28 L300,72" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+      <line x1="12" y1="72" x2="448" y2="72" stroke="var(--field-line)" stroke-width="2"/>
+      <path d="M262,266 C310,300 370,336 404,318 C428,300 414,258 372,246" fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)"/><path d="M148,402 C230,400 300,320 350,256" fill="none" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M348,240 L318,212" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 5" stroke-linecap="round" marker-end="url(#a-run)"/><path d="M312,206 L252,82" fill="none" stroke="var(--shot)" stroke-width="3" marker-end="url(#a-shot)"/><text x="130" y="412" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">1</tspan></text><text x="256" y="258" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">2</tspan></text><circle cx="330" cy="340" r="11" fill="var(--run)"/><text x="330" y="345" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">1</text><circle cx="240" cy="380" r="11" fill="var(--pass)"/><text x="240" y="385" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">2</text><circle cx="350" cy="210" r="11" fill="var(--run)"/><text x="350" y="215" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">3</text><circle cx="292" cy="150" r="11" fill="var(--shot)"/><text x="292" y="155" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">4</text>
+      <use href="#cone" x="96" y="296"/>
+      <use href="#cone" x="200" y="340"/>
+      <use href="#cone" x="384" y="300"/>
+    </svg><h3>Part 3: cross</h3><ol><li>X2 runs around the far cone.</li><li>X1 crosses the ball.</li><li>X2 set-up touch.</li><li>X2 shoots.</li></ol></div></div>
+  </section><section class="drill ">
+    <div class="dia"><svg viewBox="0 0 460 470" role="img" aria-label="Drill diagram">
+      <rect width="460" height="470" fill="var(--field)"/>
+      <rect x="12" y="12" width="436" height="446" fill="none" stroke="var(--field-line)" stroke-width="2"/>
+      <path d="M126,72 L126,28 L286,28 L286,72" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/>
+      <line x1="12" y1="72" x2="448" y2="72" stroke="var(--field-line)" stroke-width="2"/>
+      <path d="M84,418 L166,418" fill="none" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M166,432 L84,432" fill="none" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M228,414 A12,12 0 1,1 220,398" fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)"/><path d="M360,426 L220,426" fill="none" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M190,402 L182,332" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 5" stroke-linecap="round" marker-end="url(#a-run)"/><path d="M174,318 L120,254" fill="none" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M124,240 L188,240" fill="none" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 7" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M186,322 L196,254" fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)"/><path d="M200,228 L206,82" fill="none" stroke="var(--shot)" stroke-width="3" marker-end="url(#a-shot)"/><use href="#cone" x="138" y="208"/><use href="#cone" x="272" y="286"/><use href="#cone" x="124" y="330"/><text x="62" y="432" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">1</tspan></text><text x="190" y="440" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">4</tspan></text><text x="382" y="432" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">2</tspan></text><text x="96" y="248" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">3</tspan></text><circle cx="124" cy="400" r="11" fill="var(--pass)"/><text x="124" y="405" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">1</text><circle cx="124" cy="450" r="11" fill="var(--pass)"/><text x="124" y="455" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">2</text><circle cx="248" cy="396" r="11" fill="var(--run)"/><text x="248" y="401" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">3</text><circle cx="300" cy="410" r="11" fill="var(--pass)"/><text x="300" y="415" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">4</text><circle cx="166" cy="372" r="11" fill="var(--run)"/><text x="166" y="377" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">5</text><circle cx="132" cy="290" r="11" fill="var(--pass)"/><text x="132" y="295" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">6</text><circle cx="156" cy="222" r="11" fill="var(--pass)"/><text x="156" y="227" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">7</text><circle cx="212" cy="292" r="11" fill="var(--run)"/><text x="212" y="297" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">8</text><circle cx="222" cy="160" r="11" fill="var(--shot)"/><text x="222" y="165" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">9</text>
+    </svg></div>
+    <div class="txt">
+      <h2>4. Spin and Finish</h2>
+      <div class="time">Time: ______ min</div>
+      <p><b>Setup.</b> Goal at one end. Three cones in a triangle in front of goal. X3 beside the top-left cone. X1, X4 and X2 in a line at the back.</p>
+      <ol><li>X1 passes to X4.</li><li>X4 passes back to X1.</li><li>X4 spins.</li><li>X2 passes to X4's back foot.</li><li>X4 back-foot set-up touch.</li><li>X4 passes to X3.</li><li>X3 passes back to X4.</li><li>X4 moves onto the return.</li><li>X4 shoots.</li></ol>
+      <p class="cp"><b>Coaching point.</b> Step, check, plant, finish. As you step, check the keeper's position, so that as you plant you can finish with a placed shot.</p>
+    </div>
+  </section><div class="legend">
+  <span><svg viewBox="0 0 40 16"><path d="M20,2 L28,14 L12,14 z" fill="var(--cone)"/></svg>Cone</span>
+  <span><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--pass)" stroke-width="3" stroke-dasharray="3 5"/></svg>Pass</span>
+  <span><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--run)" stroke-width="2.5"/></svg>Run</span>
+  <span><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="7 4"/></svg>Run to receive</span>
+  <span><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 4"/></svg>Touch</span>
+  <span><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--shot)" stroke-width="3"/></svg>Shot</span>
+</div></div>
+</body></html>

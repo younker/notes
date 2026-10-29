@@ -1,0 +1,185 @@
+Delivered-To: jyounker@northmen.org
+Received: by 2002:a05:622a:4956:b0:51c:be78:2ada with SMTP id ep22csp4412370qtb;
+        Mon, 24 Aug 2026 07:18:39 -0700 (PDT)
+X-Received: by 2002:a05:6870:272:b0:459:2c03:638c with SMTP id 586e51a60fabf-463514b9a8cmr15546785fac.4.1787581119064;
+        Mon, 24 Aug 2026 07:18:39 -0700 (PDT)
+ARC-Seal: i=2; a=rsa-sha256; t=1787581119; cv=pass;
+        d=google.com; s=arc-20260327;
+        b=GD9IOfiRUw6oWMfdDUPklm4nfhXzEZUA9QKqajhxE8vVByusbr6Avf/F8cW58rnN/n
+         j7l7f4lz0yBlDDBJcC31v3Yf5FYiL7LxItt0BqN0+CKtf7+SRFfLZZlr3CAlxPqnmjZ8
+         tbGorabPDPczzEL0yWTt41MvrTarttVkbctjldA+8zZjJSgZ+/I681S4oao3pNWntiwA
+         wFAfda5vQFfBYlp/ATzLbJ4Qy5vMLnUOtapmVYkbD5ZjUwEI+1hHINrV0OKk8fFJe6oN
+         meVRNFg9efah9xr0r0wvlfK4l3wGo3tGVgBpzLPWiuruwtK+50v07r+yCBYun0aO8iDZ
+         uU7Q==
+ARC-Message-Signature: i=2; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20260327;
+        h=cc:to:subject:message-id:date:from:in-reply-to:references
+         :mime-version:dkim-signature;
+        bh=A1fbzgs9DnTfopyd9L5IyM6lqPBMIMHmRCnMF6C0Owo=;
+        fh=BKRqz/yrcLRwIhfvG+/7kGk5LC6hgqrKmRmYIbYVMxE=;
+        b=AwqLY3myVvWHKKEMFk22ruZCD1fc+C7HiKqElrPBP+f+YYH7d3revP72HoqoEU2651
+         M+YPML+HJf+0yQiwv95pl312odFINhDRdDJ4vndlwyPaWQ9vqQ8ZEwdCwtVrVmmBo7DB
+         9jlJOHHl1gSiOfRV/+V3vLSdw5THutrtcIJ9TF3fggqdYYEcwSo3c2WErWnUCCKTIXLQ
+         vLbdcWcxzUDHGP3Ay7jOcX7tK/VJ4i8+YrdAJ/5uq5DQuivp4TxGRXI//nKIk1VOUnM+
+         B3L+3weOEJH8qL6QoqdRixULfCbzIgy0msPYBz7bjsj8O6+3g+0Xu3R9/trYrYDkx2Ki
+         uY4Q==;
+        dara=google.com
+ARC-Authentication-Results: i=2; mx.google.com;
+       dkim=pass header.i=@northmen.org header.s=google header.b=Z6q3lZpN;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of schaub.re.y@northmen.org designates 209.85.220.41 as permitted sender) smtp.mailfrom=schaub.re.y@northmen.org;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=northmen.org;
+       dara=neutral header.i=@northmen.org
+Return-Path: <schaub.re.y@northmen.org>
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+        by mx.google.com with SMTPS id 586e51a60fabf-463835bcc4dsor3586435fac.11.2026.08.24.07.18.38
+        for <jyounker@northmen.org>
+        (Google Transport Security);
+        Mon, 24 Aug 2026 07:18:39 -0700 (PDT)
+Received-SPF: pass (google.com: domain of schaub.re.y@northmen.org designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@northmen.org header.s=google header.b=Z6q3lZpN;
+       arc=pass (i=1);
+       spf=pass (google.com: domain of schaub.re.y@northmen.org designates 209.85.220.41 as permitted sender) smtp.mailfrom=schaub.re.y@northmen.org;
+       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=northmen.org;
+       dara=neutral header.i=@northmen.org
+ARC-Seal: i=1; a=rsa-sha256; t=1787581118; cv=none;
+        d=google.com; s=arc-20260327;
+        b=Su8mgEONFaqp6JrLAEiFWqTMLFuliGqUONwhpfT9BkqNb6YSFf/JnqmPN5hBQenthj
+         oamUbMAuLNQKNLEy2m3mjNLF2fdHReZ+atszsnBJj+k48fnqUUrweNfnrP+ILzW4XlIT
+         Yenob5U23lCkBPavPf19At9oRS/bm6VCqQ9/JATB8pesPVyfKYb/Bgm0f/aUYn2OmqAv
+         9ENWvCCiNXM6WXb6Ci8eo+5Qmx99sxACkfsIrq3IOwRPIeMRMPNXuQxHjN2x5fs7Zh+K
+         FMix4BLfUxLqRIcrRRj+2mz6lGrL+vfl8ydU1zIbSh205p2HCRZ+C/QnPWL0LLYhIieY
+         rhDQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20260327;
+        h=cc:to:subject:message-id:date:from:in-reply-to:references
+         :mime-version:dkim-signature;
+        bh=A1fbzgs9DnTfopyd9L5IyM6lqPBMIMHmRCnMF6C0Owo=;
+        fh=BKRqz/yrcLRwIhfvG+/7kGk5LC6hgqrKmRmYIbYVMxE=;
+        b=OzzmzCI2ddfFuXHYOXycHFUicTkWWcejN+tmOfWivO0fghjOPG3K8l4SrTrvG14aE6
+         D1++c+7rBHKdXNXOvr3sUxdPxkN8LDoqU5JOyU1pPLIYQa59OGsh//gLBMeWz8aFi4s+
+         6Z/UbMyxZCnvmtGSU7rHjshirzvsWDR58sbL+Pojx5Rjw8tw41jkizIrUT+94P0P8HLf
+         ykJxQS1KT1GjvgMz7ErPgK6YFznZ3ei1wTj7YmgJ8aI15SDRl6CtS92Ndwlpgz3UaV0a
+         Ci3AHcnv95WV2Em6V7S3BS4d7e+MPED6SSlMWAPBoLFCxD7/E1cjnSUXVXYDw3/9YiJV
+         bDUw==;
+        darn=northmen.org
+ARC-Authentication-Results: i=1; mx.google.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=northmen.org; s=google; t=1787581118; x=1788185918; darn=northmen.org;
+        h=content-type:cc:to:subject:message-id:date:from:in-reply-to
+         :references:mime-version:from:to:cc:subject:date:message-id:reply-to
+         :content-type;
+        bh=A1fbzgs9DnTfopyd9L5IyM6lqPBMIMHmRCnMF6C0Owo=;
+        b=Z6q3lZpNzNS59ks2R9nxNvKASNyH0NNJKHdRMQwBv8UUm8e/A/mQxB2AaxU4sylVYu
+         A5XAZs9FMUpRRonjJNTgFEcN097p3qKZG0P3X+P0fE2lhBOHKkG0J8+8sbGS27PI5q2C
+         gEu/luVa37B7O6/dHDPDAsHxSEuLzK5JsBcivQ4Bli3sIq483Gig06LQQTa6IZAeFixo
+         rS+4kffGp9y0gQXUMY7jjvhtdbjcjGxcZKiIOER5mp9WbLpeTJ7eVuJYSGvq9nFOgx0V
+         62S3/8RmHl1zQAtf84xtKqjoiPGYiu+sH9yYBaOqUdh8uuSXcZKWK0Y2c3X0Kq2wAAYh
+         5SDA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20251104; t=1787581118; x=1788185918;
+        h=content-type:cc:to:subject:message-id:date:from:in-reply-to
+         :references:mime-version:x-gm-gg:x-gm-message-state:from:to:cc
+         :subject:date:message-id:reply-to:content-type;
+        bh=A1fbzgs9DnTfopyd9L5IyM6lqPBMIMHmRCnMF6C0Owo=;
+        b=HSUM4AOeftuZC8DqvEBCfwoY280VM6bAl12D5ioe9fQiWl8EnAblxHOgU3EtuTb6RB
+         EuGDZmKAQjOqgy4BvdkYSe07s+JvKgeLZO/8+5FAJELh3NU1c8XHeEjlbkDmYt/1kgnB
+         mEI4QekLbm6rtKEHiboyuRA95NIuvepMuzTQJ/VXLKgjx2IkSLk1HWM0iBEJRTm7vpfK
+         fNrP8jNwBnCrIghdpYa9ol8RmBidlvsCOKVUh3pAqRBE0MBiE9S6PUOeZVLuYK293wNc
+         k9b3r5hMNoWZikr+m/aLDwtNVKtcSG5bt4gVie00RCAIYyRBoCn4+h15v3C3vbNShGSC
+         WNNw==
+X-Gm-Message-State: AFuF++n+17sM46Ox1ovm3aKFRBeUOUJlUKc/5xG1Tu1oZzTPEqt2LbqN
+	I8x9ZAKeygZglzHbi76jbpIOmeXjbzSNaWjqTOUNaDX4xCNqgrDNOrtKKXomLCscg575mF1nl04
+	HpmXivctsv6xOE6sfXiC+l5s65CuuCtyw/h7Qo/vsZD2q4a6fVO9+Spp6NS2u8PbvTawJnBDAEO
+	FwlbNnWXCnPgubM4trSkM1RW8K3K0=
+X-Gm-Gg: AR+sD101Lvbj0Bs7MAeffvnUHSC2Nxnwsmkv7Pp+CS2mQM8Zq0lPS6ngkbkTQ25+ix5
+	vCUdJPaVZlfPeLG/PKp21WXyX/2LLxZpc6Ond5R8JbNhlVhgHRkSJVBlWnZw64p//LmAheyFiDV
+	jf5TLE88rW2q+5NdEU2dTDc70pckXA/kbD1iSqyeK/UrtJwHIg6I1MqUIuhixfAOcQdhwdsYrYV
+	A1EQ8ZzTCLrRoFLjmuv6/fQBRtKRG/kKQqGmXljIzU+/tG6hoaHlBomAqwsfqg7gKtcu5TJBapb
+	C1J9Nms6ePmjAxPIPboCtXpjZx8Jsy4x76SFmZhmsbs=
+X-Received: by 2002:a05:6870:142a:b0:43b:bb18:affd with SMTP id
+ 586e51a60fabf-4635102cba8mr25686719fac.8.1787581118489; Mon, 24 Aug 2026
+ 07:18:38 -0700 (PDT)
+MIME-Version: 1.0
+References: <CACURC58y1OrKcAW1ar-+hWbR+_-cW9P+Bf-SDW_j5o21nkBB1A@mail.gmail.com>
+In-Reply-To: <CACURC58y1OrKcAW1ar-+hWbR+_-cW9P+Bf-SDW_j5o21nkBB1A@mail.gmail.com>
+From: Rosanne Schaub <schaub.re.y@northmen.org>
+Date: Mon, 24 Aug 2026 10:18:27 -0400
+X-Gm-Features: AcwNN1UH9JblVKeDmuEOWkjw0gE557wPFz-8Rl5qee4YXzpppeqUrWE73qwm-NA
+Message-ID: <CAEvm4EqVG4rSFQAoCd-PT7i5FmK_kNXWgtFsjPEPm-bozcwHOg@mail.gmail.com>
+Subject: Re: Soccer questions
+To: Jenni Attie <jenattie@gmail.com>
+Cc: Jason Younker <jyounker@northmen.org>
+Content-Type: multipart/alternative; boundary="000000000000933dcd0659cba9b4"
+X-Approved-Sender: true
+
+--000000000000933dcd0659cba9b4
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello -
+1) That is fine for student/parent to have free entry to the game that they
+are working at.  To make things easier for the ticket taker, they would
+just need to arrive together.  Also, how many students would be this be for
+each game?
+2) Please send me the logos and or list of names that you want on the
+roster and I will insert them on version of the roster that I print off
+Thank you!
+
+On Mon, Aug 24, 2026 at 9:12=E2=80=AFAM Jenni Attie <jenattie@gmail.com> wr=
+ote:
+
+> Good morning Rosanne,
+>
+> I hope you had a great weekend!
+>
+> I am helping our soccer coach, Jason Younker with a couple of PHS soccer
+> tasks and had a couple questions for you or maybe Mr. Bakker.
+>
+> 1).  We are going to utilize PYSA youth soccer players to help with
+> sideline ball retrieval.  Can we provide free admission to the games they
+> cover?  For the child?  And for their parent?
+>
+> 2).  We are running a sponsorship fundraiser this season.  We would like
+> to add logos and/or names to the rosters handed out at home games.  I wou=
+ld
+> be happy to add them to the roster and send back to you for printing.
+> Please advise :). Currently, we only have 2 sponsorships to place on the
+> roster.  However, that could change as the season progresses.
+>
+> Thank you,
+> Jenni Attie
+> 231-838-4557
+>
+
+--000000000000933dcd0659cba9b4
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello -=C2=A0<div>1) That is fine for student/parent to ha=
+ve free entry to the game that they are working at.=C2=A0 To make things ea=
+sier for the ticket taker, they would just need to arrive=C2=A0together.=C2=
+=A0 Also, how many students would be this be for each game?</div><div>2) Pl=
+ease send me the logos and or list of names that you want on the roster and=
+ I will insert them on version of the roster that I print off</div><div>Tha=
+nk you!</div></div><br><div class=3D"gmail_quote gmail_quote_container"><di=
+v dir=3D"ltr" class=3D"gmail_attr">On Mon, Aug 24, 2026 at 9:12=E2=80=AFAM =
+Jenni Attie &lt;<a href=3D"mailto:jenattie@gmail.com">jenattie@gmail.com</a=
+>&gt; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0px=
+ 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex"><di=
+v dir=3D"ltr">Good morning Rosanne,<div><br></div><div>I hope you had=C2=A0=
+a great weekend!</div><div><br></div><div>I am helping our soccer coach, Ja=
+son Younker with a couple of PHS soccer tasks and had a couple questions fo=
+r you or maybe Mr. Bakker.</div><div><br></div><div>1).=C2=A0 We are going =
+to utilize PYSA youth soccer players to help with sideline ball retrieval.=
+=C2=A0 Can we provide free admission to the games they cover?=C2=A0 For the=
+ child?=C2=A0 And for their parent?</div><div><br></div><div>2).=C2=A0 We a=
+re running a sponsorship fundraiser this season.=C2=A0 We would like to add=
+ logos and/or names to the rosters handed out at home games.=C2=A0 I would =
+be happy to add them to the roster and send back to you for printing.=C2=A0=
+ Please advise :). Currently, we only have 2 sponsorships to place on the r=
+oster.=C2=A0 However, that could change as the season progresses.</div><div=
+><br></div><div>Thank you,</div><div>Jenni Attie</div><div>231-838-4557</di=
+v></div>
+</blockquote></div>
+
+--000000000000933dcd0659cba9b4--

@@ -87,7 +87,7 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Sources:** SG only
 - **Notes:** Not on May 19 sign-up or AD office list — added when parent group list arrived.
 
-### Corey, Noah — Grade 12
+### Corey, Noah — Grade 11
 - **Phone:** 231-420-7596
 - **School email:** 903117@northmen.org
 - **Personal email:** noah-corey@icloud.com
@@ -379,7 +379,14 @@ Consolidated roster across all sources gathered so far. Every player we know abo
 - **Sources:** F
 - **Notes:** Only contact channel is mom's email/phone.
 
-### Duch, Conner — Grade unknown
+### Belfy, Britton — Grade 9
+- **Phone:** (unknown)
+- **School email:** (unknown)
+- **Personal email:** (unknown)
+- **Sources:** D (tryout list)
+- **Notes:** Stub — on tryout evaluation list, cleared to try out. Contacts + team status to fill in.
+
+### Duch, Conner — Grade 11
 - **Phone:** (unknown)
 - **School email:** 906363@northmen.org
 - **Personal email:** (unknown)

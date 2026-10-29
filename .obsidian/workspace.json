@@ -11,10 +11,13 @@
             "id": "7678d3d4f93da5c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "2-Areas/Soccer/Drills/Drills.base",
+                "viewName": "Gallery"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Drills"
             }
           }
         ]
@@ -37,7 +40,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-Areas/Soccer/Drills/Drills.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,12 +185,27 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6ad989440ff3c42e",
+  "active": "a02e1f46322676c1",
   "lastOpenFiles": [
-    "1-Projects/Stephen Hockey 14U AA 2026-27/Golf Outing Donor List.md.tmp.60630.c577a2a4003a",
-    "1-Projects/SeniorAIQ/TODO.md.tmp.26882.d0ffe1fc4e7e",
+    "1-Projects/Stephen Hockey 14U AA 2026-27/Game Video.md",
+    "1-Projects/PHS Soccer Fall 26/2026-10-28 Team Banquet Outline.pdf",
+    "1-Projects/PHS Soccer Fall 26/2026-10-28 Team Banquet Outline.html",
+    "1-Projects/PHS Soccer Fall 26/Fall 27 Pre-Season Volunteer Form - Printable.pdf",
+    "1-Projects/PHS Soccer Fall 26/Fall 27 Pre-Season Volunteer Form - Printable.html",
+    "1-Projects/PHS Soccer Fall 26/Fall 27 Volunteer Sign-Up - Printable.pdf",
+    "1-Projects/PHS Soccer Fall 26/Fall 27 Volunteer Sign-Up - Printable.html",
+    "1-Projects/PHS Soccer Fall 26/Fall 27 Volunteer Sign-Up.md",
+    "1-Projects/PHS Soccer Fall 26/2026-10-19 Varsity Practice Plan.md",
+    "1-Projects/PHS Soccer Fall 26/2026-10-19 Varsity Practice Plan - Printable.pdf",
+    "1-Projects/PHS Soccer Fall 26/2026-10-19 Varsity Practice Plan - Printable.html",
+    "2-Areas/Soccer/Drills/Speed Ks.png",
+    "2-Areas/Soccer/Drills/Speed Ks.md",
+    "2-Areas/Soccer/Drills/Speed Ks.html",
+    "2-Areas/Soccer/Drills/3v3v3 Three Goals.png",
+    "2-Areas/Soccer/Drills/3v3v3 Three Goals.md",
+    "2-Areas/Soccer/Drills/3v3v3 Three Goals.html",
+    "2-Areas/Soccer/Drills/3v3v3 Three Goals - sketch.jpg",
     "1-Projects/SeniorAIQ/TODO/admin-action-triggers.md",
-    "1-Projects/SeniorAIQ/TODO.md.tmp.6736.ad6397eed825",
     "2-Areas/SeniorAIQ/AIQ-scoring-summary.md",
     "1-Projects/SeniorAIQ/TODO/DONE/wa-fetch-dshs.md",
     "1-Projects/SeniorAIQ/TODO/DONE/wa-api-backend-endpoints.md",
@@ -205,18 +226,6 @@
     "1-Projects/SeniorAIQ/ship/README.md",
     "1-Projects/SeniorAIQ/ship/INFRA.md",
     "1-Projects/SeniorAIQ/blog/yakima-county-assisted-living-facility-rankings-by-quality-score.md",
-    "1-Projects/SeniorAIQ/blog/understanding-senior-housing-options.md",
-    "1-Projects/SeniorAIQ/blog/facility-metrics-summary.rtf",
-    "1-Projects/SeniorAIQ/blog/facility-metrics-summary.md",
-    "1-Projects/SeniorAIQ/blog/blog-content-strategy.md",
-    "1-Projects/SeniorAIQ/blog/05-one-score-to-compare-them-all-ranking-king-county-facilities.md",
-    "1-Projects/SeniorAIQ/TODO/DONE",
-    "1-Projects/SeniorAIQ/washington-state-request-for-public-records.pdf",
-    "1-Projects/SeniorAIQ/ship-ui",
-    "1-Projects/SeniorAIQ/ship",
-    "1-Projects/SeniorAIQ/blog",
-    "1-Projects/SeniorAIQ/Threads",
-    "1-Projects/SeniorAIQ/TODO",
     "1-Projects/Stephen Hockey 14U AA 2026-27/golf-outing-flyer-2.jpg",
     "1-Projects/Stephen Hockey 14U AA 2026-27/golf-outing-flyer-1.jpg",
     "Untitled.canvas"

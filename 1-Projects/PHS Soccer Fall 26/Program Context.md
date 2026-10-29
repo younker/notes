@@ -61,7 +61,7 @@ See [[Boys Soccer Fall 26]] for the game schedule.
 
 - Families value communication; that was a weak spot for [[Noah Honaker]].
 - Parent Square is the district platform but is awkward. [[Jenni Attie]] (on school board) notes the district pushed it for audit/above-board reasons. Sprocket is easier but wait for the new AD before deciding.
-- New AD: [[Mike Baker]] - from Flint area, was an AD and principal. Likely useful on waivers and policy.
+- New AD: [[Mike Bakker]] - from Flint area, was an AD and principal. Likely useful on waivers and policy.
 - "Do whatever Joel tells you to do" ([[Jenni Attie]]'s guidance).
 
 ## Players to Win Back (per [[Jenni Attie]])
@@ -104,7 +104,7 @@ See [[Coaching Certifications]] for current status.
 - Daughter Emily (volleyball) will need to sit a season after enrollment.
 - Path: enroll first, then file waiver petition during July/early August.
 - Executive council meets monthly, twice in August (~10th and ~24th).
-- New AD [[Mike Baker]] has more waiver experience - ask him first.
+- New AD [[Mike Bakker]] has more waiver experience - ask him first.
 
 ## Coach Selection / Expectations
 

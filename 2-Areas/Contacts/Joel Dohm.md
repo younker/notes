@@ -15,7 +15,7 @@ tags: [soccer/phs/admin]
 
 # Joel Dohm
 
-**Role:** Athletic Director at Petoskey HS - hired me as varsity head coach. Being succeeded by [[Mike Baker]].
+**Role:** Athletic Director at Petoskey HS - hired me as varsity head coach. Being succeeded by [[Mike Bakker]].
 
 ## Contact
 - **Phone:** 231-348-2104

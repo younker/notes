@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>PHS Boys Soccer - Announcement Boxes</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { font-family: -apple-system, Helvetica, Arial, sans-serif; color: #111; }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 12px;
+    padding: 16px;
+    width: 100vw;
+    height: 100vh;
+  }
+  .box {
+    border: 3px solid #111;
+    border-radius: 10px;
+    padding: 18px 22px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  .box h2 { font-size: 24px; font-weight: 800; margin: 0 0 2px; }
+  .box .who { font-size: 14px; color: #555; margin: 0 0 12px; }
+  .box ul { list-style: none; margin: 0; padding: 0; }
+  .box li { font-size: 20px; line-height: 1.55; }
+  @media print {
+    @page { size: landscape; margin: 0; }
+    .grid { width: 100%; height: 100vh; padding: 14px; }
+  }
+</style>
+</head>
+<body>
+<div class="grid">
+
+  <div class="box">
+    <h2>Ashton Attie</h2>
+    <p class="who">Seniors</p>
+    <ul>
+      <li>Ashton Attie</li>
+      <li>Sander Cole</li>
+      <li>Mason McLintock</li>
+      <li>Clive Webster</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h2>Chris Keiswetter</h2>
+    <p class="who">Juniors</p>
+    <ul>
+      <li>Lucas Corey</li>
+      <li>Noah Corey</li>
+      <li>Miles Cotant-Harrington</li>
+      <li>Conner Duch</li>
+      <li>Weston Giffin</li>
+      <li>Tyce Melvin</li>
+      <li>Colin O'Donnell</li>
+      <li>Jace Stradling</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h2>Griffin Dunn</h2>
+    <p class="who">Sophomores</p>
+    <ul>
+      <li>Griffin Dunn</li>
+      <li>Myles Kaszubowski</li>
+      <li>Lucas Lamberson</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h2>Carter Strong</h2>
+    <p class="who">Freshmen</p>
+    <ul>
+      <li>Carter Strong</li>
+      <li>Graham Wong</li>
+      <li>Roland Werth</li>
+    </ul>
+  </div>
+
+</div>
+</body>
+</html>

@@ -21,7 +21,7 @@ Three-Site WordPress Build · `internationalseniorliving.com` · `panamaseniorli
 
 > **CONFIDENTIAL — FOR DEVELOPER USE ONLY**
 
-See [[Senior Living Portfolio MOC]] for the project hub. Related: [[SeniorAIQ]], [[SHIP MOC]].
+See [[Senior Living Portfolio MOC]] for the project hub. Related: [[SeniorHousingLedger]], [[SHIP MOC]].
 
 ## 1. Project Overview
 

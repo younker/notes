@@ -40,7 +40,7 @@ Map of Content for everything soccer-related across coaching, organizations, tra
 
 ### PHS Admin
 - [[Joel Dohm]] - outgoing AD
-- [[Mike Baker]] - incoming AD
+- [[Mike Bakker]] - incoming AD
 - [[Eric Liebler]] - outgoing program assistant
 - [[Trevor Garbo]] - S&C coach
 
@@ -68,6 +68,8 @@ Map of Content for everything soccer-related across coaching, organizations, tra
 
 ## Resources
 
+- [[Drills]] - drill library for practice plans
+- [[Soccer Field Template.pdf]] - printable blank fields for sketching drills (page 1: 4 full fields, page 2: 4 half fields)
 - [[Jason-Younker-Coaching-Resume]] - full coaching resume
 
 ## Tag Conventions

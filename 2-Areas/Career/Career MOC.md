@@ -16,7 +16,7 @@ Active career area: resumes, job search threads, and historical career notes.
 
 ## Coaching course materials
 
-- [[Coach Self-Reflection]] (in 1-Projects/USA Soccer D Course/) - Self-reflection / introduction answers for USA Soccer D License course
+- [[Coach Self-Reflection]] (in 4-Archive/USA Soccer D Course/) - Self-reflection / introduction answers for USA Soccer D License course
 
 ## Historical correspondence
 

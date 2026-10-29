@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Battle of the Bay: Petoskey vs. Harbor Springs - Friday, Sept 18, 6:00 PM</title>
+<meta name="description" content="Petoskey Northmen boys soccer hosts Harbor Springs at Northmen Stadium on Friday, September 18 at 6:00 PM. $5 at the gate, concessions open, free t-shirt toss.">
+<link rel="canonical" href="./">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Battle of the Bay: Petoskey vs. Harbor Springs">
+<meta property="og:description" content="Friday, Sept 18 at 6:00 PM - Northmen Stadium, Petoskey High School. $5 at the gate.">
+<meta property="og:image" content="poster-1200.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="poster-1200.jpg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:wght@500;700&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --navy: #041e42;
+    --navy-soft: #1c3a63;
+    --paper: #fff;
+    --paper-warm: #f3f1ec;
+    --rule: rgba(4,30,66,.16);
+    --display: "Anton", Impact, sans-serif;
+    --text: "Barlow Condensed", "Futura", system-ui, sans-serif;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: var(--text);
+    color: var(--navy);
+    background: var(--paper-warm);
+    line-height: 1.5;
+  }
+  .rail {
+    background: var(--navy); color: #fff; text-align: center;
+    padding: 1rem 1rem .85rem;
+    font-weight: 700; font-size: clamp(.8rem, 2.6vw, 1.05rem);
+    letter-spacing: .3em; text-transform: uppercase;
+  }
+  .wrap { max-width: 60rem; margin: 0 auto; padding: 2rem 1rem 3rem; }
+
+  /* poster */
+  .poster { background: var(--paper); box-shadow: 0 .5rem 2rem rgba(4,30,66,.16); }
+  .poster a { display: block; }
+  .poster img { display: block; width: 100%; height: auto; }
+  .zoom { margin: .5rem 0 0; font-size: .75rem; letter-spacing: .14em; text-transform: uppercase; color: var(--navy-soft); text-align: center; }
+
+  /* key facts */
+  .facts {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(7.5rem, 1fr));
+    gap: .75rem; margin: 1.5rem 0;
+  }
+  .fact {
+    background: var(--paper); border: 1px solid var(--rule); border-radius: .25rem;
+    padding: .85rem .5rem 1rem; text-align: center;
+  }
+  .fact b { display: block; font-family: var(--display); font-size: 1.5rem; line-height: 1.1; }
+  .fact span {
+    display: block; margin-top: .25rem; font-weight: 700; font-size: .7rem;
+    letter-spacing: .16em; text-transform: uppercase; color: var(--navy-soft);
+  }
+
+  h1 {
+    font-family: var(--display); font-weight: 400; text-transform: uppercase;
+    font-size: clamp(2rem, 8vw, 3.75rem); line-height: .92; margin: 1.75rem 0 .35rem;
+  }
+  .when {
+    font-weight: 700; text-transform: uppercase; letter-spacing: .08em;
+    font-size: clamp(1rem, 3.4vw, 1.3rem);
+  }
+  .where { color: var(--navy-soft); text-transform: uppercase; letter-spacing: .16em; font-size: .85rem; }
+
+  h2 {
+    font-family: var(--display); font-weight: 400; text-transform: uppercase;
+    font-size: 1.5rem; margin: 2.25rem 0 .75rem;
+  }
+  .rosters { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1.5rem; }
+  .roster h3 {
+    font-family: var(--display); font-weight: 400; font-size: 1.25rem; text-transform: uppercase;
+    padding-bottom: .4rem; border-bottom: 2px solid var(--navy);
+  }
+  .roster h3 small {
+    display: block; font-family: var(--text); font-weight: 700; font-size: .7rem;
+    letter-spacing: .2em; color: var(--navy-soft); margin-top: .15rem;
+  }
+  .roster ul { list-style: none; }
+  .roster li {
+    font-size: .95rem; text-transform: uppercase; letter-spacing: .02em;
+    padding: .3rem 0; border-bottom: 1px solid var(--rule);
+  }
+  .roster.away li, .roster.away h3 { color: var(--navy-soft); }
+
+  .games { list-style: none; }
+  .games li {
+    display: flex; flex-wrap: wrap; gap: .6rem; align-items: baseline;
+    padding: .45rem 0; border-bottom: 1px solid var(--rule); text-transform: uppercase;
+  }
+  .games b { font-family: var(--display); font-weight: 400; font-size: 1.15rem; min-width: 5rem; }
+  .games em { font-style: normal; color: var(--navy-soft); }
+
+  .download { margin-top: 2rem; font-size: .9rem; color: var(--navy-soft); }
+  .download a { color: var(--navy); font-weight: 700; }
+
+  .foot {
+    background: var(--navy); color: #fff; text-align: center;
+    font-family: var(--display); text-transform: uppercase;
+    font-size: clamp(1.25rem, 5vw, 2rem); padding: 1.25rem 1rem 1.5rem;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root { --paper: #0b1a30; --paper-warm: #071322; --navy: #e8edf5; --navy-soft: #9fb4d0; --rule: rgba(232,237,245,.18); }
+    body { background: var(--paper-warm); }
+    .rail, .foot { background: #041e42; }
+    .roster h3 { border-bottom-color: var(--navy-soft); }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <div class="poster">
+    <a href="poster-1600.jpg" aria-label="Open the full-size poster">
+    <picture>
+      <source type="image/webp" srcset="poster-1200.webp 1200w, poster-1600.webp 1600w" sizes="(max-width: 60rem) 100vw, 60rem">
+      <img src="poster-1200.jpg" srcset="poster-1200.jpg 1200w, poster-1600.jpg 1600w" sizes="(max-width: 60rem) 100vw, 60rem"
+           width="1200" height="1553" alt="Battle of the Bay: Petoskey vs. Harbor Springs, Friday September 18 at 6:00 PM, Northmen Stadium, Petoskey High School. $5 at the gate, concessions open, free t-shirt toss.">
+    </picture>
+    </a>
+  </div>
+  <p class="zoom">Tap the poster to enlarge</p>
+
+  <h1>Battle of the Bay</h1>
+  <p class="when">Friday, Sept 18 - 6:00 PM - Petoskey vs. Harbor Springs</p>
+  <p class="where">Northmen Stadium - Petoskey High School</p>
+
+  <div class="facts">
+    <div class="fact"><b>$5</b><span>At the gate</span></div>
+    <div class="fact"><b>Open</b><span>Concessions</span></div>
+    <div class="fact"><b>Free</b><span>T-shirt toss</span></div>
+  </div>
+
+  <h2>Rosters</h2>
+  <div class="rosters">
+    <div class="roster home">
+      <h3>Petoskey <small>Northmen</small></h3>
+      <ul>
+        <li>Aiden Giffin</li><li>Ashton Attie</li><li>Carter Strong</li><li>Clive Webster</li>
+        <li>Colin O'Donnell</li><li>Conner Duch</li><li>Connor Kasiborski</li><li>Dominic Thiel</li>
+        <li>Gavin Jeffers</li><li>Graham Wong</li><li>Griffin Dunn</li><li>Jace Stradling</li>
+        <li>Joshua Alshab</li><li>Lucas Lamberson</li><li>Mason McLintock</li><li>Miles Cotant-Harrington</li>
+        <li>Myles Kaszubowski</li><li>Noah Corey</li><li>Roland Werth</li><li>Sander Cole</li>
+        <li>Tyce Melvin</li><li>Weston Giffin</li>
+      </ul>
+    </div>
+    <div class="roster away">
+      <h3>Harbor Springs <small>Rams</small></h3>
+      <ul>
+        <li>Aaron Baughman</li><li>Alex Marquardt</li><li>Brodie Orfali</li><li>Carter Peacock</li>
+        <li>Cliff Juneau</li><li>Colin Clarke</li><li>Colin Hull</li><li>Colin Lustgarten</li>
+        <li>Emerson Jacques</li><li>Ernie Cameron</li><li>Gabe Burch</li><li>Gavin Venier</li>
+        <li>Giovanni Niespoli</li><li>Grayson Broughman</li><li>Henry Albert</li><li>Henry Larson</li>
+        <li>Landon Baas</li><li>Mikwamii Keller</li><li>Nash App</li><li>Sam Perry</li>
+        <li>Teddy Deegan</li><li>Turner Schultz</li>
+      </ul>
+    </div>
+  </div>
+
+  <h2>Last Two Varsity Home Games</h2>
+  <ul class="games">
+    <li><b>Sept 22</b><em>6:30 PM</em>Gaylord</li>
+    <li><b>Oct 3</b><em>12:30 PM</em>Midland</li>
+  </ul>
+
+  <p class="download">Print version: <a href="../../2026-09-18%20vs%20Harbor%20Springs%20-%20Game%20Poster%20-%20Rosters%20Mock.pdf">letter-size PDF</a></p>
+</div>
+
+<div class="foot">Support your local athletes!</div>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Race to the Ball</title>
+<style>
+  :root {
+    --bg: #f4f4f0; --ink: #1d1d1b; --muted: #5d5d58; --card: #ffffff;
+    --field: #3f8a4a; --field-line: rgba(255,255,255,0.55);
+    --cone: #f28c28; --player: #ffffff; --pass: #ffe14d; --run: #ffffff; --shot: #ff5a5a;
+  }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.5 -apple-system, system-ui, sans-serif; }
+  main { max-width: 1200px; margin: 0 auto; padding: 24px 16px; }
+  h1 { margin: 0 0 8px; font-size: 1.5rem; }
+  h2 { font-size: 1rem; margin: 0 0 8px; }
+  .intro { margin: 0 0 20px; max-width: 70ch; }
+  main.single { display: grid; grid-template-columns: minmax(0, 440px) 1fr; gap: 32px; align-items: start; }
+  @media (max-width: 760px) { main.single { grid-template-columns: 1fr; } }
+  .parts { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+  .part { background: var(--card); border-radius: 10px; padding: 14px; }
+  svg { width: 100%; height: auto; border-radius: 8px; display: block; margin-bottom: 12px; }
+  ol { padding-left: 1.2em; margin: 0; }
+  li { margin-bottom: 6px; }
+  .legend { display: flex; flex-wrap: wrap; gap: 8px 24px; font-size: 0.9rem; color: var(--muted); margin-top: 20px; }
+  .legend svg { width: 40px; height: 16px; display: inline-block; vertical-align: middle; margin: 0 8px 0 0; border-radius: 0; }
+</style>
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute">
+  <defs>
+    <marker id="a-pass" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--pass)"/></marker>
+    <marker id="a-run" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--run)"/></marker>
+    <marker id="a-shot" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="var(--shot)"/></marker>
+    <g id="cone"><path d="M-12,10 L0,-13 L12,10 z" fill="var(--cone)" stroke="#8a4a0e" stroke-width="1.5"/></g>
+  </defs>
+</svg>
+<main class="single">
+  <div>
+    <h1>Race to the Ball</h1>
+    <svg viewBox="0 0 460 470" role="img" aria-label="Drill diagram">
+      <rect width="460" height="470" fill="var(--field)"/>
+      <rect x="12" y="12" width="436" height="446" fill="none" stroke="var(--field-line)" stroke-width="2"/>
+      <use href="#cone" x="60" y="140"/><use href="#cone" x="135" y="140"/><use href="#cone" x="325" y="140"/><use href="#cone" x="400" y="140"/><use href="#cone" x="90" y="250"/><use href="#cone" x="370" y="250"/><use href="#cone" x="90" y="400"/><use href="#cone" x="370" y="400"/><path d="M78,388 L78,268" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round" marker-end="url(#a-run)"/><path d="M102,266 L102,386" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round" marker-end="url(#a-run)"/><path d="M382,388 L382,268" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round" marker-end="url(#a-run)"/><path d="M358,266 L358,386" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round" marker-end="url(#a-run)"/><path d="M230,105 L230,285" fill="none" stroke="var(--pass)" stroke-width="3" stroke-linecap="round" marker-end="url(#a-pass)"/><path d="M108,392 L214,304" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round" marker-end="url(#a-run)"/><path d="M352,392 L246,304" fill="none" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 6" stroke-linecap="round" marker-end="url(#a-run)"/><path d="M0,0 q5,-6 10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0" transform="translate(220,286) rotate(-129.6)" fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)"/><path d="M0,0 q5,-6 10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0 t10,0" transform="translate(240,286) rotate(-50.4)" fill="none" stroke="var(--run)" stroke-width="2.5" marker-end="url(#a-run)"/><text x="90" y="446" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">1</tspan></text><text x="370" y="446" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">2</tspan></text><text x="230" y="90" font-size="20" font-weight="700" fill="var(--player)" text-anchor="middle">X<tspan font-size="12" dy="-8">3</tspan></text><circle cx="56" cy="328" r="11" fill="var(--run)"/><text x="56" y="333" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">1</text><circle cx="124" cy="328" r="11" fill="var(--run)"/><text x="124" y="333" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">2</text><circle cx="404" cy="328" r="11" fill="var(--run)"/><text x="404" y="333" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">1</text><circle cx="336" cy="328" r="11" fill="var(--run)"/><text x="336" y="333" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">2</text><circle cx="248" cy="200" r="11" fill="var(--pass)"/><text x="248" y="205" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">3</text><circle cx="172" cy="366" r="11" fill="var(--run)"/><text x="172" y="371" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">4</text><circle cx="288" cy="366" r="11" fill="var(--run)"/><text x="288" y="371" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">4</text><circle cx="168" cy="222" r="11" fill="var(--run)"/><text x="168" y="227" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">5</text><circle cx="292" cy="222" r="11" fill="var(--run)"/><text x="292" y="227" fill="#1d1d1b" font-size="13" font-weight="700" text-anchor="middle">5</text>
+    </svg>
+  </div>
+  <div>
+    <h2>Setup</h2>
+    <p>Two gates of two cones each at the top, one left and one right. X1 and X2 each start at a cone at the bottom, with a second cone straight ahead of them. X3 stands at the top between the gates with the balls.</p>
+    <h2>Sequence</h2>
+    <ol>
+      <li>X1 and X2 run to their first cone.</li>
+      <li>X1 and X2 run back to their start cone.</li>
+      <li>X3 passes into the middle.</li>
+      <li>X1 and X2 race to the ball.</li>
+      <li>The player who wins the ball dribbles through either gate.</li>
+    </ol>
+    <div class="legend">
+      <div><svg viewBox="0 0 40 16"><path d="M20,2 L28,14 L12,14 z" fill="var(--cone)"/></svg>Cone</div>
+      <div><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--pass)" stroke-width="3"/></svg>Pass</div>
+      <div><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><line x1="2" y1="8" x2="38" y2="8" stroke="var(--run)" stroke-width="2.5" stroke-dasharray="2 5"/></svg>Movement</div>
+      <div><svg viewBox="0 0 40 16"><rect width="40" height="16" fill="var(--field)"/><path d="M2,8 q4,-5 8,0 t8,0 t8,0 t8,0" fill="none" stroke="var(--run)" stroke-width="2.5"/></svg>Dribble</div>
+    </div>
+  </div>
+</main>
+</body>
+</html>

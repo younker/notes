@@ -29,7 +29,7 @@ Long-term vision: passive income via affiliate partnerships and directory listin
 
 ## Related projects
 
-- [[SeniorAIQ]] — sibling project with Justin (SHIP / SeniorAIQ data platform, scored senior housing facilities)
+- [[SeniorHousingLedger]] — sibling project with Justin (SHIP / SeniorHousingLedger data platform, scored senior housing facilities)
 - [[SHIP MOC]] — SHIP investment platform area
 - [[2025-10-08 Expat Senior Living Websites]] — earlier email thread on the expat senior living website concept
 - [[2026-01-29 Website]] — earlier website-related thread with Justin

@@ -25,6 +25,10 @@ tags:
 ## Addresses
 - **Home:** 720 Jennings Ave, Petoskey, MI, 49770, United States
 
+## Activities
+
+- [[Game Video]] -- TC North Stars 14U AA rink recordings (files in helios-data)
+
 ## Email Threads
 
 *1 threads*

@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.inFolder("2-Areas/Soccer/Drills")
+    - 'type == "drill"'
+views:
+  - type: cards
+    name: Gallery
+    image: note.thumbnail
+    imageFit: contain
+    order:
+      - file.name
+      - players
+      - equipment
+      - file.tags
